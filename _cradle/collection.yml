@@ -2,6 +2,7 @@ collections:
   cradle:
     output: true
     order:
+      - Youth Upcycling Movement/NYUM Award Ceremony.md
       - Youth Upcycling Movement/.keep
       - Swift Explorers Singapore/About SES.md
       - Swift Explorers Singapore/For Primary School.md
