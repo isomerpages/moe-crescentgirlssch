@@ -1,14 +1,5 @@
 logo: /images/sch logo.png
 links:
-  - title: Our Holistic Curriculum
-    url: /our-holistic-curriculum/instructional-programmes/
-    sublinks:
-      - title: Instructional Programmes
-        url: /our-holistic-curriculum/instructional-programmes/
-      - title: Character & Citizneship Edu
-        url: /our-holistic-curriculum/cce/
-      - title: Signature Programmes
-        url: /our-holistic-curriculum/signature-programmes/
   - title: About CGS
     url: /about-cgs/principals-foreword/
     sublinks:
@@ -41,6 +32,15 @@ links:
         url: /our-people/staff/
       - title: Departments
         url: /our-people/departments/
+  - title: Our Holistic Curriculum
+    url: /our-holistic-curriculum/instructional-programmes/
+    sublinks:
+      - title: Instructional Programmes
+        url: /our-holistic-curriculum/instructional-programmes/
+      - title: Character & Citizneship Edu
+        url: /our-holistic-curriculum/cce/
+      - title: Signature Programmes
+        url: /our-holistic-curriculum/signature-programmes/
   - title: Our Achievements
     url: /our-achievements/international-awards/
     sublinks:
