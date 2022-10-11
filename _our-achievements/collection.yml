@@ -2,5 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
+      - CCA Awards/2022.md
       - CCA Awards/.keep
       - Virtual Gallery.md
