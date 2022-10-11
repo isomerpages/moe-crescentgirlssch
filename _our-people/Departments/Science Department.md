@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **Science Department**
 
-![](/images/dept9.png)
+<img src="/images/dept9.png" style="width:85%">
