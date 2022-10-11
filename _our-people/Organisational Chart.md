@@ -9,7 +9,7 @@ description: ""
 | | | |
 |:---:|:---:|:---:|
 |  | <img src="/images/organisation1.png" style="width:50%"><br>Mrs Helen Chong<br>Principal |  |
-| <img src="/images/organisation2.png" style="width:75%"><br>Ms Usha Jeyarajah<br>Vice-Principal | <img src="/images/organisation3.png" style="width:50%"><br>Mrs Chiang Po Lin<br>Vice-Principal | <img src="/images/organisation4.png" style="width:75%"><br>Ms Chuang Siew Chin<br>Vice-Principal |
+| <img src="/images/organisation2.png" style="width:75%"><br>Ms Usha Jeyarajah<br>Vice-Principal | <img src="/images/organisation3.png" style="width:40%"><br>Mrs Chiang Po Lin<br>Vice-Principal | <img src="/images/organisation4.png" style="width:75%"><br>Ms Chuang Siew Chin<br>Vice-Principal |
 | 
 
 |  |  |  |  |
