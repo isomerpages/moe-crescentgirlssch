@@ -2,5 +2,6 @@ collections:
   about-cgs:
     output: true
     order:
+      - Discipline Philosophy and School Rules.md
       - Financial Assistance Schemes (FAS).md
       - FAQs.md
