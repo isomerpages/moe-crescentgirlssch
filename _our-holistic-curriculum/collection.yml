@@ -2,4 +2,5 @@ collections:
   our-holistic-curriculum:
     output: true
     order:
+      - Character and Citizenship Edu/.keep
       - Signature Programmes/.keep
