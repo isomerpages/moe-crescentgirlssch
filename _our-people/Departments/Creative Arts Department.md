@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **Creative Arts Department**
 
-![](/images/dept1.png)
+<img src="/images/dept1.png" style="width:85%">
