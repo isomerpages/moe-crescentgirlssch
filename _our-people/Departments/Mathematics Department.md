@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **Mathematics Department**
 
-![](/images/dept6.png)
+<img src="/images/dept6.png" style="width:85%">
