@@ -2,6 +2,7 @@ collections:
   our-achievements:
     output: true
     order:
+      - CCA Awards/2019.md
       - CCA Awards/2020.md
       - CCA Awards/2021.md
       - CCA Awards/2022.md
