@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Organisational Chart.md
       - Staff.md
       - Departments/Creative Arts Department.md
       - Departments/EAS Department.md
