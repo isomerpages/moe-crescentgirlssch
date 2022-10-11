@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Angklung and Kulintang.md
       - Performing Arts/Chinese and Modern Dance.md
       - Performing Arts/Choir.md
       - Performing Arts/Symphonic Band.md
