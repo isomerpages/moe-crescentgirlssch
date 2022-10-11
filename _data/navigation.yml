@@ -1,6 +1,11 @@
 logo: /images/sch logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Holistic Curriculum
+    url: /our-holistic-curriculum/instructional-programmes/
+    sublinks:
+      - title: Instructional Programmes
+        url: /our-holistic-curriculum/instructional-programmes/
+      - title: Character & Citizneship Edu
+        url: /our-holistic-curriculum/cce/
+      - title: Signature Programmes
+        url: /our-holistic-curriculum/signature-programmes/
