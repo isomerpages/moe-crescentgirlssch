@@ -49,7 +49,7 @@ At Crescent, the English Department conducts workshops for talented students to 
 #### **English Literature Curriculum**
 The aims of the English Literature Curriculum at Crescent are:
 *   To widen students’ breadth of literary experience by exposing them to a wide range of genres of writing;
-*   To enable students to understand and analyse the effectiveness of the various literary works; 
+*   To enable students to understand and analyse the effectiveness of the various literary works;&nbsp;
 *   To provide opportunities for students to write creatively and enhance their ability to understand the processes behind the creation of literary works;
 *   To provide students with a platform to explore themes which touch on a wide range of human concerns that encourage an understanding of moral and ethical issues and foster an awareness of the world they live in;
 *   To hone students’ skills of literary appreciation and for the development of perceptive and logical thinking.
@@ -86,3 +86,5 @@ Secondary 4 Plain English Speaking Competition (PESA)
 **National Schools Literature Festival**
 *   Sec 3 Set Text Debate for Lord of the Flies - Winner  
 *   Sec 2 Book Trailer - Silver
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsY_Vns-qHKzXhHI0qk0A8sieMAPkjcWBQY1PJphXGO0LY6IR1SPXMyjVRrsX6PnbZ4qsmUqcucnCP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
