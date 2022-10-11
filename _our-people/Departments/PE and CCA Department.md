@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **PE and CCA Department**
 
-![](/images/dept8.png)
+<img src="/images/dept8.png" style="width:85%">
