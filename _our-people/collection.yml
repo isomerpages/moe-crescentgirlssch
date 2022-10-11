@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Staff.md
       - Departments/Creative Arts Department.md
       - Departments/EAS Department.md
       - Departments/English Language and Literature Department.md
