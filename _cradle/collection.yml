@@ -1,4 +1,5 @@
 collections:
   cradle:
     output: true
-    order: []
+    order:
+      - National Digital Explorer/.keep
