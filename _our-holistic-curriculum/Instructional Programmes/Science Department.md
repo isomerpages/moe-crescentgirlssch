@@ -32,5 +32,9 @@ Sec 1 Integrated Curriculum is the first part of the Integrated Curriculum@Cresc
 
 Secondary One students experience the Integrated Curriculum Programme through the lenses of Geography and Science, where the two subjects explore the common theme of water scarcity. Through Geography, students pick up knowledge about global water crisis, water management strategies, and the skills of geographical investigation focusing on the human impact on water qualities and water quality testing. They extend their learning by exploring the various separation techniques in Science to devise methods in obtaining clean water in both laboratory and home-based settings, by understanding the factors that would influence the choices of separation techniques. The coursework and hands-on activities provide the students with enriching inter-disciplinary learning experiences about sustainability of our precious resources.
 
-
-
+<img src="/images/sci1.jpg" style="width:65%">
+<figure>
+<img src="/images/sci2.jpg" style="width:75%">
+<figcaption>  Obtaining clean water using various separation techniques
+ </figcaption>
+</figure>
