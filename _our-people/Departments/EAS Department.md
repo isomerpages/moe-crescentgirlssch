@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **EAS Department**
 
-![](/images/dept2.png)
+<img src="/images/dept2.png" style="width:85%">
