@@ -11,7 +11,27 @@ links:
         url: /our-holistic-curriculum/signature-programmes/
   - title: About CGS
     url: /about-cgs/principals-foreword/
-    sublinks: []
+    sublinks:
+      - title: Principal's Foreword
+        url: /about-cgs/principals-foreword/
+      - title: Mission, Vision & Values
+        url: /about-cgs/mission-vision-values/
+      - title: School Song & Crest
+        url: /about-cgs/school-song-and-crest/
+      - title: History & Corporate Video
+        url: /about-cgs/history-and-corporate-video/
+      - title: Admission
+        url: /about-cgs/admission/
+      - title: Calender of Events
+        url: /about-cgs/calender/
+      - title: Contact Us
+        url: /about-cgs/contact-us/
+      - title: Discipl Philosophy & Sch Rules
+        url: /about-cgs/discipline-philosophy-and-school-rules/
+      - title: Financial Assistance Schemes
+        url: /about-cgs/fas/
+      - title: FAQs
+        url: /about-cgs/faq/
   - title: Our People
     url: /our-people/organisational-chart/
     sublinks: []
