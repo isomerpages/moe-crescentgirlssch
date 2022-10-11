@@ -2,4 +2,5 @@ collections:
   about-cgs:
     output: true
     order:
+      - Financial Assistance Schemes (FAS).md
       - FAQs.md
