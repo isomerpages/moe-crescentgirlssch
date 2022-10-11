@@ -2,6 +2,7 @@ collections:
   cradle:
     output: true
     order:
+      - National Digital Explorer/About the Digital Explorer Learn 2022.md
       - National Digital Explorer/About the Digital Explorer Learn & Apply
         2022.md
       - National Digital Explorer/.keep
