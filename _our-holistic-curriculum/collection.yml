@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Instructional Programmes/.keep
+      - Character and Citizenship Edu/Cyber Wellness @ Crescent.md
       - Character and Citizenship Edu/Citizenship Education @ Crescent.md
       - Character and Citizenship Edu/Sexuality Education.md
       - Character and Citizenship Edu/CCA.md
