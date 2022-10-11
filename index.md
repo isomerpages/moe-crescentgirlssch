@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Crescent Girls' School
-      background: /images/hero-banner.png
+      background: /images/hero.gif
       key_highlights:
         - title: New Announcements
           description: ""
