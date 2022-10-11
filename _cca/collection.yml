@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Digital and Manga Club.md
       - Clubs and Societies/English Drama.md
       - Clubs and Societies/Innovation and Enterprise Club.md
       - Clubs and Societies/Photographic Society.md
