@@ -20,10 +20,11 @@ sections:
           description: ""
           url: /quicklinks/for-students/
   - infobar:
-      title: Financial Assistance Schemes
-      subtitle: Crescent Girls' School
+      title: What's Happening
+      subtitle: crescent girls' school
+      description: Keep up with what's happening at CGS!
       button: Learn more
-      url: /about-cgs/fas/
+      url: /whats-happening/2019/
   - infopic:
       title: Parent Support Group
       subtitle: crescent girls' school
@@ -32,4 +33,9 @@ sections:
       url: http://tiny.cc/JoinCrescentPSG
       image: /images/psgqrcode.png
       alt: Image alt text
+  - infobar:
+      title: Financial Assistance Schemes
+      subtitle: Crescent Girls' School
+      button: Learn more
+      url: /about-cgs/fas/
 ---
