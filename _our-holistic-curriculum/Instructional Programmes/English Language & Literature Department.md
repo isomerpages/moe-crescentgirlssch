@@ -76,7 +76,7 @@ Secondary 3 Debate Competition<br>
 Secondary 4 Plain English Speaking Competition (PESA)
 
 #### **Achievements**
-**2016**<br>
+##### **2016**
 **Commonwealth Writing Competition**
 *   1 Bronze (Senior)
 
@@ -86,6 +86,3 @@ Secondary 4 Plain English Speaking Competition (PESA)
 **National Schools Literature Festival**
 *   Sec 3 Set Text Debate for Lord of the Flies - Winner  
 *   Sec 2 Book Trailer - Silver
-
-
-
