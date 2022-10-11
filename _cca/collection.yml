@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Student Leadership/Crescent Ambassadors.md
       - Student Leadership/House Leaders.md
       - Student Leadership/Peer Leaders.md
       - Student Leadership/Student Council.md
