@@ -2,6 +2,7 @@ collections:
   cradle:
     output: true
     order:
+      - Cyberwellness Advocacy Chall/Timeline and Summary of Key Dates.md
       - Cyberwellness Advocacy Chall/NCAC Award Ceremony.md
       - Cyberwellness Advocacy Chall/.keep
       - Youth Upcycling Movement/About NYUM.md
