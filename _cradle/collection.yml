@@ -2,6 +2,8 @@ collections:
   cradle:
     output: true
     order:
+      - Swift Explorers Singapore/For Secondary, Junior College, Millenia
+        Institute.md
       - Swift Explorers Singapore/.keep
       - National Digital Explorer/National Digital Explorer (NDE).md
       - National Digital Explorer/About the Digital Explorer Learn 2022.md
