@@ -1,0 +1,4 @@
+collections:
+  about-cgs:
+    output: true
+    order: []
