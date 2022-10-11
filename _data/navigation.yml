@@ -34,13 +34,45 @@ links:
         url: /about-cgs/faq/
   - title: Our People
     url: /our-people/organisational-chart/
-    sublinks: []
+    sublinks:
+      - title: Organisational Chart
+        url: /our-people/organisational-chart/
+      - title: Staff
+        url: /our-people/staff/
+      - title: Departments
+        url: /our-people/departments/
   - title: Our Achievements
     url: /our-achievements/international-awards/
-    sublinks: []
+    sublinks:
+      - title: International Awards
+        url: /our-achievements/international-awards/
+      - title: School Awards
+        url: /our-achievements/school-awards/
+      - title: Academic Competitions
+        url: /our-achievements/academic-competitions/
+      - title: CCA Awards
+        url: /our-achievements/cca-awards/
+      - title: Virtual Gallery
+        url: /our-achievements/virtual-gallery/
   - title: Our Partners
     url: /our-partners/psg/
-    sublinks: []
+    sublinks:
+      - title: Parent Support Group (PSG)
+        url: /our-partners/psg/
+      - title: Alumni
+        url: /our-partners/alumni/
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
   - title: Cradle
     url: /cradle/crescent-academy-for-digital-age-learning/
-    sublinks: []
+    sublinks:
+      - title: Digital-Age Learning
+        url: /cradle/crescent-academy-for-digital-age-learning/
+      - title: Cyberwellness Advocacy Chall
+        url: /cradle/ncac/
+      - title: Youth Upcycling Movement
+        url: /cradle/nyum/
+      - title: Swift Explorers Singapore
+        url: /cradle/ses/
+      - title: National Digital Explorer
+        url: /cradle/nde/
