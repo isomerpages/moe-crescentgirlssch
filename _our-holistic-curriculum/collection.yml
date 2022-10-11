@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Instructional Programmes/.keep
+      - Character and Citizenship Edu/CCA.md
       - Character and Citizenship Edu/.keep
       - Signature Programmes/m Learning @ Crescent.md
       - Signature Programmes/21st Century Competencies.md
