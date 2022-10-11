@@ -2,6 +2,7 @@ collections:
   cradle:
     output: true
     order:
+      - Swift Explorers Singapore/About SES.md
       - Swift Explorers Singapore/For Primary School.md
       - Swift Explorers Singapore/For Secondary, Junior College, Millenia
         Institute.md
