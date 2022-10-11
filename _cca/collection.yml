@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Student Leadership/Student Council.md
       - Student Leadership/.keep
