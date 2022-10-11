@@ -1,0 +1,4 @@
+collections:
+  cradle:
+    output: true
+    order: []
