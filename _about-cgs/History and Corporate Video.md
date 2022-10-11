@@ -11,5 +11,12 @@ In 1996, Crescent Girls’ School was accorded Autonomous School status and in 2
 
 The school building has 9 blocks of facilities to provide a physical environment conducive for learning. The names of the blocks reflect the roads, places and buildings in the vicinity.
 
+<img src="/images/history1.jpg" style="width:49%" align=left>
+<img src="/images/history2.jpg" style="width:49%" align=rght>
 
+<img src="/images/history3.jpg" style="width:49%" align=left>
 
+<br clear="left">
+
+#### **Corporate Video**
+**require school to upload video to youtube**
