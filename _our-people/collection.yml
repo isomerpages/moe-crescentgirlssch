@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Departments/English Language and Literature Department.md
       - Departments/School Executive Committee.md
       - Departments/Humanities Department.md
       - Departments/Mathematics Department.md
