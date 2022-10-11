@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Departments/Mathematics Department.md
       - Departments/Mother Tongue Languages Department.md
       - Departments/PE and CCA Department.md
       - Departments/Science Department.md
