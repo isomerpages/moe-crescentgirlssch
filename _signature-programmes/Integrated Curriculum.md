@@ -29,3 +29,11 @@ Secondary Two Integrated Curriculum - Using Technology To Enhance Collaborative 
 **2012**<br>
 INTERNATIONAL CONFERENCE (Prague, Czech Republic) - Microsoft Partners in Learning Global Forum 2012: Sec 2 Integrated Curriculum (28 November – 1 December 2012)<br>
 AWARD - CrADLe-Microsoft 21st Century Innovative Teaching Award 2012
+
+<img src="/images/integrated%20curriculum%201.jpg" style="width:65%">
+
+<img src="/images/integrated%20curriculum%202.jpg" style="width:65%">
+
+<img src="/images/integrated%20curriculum%203.jpg" style="width:65%">
+
+<img src="/images/integrated%20curriculum%204.jpg" style="width:65%">
