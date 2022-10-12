@@ -28,12 +28,16 @@ At Secondary One, students undergo GI and explore the issue of water scarcity in
 <img src="/images/humanities1.jpg" style="width:45%" align=left>
 <img src="/images/humanities2.jpg" style="width:50%" align=right>
 
+<br clear="left">
+
 |  |  |
 |:---:|:---:|
 | Sec 1 GI – Water Testing | Sec 2 GI –VR at Tiong Bahru |
 
 <img src="/images/humanities3.jpg" style="width:60%" align=left>
 <img src="/images/humanities4.jpg" style="width:40%" align=right>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -52,6 +56,8 @@ As aspiring historians in the making, Crescentians start their historical invest
 <img src="/images/humanities6.jpg" style="width:33%" align=left>
 <img src="/images/humanities7.jpg" style="width:30%" align=left>
 <img src="/images/humanities8.jpg" style="width:33%" align=left>
+
+<br clear="left">
 
 | | | |
 |:---:|:---:|:---:|
@@ -79,12 +85,16 @@ Apart from debating about local issues, Crescentians are also provided with trai
 <img src="/images/humanities11.png" style="width:49%" align=left>
 <img src="/images/humanities12.png" style="width:49%" align=right>
 
+<br clear="left">
+
 |  |  |
 |---|---|
 | The Hague International Model United Nations | Dunman High ASEAN Plus |
 
 <img src="/images/humanities13.png" style="width:49%" align=left>
 <img src="/images/humanities14.jpg" style="width:49%" align=right>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -95,6 +105,8 @@ To broaden the minds of our Humanities scholars, students engage in conversation
 
 <img src="/images/humanities15.jpg" style="width:35%" align=left>
 <img src="/images/humanities16.jpg" style="width:63%" align=right>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -136,5 +148,3 @@ To broaden the minds of our Humanities scholars, students engage in conversation
 1 Best Delegate<br>
 1 Honourable Mention<br>
 1 Verbal Commendation
-
-
