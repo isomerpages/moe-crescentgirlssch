@@ -19,7 +19,7 @@ The Mathematics syllabus aims to develop students to:
 Smart Money Workshop is a financial literacy programme organized for our Secondary one students. Through the series of fun-filled activities, the students learn about the importance of financial planning and how they can make smart money choices in authentic settings.
 
 <figure>
-<img src="/images/math.jpg" style="width:65%">
+<img src="/images/math.jpg" style="width:75%">
 <figcaption>  Our Secondary One students enjoying the activities in Smart Money Workshop
  </figcaption>
 </figure>
@@ -77,8 +77,3 @@ Commendation
 
 **Singapore Math Kangaroo Contest 2019**<br>
 15 Golds, 29 Silvers, 38 Bronzes
-
-
-
-
-
