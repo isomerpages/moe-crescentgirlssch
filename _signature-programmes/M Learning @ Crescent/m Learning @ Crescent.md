@@ -4,12 +4,10 @@ permalink: /our-holistic-curriculum/signature-programmes/
 description: ""
 third_nav_title: M Learning @ Crescent
 ---
-
-
 ### **m-Learning@Crescent**
 At Crescent, we have a tradition of seeking excellence in teaching and learning through innovation, one of the core drivers of a Crescentian education. Recognising the potential of a 1-to-1 computing experience and the unique possibilities of personal learning device (PLD) offers in providing a richer teaching and learning experience, Crescent Girls' School embarked on m-Learning@Crescent in 2004. In March 2020, MOE launched the National Digital Literacy Programme (NDLP) for secondary schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021. Crescent was selected as one of the Phase 1 schools in PDLP and has since aligned the m-Learning @ Crescent programme with the NDLP and PDLP.
 
-<img src="/images/mlearning1.jpg" style="width:45%">
+<img src="/images/mlearning1.jpg" style="width:35%">
 
 All 1000 students at Crescent Girls' School own a PLD each. Outfitted with the latest Microsoft productivity apps, multimedia editing apps, and a wide range of education applications like micro:bit and Math VR, students can harness technologies effectively to enhance their learning.
 
@@ -31,5 +29,3 @@ Through its journey as one of the pioneering schools in harnessing ICT for teach
 Regionally and globally, Crescent Girls' School is also recognised for its use of technology in developing 21st Century learners. In 2011, the school was accorded the UNESCO-Intel Regional School Award – Gold. In 2012, the school was named a World Tour School by Microsoft during the global forum held in Prague. 
 
 m-Learning @ CGS – holistic education the ICT way.
-
-
