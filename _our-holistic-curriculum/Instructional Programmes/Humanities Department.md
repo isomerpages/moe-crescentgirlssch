@@ -25,8 +25,30 @@ Geographical Investigation is a form of geographical inquiry where students are 
 
 At Secondary One, students undergo GI and explore the issue of water scarcity in Singapore and the world around them under the schools’ signature Integrated Curriculum Programme.  At Secondary Two, students investigate their lived environment in Tiong Bahru through the use of VR.  Upper Secondary students continue to acquire skills in GI through their investigation of the coastal regions as well as tourists spots.   Sec 1 GI – Water Testing   Sec 2 GI –VR at Tiong Bahru Sec 3 GI – Coastal Studies Sec 4 GI - Tourism
 
-
+<img src="/images/humanities1.jpg" style="width:45%" align=left>
+<img src="/images/humanities2.jpg" style="width:50%" align=right>
 
 |  |  |
 |:---:|:---:|
 | Sec 1 GI – Water Testing | Sec 2 GI –VR at Tiong Bahru |
+
+<img src="/images/humanities3.jpg" style="width:60%" align=left>
+<img src="/images/humanities4.jpg" style="width:40%" align=right>
+
+|  |  |
+|:---:|:---:|
+| Sec 3 GI – Coastal Studies | Sec 4 GI - Tourism |
+|
+
+##### **Historical Investigation**
+As aspiring historians in the making, Crescentians start their historical investigation journey through a series of mini-investigations of the past during their lessons.  At Secondary Two, as part of their Integrated Curriculum Project, students conduct an investigation into 1950s Singapore to find out about the needs of the people and the young aspiring political parties.  Together with their peers, they design political posters to campaign for votes to win the hearts of the people in Singapore in the 1950s.  At the Upper Secondary, students continue their historical investigations into key historical events by taking on perspectives, such as that of historical characters or artefacts.  This has enabled them to learn to empathise with people from the past.
+
+<figure>
+<img src="/images/humanities5.jpg" style="width:75%">
+<figcaption>  Sec1 Inquiry in the National Museum of Singapore
+ </figcaption>
+</figure>
+
+| <img src="/images/humanities6.jpg" style="width:60%"> | ![](/images/humanities7.jpg) | <img src="/images/humanities8.jpg" style="width:60%"> |
+|:---:|:---:|:---:|
+| Historical Investigation in class | Secondary 2 Hi End Product | Perspective Taking after HI |
