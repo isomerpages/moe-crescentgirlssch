@@ -3,7 +3,7 @@ title: Music Elective Programme
 permalink: /our-holistic-curriculum/signature-programmes/music-elective-programme/
 description: ""
 ---
-### Music Elective Programme
+### **Music Elective Programme**
 The Music Elective Programme (MEP) is a four-year talent programme that prepares students for the GCE' O' Level Higher Music Examination.
 
 The objective of the MEP is to provide opportunities for musically-inclined students to pursue their passion and cultivate their abilities in music-writing, music-making and music listening.
@@ -14,7 +14,7 @@ GCE' O' Level Higher Music is equivalent to a Humanities subject in the computat
 
 The current GCE 'O' Level Higher Music Syllabus (6086) is available for download at SEAB website [http://www.seab.gov.sg](http://www.seab.gov.sg)
 
-#### Areas of Study & Activities
+#### **Areas of Study & Activities**
 *   Genre Studies
 *   Harmony & Analysis
 *   Musical Elements, Styles & Characteristics
@@ -29,7 +29,7 @@ The current GCE 'O' Level Higher Music Syllabus (6086) is available for download
 
 At Secondary 3 & 4, students will be guided to choose an additional study in one of these three areas: Music Essay, Music Creating or Music Performing.
 
-#### Programme Prerequisites
+#### **Programme Prerequisites**
 To qualify for MEP@CGS, the student must have fulfilled the following:
 *   She has met the entry requirement of Crescent Girls' School.
 *   She is proficient at playing at least one musical instrument at novice to intermediate level.
@@ -43,3 +43,8 @@ The compulsory audition will require the applicant to present Two Contrasting pi
 
 For more information on MEP please click [here](http://www.moe.gov.sg/education/secondary/other/music-elective-programme/) **website unavailable**.<br>
 Click [here](https://www.facebook.com/6788957003/posts/10160206090752004/?vh=e) to access the MOE Facebook page.
+
+<img src="/images/musicqr.png" style="width:30%">
+
+**Download**
+*   [MEP FAQ (2019).pdf](/files/MEP%20FAQ%20(2019).pdf)/ pdf 206kB
