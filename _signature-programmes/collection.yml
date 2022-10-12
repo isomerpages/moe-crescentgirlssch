@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Important Contacts, Helplines and Resources.md
       - FAQs.md
       - m Learning @ Crescent.md
