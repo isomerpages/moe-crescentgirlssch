@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - FAQs.md
       - m Learning @ Crescent.md
