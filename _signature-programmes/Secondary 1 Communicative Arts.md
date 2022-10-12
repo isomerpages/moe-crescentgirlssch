@@ -8,7 +8,7 @@ The Communicative Arts Programme integrates both Literature and English, with a 
 
 Through Communicative Arts, students are exposed to a wide range of skills such as inferential and analytical abilities to cater to different learner types. Each lesson in the programme emphasizes collaborative work in shaping independent learners and effective communicators. Differentiated modes of instruction are also adopted within units. For example, in the poetry unit, key concepts are taught through collage, performance and having students write their original poems.
 
-View [students' works](http://commarts.crescent.edu.sg/).
+View [students' works](http://commarts.crescent.edu.sg/). **website unavailable**
 
 <img src="/images/sec1commarts1.jpg" style="width:65%">
 
