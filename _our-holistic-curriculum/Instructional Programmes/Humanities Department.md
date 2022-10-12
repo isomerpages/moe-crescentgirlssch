@@ -49,6 +49,43 @@ As aspiring historians in the making, Crescentians start their historical invest
  </figcaption>
 </figure>
 
-| ![](/images/humanities6.jpg) | ![](/images/humanities7.jpg) | ![](/images/humanities8.jpg) |
+<img src="/images/humanities6.jpg" style="width:33%" align=left>
+<img src="/images/humanities7.jpg" style="width:30%" align=left>
+<img src="/images/humanities8.jpg" style="width:33%" align=left>
+
+| | | |
 |:---:|:---:|:---:|
 | Historical Investigation in class | Secondary 2 Hi End Product | Perspective Taking after HI |
+
+##### **Issues Investigation**
+Issue Investigation provides Crescentians with the opportunity to examine societal issues critically. Through Issue Investigation, Crescentians practise and strengthen a wide range of lifelong skills and responding constructively to a societal issue as informed, concerned and participative citizens. Implemented in 2018, the Crescent Model Cabinet focuses on contemporary social issues in Singapore. Secondary Three students conduct research into 1 of the 4 issues: addressing the needs of an ageing population, enhancing transport policies, integrating immigrants and ensuring access to healthcare. Students will take on the roles of various stakeholders to discuss these issues and propose solutions to the problems identified in a simulated cabinet setting. Roles assigned can include the Prime Minister, Cabinet Ministers, Members of Parliament, Statutory Boards and NGOs to provide a range of perspectives.
+
+<figure>
+<img src="/images/humanities9.jpg" style="width:47%" align=left>
+<img src="/images/humanities10.png" style="width:51%" align=right>
+<br clear="left">
+<figcaption>   Secondary Three Students debating on national issues
+ </figcaption>
+</figure>
+
+#### **Special Programmes**
+##### **Model United Nations Conference**
+Apart from debating about local issues, Crescentians are also provided with training and opportunities to participate in Model United Nation Conferences, a simulation of the diplomatic process carried out by the United Nations to address global issues. In a MUN, students are tasked to represent different countries and work towards formulating solutions for the betterment of society. Through their participation in these conferences, students will
+
+* Understanding the relevance of the Humanities to the real world around them
+* Develop critical-logical thinking skills for the Humanities
+* Develop civic literacy and global awareness skills
+
+<img src="/images/humanities11.png" style="width:49%" align=left>
+<img src="/images/humanities12.png" style="width:49%" align=right>
+
+|  |  |
+|---|---|
+| The Hague International Model United Nations | Dunman High ASEAN Plus |
+
+<img src="/images/humanities13.png" style="width:49%" align=left>
+<img src="/images/humanities14.jpg" style="width:49%" align=right>
+
+|  |  |
+|:---:|:---:|
+| ST Joseph's Institution Model United Nations | Victoria Junior College Model Cabinet |
