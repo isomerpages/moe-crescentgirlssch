@@ -43,7 +43,10 @@ School immersion programmes are also organised for students as immersion experie
  </figcaption>
 </figure>
 
-
+<img src="/images/mtldept1.jpg" style="width:65%">
+<img src="/images/mtldept2.jpg" style="width:65%">
+<img src="/images/mtldept3.jpg" style="width:65%">
+<img src="/images/mtldept4.jpg" style="width:65%">
 
 **Malay Community Outreach Programme**<br>
 Crescent Girls' School Malay Language Department embarked on a community outreach programme entitled "Island Tales in conjunction with the National Library Board for the year 2013. The students prepared two different productions: "Kusu Island-The Untold Story" & "Sisters' Island: Ties that Bind" for the community to enjoy at the Woodlands Regional Library and Tampines Regional Library.
