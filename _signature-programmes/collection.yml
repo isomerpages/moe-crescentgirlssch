@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Music Elective Programme.md
       - Talent Development Programme.md
       - Values In Action.md
       - M Learning @ Crescent/m Learning @ Crescent.md
