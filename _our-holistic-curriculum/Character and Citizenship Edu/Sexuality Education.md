@@ -40,7 +40,7 @@ b. Character and Citizenship Education (CCE)
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-**At Crescent Girl’s School, the following lessons from the Growing Years Programme will be taught in 2022:**
+##### **At Crescent Girl’s School, the following lessons from the Growing Years Programme will be taught in 2022:**
 
 **SECONDARY 1**
 
@@ -79,6 +79,47 @@ b. Character and Citizenship Education (CCE)
 |  | 4<br>(60 mins) | - Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 1 |
 |
 
+#### **eTeens Programme:**
+8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
+**At Crescent Girls’ School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| Topics/Lessons | Programme Learning Objectives | Time Period |
+|:---:|---|:---:|
+| Mass Talk by HPB appointed vendor | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV | Term 3 Week 8 |
+| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 9 |
+|
+
+#### **Information for Parents**
+10\. Parents may opt their children out of the Sexuality Education Lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.Parents who wish to opt their children out of the Sexuality Education lesson need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sex%20edu%20form1.pdf) . A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 24/01/2022 and 26/02/2022 for Upper Secondary and Lower Secondary respectively.  
+  
+12.Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sex%20edu%20form2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 10/02/2022.  
+  
+13.Parents can contact the school at Mdm Norazimah, at 6708 7973 / [Norazimah\_bte\_ibrahim@crescent.edu.sg](mailto:Norazimah\_bte\_ibrahim@crescent.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+  
+14.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+#### **eTeens Wise.Informed.Sensible.Empowered**
+**AIMS OF _ETEENS_**
+
+1\. The Empowered Teens (eTeens) programme aims to provide students with accurate information to help them make good decisions in their life choices. It raises awareness and knowledge about the following:
+
+a) awareness of the different sexually transmitted infections (STIs) and HIV/AIDS;<br>
+b) modes of transmission for STIs and HIV/AIDS;<br>
+c) modes of protection against infection, specifically abstinence and the correct use of condoms;<br>
+d) skills for decision-making, assertiveness, negotiation to say “no” to peer pressure to have pre-marital sex; and<br>
+e) consequences and impact of STIs/HIV.
+
+**Format of Programme**
+
+2\. The eTeens programme comprises an assembly talk and a classroom-based lesson:
+
+a) The mass talk is conducted by a speaker engaged by the Health Promotion Board (HPB) from an approved panel. The presentation follows an approved guide.<br>
+b) The duration of the assembly talk is about 1 hour. It includes a multi- media presentation, video screening as well as presentation of key learning points.<br>
+c) The classroom-based lesson reinforces skills of responsible decision-making, negotiation and assertiveness. The suggested time for the lesson is about one hour.<br>
+d) Training for teachers to conduct the classroom-based programme is provided for by MOE and HPB.
 
