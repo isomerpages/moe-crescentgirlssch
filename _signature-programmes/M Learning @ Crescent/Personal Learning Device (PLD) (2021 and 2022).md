@@ -92,7 +92,7 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 *   Servicing can be done at Apple Service Centres.
 *   Accidental damage protection is included with a service fee
 
-(Please refer to the full T&C on the link: [**https://www.apple.com/sg/support/products/ipad/**](https://www.apple.com/sg/support/products/ipad/))
+(Please refer to the full T&C on the link: **[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
 
 #### **Apple Service Centres (for both Option 1 and 2)**
 
