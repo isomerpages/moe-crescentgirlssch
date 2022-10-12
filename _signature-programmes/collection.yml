@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - M Learning @ Crescent/Application and ICT Training in School.md
       - M Learning @ Crescent/Device Management Application (DMA).md
       - M Learning @ Crescent/Important Contacts, Helplines and Resources.md
       - M Learning @ Crescent/FAQs.md
