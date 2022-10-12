@@ -34,4 +34,4 @@ The Citizenship Education framework seeks to engage students through 3 stages in
 
 At the heart of the framework is Character and Leadership Development.  The Citizenship Education programme is part of the school’s many opportunities to develop students’ character and leadership skills.  It is with positive character values in students that the Citizenship Education programme will achieve its goal of developing active and responsible citizens.
 
-<img src="/images/cce4.jpg" style="width:65%">
+<img src="/images/cce5.jpg" style="width:65%">
