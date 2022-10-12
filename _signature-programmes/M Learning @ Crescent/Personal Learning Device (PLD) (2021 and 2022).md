@@ -35,8 +35,73 @@ Logitech Rugged Combo 3 – protective keyboard case with 3-year warranty
 
 | Insurance Coverage<br> All types and All kinds of accidental damages are covered under insurance. They are: |  |
 |---|---|
-| Fire | Lightning |
-| Power surges | Accidental e.g water spillage, drop etc. |
-| Theft due to forcible entry <br>(claim must be supported with police report from any neighboring police post) | Robbery |
+| - Fire | - Lightning |
+| - Power surges | - Accidental e.g water spillage, drop etc. |
+| - Theft due to forcible entry <br>(claim must be supported with police report from any neighboring police post) | - Robbery |
 |
 
+| Warranty Coverage<br>Exclusions included but are not limited to, for warranty claims. They are: |  |
+|---|---|
+| - Manufacturing defects | - Internal mechanical faults |
+| - Inherent defects, wear and tear | - Unattended equipment |
+| - Unexplained or mysterious circumstances | - Intentional acts |
+| - Used by others | - Consequential Loss |
+| - Loss of data |  |
+|
+
+|  |  |
+|---|---|
+| Duration of insurance Coverage | No. of Repair/ Replacement Allowed |
+| 3 years | 2 Repairs / 1 Replacement |
+|
+
+The company’s liability on the insured equipment under this policy will cease at the earliest of one of the following events:
+*   Any 2 repair claims in any policy year  
+*   1 replacement (subject to sum insured) in any policy year  
+*   1 repair + 1 replacement (in this scenario, repair claim must always come first)
+
+#### **Option 2 – Purchase New iPad on Your Own and <br>Option 3 Bring Existing iPad**
+
+Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
+*   Compatible with Device Management Application (DMA) software
+*   Must have a compatible stylus and keyboard cover (e.g Apple Pencil, Logitech Touch Combo 3)
+*   DMA must be installed on the iPad
+*   Factory reset will be required (Existing data in the device will be wiped out)
+
+Some Examples of Recommended Combo for Option 2 - Purchasing New iPad
+
+**11-inch iPad Pro (3rd Gen)**
+
+<img src="/images/pld4.png" style="width:30%" align=left>
+<img src="/images/pld5.jpg" style="width:10%" align=left>
+<img src="/images/pld6.png" style="width:50%" align=left>
+
+<br clear="left">
+
+**iPad Air 4 (4th Gen)**
+
+<img src="/images/pld7.jpg" style="width:30%" align=left>
+<img src="/images/pld8.jpg" style="width:10%" align=left>
+<img src="/images/pld9.png" style="width:50%" align=left>
+
+<br clear="left">
+
+Parents who are opting for Option 2, purchasing a new iPad on your own, are strongly recommended to consider the add-on, Apple Care+ for the following rationale:
+
+*   Warranty being extended to 2 years.
+*   Servicing can be done at Apple Service Centres.
+*   Accidental damage protection is included with a service fee
+
+(Please refer to the full T&C on the link: [**https://www.apple.com/sg/support/products/ipad/**](https://www.apple.com/sg/support/products/ipad/))
+
+#### **Apple Service Centres (for both Option 1 and 2)**
+
+| No. | Service Centre Location | Service Centre Number | Service Centre Email | Service Centre Operating Hours |
+|:---:|---|---|---|---|
+| 1. | QCD Technology @ Westgate<br><br>(450m from Jurong East Mrt) | 65151 2010 | support_westgate@qcd-tech.com | Mon – Fri:<br>1000 – 1800 |
+| 2. | Apple Retail Store @ Jewel Changi Airport<br><br>(220m from Changi Airport MRT) | 1800 407 4948 | https://getsupport.apple.com | Mon – Thu:<br>1100 – 2100<br>Fri – Sun:<br>1100 – 2200 |
+| 3. |  QCD Technology @ Wheelock<br><br>(190m from Orchard MRT) |  6555 0500 | support_wheelock@qcd-tech.com | Mon – Fri:<br>1100 – 1800 |
+| 4. |  A.LAB @ Plaza Singapura<br><br>(260m from Dhoby Ghaut MRT) |  6784 1318 | a.lab@alab.sg | Mon – Sat:<br>1100 – 1930<br>Sun:<br>1000 - 1800<br>(Collection time 1930) |
+| 5.  |  Apple Retail Store @ Orchard Road<br><br>(400m from Orchard MRT) | 1800 699 2824  | https://getsupport.apple.com  | Mon – Sun:<br>1000 – 2200  |
+|  6. |  Apple Retail Store @ Marina Bay Sands<br><br>(220m from Bayfront MRT) | 1800 407 4949  | https://getsupport.apple.com | Mon – Sun:<br>1100 – 2200 |
+|
