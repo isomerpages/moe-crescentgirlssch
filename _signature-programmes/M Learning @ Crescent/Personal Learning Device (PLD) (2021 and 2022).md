@@ -105,3 +105,25 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 | 5.  |  Apple Retail Store @ Orchard Road<br><br>(400m from Orchard MRT) | 1800 699 2824  | [https://getsupport.apple.com](https://getsupport.apple.com)  | Mon – Sun:<br>1000 – 2200  |
 |  6. |  Apple Retail Store @ Marina Bay Sands<br><br>(220m from Bayfront MRT) | 1800 407 4949  | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Sun:<br>1100 – 2200 |
 |
+
+The table below shows other iPad models that are compatible with MOE DMA.
+
+|  | Model Number |   |  |
+|---|---|---|---|
+|  **Model Name** | **Wi-Fi Only** |  **Wi-Fi & Cellular** | **Compatible Apple Pencil** |
+| iPad Air 4th Gen | A2316 | A2324 or A2325 or A2072 | Apple Pencil 2nd Gen |
+| iPad Pro 11 inch 1st | A1980 | A2013 or A1934 or A1979 | Gen Apple Pencil 2nd Gen |
+| iPad Pro 12.9 inch 3rd Gen | A1876 | A2013 or A1934 OR A1979 | Apple Pencil 2nd Gen |
+| iPad Pro 11 inch 2nd Gen | A2228 | A2068 or A2230 or A2231 | Apple Pencil 2nd Gen |
+| iPad Pro 12.9 inch 4th Gen | A2229 | A2069 or A2232 or A2233 | Apple Pencil 2nd Gen. |
+|
+
+*Parents may choose the most suitable iPad for their daughter, but ICT Department will need to evaluate the compatibility of the iPad with DMA and other school ICT Apps used for T&L.
+
+*Please note that parents will not be able to use Edusave for the purchase of new iPad under Option 2
+
+#### **How to Find the Model Number of your iPad**
+
+Open the Settings app and tap on _General > About_ Look for the Model entry on this page. You should see a model number beginning with an **‘M’.** Tap on the Model entry and it will show a model number beginning with an **‘A’**. The image below shows the iPad model is **“A2316”**
+
+<img src="/images/pld10.png" style="width:85%">
