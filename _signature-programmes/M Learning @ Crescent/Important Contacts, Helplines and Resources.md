@@ -9,7 +9,7 @@ third_nav_title: M Learning @ Crescent
 | Contact Helpline |  |
 |---|---|
 | Edusave Balance | 6260 0777 (24-hr automated hotline) |
-| Financial Assistance | [https://www.crescent.edu.sg/about-cgs/financial-assistance-schemes](https://www.crescent.edu.sg/about-cgs/financial-assistance-schemes)<br> |
+| Financial Assistance | [https://www.crescent.edu.sg/about-cgs/financial-assistance-schemes](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/fas/)<br> |
 | CGS ICT Helpdesk  | Students: [Case Logging Form](https://go.gov.sg/cgscaselogging)<br>Email: [IT.SUPPORT@crescent.edu.sg](mailto:IT.SUPPORT@crescent.edu.sg) |
 |
 
