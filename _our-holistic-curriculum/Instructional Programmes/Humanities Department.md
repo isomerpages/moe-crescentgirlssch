@@ -89,3 +89,52 @@ Apart from debating about local issues, Crescentians are also provided with trai
 |  |  |
 |:---:|:---:|
 | ST Joseph's Institution Model United Nations | Victoria Junior College Model Cabinet |
+
+##### **Talks**
+To broaden the minds of our Humanities scholars, students engage in conversations with external speakers and are challenged to ask questions to deepen their knowledge of the world.
+
+<img src="/images/humanities15.jpg" style="width:35%" align=left>
+<img src="/images/humanities16.jpg" style="width:63%" align=right>
+
+|  |  |
+|:---:|:---:|
+| Dr Jolene Jerard, Adjunct Senior Fellow<br>Rajaratnam School of International Studies | European Union Comes to School<br>Conversation with the Belgium Ambassador |
+
+#### **Achievements**
+##### **2020**
+**NUS Geography Challenge 2020**<br>
+2 Bronzes
+
+##### **2021**
+**Hwa Chong Model ASEAN Cabinet (HCMAS) 2021**<br>
+1 Honourable Mention
+
+**Singapore Model Cabinet (SMC) 2021**<br>
+1 1st place<br>
+1 2nd place<br>
+2 3rd place
+
+**Raffles Model United Nations (RMUN) 2021**<br>
+1 Honourable Mention
+
+**National Youth Upcycling Movement (NYUM) Advocacy Challenge 2021**<br>
+2 Silvers
+
+##### **2022**
+**Hwa Chong Model ASEAN Cabinet**<br>
+1 Honourable Mention<br>
+1 Verbal Commendation
+
+**Singapore Chinese Girls' School Model United Nations**<br>
+1 Most Improved Delegate
+
+**Dunman High ASEAN Plus**<br>
+1 Honourable Mention<br>
+1 Best Position Paper
+
+**YMAX**<br>
+1 Best Delegate<br>
+1 Honourable Mention<br>
+1 Verbal Commendation
+
+
