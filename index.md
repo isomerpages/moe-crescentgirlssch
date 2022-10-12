@@ -28,9 +28,9 @@ sections:
   - infopic:
       title: Parent Support Group
       subtitle: crescent girls' school
-      description: Sign up for PSG membership
-      button: Click here
-      url: http://tiny.cc/JoinCrescentPSG
+      description: Scan QR code to join Crescent PSG!
+      button: Learn more about Crescent PSG
+      url: https://staging.d38imrvfgjjnoy.amplifyapp.com/our-partners/psg/
       image: /images/psgqrcode.png
       alt: Image alt text
   - infobar:
