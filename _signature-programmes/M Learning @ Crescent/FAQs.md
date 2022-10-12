@@ -33,7 +33,7 @@ We strongly recommend that the iPad not be used as an entertainment or lifestyle
 No. DMA is compulsory for all students who bring their device to school as a Personal Learning Device (PLD).
 
 ##### **9\. How do I seek help if my daughter is facing technical difficulties on her device / her device is not working properly?**
-Please advise your daughter to log a case using the school Case Logging System ([**https://go.gov.sg/cgscaselogging**](https://go.gov.sg/cgscaselogging)). Our school Technical Assistant (TA) will contact your daughter and assist her accordingly.
+Please advise your daughter to log a case using the school Case Logging System **([https://go.gov.sg/cgscaselogging](https://go.gov.sg/cgscaselogging))**. Our school Technical Assistant (TA) will contact your daughter and assist her accordingly.
 
 ##### **10\. What if my child lost her device?**
-Please make a police report immediately and inform the school about it using the school Case Logging System ([**https://go.gov.sg/cgscaselogging**](https://go.gov.sg/cgscaselogging)). We will advise accordingly.
+Please make a police report immediately and inform the school about it using the school Case Logging System **([https://go.gov.sg/cgscaselogging](https://go.gov.sg/cgscaselogging))**. We will advise accordingly.
