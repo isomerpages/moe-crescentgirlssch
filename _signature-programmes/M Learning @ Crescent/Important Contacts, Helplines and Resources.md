@@ -18,6 +18,6 @@ third_nav_title: M Learning @ Crescent
 | Resource | Link |
 |---|---|
 | MOE Cyber Wellness Programme | [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) |
-| Parent Kit on Cyber Wellness for Your Child | [https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness) |
+| Parent Kit on Cyber Wellness for Your Child | [https://go.gov.sg/moe-cyber-wellness](/files/cyberwellness%20kit.pdf) |
 | Media Literacy Council | [https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg) |
 |  |  |
