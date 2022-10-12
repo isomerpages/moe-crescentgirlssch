@@ -10,3 +10,5 @@ MOE conducts a centralised admission exercise around Sept/October every year for
 Further details of the centralised admissions exercise are available at the following website:<br>
 [http://www.moe.gov.sg/education/admissions/international-students/](http://www.moe.gov.sg/education/admissions/international-students/)
  **website unavailable**
+ 
+ 
