@@ -23,7 +23,10 @@ Mother Tongue fortnight activities allow authentic usage and exposure to MTL. St
 
 <iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnkbykGy3uFBonMNlQHtNe73xgSVu-BXxU1IPSgLXeNgY_hi1tTSMsZRmOWduWlemlstWGVSiXEV_C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-Chinese Department MTL Fortnight Photos
+<figure>
+<figcaption> Chinese Department MTL Fortnight Photos
+ </figcaption>
+</figure>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqvFTFS6aFQL4WLdspIUeTBU_fu8iD6gEOvEnpr7s3n5_eyWqZH_6Gzr4SRp6uwPEegE5aCvjWJaft/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
 
