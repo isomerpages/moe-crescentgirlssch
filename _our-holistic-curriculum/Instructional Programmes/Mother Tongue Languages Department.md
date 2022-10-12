@@ -23,17 +23,26 @@ Mother Tongue fortnight activities allow authentic usage and exposure to MTL. St
 
 
 
-_Focus: Oral and Communication skills_
+Chinese Department MTL Fortnight Photos
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqvFTFS6aFQL4WLdspIUeTBU_fu8iD6gEOvEnpr7s3n5_eyWqZH_6Gzr4SRp6uwPEegE5aCvjWJaft/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<figure>
+<figcaption>  Malay Department MTL Fortnight Photos
+ </figcaption>
+</figure>
+
+_Focus:&nbsp;Oral and Communication skills_
 
 **Secondary 1 and 2 Chinese Special Programme**<br>
 Chinese Special Programme (CSP) is offered to Malay and Tamil Language students, giving them the opportunity of learning Chinese. The programme prepares students for the CSP examination at GCE 'O' Level. These students attend lessons twice a week, two hours per session in our school outside school curriculum time.
 
-_Focus: Writing and Communicative skills_
+_Focus:&nbsp;Writing and Communicative skills_
 
 **Secondary 1 to 3 Newspaper Reading Programme**<br>
 As reading is an integral part of language learning, the school subscribes to Chinese, Malay and Tamil newspapers to further cultivate the habit of reading newspapers in the MTL languages. Students have to complete newspaper cutting activities after reading the newspapers.
 
-_Focus: Expository Writing through newspaper cutting activities_
+_Focus:&nbsp;Expository Writing through newspaper cutting activities_
 
 **Mother Tongue Learning Journeys**<br>
 School immersion programmes are also organised for students as immersion experiences have a positive effect on students’ MTL learning as well as their attitude towards MTL. Chinese students have the opportunity to go to Beijing for immersion programme and they have the chance of collaborating with students from Beijing No 171 Middle school. Malay students have the opportunity of going to Malaysia for a homestay programme where students can enhance their use of the Malay Language in an authentic environment. Students are required to do post immersion activities so as to reinforce learning.
@@ -43,13 +52,13 @@ School immersion programmes are also organised for students as immersion experie
  </figcaption>
 </figure>
 
-<img src="/images/mtldept1.jpg" style="width:65%">
-<img src="/images/mtldept2.jpg" style="width:65%">
-<img src="/images/mtldept3.jpg" style="width:65%">
-<img src="/images/mtldept4.jpg" style="width:65%">
+<img style="width:65%" src="/images/mtldept1.jpg">
+<img style="width:65%" src="/images/mtldept2.jpg">
+<img style="width:65%" src="/images/mtldept3.jpg">
+<img style="width:65%" src="/images/mtldept4.jpg">
 
 **Malay Community Outreach Programme**<br>
-Crescent Girls' School Malay Language Department embarked on a community outreach programme entitled "Island Tales in conjunction with the National Library Board for the year 2013. The students prepared two different productions: "Kusu Island-The Untold Story" & "Sisters' Island: Ties that Bind" for the community to enjoy at the Woodlands Regional Library and Tampines Regional Library.
+Crescent Girls' School Malay Language Department embarked on a community outreach programme entitled "Island Tales in conjunction with the National Library Board for the year 2013. The students prepared two different productions: "Kusu Island-The Untold Story" &amp; "Sisters' Island: Ties that Bind" for the community to enjoy at the Woodlands Regional Library and Tampines Regional Library.
 
 Students presented these two special feature performances in Malay Language (with English subtitles). They also included an introduction to the Malay culture like the Dikir Barat (Malay Traditiona Chorale Singing) and Tarian (Traditional Malay Dance).
 
@@ -69,7 +78,7 @@ Secondary 1 and 2 Malay Traditional Costume Competition
 #### **Achievements**
 **2016**<br>
 **Malay Language Quatrain Competition in conjunction with Malay Language Month**
-*   1st (Upper Sec)
+*   1st&nbsp;(Upper Sec)
 *   2nd
 *   3rd
 *   2 consolation prizes (Lower Sec)
@@ -81,8 +90,8 @@ Secondary 1 and 2 Malay Traditional Costume Competition
 *   3rd
 
 **Tamil National Oratorical Speech**
-*   1st (Upper Sec)
-*   1st (Lower Sec)
+*   1st&nbsp;(Upper Sec)
+*   1st&nbsp;(Lower Sec)
 
 **Tamil National Essay writing Competition**
 *   Consolation prize
