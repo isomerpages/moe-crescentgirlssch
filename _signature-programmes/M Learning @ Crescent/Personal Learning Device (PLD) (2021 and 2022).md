@@ -13,4 +13,4 @@ Crescent has selected iPad with iPadOS for students for the following rationale:
 
 Parents are given 3 options for m-Learning @ Crescent
 
-<img src="/images/cyberwellness1.jpg" style="width:85%">
+<img src="/images/pld1.png" style="width:65%">
