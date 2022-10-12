@@ -11,6 +11,24 @@ Upon the release of the Primary School Leaving Examination (PSLE) results in lat
 The cut-off PSLE score for admission into our school in 2022 is 11.
 
 ##### **Q2: What if I miss the cut-off score?**
-We are unable to accept appeals from applicants whose PSLE score does not meet our cut-off score for the 2022 Secondary One Posting Exercise. If your PSLE score is same or better than our cut-off score and wishes to appeal to our school, you can submit an [**Appeal Form**](https://form.gov.sg/#!/619f3d132836080013997011) **website unavailable** with photocopies of the relevant documents for consideration. The outcome of appeal will be made known to you as and when there is an available vacancy.
+We are unable to accept appeals from applicants whose PSLE score does not meet our cut-off score for the 2022 Secondary One Posting Exercise. If your PSLE score is same or better than our cut-off score and wishes to appeal to our school, you can submit an **[Appeal Form]**(https://form.gov.sg/#!/619f3d132836080013997011) **website unavailable** with photocopies of the relevant documents for consideration. The outcome of appeal will be made known to you as and when there is an available vacancy.
 
 ##### **Q3: Is the school affiliated to any primary school?**
+No.
+
+##### **Q4: How has the school performed academically?**
+Traditionally, our students have excelled academically at national examinations with value-added performance.
+
+##### **Q5: Does the school offer Higher Mother Tongue?**
+We offer Higher Chinese, Higher Malay and Higher Tamil, and lessons are held within the school during curriculum time.
+
+#### **NOTE**
+**Appeal for School Transfer (Primary 6 pupils)<br>
+(applicable after the release of Secondary 1 Posting Results)**
+Primary 6 pupils who have applied to Crescent Girls’ School during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal to be considered for transfer to Crescent Girls’ School. These students appealing for admission to CGS after the release of the Secondary 1 Posting result have to meet the school’s cut-off score.
+
+(\*Note: Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.)
+
+**Application period**<br>
+The application period is from 22 Dec 2021 day of release of Secondary 1 Posting results to 24 Dec 2021, 12pm<br>
+Late or incomplete application will not be considered. Only shortlisted applicants will be informed.
