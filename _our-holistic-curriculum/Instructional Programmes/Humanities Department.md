@@ -49,6 +49,6 @@ As aspiring historians in the making, Crescentians start their historical invest
  </figcaption>
 </figure>
 
-| <img src="/images/humanities6.jpg" style="width:60%"> | ![](/images/humanities7.jpg) | <img src="/images/humanities8.jpg" style="width:60%"> |
+| ![](/images/humanities6.jpg) | ![](/images/humanities7.jpg) | ![](/images/humanities8.jpg) |
 |:---:|:---:|:---:|
 | Historical Investigation in class | Secondary 2 Hi End Product | Perspective Taking after HI |
