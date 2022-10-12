@@ -21,11 +21,11 @@ By the end of the Secondary 4 year at Crescent, a student should be able to:
 **Secondary 1 to 3 Mother Tongue Fortnight Activities**<br>
 Mother Tongue fortnight activities allow authentic usage and exposure to MTL. Students are exposed to a wide range of activities during the MTL Fortnight in addition to learning and using the language. We collaborated with key stakeholders, including alumni to organise school-based MTL Fortnights. During the MTL Fortnight, a wide range of outside–class MTL activities are conducted to enable students to learn and use MTL in novel and exciting ways. The activities include performing arts such as drama, cross talks, storytelling, learning journeys, Wayang, talks by authors of the CL/ ML/ TL community, etc. Cultural camps are organised to provide students with an immersive environment to learn and use the language.
 
-
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnkbykGy3uFBonMNlQHtNe73xgSVu-BXxU1IPSgLXeNgY_hi1tTSMsZRmOWduWlemlstWGVSiXEV_C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Chinese Department MTL Fortnight Photos
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqvFTFS6aFQL4WLdspIUeTBU_fu8iD6gEOvEnpr7s3n5_eyWqZH_6Gzr4SRp6uwPEegE5aCvjWJaft/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqvFTFS6aFQL4WLdspIUeTBU_fu8iD6gEOvEnpr7s3n5_eyWqZH_6Gzr4SRp6uwPEegE5aCvjWJaft/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
 
 <figure>
 <figcaption>  Malay Department MTL Fortnight Photos
@@ -52,10 +52,10 @@ School immersion programmes are also organised for students as immersion experie
  </figcaption>
 </figure>
 
-<img style="width:65%" src="/images/mtldept1.jpg">
-<img style="width:65%" src="/images/mtldept2.jpg">
-<img style="width:65%" src="/images/mtldept3.jpg">
-<img style="width:65%" src="/images/mtldept4.jpg">
+<img src="/images/mtldept1.jpg" style="width:65%">
+<img src="/images/mtldept2.jpg" style="width:65%">
+<img src="/images/mtldept3.jpg" style="width:65%">
+<img src="/images/mtldept4.jpg" style="width:65%">
 
 **Malay Community Outreach Programme**<br>
 Crescent Girls' School Malay Language Department embarked on a community outreach programme entitled "Island Tales in conjunction with the National Library Board for the year 2013. The students prepared two different productions: "Kusu Island-The Untold Story" &amp; "Sisters' Island: Ties that Bind" for the community to enjoy at the Woodlands Regional Library and Tampines Regional Library.
