@@ -35,14 +35,13 @@ At Secondary One, students undergo GI and explore the issue of water scarcity in
 | Sec 1 GI – Water Testing | Sec 2 GI –VR at Tiong Bahru |
 
 <img src="/images/humanities3.jpg" style="width:60%" align=left>
-<img src="/images/humanities4.jpg" style="width:40%" align=right>
+<img src="/images/humanities4.jpg" style="width:37%" align=right>
 
 <br clear="left">
 
 |  |  |
 |:---:|:---:|
 | Sec 3 GI – Coastal Studies | Sec 4 GI - Tourism |
-|
 
 ##### **Historical Investigation**
 As aspiring historians in the making, Crescentians start their historical investigation journey through a series of mini-investigations of the past during their lessons.  At Secondary Two, as part of their Integrated Curriculum Project, students conduct an investigation into 1950s Singapore to find out about the needs of the people and the young aspiring political parties.  Together with their peers, they design political posters to campaign for votes to win the hearts of the people in Singapore in the 1950s.  At the Upper Secondary, students continue their historical investigations into key historical events by taking on perspectives, such as that of historical characters or artefacts.  This has enabled them to learn to empathise with people from the past.
