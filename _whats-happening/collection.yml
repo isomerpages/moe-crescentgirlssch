@@ -2,4 +2,5 @@ collections:
   whats-happening:
     output: true
     order:
+      - 2020/.keep
       - 2019/.keep
