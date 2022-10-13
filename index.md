@@ -30,7 +30,7 @@ sections:
       subtitle: crescent girls' school
       description: Scan QR code to join Crescent PSG!
       button: Learn more about Crescent PSG
-      url: https://staging.d38imrvfgjjnoy.amplifyapp.com/our-partners/psg/
+      url: /our-partners/psg/
       image: /images/psgqrcode.png
       alt: Image alt text
   - infobar:
