@@ -2,6 +2,7 @@ collections:
   "2022":
     output: true
     order:
+      - July/.keep
       - August/.keep
       - January/Dedication Ceremony.md
       - January/.keep
