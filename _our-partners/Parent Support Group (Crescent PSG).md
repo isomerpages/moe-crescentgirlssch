@@ -38,4 +38,4 @@ Parents, standing together with the school to equip each student with vital know
 
 #### **Crescent PSG 2021**
 
-
+<img src="/images/crescentpsg1.jpg" style="width:65%">
