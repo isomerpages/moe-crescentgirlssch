@@ -2,6 +2,7 @@ collections:
   "2021":
     output: true
     order:
+      - CG65 Commemorative Video.md
       - Time Capsule Video.md
       - January/.keep
       - February/.keep
