@@ -14,4 +14,4 @@ After the teachers recited the Teachers’ Pledge, the Secondary Fours pinned th
 
 The Crescent Cheer, a uniquely Crescent tradition, followed soon after. We Crescentians gave our utmost to express our love for Crescent, cheering as loudly as we could. The event ended off on a high note and Crescentians were reassured once again that we belonged to this loving and caring family. We will continue to support one another and work hand in hand to bring Crescent to greater heights!
 
-_Written by: Rachel Chew(4G2)_
+**_Written by: Rachel Chew(4G2)_**
