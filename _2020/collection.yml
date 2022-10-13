@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - January/.keep
+      - February/DALC.md
       - February/.keep
       - July/Home Based Learning during the Circuit Breaker Period.md
       - July/Youth Day Celebrations.md
