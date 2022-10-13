@@ -6,7 +6,7 @@ third_nav_title: Cyberwellness Advocacy Chall
 ---
 ### **About NCAC**
 
-<img src="/images/ncac1.png" style="width:65%">
+<img src="/images/ncac1.png" style="width:45%">
 
 #### **1. Categories for the Challenge**
 There are 2 categories for participation for Primary Schools / Secondary / Post-Secondary Institutions:
