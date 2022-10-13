@@ -49,3 +49,45 @@ Participating students will be presented e-certificates for completing Phase 1 a
 **Registration will open from 10 February 2022 to 4 March 2022**, on a first-come-first-served basis.
 
 Registration Form: **[Click Here to register](https://form.gov.sg/#!/61ee04e4d3b3e60013caef2c)** (for Primary 4 and 5 students) **form expired**
+
+*   There is no limit to the number of teams each school can register
+*   Each team should comprise no more than 5 team members
+*   Schools must nominate 1 Teacher Coding Champion
+*   Schools must select up to 3 Student Coding Champions
+
+The Teacher and Student Coding Champions must participate in the Coding Champion webinars and actively drive the initiative in schools. Schools are to ensure that copyright for all resources is cleared before submission.  
+  
+Please fill in the team’s name and the full names of participating students using the form below and upload onto the registration portal.  
+  
+Please save the file in the following format: **_\<school name>\_number of teams_**
+
+**[Download List of Teams and Students Names](/files/SES.pdf)**
+
+#### **Timeline and Summary of Key Dates**
+
+| Dates | Activities |
+|:---:|:---:|
+| 10 - 4 March 2022 | Registration Period |
+| 11 March - 23 May 2022 | Phase 1: Inclusive App Design Challenge<br>(Assign to student on SLS) |
+|  30 May - 3 June 2022 | Phase 2: Everyone can Code Bootcamp<br>(Virtual coding workshops)  |
+|  Term 3 Week 1 |  Phase 2: Graduation event for School |
+|
+
+#### **Outline of activities in SLS for Phase 1 and 2**
+
+**Phase 1: Inclusive App Design Challenge**
+*   Keynote Tutorial
+*   Introduction to app prototyping from a Design Thinking approach: ideation, brainstorming and planning.
+*   Creating a low-fidelity prototype with Apple Pencil and getting started with high-fidelity prototyping in Keynote
+*   Complete high-fidelity prototype in Keynote
+
+**Phase 2: Everyone Can Code Bootcamp**
+*   Commands, Functions, For Loops and Conditional Code
+*   Logical Operators, Variables, Types
+*   Initialisation, Parameters
+*   Celebrating You
+
+**_\*The lesson plan provided above is subject to change._**
+
+#### **Frequently Asked Question (FAQs)**
+
