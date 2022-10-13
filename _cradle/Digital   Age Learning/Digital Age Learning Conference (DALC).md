@@ -15,3 +15,11 @@ To share Crescent’s journey in the use of educational technology for engaged l
 DALC 2019 (**[Programme](/files/DALC%202019%20Programme.pdf)** | **[Presentations](/files/DALC%202019%20Presentation.pdf)**)<br>
 DALC 2020 (**[Programme](/files/DALC%202020%20Programme.pdf)** | **[Presentations](/files/DALC%202020%20Presentation.pdf)**)<br>
 
+<img src="/images/dalc1.jpg" style="width:49%" align=left>
+<img src="/images/dalc2.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+| | |
+|:---:|:---:|
+| School Leaders Having Hands-On with Mixed Reality during DALC 2019 | Teacher Participants Listening Attentively During a Concurrent Session at DALC 2020 |
