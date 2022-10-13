@@ -14,4 +14,4 @@ Every year at Crescent, the Girl Guides organise the campfire from scratch, deci
 
 The Orientation Campfire was definitely an enriching experience for us, the leading batch, as we managed and overcame various problems such as meeting deadlines and coming up with engaging activities. Nevertheless, we managed to push through together as a team to ensure that the highlight of the Orientation Programme is one that the girls will remember for years to come.
 
-Written by Nasryn Adriana (4G3)
+**Written by Nasryn Adriana (4G3)**
