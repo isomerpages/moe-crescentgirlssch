@@ -18,4 +18,4 @@ Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/202
 
 #### **2019**
 
-Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2019/jan/)** to find out more!
+Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2019/jan/thimun/)** to find out more!
