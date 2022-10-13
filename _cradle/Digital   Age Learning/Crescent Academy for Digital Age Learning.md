@@ -7,7 +7,7 @@ third_nav_title: Digital   Age Learning
 ### **Crescent Academy for Digital-Age Learning**
 
 <img src="/images/cradle.jpg" style="width:20%" align=left>
-<br><br>
+<br>
 Crescent Academy for Digital-age Learning (CrADLe) is an initiative spearheaded by Crescent Girls' School (Crescent).
 
 <br clear="left">
