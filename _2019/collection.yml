@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - January/Release of 'O' Level Results.md
       - January/Interview with 'O' Level Graduates.md
       - January/Dedication Ceremony Pupil's Creed.md
       - January/.keep
