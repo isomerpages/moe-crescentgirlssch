@@ -29,5 +29,5 @@ Please save the file in the following format: **\<school name>_number of teams_
 
 <img src="/images/ses2.png" style="width:65%">
 
-**About Tinkercademy**<br>
+##### **About Tinkercademy**<br>
 Tinkertanker Pte Ltd is an education and technology company, and a member of the Apple Consultant Network. Tinkertanker Pte Ltd runs Tinkercademy, where they teach coding and apps making to students of all ages. Apple technologies enable them to tap on their core strengths in making software, electronics, and curriculum, to run coding initiatives such as the Swift Accelerator Programme, an intensive year-long course for talented young app developers. Please click on the sub-pages to find out more details on the program for Primary Schools and Secondary Schools / Junior Colleges / Millennia Institute.
