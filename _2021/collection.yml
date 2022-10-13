@@ -2,6 +2,7 @@ collections:
   "2021":
     output: true
     order:
+      - Time Capsule Video.md
       - January/.keep
       - February/.keep
       - March/.keep
