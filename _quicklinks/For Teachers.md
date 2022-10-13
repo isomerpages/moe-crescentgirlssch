@@ -8,7 +8,7 @@ description: ""
 | Information | Links |
 |---|---|
 | Crescent Email | [http://mail.office365.com/](http://mail.office365.com/) |
-| HR Online | [http://intranet.moe.gov.sg/hronline/Pages/Home.aspx\](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx) |
+| HR Online | [http://intranet.moe.gov.sg/hronline/Pages/Home.aspx](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx) |
 | HRP  | [https://www.hrp.gov.sg](https://www.hrp.gov.sg) |
 | iEXAMS | [https://iexams.seab.gov.sg/](https://iexams.seab.gov.sg/) |
 | MIMS Password Reset | [https://idp.mims.moe.gov.sg/nidp/saml2/sso](https://idp.mims.moe.gov.sg/nidp/saml2/sso) |
