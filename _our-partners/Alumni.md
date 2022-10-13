@@ -60,7 +60,7 @@ Ms Rachel Tan (Social Secretary), Mrs Ng Wei San (School Representative)
 **Not in picture:**<br>
 Ms Cheung Hoi Shan (Asst. Secretary), Ms Adeline Lin (Committee Member), Ms Carmen Tan (Committee Member), Ms Chong Shin Hui (Committee Member)
 
-<img src="/images/alumni6.jpg" style="width:45%">
+<img src="/images/alumni6.jpg" style="width:55%">
 
 ##### **2017**
 
@@ -75,7 +75,7 @@ Ms Low Wai Mun (Committee Member), Ms Doris Moh (Auditor), Ms Lee Ker Hwa (Treas
 **Not in picture:**<br>
 Ms Ruth Seah (Assistant Treasurer), Ms Chong Shin Min (Committee Member), Ms Carmen Tan (Committee Member), Ms Rachel Tan (Assistant Social Secretary)
 
-<img src="/images/alumni8.jpg" style="width:45%">
+<img src="/images/alumni8.jpg" style="width:55%">
 
 ##### **2016**
 
