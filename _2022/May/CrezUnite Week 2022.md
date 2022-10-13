@@ -41,3 +41,8 @@ Held on the last day of the term, Crescentians always look forward to this day w
 **Written by: CrezUnité Planning Committee 2022**
 
 <img style="width:65%" src="/images/22may.jpg">
+
+#### **Spirit Day**
+This year, the CrezUnité Planning Committee introduced a new event - Spirit Day! On 18 May 2022, every class got to enjoy a short bonding session in the morning where they had the opportunity to play different games. The games were specially designed to actively involve everyone in class. Everyone displayed their teamwork and drive throughout the games, trying to earn as many points as possible. Based on the number of points they earned, Gotcha tickets that would contribute to the Class of the Year award were given. Crescentians wore their class t-shirts on Spirit Day and it really brought out their inner class spirit! We would like to extend our gratitude to all the Secondary Three and Four EXCO members of the various Student Leadership groups for facilitating the games for all the classes as well. All in all, it was an enjoyable and memorable experience for all Crescentians alike, and we hope that all Crescentians will continue to foster strong bonds and teamwork as a class!
+
+**Written by: CrezUnité Planning Committee 2022**
