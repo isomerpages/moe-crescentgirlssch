@@ -105,7 +105,7 @@ Yes. Students will need to have **an iPad that is updated to iPadOS 15.2 or lat
 A full list of compatible devices can be found below:
 
 | Compatible Devices list |
-|:---:|
+|---|
 | **12.9-inch iPad Pro** (1st, 2nd, 3rd, 4th and 5th Generation)<br>**11-inch iPad Pro** (1st, 2nd and 3rd Generation)<br>**10.5-inch iPad Pro**<br>9.7-inch iPad Pro<br>**iPad** (5th, 6th, 7th, 8th and 9th Generation)<br>**iPad mini** (5th and 6th Generation)<br>**iPad mini 4**<br>**iPad Air** (3rd and 4th Generation)<br>**iPad Air 2**  |
 |
 
@@ -124,8 +124,3 @@ The nominated Teacher Coding Champion will be the main coordinator for participa
 
 **9. How will I know if my students qualify for the e-certificate?**<br>
 The Teacher Coding Champion will validate if the students have completed the SLS packages and that the two deliverables in Phase 1 and 2 are of acceptable quality. E-certificates will be issued once Crescent Girls’ School receives the confirmed name list from the participating school.
-
-
-
-
-
