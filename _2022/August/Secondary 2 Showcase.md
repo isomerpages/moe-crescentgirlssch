@@ -9,3 +9,4 @@ This year, the Secondary Two students participated in the annual “Sec 2 Showca
 
 **_Written by: Nurhumaidah Binte Mohamed Fauzi (2S2)_**
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjM3KYi783S1mfHf_Uc4y9i2FApYuHR7Eu-s8Bx3ri2d34vt7xAdl9YDXlamnSfFMjla76R75IvqCr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
