@@ -17,6 +17,4 @@ The celebration ended with our signature Chinese New Year concert, where Crescen
 
 All in all, Crescentians had an enjoyable day at school, and look forward to more Chinese New Year celebrations over the long weekend.
 
-**Written by Emily Wenqi Perera (3G3) **
-
-
+**Written by Emily Wenqi Perera (3G3)**
