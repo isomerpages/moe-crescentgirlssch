@@ -2,6 +2,7 @@ collections:
   "2020":
     output: true
     order:
+      - January/Orientation Campfire.md
       - January/Results of GCE O Level Results.md
       - January/Chinese New Year Celebrations.md
       - January/.keep
