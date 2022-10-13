@@ -4,3 +4,14 @@ permalink: /cradle/crescent-academy-for-digital-age-learning/dalc/
 description: ""
 third_nav_title: Digital   Age Learning
 ---
+### **Digital Age Learning Conference (DALC)**
+
+To share Crescent’s journey in the use of educational technology for engaged learning, CrADLe has organised several conferences since 2011.
+
+**[DALC 2011](/files/DALC%202011.pdf)**<br>
+**[DALC 2014](/files/DALC%202014.pdf)**<br>
+**[DALC 2016](/files/DALC%202016.pdf)**<br>
+**[DALC 2017](/files/DALC%202017.pdf)**<br>
+DALC 2019 (**[Programme](/files/DALC%202019%20Programme.pdf)** | **[Presentations](/files/DALC%202019%20Presentation.pdf)**)<br>
+DALC 2020 (**[Programme](/files/DALC%202020%20Programme.pdf)** | **[Presentations](/files/DALC%202020%20Presentation.pdf)**)<br>
+
