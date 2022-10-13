@@ -2,4 +2,5 @@ collections:
   whats-happening:
     output: true
     order:
+      - What's Happening/2019.md
       - What's Happening/.keep
