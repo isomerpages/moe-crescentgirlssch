@@ -14,4 +14,4 @@ As I stepped foot into the auditorium, I could feel the intensity of the atmosph
 
 In that moment, I had never felt more pride for my seniors, and pride in being a Crescentian.&nbsp;
 
-Written by: Celestine Sun Xi Yao (4S1)
+**Written by: Celestine Sun Xi Yao (4S1)**
