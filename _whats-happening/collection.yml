@@ -2,4 +2,5 @@ collections:
   whats-happening:
     output: true
     order:
+      - What's Happening/.keep
       - What's Happening.md
