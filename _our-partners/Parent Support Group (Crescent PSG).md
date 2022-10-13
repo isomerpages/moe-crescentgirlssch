@@ -166,7 +166,7 @@ Not in picture: Asst Treasurer, MRs Ng Voon Keen, Mr M Muthusamy, Mr S Ramesh Ku
 
 Find out more about our activities here: [https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
 
-Parents interested may sign up for PSG membership at [http://goo.gl/forms/fceBhsAnjc](http://goo.gl/forms/fceBhsAnjc "http://goo.gl/forms/fceBhsAnjc
+Parents interested may sign up for PSG membership at [http://goo.gl/forms/fceBhsAnjc](http://goo.gl/forms/fceBhsAnjc) **website unavailable**
 Ctrl+Click or tap to follow the link")
 
 ##### **2013**
