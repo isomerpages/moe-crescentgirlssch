@@ -14,8 +14,8 @@ Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/202
 
 #### **2020**
 
-Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/)** to find out more!
+Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2020/jan/dedication-ceremony/)** to find out more!
 
 #### **2019**
 
-Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/)** to find out more!
+Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2019/jan/)** to find out more!
