@@ -2,5 +2,6 @@ collections:
   "2020":
     output: true
     order:
+      - October/.keep
       - November/.keep
       - December/.keep
