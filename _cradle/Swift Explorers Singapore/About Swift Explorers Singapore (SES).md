@@ -12,4 +12,4 @@ Crescent Girls’ School is organizing the inaugural Swift Explorers Singapore (
 
 #### **Register to Participate**
 **Registration will open from 10 February 2022 to 4 March 2022**, on a first-come-first-served basis.<br>
-Registration Form:  **[Click Here to register](https://form.gov.sg/#!/61ee04e4d3b3e60013caef2c)**
+Registration Form:  **[Click Here to register](https://form.gov.sg/#!/61ee04e4d3b3e60013caef2c)** **form expired**
