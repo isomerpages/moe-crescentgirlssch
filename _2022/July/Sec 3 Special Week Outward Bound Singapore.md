@@ -12,7 +12,7 @@ One main highlight was building a raft with my watchmates. We had to secure barr
 <img src="/images/2022obs1.jpg" style="width:49%" align=left>
 <img src="/images/2022obs2.jpg" style="width:49%" align=right>
 
-<br clear="left"><br>
+<br clear="left">
 
 <img src="/images/2022obs3.jpg" style="width:49%" align=left>
 <img src="/images/2022obs4.jpg" style="width:49%" align=right>
