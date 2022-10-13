@@ -5,7 +5,7 @@ description: ""
 ---
 ### **School Advisory Committee**
 
-| <img src="/images/sac1.jpg" style="width:65%"> | <img src="/images/sac2.jpg" style="width:28%"> |
+| <img src="/images/sac1.jpg" style="width:65%" align=right> | <img src="/images/sac2.jpg" style="width:28%"> |
 |:---:|:---:|
 | Mr S Sivaram<br>**Chairman** | Mrs Helen ChongHon<br>**Secretary/Principal** |
 
