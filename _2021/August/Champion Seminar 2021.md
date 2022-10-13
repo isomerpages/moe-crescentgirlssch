@@ -17,3 +17,4 @@ Though the Covid-19 situation proved a difficult obstacle for our HOUSE leaders 
 
 **Written by: HOUSE Exco 21/22**
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQosPNWqlAYV2cUH4xuDVkJwXW6vBWan8QlO39Ys1mMXJ-bG99iU3npKe7jy4616L3YtPpK_F9111l7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
