@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - January/.keep
       - February/.keep
       - March/.keep
       - April/.keep
