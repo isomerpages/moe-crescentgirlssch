@@ -35,8 +35,8 @@ Students will use ICDL e-Learning platform to complete **7 lessons** in this p
 
 |  |
 |:---:|
-| [Upper Primary Level](https://form.gov.sg/#!/61a44c45fb55fa001263bb59) |
-| [Secondary Level](https://form.gov.sg/#!/61a44c45fb55fa001263bb59) |
+| [Upper Primary Level](https://form.gov.sg/#!/61a44c45fb55fa001263bb59) **form expired**|
+| [Secondary Level](https://form.gov.sg/#!/61a44c45fb55fa001263bb59) **form expired**|
 |
 
 #### **Timeline and Summary of Key Dates**
@@ -70,8 +70,3 @@ The online portal will be generating the e-certificate for students upon their c
 
 **7\. Do students need Windows-based devices to access the content for Learn Module?**<br>
 Students will need an internet-enabled device (laptop, iPad, Chrome Book etc.) with internet browser to access the e-Learning portal to complete the e-Learning modules.
-
-
-
-
-
