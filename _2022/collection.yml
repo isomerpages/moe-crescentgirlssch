@@ -2,6 +2,7 @@ collections:
   "2022":
     output: true
     order:
+      - January/Secondary 3 Orientation @ Crescent.md
       - January/.keep
       - January/Dedication Ceremony.md
       - February/.keep
