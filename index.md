@@ -24,7 +24,7 @@ sections:
       subtitle: crescent girls' school
       description: Keep up with what's happening at CGS!
       button: Learn more
-      url: /whats-happening/2022/
+      url: /whats-happening/
   - infopic:
       title: Parent Support Group
       subtitle: crescent girls' school
