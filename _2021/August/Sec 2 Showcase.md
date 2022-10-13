@@ -13,3 +13,5 @@ Overall, my experiences are fun and enriching, experiences which I will cherish 
 
 **_Written by: Sibylla Daphne Koo (2C2)_**
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwj2zvdHd899C6CyAkxVmE3XXNi7Z32dKSsvNaDigJ9xZpq3wlxrEDIY9NX3aOvG5jBBbFWPbVvTWs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
