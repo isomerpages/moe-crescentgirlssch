@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - January/Dedication Ceremony Pupil's Creed.md
       - January/.keep
       - February/.keep
       - March/.keep
