@@ -16,7 +16,7 @@ description: ""
 | OPAL 2.0 | [https://idm.opal2.moe.edu.sg/](https://idm.opal2.moe.edu.sg/) |
 | Library OPAC  | [https://schoolibrary.moe.edu.sg/crescentgirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME](https://schoolibrary.moe.edu.sg/crescentgirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
 | Parent Gateway | [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) |
-| Resource Booking System | [https://rbs.avero-tech.com/login.html |
+| Resource Booking System | [https://rbs.avero-tech.com/login.html](https://rbs.avero-tech.com/login.html) |
 | SC Mobile | [https://scmobile.moe.edu.sg/](https://scmobile.moe.edu.sg/) |
 | School cockpit (Admin and Reports) | [https://schoolcockpit.moe.gov.sg/](https://schoolcockpit.moe.gov.sg/) |
 | School cockpit (Result Entry) | [https://schoolcockpit.moe.gov.sg/academic](https://schoolcockpit.moe.gov.sg/academic) |
