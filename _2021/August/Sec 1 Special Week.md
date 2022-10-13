@@ -14,5 +14,4 @@ All in all, the activities conducted during the week were indeed enriching and m
 
 **_Written by: Leong En Rui (1G1)_**
 
-
-
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmzJH2lw7H98MU2qTX-sQT9YI4iUizxCF8k8PQ4TrrJl055sUQ-LFkvB4IR9ACcEX-REPyCUPFlbKg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
