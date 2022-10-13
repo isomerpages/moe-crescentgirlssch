@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - January/THIMUN 2018.md
       - January/Sec 1 Orientation Campfire.md
       - January/Release of 'O' Level Results.md
       - January/Interview with 'O' Level Graduates.md
