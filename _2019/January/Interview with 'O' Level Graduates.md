@@ -7,7 +7,7 @@ third_nav_title: January
 ### **Interview with 'O' Level Graduates**
 After the release of the 2018 ‘O’ level results, we were given the opportunity to interview some of the O level graduates who had just received their results after months of anticipation.
 
-##### **Q1**: What are your feelings right now after receiving your results?
+##### **Q1: What are your feelings right now after receiving your results?**:
 
 **Anisah:**&nbsp;I think right now I feel very numb but overall I feel very happy because I have achieved the expectations I had set for myself for O levels.
 
@@ -19,7 +19,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Tanvi:**&nbsp;I am really overwhelmed as I did not expect this.
 
-##### **Q2:**&nbsp;Where/who did you draw your inspiration/motivation from?
+##### **Q2: Where/who did you draw your inspiration/motivation from?:**&
 
 **Rachel Quek:**&nbsp;My mother, father, and teachers
 
@@ -35,7 +35,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Yu Xun:**&nbsp;My parents were my source of motivation. They were always so encouraging.
 
-##### **Q3**: What are some of the study methods you employed?
+##### **Q3: What are some of the study methods you employed?**
 
 **Rachel Teo:**&nbsp;I am an auditory learner so I think it is best for me to recite my notes repeatedly to a wall or mirror to memorise my content. Additionally, if you are one of those that study last minute, you should really push yourself to start earlier! From my experience, by studying earlier, it is easier to clarify my doubts and be sure of the content I’ve revised.
 
@@ -47,7 +47,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Ke En:**&nbsp;I wrote on the whiteboard for example when memorising content heavy subjects like Biology and would pretend to teach someone else. It helped me deepen my understanding of the subject. I am also an auditory leaner so I would read out my notes to grasp the content better.&nbsp;
 
-##### **Q4**: How did you manage your time between academics and other commitments?
+##### **Q4: How did you manage your time between academics and other commitments?**
 
 **Natanya:**&nbsp;It is important to know what commitments you are attached to and be clear of your responsibilities. You can have a schedule or some kind of planner to list out your tasks. Procrastination is not easy to avoid and to overcome this I fell back on my planner which helped me to be on task and actually allowed me to have some rest time too.
 
@@ -57,7 +57,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Yu Xun:**&nbsp;Time management is important, I used any free time I had such as traveling time and free period or recess to read through my notes.&nbsp;
 
-##### **Q5**: What are some obstacles you faced, and how did you manage to overcome them?
+##### **Q5: What are some obstacles you faced, and how did you manage to overcome them?**
 
 **Anisah:**&nbsp;I think the main obstacle faced would be family matters. In my Secondary 4 year, many things happened between my parents and I found it very hard to continue to study and be motivated to push on. As I am not only a student, I am also a family member, I realised that I have a responsibility to my family as I did to my education. Besides that, another obstacle would be commitments from secondary 3. Personally, I feel that secondary 3 was one of the most painful years as there were a sudden influx of commitments and responsibilities. I had to learn on the job, however when I went up to secondary 4, it was easier as I had learnt to manage these expectations I have of myself.
 
@@ -71,7 +71,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Tanvi:**&nbsp;Initially I was feeling overwhelmed by the tests and the test grades but after speaking to my friends and teachers I learnt to manage my emotions better and it really helped because I was calm during O levels, which helped me think clearly.&nbsp;
 
-##### **Q6**: What were some distractions you faced and how did you manage to overcome them?
+##### **Q6: What were some distractions you faced and how did you manage to overcome them?**
 
 **Rachel Teo:**&nbsp;One of the greatest distractions for us would be our hand phones. I suggest using apps such as ‘Forest’ and ‘Tide’ that will lock your phone so you would not be able to access it for a certain period of time.
 
@@ -81,7 +81,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Chloe:**&nbsp;There are certain apps that can restrict you from using your phone for a certain period of time. I used those apps to prevent myself from getting distracted by social media.&nbsp;
 
-##### **Q7**: What advice do you have for your juniors taking their ‘O’ levels this year (2019)?
+##### **Q7: What advice do you have for your juniors taking their ‘O’ levels this year (2019)?**
 
 **Natanya:**&nbsp;All the best! It may seem like a really big hurdle now but in the end it will all work out and you’ll find that ‘O’ levels is still manageable and as you’re left with slightly less than one year, really do need to work hard for it and make full use of your time and cherish all your classes as what you learn in lessons is really very important.
 
@@ -99,7 +99,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Wen Xin:**&nbsp;You should be confident and never give up. It’s always never too late to start working hard. Also remember to take time to rest. Work hard!
 
-##### **Q8**: How do you think the Crescent school culture helped you in preparing for your O Levels?
+##### **Q8: How do you think the Crescent school culture helped you in preparing for your O Levels?**
 
 **Isa:**&nbsp;I think Crescent has a culture that is very supportive. Teachers know when students need help even when we do not ask for help. They always devote themselves to their students. Personally, night study sessions are something I am really very grateful for because it gave me a chance to really buckle down and study in an environment that is conducive, especially if there is a lot going on at home. It is easy to ask your friends for help too! Crescent has provided me the opportunities to better myself and the teachers are always willing to go the extra mile for us.
 
@@ -111,7 +111,7 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Ke En:**&nbsp;I think everyone in the school is supportive especially as we were nearing O levels so it made me feel like I was not fighting a one-man battle. Teachers were also always available for consultations.&nbsp;
 
-##### **Q9**: What are some of your plans after this?
+##### **Q9: What are some of your plans after this?**
 
 **Anisah:**&nbsp; I have plans I have thought up way before the ‘O’ levels. I wish to take the Biomedical Science course at Ngee Ann Polytechnic because I really want to become a doctor or a job in that field. I am also doing this for my family as after I go to polytechnic I plan to go to university. This is just a plan, I have no idea if I will change my mind as my ‘O’ level grades are what I wanted but I think this is what I am going with for now.
 
@@ -141,4 +141,3 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 |
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQM1AeFU7AR8tMczz7wCjpglY5r-s9HR-2037aNkeWaT3MZNsdhlqFFdCLYeQsB0IYm9yjvI9laVh8H/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
