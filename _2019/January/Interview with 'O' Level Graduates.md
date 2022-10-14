@@ -91,33 +91,33 @@ After the release of the 2018 ‘O’ level results, we were given the opportuni
 
 **Celest:** Do not study throughout the night and sleep in class because you will miss out so much if you are not paying attention in class. At least try to sleep by 11 pm and you will feel refreshed in the morning and be more attentive during lessons. 
 
-**Shalini:**: All the best! Is it not going to be easy but have faith in yourself and surround yourself with friends who are equally motivated to do well. If you have any questions, do not be shy to ask your teachers for help.&nbsp;
+**Shalini:** All the best! Is it not going to be easy but have faith in yourself and surround yourself with friends who are equally motivated to do well. If you have any questions, do not be shy to ask your teachers for help.&nbsp;
 
-**Ke En:**: Do not be hard on yourself if you ever not do well in any of the tests. Sometimes, you might do badly but failure is part and parcel of life and your test grades will not determine your O level results so do not let the numbers get to you!
+**Ke En:** Do not be hard on yourself if you ever not do well in any of the tests. Sometimes, you might do badly but failure is part and parcel of life and your test grades will not determine your O level results so do not let the numbers get to you!
 
-**Lanqing:**: My advice is to believe in yourself. Sometimes you will get bad results but you need to have faith in yourself.
+**Lanqing:** My advice is to believe in yourself. Sometimes you will get bad results but you need to have faith in yourself.
 
-**Wen Xin:**: You should be confident and never give up. It’s always never too late to start working hard. Also remember to take time to rest. Work hard!
+**Wen Xin:** You should be confident and never give up. It’s always never too late to start working hard. Also remember to take time to rest. Work hard!
 
 ##### **Q8: How do you think the Crescent school culture helped you in preparing for your O Levels?**
 
-**Isa:**: I think Crescent has a culture that is very supportive. Teachers know when students need help even when we do not ask for help. They always devote themselves to their students. Personally, night study sessions are something I am really very grateful for because it gave me a chance to really buckle down and study in an environment that is conducive, especially if there is a lot going on at home. It is easy to ask your friends for help too! Crescent has provided me the opportunities to better myself and the teachers are always willing to go the extra mile for us.
+**Isa:** I think Crescent has a culture that is very supportive. Teachers know when students need help even when we do not ask for help. They always devote themselves to their students. Personally, night study sessions are something I am really very grateful for because it gave me a chance to really buckle down and study in an environment that is conducive, especially if there is a lot going on at home. It is easy to ask your friends for help too! Crescent has provided me the opportunities to better myself and the teachers are always willing to go the extra mile for us.
 
-**Chloe:**: Crescent is nurturing as the teachers are helpful and they act as a source of motivation for us.
+**Chloe:** Crescent is nurturing as the teachers are helpful and they act as a source of motivation for us.
 
-**Rachel Quek:**: The teachers are always so supportive and have helped me quite a lot during stressful times. My classmates and friends were also equally understanding and encouraging, for example we shared our notes with each other. There were times I was struggling with some subjects like A Math and Chinese and I got help from my friends Min and Crisann who always helped me with the subjects I was weaker in and I would help them with subjects they were weaker in.
+**Rachel Quek:** The teachers are always so supportive and have helped me quite a lot during stressful times. My classmates and friends were also equally understanding and encouraging, for example we shared our notes with each other. There were times I was struggling with some subjects like A Math and Chinese and I got help from my friends Min and Crisann who always helped me with the subjects I was weaker in and I would help them with subjects they were weaker in.
 
-**Wen Xin:**: I think the teachers are helpful and they have always been there to help me whenever I had some doubts or difficulties. We were able to approach them for consultations and they always tried to help us improve.
+**Wen Xin:** I think the teachers are helpful and they have always been there to help me whenever I had some doubts or difficulties. We were able to approach them for consultations and they always tried to help us improve.
 
-**Ke En:**: I think everyone in the school is supportive especially as we were nearing O levels so it made me feel like I was not fighting a one-man battle. Teachers were also always available for consultations.
+**Ke En:** I think everyone in the school is supportive especially as we were nearing O levels so it made me feel like I was not fighting a one-man battle. Teachers were also always available for consultations.
 
 ##### **Q9: What are some of your plans after this?**
 
-**Anisah:**: I have plans I have thought up way before the ‘O’ levels. I wish to take the Biomedical Science course at Ngee Ann Polytechnic because I really want to become a doctor or a job in that field. I am also doing this for my family as after I go to polytechnic I plan to go to university. This is just a plan, I have no idea if I will change my mind as my ‘O’ level grades are what I wanted but I think this is what I am going with for now.
+**Anisah:** I have plans I have thought up way before the ‘O’ levels. I wish to take the Biomedical Science course at Ngee Ann Polytechnic because I really want to become a doctor or a job in that field. I am also doing this for my family as after I go to polytechnic I plan to go to university. This is just a plan, I have no idea if I will change my mind as my ‘O’ level grades are what I wanted but I think this is what I am going with for now.
 
-**Ke En:**: I am still conflicted between JC and Poly, I need some time to think through. I do know that I am going to do something in the science field.&nbsp;
+**Ke En:** I am still conflicted between JC and Poly, I need some time to think through. I do know that I am going to do something in the science field.&nbsp;
 
-**Wen Xin:**: I am going to JC and am interested in the science stream. I am also excited to choose another CCA that would be of interest to me!
+**Wen Xin:** I am going to JC and am interested in the science stream. I am also excited to choose another CCA that would be of interest to me!
 
 | Interviewees |  | Interviewees |  |
 |:---:|---|:---:|---|
