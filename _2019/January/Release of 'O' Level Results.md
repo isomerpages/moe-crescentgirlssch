@@ -5,8 +5,7 @@ description: ""
 third_nav_title: January
 ---
 ### **Release of ‘O’ Level Results**
-05 Mar 2019
-
+05 Mar 2019<br>
 ‘Results’ - the word that fills everyone with both excitement and fear. Our previous batch of Crescentians were no exception when they returned to school to receive their GCE O-Level results on 14 January.  
   
 The lively atmosphere of the hall fell silent as our principal Mrs. Chong entered. Everyone waited in anticipation. Mrs. Chong started by congratulating our seniors for their excellent overall performance. She began by announcing the names of the students with Character award, showed us how the cohort did for each subject, and finally the names of the students who performed well, academically. As these names flashed on the screen, a thunderous applause was heard. Some were brimming with pride at their accomplishments, while others were still in disbelief, having done much better than they had expected.  
