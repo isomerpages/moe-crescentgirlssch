@@ -26,7 +26,7 @@ third_nav_title: Character and Citizenship Edu
 
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. 
 
-You may click [here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/) **website unavailable** for more information on MOE Sexuality Education.
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
 #### **Overview of Cresent Girls' School's Sexuality Education Programme for 2022**
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum.
@@ -122,4 +122,3 @@ a) The mass talk is conducted by a speaker engaged by the Health Promotion Board
 b) The duration of the assembly talk is about 1 hour. It includes a multi- media presentation, video screening as well as presentation of key learning points.<br>
 c) The classroom-based lesson reinforces skills of responsible decision-making, negotiation and assertiveness. The suggested time for the lesson is about one hour.<br>
 d) Training for teachers to conduct the classroom-based programme is provided for by MOE and HPB.
-
