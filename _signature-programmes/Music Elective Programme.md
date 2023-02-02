@@ -41,7 +41,7 @@ The compulsory audition will require the applicant to present Two Contrasting pi
 
 [Click here](https://tinyurl.com/yyx8tfqm)&nbsp;to access the MEP online application form for Secondary 1 or use the QR code below
 
-For more information on MEP please click&nbsp;[here](http://www.moe.gov.sg/education/secondary/other/music-elective-programme/) **website unavailable**.<br>
+For more information on MEP please click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/overview) **Updated**.<br>
 Click&nbsp;[here](https://www.facebook.com/6788957003/posts/10160206090752004/?vh=e)&nbsp;to access the MOE Facebook page.
 
 <img style="width:30%" src="/images/musicqr.png">
