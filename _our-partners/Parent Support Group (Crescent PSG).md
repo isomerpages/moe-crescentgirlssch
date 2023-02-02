@@ -23,7 +23,7 @@ Parents, standing together with the school to equip each student with vital know
 *   Organize and/or conduct workshops, courses, talks;
 
 **JOIN US!**
-*   Sign up for PSG membership:  [http://tiny.cc/JoinCrescentPSG](http://tiny.cc/JoinCrescentPSG)
+*   Sign up for PSG membership:  [http://tiny.cc/JoinCrescentPSG](https://tinyurl.com/JoinCrescentPSG2023)
 
 <img src="/images/psgqrcode.png" style="width:15%" align=left>
 
@@ -165,9 +165,6 @@ Parents, standing together with the school to equip each student with vital know
 Not in picture: Asst Treasurer, MRs Ng Voon Keen, Mr M Muthusamy, Mr S Ramesh Kumar, Mr Mohd Khusni, Mdm Rosaidah Ghazali, Mdm Sharifah Maznah.
 
 Find out more about our activities here: [https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
-
-Parents interested may sign up for PSG membership at [http://goo.gl/forms/fceBhsAnjc](http://goo.gl/forms/fceBhsAnjc) **website unavailable**
-Ctrl+Click or tap to follow the link")
 
 ##### **2013**
 
