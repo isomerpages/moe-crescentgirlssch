@@ -35,6 +35,7 @@ We will continue to work hard and give our all for the team, and we hope to help
 * Mr Foo Wen Yeow
 * Mr Huang Pengyuan
 
+
 ### **Blurbs**
 “Badminton has been such an enjoyable sport for me and has taught me about the importance of teamwork. It is particularly true when I partner someone else during doubles, as I have to work and communicate with my partner. On the whole, my involvement in the Badminton Team has been a very fulfilling experience and it has taught me many good things.”  
 **- Ruth Sng (1G1) on the things she has learnt the most since coming into Badminton_**  
