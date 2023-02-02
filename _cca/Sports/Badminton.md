@@ -31,7 +31,6 @@ We will continue to work hard and give our all for the team, and we hope to help
 **OIC:**
 * Ms Magdalena Furtado
 
-
 **OTHER TEACHER I/Cs:**
 * Mr Foo Wen Yeow
 * Mr Huang Pengyuan
