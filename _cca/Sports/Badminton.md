@@ -28,7 +28,7 @@ We will continue to work hard and give our all for the team, and we hope to help
 
 #### **TEACHERS-IN-CHARGE:**
 
-**OIC***
+**OIC:**
 * Ms Magdalena Furtado
 
 
