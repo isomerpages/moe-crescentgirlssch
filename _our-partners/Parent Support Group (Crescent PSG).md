@@ -24,28 +24,37 @@ Parents, standing together with the school to equip each student with vital know
 *   Organize and/or conduct workshops, courses, talks;
 
 **JOIN US!**
-*   Sign up for PSG membership:  [http://tiny.cc/JoinCrescentPSG](https://tinyurl.com/JoinCrescentPSG2023)
+*   Sign up for PSG membership:&nbsp;&nbsp;[http://tiny.cc/JoinCrescentPSG](https://tinyurl.com/JoinCrescentPSG2023)
 
-<img src="/images/psgqrcode.png" style="width:15%" align=left>
+<img align="left" style="width:15%" src="/images/psgqrcode.png">
 
 <br clear="left">
 
 **Contact Us:**
-* **Email us:** [psgcgs@gmail.com](mailto:psgcgs@gmail.com)
+* **Email us:**&nbsp;[psgcgs@gmail.com](mailto:psgcgs@gmail.com)
 
 **Find out more about Crescent PSG!**
-*   **“Like” us on Facebook :** [https://www.facebook.com/crescentpsg/](https://www.facebook.com/crescentpsg/)
-*   **“Follow” us on Instagram :** [https://instagram.com/crescentpsg](https://instagram.com/crescentpsg)
+*   **“Like” us on Facebook :**&nbsp;[https://www.facebook.com/crescentpsg/](https://www.facebook.com/crescentpsg/)
+*   **“Follow” us on Instagram :**&nbsp;[https://instagram.com/crescentpsg](https://instagram.com/crescentpsg)
 
 
 
 #### **2022**
 
 
-![Chairperson Mrs Daphne Koo Mohamed](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/Mrs%20Daphne%20Koo%20Mohamed%20-%20Chairperson.jpg)
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(15, 20, 33); font-family: Calibri; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; height: 280px; width: 544.426px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 192px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%; width: 175px; height: 223px;" class="ive_eobj_center" alt="Mrs Daphne Koo Mohamed - Chairperson.jpg" src="https://raw.githubusercontent.com/isomerpages/moe-crescentgirlssch/staging/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/Mrs%20Daphne%20Koo%20Mohamed%20-%20Chairperson.jpg">Chairperson<br style="margin: 0px; outline: 0px; padding: 0px;">Mrs Daphne Koo Mohamed<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 176px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%;" class="ive_eobj_center" alt="Ms Michelle Fu - Vice Chairperson.png" src="https://www.crescent.edu.sg/qql/slot/u360/Our%20Partners/PSG/2022/Ms%20Michelle%20Fu%20-%20Vice%20Chairperson.png">Vice Chairperson<br style="margin: 0px; outline: 0px; padding: 0px;">Ms Michelle Fu</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 176px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%; width: 175px; height: 225px;" class="ive_eobj_center" alt="Mdm Mini Melanie - Vice Chairperson.jpg" src="https://www.crescent.edu.sg/qql/slot/u360/Our%20Partners/PSG/2022/Mdm%20Mini%20Melanie%20-%20Vice%20Chairperson.jpg">Vice Chairperson<br style="margin: 0px; outline: 0px; padding: 0px;">Mdm Mimi Melanie</td></tr></tbody></table>
+
+  
+
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(15, 20, 33); font-family: Calibri; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 186px; width: 552.953px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 135px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%; text-align: center; width: 138px; height: 178px;" class="ive_eobj_center" alt="Ms Melissa Ong - Secretary.jpg" src="https://www.crescent.edu.sg/qql/slot/u360/Our%20Partners/PSG/2022/Ms%20Melissa%20Ong%20-%20Secretary.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Secretary</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms Melissa Ong</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 139px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%;" class="ive_eobj_center" alt="Ms Charmaine Ee - Treasurer.jpg" src="https://www.crescent.edu.sg/qql/slot/u360/Our%20Partners/PSG/2022/Ms%20Charmaine%20Ee%20-%20Treasurer.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; text-align: center;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Treasurer</span></div></span><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms Charmaine Ee</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 139px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%;" class="ive_eobj_center" alt="Mrs Gail Chang - Assistant Treasurer.jpg" src="https://www.crescent.edu.sg/qql/slot/u360/Our%20Partners/PSG/2022/Mrs%20Gail%20Chang%20-%20Assistant%20Treasurer.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Assistant Treasurer</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Mrs Gail Chang</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 139px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; max-width: 100%;" class="ive_eobj_center" alt="Ms Serena Hoo - Internal Auditor.jpg" src="https://www.crescent.edu.sg/qql/slot/u360/Our%20Partners/PSG/2022/Ms%20Serena%20Hoo%20-%20Internal%20Auditor.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Interal Auditor</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms Serena Hoo</span></div></td></tr></tbody></table>
+
+
+
+
+
 
 <figure>
-<img src="/images/Our-Partners/Parents-Support-Group-(PSG)/Mrs_Daphne_Koo_Mohamed_-_Chairperson.jpg" style="width:75%">
+<img style="width:30%" src="https://raw.githubusercontent.com/isomerpages/moe-crescentgirlssch/staging/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/Mrs%20Daphne%20Koo%20Mohamed%20-%20Chairperson.jpg">
 <figcaption> 2021 PSG Committee
  </figcaption>
 </figure>	
@@ -97,7 +106,7 @@ Parents, standing together with the school to equip each student with vital know
 #### **Crescent PSG 2021**
 
 <figure>
-<img src="/images/crescentpsg1.jpg" style="width:75%">
+<img style="width:75%" src="/images/crescentpsg1.jpg">
 <figcaption> 2021 PSG Committee
  </figcaption>
 </figure>	
@@ -105,56 +114,56 @@ Parents, standing together with the school to equip each student with vital know
 ##### **2020**
 
 <figure>
-<img src="/images/crescentpsg2.jpg" style="width:85%">
+<img style="width:85%" src="/images/crescentpsg2.jpg">
 <figcaption> 2020 PSG Committee
  </figcaption>
 </figure>	
 
-**First row (L-R):** Mrs Helen Chong (Principal), Mrs Ng Wei San (Admin Manager 2, PSG Liaison)  
+**First row (L-R):**&nbsp;Mrs Helen Chong (Principal), Mrs Ng Wei San (Admin Manager 2, PSG Liaison)  
 
-**Second row (L-R):** Dr Wu Ya Jun (Vice-Chairperson), Mrs Rupa Saha (Chairperson), Mrs Sowmya Sowrirajan (Vice-Chairperson)
+**Second row (L-R):**&nbsp;Dr Wu&nbsp;Ya&nbsp;Jun (Vice-Chairperson), Mrs&nbsp;Rupa&nbsp;Saha&nbsp;(Chairperson), Mrs&nbsp;Sowmya&nbsp;Sowrirajan&nbsp;(Vice-Chairperson)
 
-**Third Row (L-R):** Mrs Susai Justin Mareena (Secretary 2), Ms Priyanka Amarnath (Secretary 1), Mdm Chitra D/O Ammaiyappan (Treasurer 1), Mr Thiruvengadam Ponnurangam (Treasurer 2), Ms Moe Moe Kyaw (Internal Auditor 1), Mr Aloysius Lee / Alwi (Internal Auditor 2)
+**Third Row (L-R):**&nbsp;Mrs&nbsp;Susai&nbsp;Justin&nbsp;Mareena&nbsp;(Secretary 2), Ms&nbsp;Priyanka&nbsp;Amarnath&nbsp;(Secretary 1),&nbsp;Mdm&nbsp;Chitra&nbsp;D/O&nbsp;Ammaiyappan&nbsp;(Treasurer 1), Mr&nbsp;Thiruvengadam&nbsp;Ponnurangam&nbsp;(Treasurer 2), Ms Moe&nbsp;Moe&nbsp;Kyaw&nbsp;(Internal Auditor 1), Mr Aloysius Lee / Alwi (Internal Auditor 2)
 
-**Fourth Row (L-R):** Mdm Lim Beng Ling, Mdm Deepa Shimoga, Mdm Gowri Naidu, Mrs Malathi Balakrishnan, Mrs Priyanka Bhaumik 
+**Fourth Row (L-R):**&nbsp;Mdm&nbsp;Lim Beng Ling,&nbsp;Mdm&nbsp;Deepa&nbsp;Shimoga,&nbsp;Mdm&nbsp;Gowri&nbsp;Naidu, Mrs&nbsp;Malathi&nbsp;Balakrishnan, Mrs&nbsp;Priyanka&nbsp;Bhaumik&nbsp;
 
-**Fifth Row (L-R):** Mdm Soh See Theng, Mrs Vellampalli Vani Sree, Ms Tseng Chia Ly, Mdm S. Vidhyalakshmi, Mrs Panchack Airy Laoratanavoraphong, Dr Ng Lay Peng Emmaline May
+**Fifth Row (L-R):**&nbsp;Mdm&nbsp;Soh See&nbsp;Theng, Mrs&nbsp;Vellampalli&nbsp;Vani&nbsp;Sree, Ms Tseng Chia Ly,&nbsp;Mdm&nbsp;S.&nbsp;Vidhyalakshmi, Mrs&nbsp;Panchack&nbsp;Airy&nbsp;Laoratanavoraphong, Dr Ng Lay Peng&nbsp;Emmaline&nbsp;May
 
-**Sixth Row (L-R):** Mrs Sirisha Rani, Ms Dorothy Chong, Mrs Hemalatha, Ms Yeung Lee, Mrs Revathy Vadivelu, Mr Kailasam Vadivelu
+**Sixth Row (L-R):**&nbsp;Mrs&nbsp;Sirisha&nbsp;Rani, Ms Dorothy Chong, Mrs&nbsp;Hemalatha, Ms Yeung Lee, Mrs&nbsp;Revathy&nbsp;Vadivelu, Mr&nbsp;Kailasam&nbsp;Vadivelu
 
-**Seventh Row (L-R):** Ms Lim Hwee San, Mrs Tharshini Sivanandasothy, Ms Tjai King Yin, Mdm June Lam, Mr Damian Muthu, Mrs Daphne Koo, Mr Jensen Koo, Mdm Boddu Shilpa, Mr Sangepu Ramesh, Ms Cheryl Leong, Mr Gunalan, Mdm Siti Zubaidah Binte Yusuf, Mrs Cheryl Tan Lin Chor Huan, Mrs Sanghamitra Paul
+**Seventh Row (L-R):**&nbsp;Ms Lim Hwee San, Mrs&nbsp;Tharshini&nbsp;Sivanandasothy, Ms&nbsp;Tjai&nbsp;King Yin,&nbsp;Mdm&nbsp;June Lam, Mr Damian&nbsp;Muthu, Mrs Daphne Koo, Mr Jensen Koo,&nbsp;Mdm&nbsp;Boddu&nbsp;Shilpa, Mr&nbsp;Sangepu&nbsp;Ramesh, Ms Cheryl Leong, Mr&nbsp;Gunalan,&nbsp;Mdm&nbsp;Siti Zubaidah Binte Yusuf, Mrs Cheryl Tan Lin&nbsp;Chor&nbsp;Huan, Mrs&nbsp;Sanghamitra&nbsp;Paul
 
-**Eighth (L-R):** Ms Ismawati, Mrs Jayasudha Victor, Ms Sophia Tay, Mr Varun Jain, Ms Goh Bee Lin, Ms Michelle Fu, Mdm Mimi Melanie Mohamed, Mrs Monisha Budhrani, Ms Carol Tan, Mrs T Haritha, Mrs Aswini Sahiram, Mdm Maisie Chua, Mrs Thanuja Sanathi
+**Eighth (L-R):**&nbsp;Ms&nbsp;Ismawati, Mrs&nbsp;Jayasudha&nbsp;Victor, Ms Sophia Tay, Mr Varun Jain, Ms Goh Bee Lin, Ms Michelle Fu,&nbsp;Mdm&nbsp;Mimi Melanie Mohamed, Mrs&nbsp;Monisha&nbsp;Budhrani, Ms Carol Tan, Mrs T&nbsp;Haritha, Mrs&nbsp;Aswini&nbsp;Sahiram,&nbsp;Mdm&nbsp;Maisie&nbsp;Chua, Mrs&nbsp;Thanuja&nbsp;Sanathi
 
 ##### **2019**
 
 <figure>
-<img src="/images/crescentpsg3.jpg" style="width:85%">
+<img style="width:85%" src="/images/crescentpsg3.jpg">
 <figcaption> 2019 PSG Committee
  </figcaption>
 </figure>
 
-**First row (L-R):** Mdm Chitra D/O Ammaiyappan (Treasurer 1), Mdm Deepa Shimoga (Secretary 1), Mdm Joyce Wai, Mdm See Bee Bee (Chairperson), Mrs Helen Chong (Principal), Mrs Ng Wei San (Admin Manager 2, PSG Liaison), Ms Tseng Chia Ly (Treasurer 2), Mrs Rupa Saha (Vice-Chairperson), Mdm Reshma P.  
-**Second row (L-R):** Mr Tan Seng Kok, Mrs Fern Leong, Mrs  Kasturi Vanaja, Mrs Jannath Birdhouse, Ms Dorothy Chong, Mdm Aishah Mizal, Ms Moe Moe Kyaw, Mrs Bindhu Sajan, Mdm Jis Dominic, Mr Thiruvengadam Ponnurangam  
+**First row (L-R):**&nbsp;Mdm Chitra D/O Ammaiyappan (Treasurer 1), Mdm Deepa Shimoga (Secretary 1), Mdm Joyce Wai, Mdm See Bee Bee (Chairperson), Mrs Helen Chong (Principal), Mrs Ng Wei San (Admin Manager 2, PSG Liaison), Ms Tseng Chia Ly (Treasurer 2), Mrs Rupa Saha (Vice-Chairperson), Mdm Reshma P.&nbsp; 
+**Second row (L-R):**&nbsp;Mr Tan Seng Kok, Mrs Fern Leong, Mrs&nbsp; Kasturi Vanaja, Mrs Jannath Birdhouse, Ms Dorothy Chong, Mdm Aishah Mizal, Ms Moe Moe Kyaw, Mrs Bindhu Sajan, Mdm Jis Dominic, Mr Thiruvengadam Ponnurangam  
 
-**Third Row (L-R):** Mrs Malathi Balakrishnan, Ms Priyanka Amarnath (Secretary 2), Ms Lim Sock Hia, Mrs Adeline Binny, Ms Rene Neo, Mdm Gowri Naidu, Mr Aloysius Lee (Alwi)    
+**Third Row (L-R):**&nbsp;Mrs Malathi Balakrishnan, Ms Priyanka Amarnath (Secretary 2), Ms Lim Sock Hia, Mrs Adeline Binny, Ms Rene Neo, Mdm Gowri Naidu, Mr Aloysius Lee (Alwi)    
 
-**Fourth Row (L-R):** Mrs Sowmya Sowrirajan, Mdm Radin Mas, Ms Wanna Teoh, Ms Yeung Lee, Mdm Lim Beng Ling, Mrs Poonam Kaushik, Dr Wu Ya Jun, Mrs Revathy Vadivelu, Mr Kailasam Vadivelu  
+**Fourth Row (L-R):**&nbsp;Mrs Sowmya Sowrirajan, Mdm Radin Mas, Ms Wanna Teoh, Ms Yeung Lee, Mdm Lim Beng Ling, Mrs Poonam Kaushik, Dr Wu Ya Jun, Mrs Revathy Vadivelu, Mr Kailasam Vadivelu  
   
-**Not in picture:** Mdm Arajun Kavitha, Mdm S. Vidhyalakshmi, Mdm Minal Shelae, Mdm Soh See Theng, Mdm Sarika Jain, Mrs Susai Justin Mareena
+**Not in picture:**&nbsp;Mdm Arajun Kavitha, Mdm S. Vidhyalakshmi, Mdm Minal Shelae, Mdm Soh See Theng, Mdm Sarika Jain, Mrs Susai Justin Mareena
 
 ##### **2018**
 
 <figure>
-<img src="/images/crescentpsg4.jpeg" style="width:85%">
+<img style="width:85%" src="/images/crescentpsg4.jpeg">
 <figcaption> 2018 PSG Committee
  </figcaption>
 </figure>
 
-**First row L-R**: Ms Lim Sock Hia (Asst Secretary), Mdm Joyce Wai (Vice-Chairperson 2), Mdm See Bee Bee (Vice-Chairperson 1), Ms Daisy Ng (Chairperson), Mrs Helen Chong (Principal), Mrs Ng Wei San (Admin Manager 2, PSG Liaison), Mdm Chitra D/O Ammaiyappan (Treasurer), Mdm Kristina Lee (Asst Treasurer  
-), Mdm Deepa Shimoga (Secretary), Mdm S. Vidhyalakshmi   
+**First row L-R**: Ms Lim Sock Hia (Asst Secretary), Mdm Joyce Wai (Vice-Chairperson 2), Mdm See Bee Bee (Vice-Chairperson 1), Ms Daisy Ng (Chairperson), Mrs Helen Chong (Principal), Mrs&nbsp;Ng&nbsp;Wei&nbsp;San&nbsp;(Admin Manager 2, PSG Liaison), Mdm Chitra D/O Ammaiyappan (Treasurer), Mdm Kristina Lee (Asst Treasurer  
+), Mdm Deepa Shimoga (Secretary), Mdm S. Vidhyalakshmi&nbsp;  
   
-**Second & Third Row (L-R)**: Mrs  Kasturi Vanaja, Mrs Susai Justin Mareena, Mdm Gowri Naidu, Mrs Bindhu Sajan, Mrs Adeline Binny, Ms Rene Neo, Mrs Rupa Saha, Mdm Vivian  Tan, Mdm Reshma P., Mdm Minal Shelae, Mrs Jannath Birdhouse, Ms Ivy Low, Mdm Noor Mazura, Mrs Poonam Kaushik, Ms Moe Moe Kyaw  
+**Second &amp; Third Row (L-R)**: Mrs&nbsp; Kasturi Vanaja, Mrs Susai Justin Mareena, Mdm Gowri Naidu, Mrs Bindhu Sajan, Mrs Adeline Binny, Ms Rene Neo, Mrs Rupa Saha, Mdm Vivian&nbsp; Tan, Mdm Reshma P., Mdm Minal Shelae, Mrs Jannath Birdhouse, Ms Ivy Low, Mdm Noor Mazura, Mrs Poonam Kaushik, Ms Moe Moe Kyaw  
   
 **Fourth Row (L-R)**: Mr Tan Seng Kok, Ms Tseng Chia Ly, Mdm Aishah Mizal, Ms Wanna Teoh, Mdm Soh See Theng, Mdm Lim Beng Ling, Mrs Fern Leong, Mdm Anitha L. Bhat, Mdm Arajun Kavitha, Mdm Sarika Jain, Mdm Jis Dominic , Mdm Malathi Balakrishnan, Mr Aloysius Lee (Alwi).  
   
@@ -163,58 +172,58 @@ Parents, standing together with the school to equip each student with vital know
 ##### **2017**
 
 <figure>
-<img src="/images/crescentpsg5.jpeg" style="width:85%">
+<img style="width:85%" src="/images/crescentpsg5.jpeg">
 <figcaption> 2017 PSG Committee
  </figcaption>
 </figure>
 
-**Front Row (Seated) L-R:**  Mdm Anita Kaur (Mediator), Ms Alpana Keertikar (Vice-Chairperson 1), Mrs Ng Wei San (CGS Administration Manager), Mrs Helen Chong (CGS Principal), Mdm Betty Huang (Chairperson), Ms Daisy Ng (Vice-Chairperson 2)  
+**Front&nbsp;Row (Seated) L-R:**&nbsp;&nbsp;Mdm Anita Kaur&nbsp;(Mediator), Ms&nbsp;Alpana Keertikar (Vice-Chairperson 1),&nbsp;Mrs Ng Wei San (CGS Administration Manager),&nbsp;Mrs Helen Chong (CGS Principal),&nbsp;Mdm Betty Huang&nbsp;(Chairperson),&nbsp;Ms Daisy Ng&nbsp;(Vice-Chairperson 2)  
 
-**Second Row L-R:** Mdm Chen Lee Fun (Treasurer), Mrs Jannath Birdhouse, Mdm Jessie Ho, Mdm Kasturi Vanaja, Ms Rene Neo, Ms Lim Sock Hia (Assistant Secretary), Mrs Anitha Bhat (Assistant Treasurer), Ms Hsu Sin Min (Assistant Treasurer), Ms K Sheela, Mdm See Bee Bee (Secretary)
+**Second&nbsp;Row L-R:**&nbsp;Mdm Chen Lee Fun&nbsp;(Treasurer),&nbsp;Mrs&nbsp;Jannath Birdhouse,&nbsp;Mdm&nbsp;Jessie Ho, Mdm Kasturi Vanaja, Ms Rene Neo,&nbsp;Ms&nbsp;Lim Sock Hia&nbsp;(Assistant Secretary),&nbsp;Mrs&nbsp;Anitha Bhat (Assistant Treasurer),&nbsp;Ms&nbsp;Hsu Sin Min&nbsp;(Assistant Treasurer),&nbsp;Ms&nbsp;K Sheela,&nbsp;Mdm See Bee Bee (Secretary)
 
-**Third Row L-R:** Mr Perumal Dasarathan, Mdm Joycelyn Chew,  Mrs Bharathi Rajaram, Ms Ivy Ling, Mdm Chitra D/O Ammaiyappan, Mdm Jacqueline Ong, Mrs Rupa Saha, Mrs Yuka Tanida, Mrs Moe Moe Kyaw, Mrs Reshma.P
+**Third&nbsp;Row L-R:**&nbsp;Mr&nbsp;Perumal Dasarathan, Mdm&nbsp;Joycelyn Chew,&nbsp;&nbsp;Mrs&nbsp;Bharathi Rajaram,&nbsp;Ms Ivy Ling, Mdm&nbsp;Chitra D/O Ammaiyappan, Mdm&nbsp;Jacqueline Ong, Mrs&nbsp;Rupa Saha,&nbsp;Mrs Yuka Tanida, Mrs&nbsp;Moe Moe Kyaw,&nbsp;Mrs&nbsp;Reshma.P
 
-**Back Row L-R**: Mr Thomas See, Mrs Jis Dominic, Ms Malathi Balakrishnan, Mdm Gowri Naidu, Mrs Sneha Suthar, Mrs Irene Beh, Mrs Rajendran Kiruthiga Jagadeeswari, Mdm Deepa Shimoga, Mdm Fern Leong/Yap Hoon Hoon, Mrs M. Thilagavathi, Mr Tan Seng Kok, Mrs Arjunan Kavitha, Mr Wong Shih Shen, Mrs Bindhu Sajan, Mdm Joyce Wai, Mrs Mia Hwang
+**Back Row L-R**:&nbsp;Mr Thomas See,&nbsp;Mrs&nbsp;Jis Dominic, Ms&nbsp;Malathi Balakrishnan, Mdm&nbsp;Gowri Naidu, Mrs&nbsp;Sneha Suthar, Mrs&nbsp;Irene Beh, Mrs&nbsp;Rajendran Kiruthiga Jagadeeswari, Mdm&nbsp;Deepa Shimoga, Mdm&nbsp;Fern Leong/Yap Hoon Hoon,&nbsp;Mrs M. Thilagavathi,&nbsp;Mr&nbsp;Tan Seng Kok,&nbsp;Mrs&nbsp;Arjunan Kavitha, Mr&nbsp;Wong Shih Shen, Mrs&nbsp;Bindhu Sajan, Mdm&nbsp;Joyce Wai,&nbsp;Mrs Mia Hwang
 
-**Not in Picture: Ms** Anuradha Addanki, Mdm Noormazura Mohd Noordin, Mr Aloysius Lee (Alwi), Mrs Emily Tan Siew Pheng, Ms Kristina Lee
+**Not in Picture: Ms**&nbsp;Anuradha Addanki, Mdm&nbsp;Noormazura Mohd Noordin, Mr&nbsp;Aloysius Lee (Alwi), Mrs&nbsp;Emily Tan Siew Pheng, Ms&nbsp;Kristina Lee
 
 ##### **2016**
 
 <figure>
-<img src="/images/crescentpsg6.jpg" style="width:85%">
+<img style="width:85%" src="/images/crescentpsg6.jpg">
 <figcaption> 2016 PSG Committee
  </figcaption>
 </figure>
 
-**Front Row L-R:** Mdm Kasimah Kassim (Mediator), Ms Alpana Keertikar (Vice-Chairperson 2), Mrs Tan Chen Kee (CGS Principal), Mrs Savitha Kumar (Chairperson), Mdm Betty Huang (Vice-Chairperson 1), Mrs Ng Wei San (CGS Administration Manager)  
+**Front Row L-R:**&nbsp;Mdm Kasimah Kassim (Mediator), Ms Alpana Keertikar (Vice-Chairperson 2), Mrs Tan Chen Kee (CGS Principal), Mrs Savitha Kumar (Chairperson), Mdm Betty Huang (Vice-Chairperson 1), Mrs Ng Wei San (CGS Administration Manager)  
   
-**Second Row L-R:** Mdm Chen Lee Fun (Assistant Treasurer), Mrs Bharathi Rajaram, Ms Lim Sock Hia, Mrs Sneha Suthar, Mrs Jannath Birdhouse, Ms Anuradha Addanki, Ms Hsu Sin Min, Ms Daisy Ng, Mdm Noormazura Nordin (Secretary), Ms Jeya Priya (Assistant Secretary)  
+**Second Row L-R:**&nbsp;Mdm Chen Lee Fun (Assistant Treasurer), Mrs Bharathi Rajaram, Ms Lim Sock Hia, Mrs Sneha Suthar, Mrs Jannath Birdhouse, Ms Anuradha Addanki, Ms Hsu Sin Min, Ms Daisy Ng, Mdm Noormazura Nordin (Secretary), Ms Jeya Priya (Assistant Secretary)  
   
-**Third Row L-R:** Mdm Jessie Ho, Mr Tan Seng Kok, Mrs M. Thilagavathi, Mrs Mia Hwang, Ms Ivy Ling, Mrs Juliet Ho, Mdm Anita Kaur, Mdm Rogayah Mohamad, Mdm Angelina Anthony  
+**Third Row L-R:**&nbsp;Mdm Jessie Ho, Mr Tan Seng Kok, Mrs M. Thilagavathi, Mrs Mia Hwang, Ms Ivy Ling, Mrs Juliet Ho, Mdm Anita Kaur, Mdm Rogayah Mohamad, Mdm Angelina Anthony  
   
-**Fourth Row L-R:** Ms Sarinajit Kaur, Mrs Rajendran Kiruthiga Jagadeeswari, Mdm Sue Koondari, Mrs Anitha Bhat, Mrs Arjunan Kavitha, Mdm See Bee Bee, Mr Wong Shih Shen, Ms K Sheela
+**Fourth Row L-R:**&nbsp;Ms Sarinajit Kaur, Mrs Rajendran Kiruthiga Jagadeeswari, Mdm Sue Koondari, Mrs Anitha Bhat, Mrs Arjunan Kavitha, Mdm See Bee Bee, Mr Wong Shih Shen, Ms K Sheela
 
-**Not in picture:**, Ms Bernadette Ellya Jumana (Treasurer),  MrsYuka Tanida, Mdm Norhayati Kanapi
+**Not in picture:**,&nbsp;Ms&nbsp;Bernadette Ellya Jumana&nbsp;(Treasurer), &nbsp;MrsYuka Tanida, Mdm Norhayati Kanapi
 
 ##### **2015**
 
 <figure>
-<img src="/images/crescentpsg7.jpg" style="width:85%">
+<img style="width:85%" src="/images/crescentpsg7.jpg">
 <figcaption> 2015 PSG Committee
  </figcaption>
 </figure>
 
-**Front row L-R:** Mdm Savitha Kumar (Vice-Chairperson 1), Mrs Ng Voon Keen (Treasurer), Mdm Betty Huang (Vice-Chairperson 2), Mrs Tan Chen Kee (CGS Principal), Mdm Fadilah Alkaff (Chairperson), Mrs Ng Wei San (CGS Administration Manager 2), Mdm Angelina Anthony (Secretary);  
+**Front row L-R:**&nbsp;Mdm Savitha Kumar (Vice-Chairperson 1), Mrs Ng Voon Keen (Treasurer), Mdm Betty Huang (Vice-Chairperson 2), Mrs Tan Chen Kee (CGS Principal), Mdm Fadilah Alkaff (Chairperson), Mrs Ng Wei San (CGS Administration Manager 2), Mdm Angelina Anthony (Secretary);  
   
-**Middle Row L-R:** Mdm Sneha Suthar, Mdm Chen Lee Fun, Mdm Norhayati Kanapi, Mdm Anuradha Addanki, Mdm Kasimah Kasim, Mdm Hsu Sin Min, Ms Jeya Priya, Ms Jessie Ho, Mdm Anitha Bhatt;  
+**Middle Row L-R:**&nbsp;Mdm Sneha Suthar, Mdm Chen Lee Fun, Mdm Norhayati Kanapi, Mdm Anuradha Addanki, Mdm Kasimah Kasim, Mdm Hsu Sin Min, Ms Jeya Priya, Ms Jessie Ho, Mdm Anitha Bhatt;  
   
-**Back Row L-R:** Mdm Alpana Keertikar, Mdm Jess Ong, Mdm Rogayah Mohamad, Mdm Yuka Tanida, Mr Muthusamy Mariappan, Mdm Sarinajit Kaur, Mdm Bharathi Rajaram, Mdm Noormazura Nordin, Mdm Kiruthiga Ramesh.  
+**Back Row L-R:**&nbsp;Mdm Alpana Keertikar, Mdm Jess Ong, Mdm Rogayah Mohamad, Mdm Yuka Tanida, Mr Muthusamy Mariappan, Mdm Sarinajit Kaur, Mdm Bharathi Rajaram, Mdm Noormazura Nordin, Mdm Kiruthiga Ramesh.  
   
-**Not in picture:** Mdm Anita Kaur, Mdm Ellya Jumana (Assistant Treasurer), Mdm Ivy Ling, Mdm K.Malliha, Mdm K Sheela, Mdm M. Thilagavathi.
+**Not in picture:**&nbsp;Mdm Anita Kaur, Mdm Ellya Jumana (Assistant Treasurer), Mdm Ivy Ling, Mdm K.Malliha, Mdm K Sheela, Mdm M. Thilagavathi.
 
 ##### **2014**
 
-<img src="/images/crescentpsg8.jpg" style="width:75%">
+<img style="width:75%" src="/images/crescentpsg8.jpg">
 
 (Left to Right)
 
@@ -222,18 +231,18 @@ Parents, standing together with the school to equip each student with vital know
 
 Not in picture: Asst Treasurer, MRs Ng Voon Keen, Mr M Muthusamy, Mr S Ramesh Kumar, Mr Mohd Khusni, Mdm Rosaidah Ghazali, Mdm Sharifah Maznah.
 
-Find out more about our activities here: [https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
+Find out more about our activities here:&nbsp;[https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
 
 ##### **2013**
 
-<img src="/images/crescentpsg9.jpg" style="width:75%">
+<img style="width:75%" src="/images/crescentpsg9.jpg">
 
 (Left to Right)
 
-**Seated:** Mdm Fadilah Alkaff (Secretary), Mr S Siva Ram (Chairperson), Mrs Tan Chen Kee (Principal), Mrs Sandra Teo (Vice-Chairperson), Mr Tan Soh Koon (Treasurer), Mr Vincent Teo
+**Seated:**&nbsp;Mdm Fadilah Alkaff (Secretary), Mr S Siva Ram (Chairperson), Mrs Tan Chen Kee (Principal), Mrs Sandra Teo (Vice-Chairperson), Mr Tan Soh Koon (Treasurer), Mr Vincent Teo
 
-**Standing:** Mdm K Malliha, Mrs Foo-Ng Tze Leng, Mdm Winnie Tai, Mdm C. Arasi, Mdm Angelina Anthony, Mdm Kasimah Kassim, Mdm Ng Voon Keen (Vice-Treasurer), Mdm Rogaya bte Mohamed, Mrs Bernadette Ellya Jumana
+**Standing:**&nbsp;Mdm K Malliha, Mrs Foo-Ng Tze Leng, Mdm Winnie Tai, Mdm C. Arasi, Mdm Angelina Anthony, Mdm Kasimah Kassim, Mdm Ng Voon Keen (Vice-Treasurer), Mdm Rogaya bte Mohamed, Mrs Bernadette Ellya Jumana
 
-**Not in picture:** Mr Mariappan Muthusamy, Mrs Stpal Kaur, Ms R.Jeyapriya, Mrs Savitha Kumar.
+**Not in picture:**&nbsp;Mr Mariappan Muthusamy, Mrs Stpal Kaur, Ms R.Jeyapriya, Mrs Savitha Kumar.
 
-Find out more about our activities here: [https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
+Find out more about our activities here:&nbsp;[https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
