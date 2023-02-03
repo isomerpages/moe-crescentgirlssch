@@ -4,7 +4,8 @@ permalink: /our-partners/psg/
 description: ""
 ---
 ### **Parent Support Group (Crescent PSG)**
-#### **2022**
+
+#### **2023**
 **Our Vision and Guiding Philosophy:**<br>
 Parents, standing together with the school to equip each student with vital knowledge, useful skills, positive attitudes and upright values, to enable her to stand tall in the global community.
 
@@ -35,6 +36,55 @@ Parents, standing together with the school to equip each student with vital know
 **Find out more about Crescent PSG!**
 *   **“Like” us on Facebook :** [https://www.facebook.com/crescentpsg/](https://www.facebook.com/crescentpsg/)
 *   **“Follow” us on Instagram :** [https://instagram.com/crescentpsg](https://instagram.com/crescentpsg)
+
+
+
+#### **2022**
+
+
+**PSG MEMBER**
+|             |              |             |
+| -------- | -------- | -------- |
+| Ms Adel Yip | Ms Irene Cheong | Ms Sandra Lee |
+| Ms Alvean Lee | Mr Jason Tan | Mrs Sapna Amarnani |
+| Ms Amanda Lau   | Mrs Jayasudha Victor | Mrs Sara Wong |
+| Mrs Angeline Ang | Ms Jaynie Oh | Mrs Shamini Chandra |
+| Dr Angeline Ho | Mr Jensen Koo | Mrs Shanmugapriya Vijayakumar |
+| Mr Anthony Goh | Ms Jesiee Tanudji | Ms Shee Chie Poh |
+| Mr Benjamin Joseph Clement | Mr Jeyakumar Velusamy | Mdm Sherry Tan |
+| Ms Carol Tan | Ms Joanne Lui | Mrs Shirley Lam |
+| Mrs Cheryl Tan/ Lin | Mdm June Lam | Mrs Shuling Tong |
+| Ms Chiew Yang Lim | Ms Justina Ong | Mdm Shymala Devi |
+| Mdm Ching Ching Long | Mrs Jyothy Haridas | Mdm Siew Ching Tan |
+| Mr Chris Yeo | Mr Leslie Faisal D'Cruz | Mdm Siew Hua Tan |
+| Mrs Christine Cheong | Ms Lia Natalia | Ms Siti Nurbaya M J |
+| Mrs Christine Mak | Ms Ling Tze Tan | Ms Siti Zubaidah Yusuf |
+| Ms Christine Pranoto | Mrs Lu Han | Mrs Sivagami R |
+| Ms Clara Keng | Ms Lydia Thio | Ms Sophia Tay |
+| Mdm Cynthia Lau | Mdm Lynette Lai | Mrs Sowmya Vilvarayanallur |
+| Mr Damian Muthu | Ms Marie Ang | Mrs Sreelatha Kanta Reddy |
+| Mdm Devi Tan | Mr Martin Wang | Mdm Su Ching Sng |
+| Mrs Divya Prabhakar | Ms Maureen Goh | Mdm Sue May Low |
+| Ms Esther Lim | Ms Michelle Wee | Ms Susan Chiang |
+| Mr Francis Anthony Ramos | Mr Mohammad Nazree Mat Sidik | Ms Susan Ng |
+| Mdm Geena Chua | Mrs Nivashini P V Subramaniam | Mrs Thanuja Sanathi |
+| Mdm Geraldine Lim Xiuping | Ms Norain Nordin | Ms Tharshini S |
+| Mrs Gitanjali Srivastava | Mdm Parimala Balasubramaniam | Ms Uma Devi Kaliperema |
+| Ms Gnanaharan Lavanya | Mdm Parveen Sidhu | Mdm Vanessa Goh |
+| Ms Goh Bee Lin | Mdm Peck Boon Wee | Mr Venkatesh Guntur |
+| Ms Hazel Phua | Ms Pei Boon Tan | Mrs Vibhuti Chavda |
+| Mdm Helen Tandiono | Mdm Pheck Wan Lee | Mrs Vinodha Appaji |
+| Mrs Hima Bindu Guntur | Mr Prabu Vellaichamy | Mr Wai Yip Choh |
+| Mdm Hui Ping Tan | Mrs Priyadharshini Ganesan | Mdm Wan Fan Yeh |
+| Mdm Hwee Keng Loh | Ms Rena Goh | Dr War War Win Tun |
+| Mdm Ilya Ibrahim | Mr Ringo Fok | Mrs Winnie Cheah |
+| Mrs Inderpal Kaur | Mrs Sahiram Aswini | Dr Ya Jun Wu |
+| Mrs Ing Ing Cheong | Mr Sahoo Purnendu Bikash | Mdm Yuen Chen Lee |
+|             |              |             |
+
+
+
+
 
 #### **Crescent PSG 2021**
 
