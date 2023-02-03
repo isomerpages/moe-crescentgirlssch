@@ -15,6 +15,6 @@ description: ""
 | Ms Ramanujam Jeyapriya<br>**Member** | Ms Alpana Keertikar<br>**Member** | Mr Raymond Wong<br>**Member** |
 
 
-| <img src="/images/sac3.jpg" style="width:65%"> | <img src="/images/sac7.jpg" style="width:65%"> | <img src="/images/sac8.jpg" style="width:65%"> |
+| <img src="/images/sac6.png" style="width:65%"> | <img src="/images/sac7.png" style="width:110%"> | <img src="/images/sac8.jpg" style="width:65%"> |
 |:---:|:---:|:---:|
 | Ms Ramanujam Jeyapriya<br>**Member** | Ms Alpana Keertikar<br>**Member** | Mr Raymond Wong<br>**Member** |
