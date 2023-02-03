@@ -42,6 +42,14 @@ Parents, standing together with the school to equip each student with vital know
 #### **2022**
 
 
+![Chairperson Mrs Daphne Koo Mohamed](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/Mrs%20Daphne%20Koo%20Mohamed%20-%20Chairperson.jpg)
+
+<figure>
+<img src="/images/Our-Partners/Parents-Support-Group-(PSG)/Mrs_Daphne_Koo_Mohamed_-_Chairperson.jpg" style="width:75%">
+<figcaption> 2021 PSG Committee
+ </figcaption>
+</figure>	
+
 **PSG MEMBER**
 |             |              |             |
 | -------- | -------- | -------- |
