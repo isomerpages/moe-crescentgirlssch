@@ -45,6 +45,7 @@ Parents, standing together with the school to equip each student with vital know
 
 
 **PSG MEMBER**
+
 |             |              |             |
 | -------- | -------- | -------- |
 | Ms Adel Yip | Ms Irene Cheong | Ms Sandra Lee |
