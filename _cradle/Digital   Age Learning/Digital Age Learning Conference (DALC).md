@@ -20,11 +20,12 @@ DALC 2020 (**[Programme](/files/DALC%202020%20Programme.pdf)** | **[Presentation
 #### Upcoming Conference ####
 **[DALC 2023](/files/DALC%202023.pdf)**<br>
 
-<br></br>
+
 
 | | |
 |:---:|:---:|
 
+#### Photos ###
 <img src="/images/dalc1.jpg" style="width:49%" align=left>
 <img src="/images/dalc2.jpg" style="width:49%" align=right>
 
@@ -33,14 +34,3 @@ DALC 2020 (**[Programme](/files/DALC%202020%20Programme.pdf)** | **[Presentation
 | | |
 |:---:|:---:|
 | School Leaders Having Hands-On with Mixed Reality during DALC 2019 | Teacher Participants Listening Attentively During a Concurrent Session at DALC 2020 |
-
-
-
-
-
-
-
-| | |
-|:---:|:---:|
-### Past Conferences ###
-
