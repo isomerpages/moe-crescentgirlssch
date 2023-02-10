@@ -4,11 +4,29 @@ permalink: /cradle/ses/
 description: ""
 third_nav_title: Swift Explorers Singapore
 ---
-### **About SES (To update 2023 information)**
+### **About SES**
 
-![](/images/ses1.png)
+![](/images/SES2023Logo.png)
 
-Crescent Girls’ School is organizing the inaugural Swift Explorers Singapore (SES) 2022 using resources from Apple and training supported by Tinkercademy, an Apple Professional Learning Provider. SES 2022 is a series of free coding related activities that allow students from Primary Schools to Junior Colleges to learn app design and Swift coding on the iPad. Tinkercademy is engaged to design the learning journey and provide support to participating schools. This program aims to empower students with critical thinking and creative problem solving skills through basic coding on the iPad. Students will have access to the same opportunities and resources as real-world developers which will help them identify, design, prototype and build apps. Students will also learn essential business skills through pitching their app ideas to a wider audience.
+Crescent Girls’ School (CGS) is proud to organise Swift Explorers Singapore (SES) 2023!
+
+Join us to discover the wonders of coding!  
+
+SES 2023 is a series of free online coding related activities using resources from Apple, hosted by CGS with training provided by Tinkercademy, an Apple Professional Learning Provider.
+
+Through this programme, students will learn how to design an app connected to a topic they care about. Students will hone computational thinking and creative problem-solving skills through basic coding on the iPad. Coding with Swift is a powerful, intuitive and easy-to-learn programming language which provides students with fun and engaging ways to prepare for the future.
+
+SES 2023 is designed to support Student-Initiated Learning (SIL) for Primary, Secondary, Junior College and Millenia Institute students. Accompanying teachers may also attend similar coding and app development workshops.
+
+In addition, selected participants will have an opportunity to engage with real-world developers, build their app, and showcase their work to industry leaders.
+
+  
+  
+
+The programme is free for all public education institutions to participate.
+
+#### The table for the key dates of the programme is appended below: ####
+
 
 #### **Register to Participate**
 **Registration will open from 10 February 2022 to 4 March 2022**, on a first-come-first-served basis.<br>
@@ -27,7 +45,13 @@ Please save the file in the following format: **\<school name>_number of teams_
 
 **[Download List of Teams and Students Names](/files/SES.pdf)**
 
+<br></br>
+
+
+| | | |
+| -------- | -------- | -------- |
+#### **About Tinkercademy** ####
+
 <img src="/images/ses2.png" style="width:65%">
 
-##### **About Tinkercademy**<br>
-Tinkertanker Pte Ltd is an education and technology company, and a member of the Apple Consultant Network. Tinkertanker Pte Ltd runs Tinkercademy, where they teach coding and apps making to students of all ages. Apple technologies enable them to tap on their core strengths in making software, electronics, and curriculum, to run coding initiatives such as the Swift Accelerator Programme, an intensive year-long course for talented young app developers. Please click on the sub-pages to find out more details on the program for Primary Schools and Secondary Schools / Junior Colleges / Millennia Institute.
+<p style="text-align:justify;">Tinkertanker Pte Ltd is an education and technology company, and a member of the Apple Consultant Network. Tinkertanker Pte Ltd runs Tinkercademy, where they teach coding and apps making to students of all ages. Apple technologies enable them to tap on their core strengths in making software, electronics, and curriculum, to run coding initiatives such as the Swift Accelerator Programme, an intensive year-long course for talented young app developers. Please click on the sub-pages to find out more details on the program for Primary Schools and Secondary Schools / Junior Colleges / Millennia Institute.</p>
