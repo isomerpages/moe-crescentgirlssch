@@ -14,3 +14,16 @@ Please fill in the team’s name and the full names of participating students us
 
 
 A template can be found here: [Template -- List of Teams and Students Names](https://docs.google.com/spreadsheets/d/144uzEqTI5nckvbxAk3l7B2gzhrWIxU71/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)
+
+### Quick FAQ: ###
+
+* There is no limit to the number of teams each school can register
+* Each team should comprise no more than 5 team members
+* Schools must nominate 1 Teacher Coding Champion
+* Schools must select up to 3 Student Coding Champions
+
+
+**Register now at: [https://go.gov.sg/ses-registration](https://go.gov.sg/ses-registration)**
+
+
+<img src="/images/SES2023QRcode1.png" style="width:40%">
