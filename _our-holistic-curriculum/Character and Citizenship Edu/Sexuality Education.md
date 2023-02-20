@@ -48,7 +48,8 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-##### **At Crescent Girl’s School, the following lessons from the Growing Years Programme will be taught in 2022:** #####
+##### **At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in 2023:** #####
+
 
 ##### **SECONDARY 1** #####
 
