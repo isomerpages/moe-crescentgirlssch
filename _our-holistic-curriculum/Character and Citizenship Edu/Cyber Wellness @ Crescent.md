@@ -31,7 +31,7 @@ Platforms are also provided to allow students to translate their understanding i
  </figcaption>
 </figure>	
 
-Parents may refer to [ICT Connection](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents) **website unavailable** (a website created by MOE for parents) for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.
+Parents may refer to [MOE Cyberwellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellnesss) for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.
 
 #### **Achievements**
 ##### **2017**
