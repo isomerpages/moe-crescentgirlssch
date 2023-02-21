@@ -6,7 +6,7 @@ third_nav_title: Swift Explorers Singapore
 ---
 ### **For Primary School**
 
-The Swift Explorers Singapore (SES) 2022 consists of two distinct phases for Primary Schools. All schools will participate in Phases 1 and 2.
+The Swift Explorers Singapore (SES) 2023 was conceptualised to support Student-Initiated Learning. It is open to students in Primary School, Secondary School, Junior College and Millenia Institute. All schools will participate in Phase 1 and 2.
 
 <img src="/images/SESPrimaryPhase1.png" style="width:130%">
 
