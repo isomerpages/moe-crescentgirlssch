@@ -14,20 +14,30 @@ To nurture future-ready students for the modern workplace, this initiative will 
 
  The NDE learning experience is aligned to the latest Ministry of Education’s EdTech Plan. Students will engage in a range of e-Learning content and activities to build their knowledge progressively. The ICDL e-Learning platform also enables students to learn at their own pace using their personal learning devices. To further enrich their learning experience, students are encouraged to participate in our national and regional competitions to apply what they have learnt and connect with students beyond their community.
 
-_The aims of the programme are as follows:_
-a) To develop digitally fluent students equipped with the mastery of practical digital skills for future digital workplace<br>
-b) To encourage students to be self-directed learners who take ownership of their learning<br>
-c) To nurture students to explore beyond the curriculum and be advocates of digital literacy<br>
-d) To provide students with the opportunity to gain an international outlook with ICDL Asia Digital Challenge<br>
-e) To inspire schools and teachers to reimagine learning spaces beyond the classroom and design meaningful tech-mediated learning experiences
+*_The aims of the programme are as follows:_*<br>
+* To develop digitally fluent students equipped with the mastery of practical digital skills for future digital workplace<br>
+* To encourage students to be self-directed learners who take ownership of their learning<br>
+* To provide students with the opportunity to gain an international outlook with ICDL Asia Digital Challenge<br>
 
-#### **Register to Participate**
-**Registration will open from 4 January 2022 to 31 March 2022**, on a first-come-first-served basis. Please refer to the respective categories below and click to register:
 
-|  |
-|:---:|
-| [Upper Primary Level](https://form.gov.sg/#!/61a44c45fb55fa001263bb59) **form expired** |
-| [Secondary Level](https://form.gov.sg/#!/61a44c45fb55fa001263bb59) **form expired** |
-|
+#### **Timeline and Summary of Keys Dates** ####
 
-Please click on the sub-pages to find out more about the two available programmes that both Primary and Secondary schools can sign up for.
+<img src="/images/NDETimeline2023.png" style="width:120%">
+<br>
+There are three available categories that schools can sign up for:
+
+<img src="/images/NDECategory2023.png" style="width:120%">
+<br>
+
+
+#### **Registration for NDE 2023** ####
+
+Registration for NDE 2023 is open from now until ***28 February 2023***. <br>
+A gentle reminder to attach the candidate import template in the NDE 2023 Registration Form.<br>
+Download template [Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)
+
+
+<img src="/images/NDERegistration2023.png" style="width:40%">
+<br>
+
+Scan or Register [here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
