@@ -46,29 +46,29 @@ A gentle reminder to attach the candidate import template in the NDE 2023 Regist
 Download template **[Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)**
 
 <img src="/images/NDERegistration2023.png" style="width:40%"><br>
-Scan or Register **[here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
-<br>**
+Scan or Register **[here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)**
+<br>
 
 
 ### Frequently Asked Questions (FAQs): ###
 
-**1\. How does this programme benefit my school?**
+**1\. How does this programme benefit my school?**<br>
 Through participation in NDE, students will be equipped with essential skills and knowledge to use office productivity tools effectively. The self-directed/self-initiated aspect of the programme empowers students to build on their knowledge progressively at their own pace. In addition to this, the programme develops future-ready learners and gives students the opportunity to apply what they have learnt and connect with students beyond their community when they participate in national and regional competitions.<br>
 
-**2\. Is there any registration fee or other cost to participate in the program?**
+**2\. Is there any registration fee or other cost to participate in the program?**<br>
 The registration fee for each participating student for Digital Explorer – Certify  will be S$20. Upon confirmation of registration from Crescent Girls’ School, schools would be informed about payment details to ICDL via e-invoice (GeBIZ).<br>
 
-**3\. What if students do not complete the entire programme?**
+**3\. What if students do not complete the entire programme?**<br>
 For the Digital Explorers Certify programme, students will need to attend the certification round after completing the e-Learning modules. Students will be assessed if they possess the necessary skills to be awarded the e-certificate. ICDL Asia will be coordinating with participating schools on the certification round to be held in respective schools. Selected students will be invited to participate in the National Round which will be held in Crescent Girls’ School in August 2023.<br>
 
-**4\. Can I take a look at the contents before I sign my students up for the programmes?**
+**4\. Can I take a look at the contents before I sign my students up for the programmes?**<br>
 Please refer to the Outline of activities for both the Digital Explorer - Certify programme. _Please contact us at_ [**_nde@crescent.edu.sg_**](mailto:nde@crescent.edu.sg) if you need more information.<br>
 
-**5\. Who will be monitoring the progress of students?**
+**5\. Who will be monitoring the progress of students?**<br>
 The teacher-in-charge of participating schools will be provided log-in access to the admin portal where he / she will be provided with an overview of their students’ progress for the e-Learning modules. Teachers-in-charge are encouraged to have milestone check-ins with students to ensure students are on-task and complete the modules within the timeframe provided especially for students who are registered for Learn & Apply program.<br>
 
-**6\. How will I know if my students qualify for the e-certificate?**
+**6\. How will I know if my students qualify for the e-certificate?**<br>
 The online portal will be generating the e-certificate for students upon their completion of all the e-Learning modules.<br>
 
 **7\. Do students need Windows-based devices for Learn and Apply Module?**
-Students will need an internet-enabled device (laptop, iPad, Chrome Book etc.) with internet browser to access the e-Learning portal to complete the e-Learning modules. Students will need a Windows-based device for the Certification round held in respective schools. It is recommended for schools to use ACAD devices for the Certification round. Crescent Girls’ School will be preparing the Windows-based device for the National Round in August 2023.<br>
+Students will need an internet-enabled device *(laptop, iPad, Chrome Book etc.)* with internet browser to access the e-Learning portal to complete the e-Learning modules. Students will need a Windows-based device for the Certification round held in respective schools. It is recommended for schools to use ACAD devices for the Certification round. Crescent Girls’ School will be preparing the Windows-based device for the National Round in August 2023.<br>
