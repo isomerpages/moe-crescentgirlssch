@@ -4,6 +4,7 @@ permalink: /cradle/National-Digital-Explorer/digital-explorer-compete/
 description: ""
 third_nav_title: National Digital Explorer
 ---
+### **Digital Explorer - Compete** ###
 The Digital Explorer – Compete is a nationwide student competition organised by Crescent Girls’ School and ICDL Asia which invites students in primary and secondary school / JC / MI in Singapore to compete and demonstrate how digital skills can be applied in the new digital economy.
 
 Participating students will take ICDL certification tests and go through 2 rounds of competition from Feb to August 2023. There will be two categories: Upper Primary and Secondary / JC / MI Level.
