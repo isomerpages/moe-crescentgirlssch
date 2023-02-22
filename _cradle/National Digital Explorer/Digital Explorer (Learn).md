@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Explorer
 ---
 ### **Digital Explorer - Learn** ###
-Under Digital Explorer Learn, participating students will undergo the ICDL Application Essentials e-Learning module which will be made available to them from March 2022. The Digital Explorer Learn programme covers the main concepts and skills needed to start using common office productivity applications — Documents, Spreadsheets, and Presentations — effectively. The estimated duration to complete this programme is 8 hours.
+The Digital Explorer Learn programme covers the main concepts and skills needed to start using common office productivity applications such as Documents, Spreadsheets, and Presentations effectively. The estimated duration to complete this programme is **8 hours**.
 
 The ICDL e-Learning solution provides a slew of interactive content and tools to engage students in their learning experience. After learning the concepts, students will be able to apply and practise their skills using the office applications on their devices. There are also ample hands-on activities, knowledge check exercises and case studies to reinforce students’ understanding through application and testing.
 
