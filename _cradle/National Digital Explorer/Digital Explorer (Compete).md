@@ -43,11 +43,11 @@ ICDL Asia will also be recognising the top-performing schools for their commitme
 
 Registration for NDE 2023 is open from now until ***28 February 2023***. <br>
 A gentle reminder to attach the candidate import template in the NDE 2023 Registration Form.<br>
-Download template [Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)
+Download template **[Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)**
 
 <img src="/images/NDERegistration2023.png" style="width:40%"><br>
-Scan or Register [here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
-<br>
+Scan or Register **[here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
+<br>**
 
 
 ### Frequently Asked Questions (FAQs): ###
