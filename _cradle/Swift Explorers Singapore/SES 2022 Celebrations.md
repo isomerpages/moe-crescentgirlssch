@@ -17,7 +17,6 @@ third_nav_title: Swift Explorers Singapore
 
 <br>
 <br>
-
 Crescent Girls’ School has successfully organised the inaugural Swift Explorers Singapore (SES) 2022 with students from over 58 schools participating in the programme! The students were mentored by experts at Tinkercademy, an Apple Professional Learning Partner, using resources from Apple. They learnt the basics of coding with Swift Playgrounds and brought their inclusive app ideas to life!<br>
 
 This nation-wide initiative concluded with 16 institutions presenting their apps to a rapt audience of senior government officials, industry leaders, educators, and the students’ own peers at a special event at Apple Marina Bay Sands on 26 October 2022.<br>
