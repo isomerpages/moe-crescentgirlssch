@@ -14,7 +14,7 @@ The flexibility of Digital Explorer Learn programme allows schools to adopt this
 The registration fee for each participating student will be **S$5** for each module selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 16 November 2023.
 
 
-#### UPPER PRIMARY LEVEL ####
+### UPPER PRIMARY LEVEL ###
 
 **Learning Outcomes:** <br>
 Upon completion, successful students will feel confident using important office productivity applications to perform everyday workplace tasks. They will be able to:
@@ -26,6 +26,36 @@ Upon completion, successful students will feel confident using important office 
 
 Students will use ICDL eLearning platform to complete the Essentials module(s) selected by their school in this programme:<br>
 
+##### Application Essentials: #####
+* Office productivity applications
+* Word processing
+* Spreadsheets
+* Presentation <br>
+More information: [https://icdlasia.org/workforce/application-essentials/](https://icdlasia.org/workforce/application-essentials/)
+
+##### Computer and Online Essentials #####
+* Computer and devices
+*  Manage files and applications
+* Networks
+* Online information
+* Online communication
+* Safety<br> 
+More information: [https://icdlasia.org/workforce/computer-and-online-essentials/](https://icdlasia.org/workforce/computer-and-online-essentials/)
+
+
+### Secondary/JC/MI ###
+
+**Learning Outcomes**<br>
+Upon completion, successful students will have deeper understanding and apply the higher-level functions of the respective office productivity application effectively to complete common tasks in the workplace. They will be able to: <br>
+
+* work with text in a document, insert and edit objects and tables, as well as use the mail merge functions<br>
+* work with numbers and text in a spreadsheet, manipulate spreadsheet data, use formulas and functions as well as the various formats in charts<br>
+* build a presentation, insert, and format text in slides, insert and edit objects and effects, insert charts and graphical objects to better represent data in a presentation <br>
+* (For Insights Big Data): understand and recognise key aspects of big data, the practice of data in various sectors and the adoption of big data <br>
+(For Insights Cloud Computing): understand and recognise key concepts of cloud computing, recognise the features, benefits, and limitations of Platform as an Infrastructure<br>
+
+Students will use ICDL eLearning platform to complete the Workforce and Insights modules selected by their school in this programme:
+
 ##### Workforce Documents #####
 * Document creation
 * Formatting
@@ -34,7 +64,6 @@ Students will use ICDL eLearning platform to complete the Essentials module(s) s
 More information: [https://icdlasia.org/workforce/documents/](https://icdlasia.org/workforce/documents/)
 
 ##### Workforce Spreadsheets #####
-
 * Cells
 * Managing worksheets
 * Formulas and Functions 
@@ -43,7 +72,6 @@ More information: [https://icdlasia.org/workforce/documents/](https://icdlasia.o
 More information: [https://icdlasia.org/workforce/spreadsheets/](https://icdlasia.org/workforce/spreadsheets/)
 
 ##### Workforce Presentation #####
-
 * Developing presentation 
 * Text
 * Charts
@@ -51,16 +79,13 @@ More information: [https://icdlasia.org/workforce/spreadsheets/](https://icdlasi
 More information: [https://icdlasia.org/workforce/presentation/](https://icdlasia.org/workforce/presentation/)
 
 ##### Insights Big Data #####
-
 * What is big data
 * The big data environment
 * Big data in practice
 * Big data adoption <br>
 More information: [https://icdlasia.org/insights/big-data/](https://icdlasia.org/insights/big-data/)
 
-
 ##### Insights Cloud Computing #####
-
 * What is cloud computing
 * Infrastructure as a service
 * Platform as a service
@@ -69,7 +94,6 @@ More information: [https://icdlasia.org/insights/big-data/](https://icdlasia.org
 * Deployment and adoption <br>
 More information: [https://icdlasia.org/insights/cloud-computing/](https://icdlasia.org/insights/cloud-computing/)
 <br>
-
 * as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS) and Function as a Service (FaaS).
 
 #### **Registration for NDE 2023** ####
@@ -77,9 +101,7 @@ Registration for NDE 2023 is open from now until ***28 February 2023***.
 A gentle reminder to attach the candidate import template in the NDE 2023 Registration Form.<br>
 Download template [Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)
 
-
 <img src="/images/NDERegistration2023.png" style="width:40%">
-<br>
 
 Scan or Register [here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
 
