@@ -48,7 +48,8 @@ Download template **[Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-Z
 <img src="/images/NDERegistration2023.png" style="width:40%"><br>
 Scan or Register **[here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)**
 <br>
-
+<br>
+______________________________________________________________________________
 
 ### Frequently Asked Questions (FAQs): ###
 
