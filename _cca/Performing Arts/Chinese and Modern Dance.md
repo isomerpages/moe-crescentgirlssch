@@ -54,4 +54,6 @@ Crescent Dance is led by our Chinese Dance Instructor, Ms Lee Bee Choo, Modern D
 ***- Alyssa Ting Kah Yee (2C1) and Clara Goh (2S2) on what they have learned through Dance***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKUFarYb-YHAF0dapkcAw-eOl17kGt8THIDRn0loMJx11qhPoQN5DedhJ0xo9JiIXOr15DwDsOF3IN/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
