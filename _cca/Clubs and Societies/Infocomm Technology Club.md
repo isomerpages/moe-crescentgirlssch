@@ -51,4 +51,6 @@ With the motto ‘**Shift the Control to us and we will Alter the World**’, we
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZ3p9MZfAocCtDaMHAGaA8kW0DSIoruUZDbU9YFGjPSFdWIvnJQkYjWp9UWdNDGnGgVDCKq91ffn51/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
