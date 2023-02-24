@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## **INNOVATION AND ENTERPRISE CLUB**
 
->"THINK BIG. THINK DIFFERENT. MAKE BELIEVE"
+>*"THINK BIG. THINK DIFFERENT. MAKE BELIEVE"*
 
 The Innovation and Enterprise (I&E) Club comprises a close-knit team of students with a deep passion for ideation and business enterprise.
 
