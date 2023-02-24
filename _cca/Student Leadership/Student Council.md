@@ -4,7 +4,7 @@ permalink: /our-holistic-curriculum/cce/cca/student-leadership/student-council/
 description: ""
 third_nav_title: Student Leadership
 ---
-## **STUDENT COUNTIL**
+## **STUDENT COUNCIL**
 
 >"THE VOICE OF THE STUDENT BODY"
 
@@ -64,4 +64,6 @@ Student Council has not only provided me countless opportunities to plan events 
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXATBE9jJevH2HL1cD98xZpwbhbcKi5oRTkCs0duTMUWaoRPMNUvyamkuKblfOqRgN75amKh_CWKUP/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
