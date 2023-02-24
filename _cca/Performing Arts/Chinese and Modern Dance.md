@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## **CHINESE AND MODERN DANCE**
 
->"死也要拼出来!"
+>*"死也要拼出来!"*
 
 Crescent's Chinese and Modern Dance is a warm and loving family. Crescent dancers work towards a common goal of attaining excellence, and in the process, stronger bonds are forged as we strive to overcome various obstacles and challenges as a family.
 
