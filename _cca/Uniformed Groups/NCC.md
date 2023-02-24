@@ -48,4 +48,6 @@ In Crescent NCC, we hold our core values very dear to our hearts. A Crescent NCC
 ***- Corporal Muralitharan Viehha, Assistant Unit Sergeant Major, Charlie’21, Cadet Leaders of NCC 2021***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCtSTqMwg1AF1Fl6Br0oRVZ-dTSgnqc9mFQ_Bu1ArT6zJDSUg-GXWgfVyKWT3j7OuRFKECqdAGIzDu/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
