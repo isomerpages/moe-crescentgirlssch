@@ -4,7 +4,7 @@ permalink: /our-people/organisational-chart/
 description: ""
 ---
 ### **Organisational Chart**
-#### **Executive Committee 2022**
+#### **Executive Committee 2023**
 
 | | | |
 |:---:|:---:|:---:|
