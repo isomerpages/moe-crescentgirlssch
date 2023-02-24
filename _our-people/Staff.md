@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Staff**
 
-![](/images/staff.png)
+![](/images/CrescentGirlstaff2022.jpg)
