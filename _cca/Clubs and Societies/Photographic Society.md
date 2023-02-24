@@ -29,4 +29,6 @@ This year, the Photographic Society has also come up with a photo book which is 
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLbH_1HcZv3d4Mx5aMAGUKg5rhxJ1p3zQ_Rd7K3wdx929OUyXOE4WyPEj7JxHO3TaBMOCIWrs0R5-G/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
