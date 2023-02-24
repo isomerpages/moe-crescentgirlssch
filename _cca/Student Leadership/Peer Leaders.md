@@ -57,4 +57,6 @@ Being in Peer has made me realised that leadership is not about merely holding a
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkv6ndLIq-CPkKxVkdb8h92ODfD92WvOYcj4qfI8TIAk9hj_kx9GsznavSyxcGb_EKRzmCvUQsAkTH/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
