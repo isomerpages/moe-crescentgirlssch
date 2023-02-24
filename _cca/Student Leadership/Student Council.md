@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 ---
 ## **STUDENT COUNCIL**
 
->"THE VOICE OF THE STUDENT BODY"
+>*"THE VOICE OF THE STUDENT BODY"*
 
 Crescent's Student Council is a student-led organization whose mission is to nurture passionate and kind lady leaders who possess a strong sense of integrity and moral courage. Our councillors also aim to develop a forward-looking and positive mindset. With the constant drive to become compassionate servant leaders of the school, councillors develop the heart to serve and guide others, as well as strive to display the five pillars of servant leadership along with PERMAH domains under any circumstance. 
 
