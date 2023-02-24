@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ## **NCC**
 
->"NCC, 永远第一"
+>*"NCC, 永远第一"*
 
 The National Cadet Corps (NCC) is an enriching CCA that strives to ensure that every cadet is not only physically fit , but also has good moral values as we strongly believe that no matter how capable a person is they will never be a good leader without the proper values.  
   
