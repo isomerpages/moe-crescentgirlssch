@@ -4,10 +4,9 @@ permalink: /our-holistic-curriculum/cce/cca/clubs-and-societies/audio-visual-aid
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 ## ** AUDIO VISUAL AID (AVA) CLUB
 
->"SHOOTING STORIES, BROADCASTING MEMORIES"
+&gt;"SHOOTING STORIES, BROADCASTING MEMORIES"
 
 The Audio Visual Aid Club is a key service provider for school events and assemblies. It has to provide timely and efficient support for many school events, including assembly programs, annual speech days, Student Leaders Investiture, National Day celebrations and many others. Through the experience of capable support rendered to the school, AVA students get to develop core technical and effective troubleshooting skills, learn to work as a cohesive team and cultivate a disciplined attitude.  
   
@@ -40,4 +39,6 @@ From operating the PA system to editing a video to using a professional sound re
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPJtsJWz3FA_cQrTeEJ6kc_nnqSpbNaX0OvaIozDjyohwKyC9N5I3ZEawR-_O9gXzrz6Q2XYGtHMKR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
