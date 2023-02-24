@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **Humanities Department**
 
-<img src="/images/dept5.png" style="width:85%">
+<img src="/images/HumanitiesDepartment2022.jpg" style="width:85%">
