@@ -34,4 +34,6 @@ Through competition, we aim to develop in our team a greater appreciation for th
 ***- Png Jing Wen (3G3)***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQykx6tkBaG_7UiKZ2dgdSjbOLoGg8A_ug_Ggebbl3cfHnPReO0nZxoR4NYMsKZwH-IO7MfvXQdWekE/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
