@@ -58,4 +58,6 @@ With their motto, ‘_The Voice, The Spirit, The Soul_’, the choir shows commi
 ***- Chong Sonia Chui Fang (3S2) on being part of the Choir family***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGe75O-9a5xYW2Ql0Xxo2-hsoHA0fYKzjVx33xfO-Ef-Vcib8jjvrbLlJCicg9Src34mloCFQ-G8Dl/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
