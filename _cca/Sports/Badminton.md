@@ -58,4 +58,6 @@ We will continue to work hard and give our all for the team, and we hope to help
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAxh6E1v4S8WZ9AKFQivSMqYA0e6CvBUXMx-TLEcWEP2z37vNuq723vsOyJDctVPZFR3-wUr4_y_CQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
