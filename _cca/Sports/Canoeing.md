@@ -50,4 +50,7 @@ Even with the current pandemic, the team continues to train hard, and has acquir
 "I'm very enthusiastic about canoeing. After about two months of paddling with the team, I've learnt to take responsibility of my own actions. I am also very appreciate of my seniors, teachers and coaches who have guided us and encouraged us to help us to improve. I really enjoy paddling." 
 ***Liaw Ann Zhen (1C1)  on being a new member in the team***
 
-### **PHOTOS**
+
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiM4fCMPyWPE14PuIEDwfRRYomhV73xIN7ACzWp6RMWtnq_1kcP6dhBHgoprDpdyY30CjmBlGUF2bB/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
