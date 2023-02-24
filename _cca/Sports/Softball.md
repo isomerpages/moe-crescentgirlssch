@@ -44,4 +44,6 @@ Even during the pandemic, the Softball team adapted and continued to meet online
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdkru-NBLlbDnBjIkFe5Eyi9bj3RY2REx-Lt0mpd4kQDvS7I3zqYlmH6Gl0k7XGODsq8h7AmekVoRH/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
