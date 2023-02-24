@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **Mother Tongue Languages Department**
 
-<img src="/images/dept7.png" style="width:85%">
+<img src="/images/MotherTongueLanguageDepartment2022.jpg" style="width:85%">
