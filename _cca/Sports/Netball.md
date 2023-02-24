@@ -59,4 +59,6 @@ I have learnt how to work better with other teammates and improved my communicat
 ***-Rachel Tan Rae Shyen***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSxQynCTLkVi4qIFour_cjNfDfOsJxEhxNYW5vjTQq6zgp-1vUrnjgh1b09YbrL9gt1aEGi4dMzfqw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
