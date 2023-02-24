@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## **CHOIR**
 
->"WE SING AS ONE"
+>*"WE SING AS ONE"*
 
 The Crescent Girls’ School Choir has been actively contributing to the musical culture in school, as well as participating in public performances regularly. The choir received a Certificate of Distinction at the Singapore Youth Festival Arts Presentation 2017, and also attained the Gold Award at the Singapore International Choral Festival (SICF) in 2018, having the highest score among the Singapore choirs in its category.
 
