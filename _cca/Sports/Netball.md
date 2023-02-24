@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 ---
 ## **NETBALL**
->"TEAMWORK MAKES THE DREAM WORK"
+>*"TEAMWORK MAKES THE DREAM WORK"*
 
 A sport whose history dates back to the 1890s, Netball in Crescent Girls’ School is an established and increasingly popular CCA. Netball is a fast paced game that not only requires good teamwork and stamina but also quick and flexible thinking in order to strategize effective gameplay. In Crescent, trainings occur thrice a week. These trainings not only build up our members’ fitness and skills, but also train us in our perseverance and determination, reminding us of the importance of never giving up. Although the long hours of training under the hot sun can prove to be exhausting, the results attained on the court is jubilantly gratifying.
 
