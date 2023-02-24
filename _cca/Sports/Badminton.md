@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 ---
 ## **Badminton** ##
->"CRESCENT BADMINTON, ALWAYS READY TO STRIKE"
+>*"CRESCENT BADMINTON, ALWAYS READY TO STRIKE"*
 
 
 Badminton is a fast paced sport which requires not only agility, power, but also high mental endurance. That is why Crescent Badminton has always been persistent in terms of perfecting our skills, improving our agility as well as pushing our own boundaries during our trainings, which are held thrice a week, in order to bring the team to even greater heights. In 2013, Crescent Badminton was able to reap the fruits of our labour, with the C Division emerging as one of the Top 8 teams in Singapore.
