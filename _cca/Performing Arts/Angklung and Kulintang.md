@@ -48,4 +48,6 @@ Additionally, having teamwork is critical to enable us to achieve a common goal.
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSF2F0cIr0fkXES8LXv-eJ9aqUw7GE7FYRxhrdcpM4SK13p9Tky-T6w6GYjVtgXyFwPxDy-7PnnxZQe/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
