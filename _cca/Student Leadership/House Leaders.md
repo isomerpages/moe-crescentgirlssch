@@ -61,4 +61,6 @@ We are also easily identified by the brightly coloured house shirts each of the 
 ***- Amaris (2G2), Pankhurst House***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdMse3_ocbduELr-QgeF5MnWex9O59Za4dh7iWeeKcuw5tJay5hECIZbmjDgxaFVCYEeqYkgKwyHSG/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
