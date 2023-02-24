@@ -41,4 +41,4 @@ From operating the PA system to editing a video to using a professional sound re
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPJtsJWz3FA_cQrTeEJ6kc_nnqSpbNaX0OvaIozDjyohwKyC9N5I3ZEawR-_O9gXzrz6Q2XYGtHMKR/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPJtsJWz3FA_cQrTeEJ6kc_nnqSpbNaX0OvaIozDjyohwKyC9N5I3ZEawR-_O9gXzrz6Q2XYGtHMKR/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
