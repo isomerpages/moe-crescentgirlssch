@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ## **TRACK AND FIELD**
 
->RUN HARD OR RUN HOME!!
+>*"RUN HARD OR RUN HOME!!"*
 
 Track and Field encompasses a variety of competitive athletic disciplines based on running, jumping and throwing. Running events are categorized into sprints (100-metres, 200-metres and 400-metres events), middle-distance (800-meters, 1500-metres and 3000-meters), long-distance events (5000-meters and 10,000-metres), hurdling and relay events (4 x 100-meters relay and 4 x 400-metres relay). Jumping events include the long jump, triple jump, high jump and pole vault. Throwing events can include the short put, discus throw and hammer throw.
 
