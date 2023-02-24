@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 ---
 ## ** CANOEING**
-> "ONE MILLION PERCENT!"
+> *"ONE MILLION PERCENT!"*
 
 The Crescent Canoeing team is one of the few all-girls teams in the sport, and has been flourishing under the guidance of former Youth World Champion and current coach, Mr Denes Szaszak, a Hungarian national who also coaches our Singapore National Team.  
   
