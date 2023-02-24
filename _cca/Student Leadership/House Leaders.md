@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 ---
 ## **HOUSE LEADERS**
 
->"5 COLOURS, 1 CRESCENT FAMILY"
+>*"5 COLOURS, 1 CRESCENT FAMILY"*
 
 The Crescent House consists of five different houses, namely Bronte, Curie, Fry, Keller and Pankhurst. The five houses participate in the annual Crescent House Challenge, in which they compete in various competitions to accumulate points! It was designed to unite the houses in a competitive yet fun and engaging way, taking advantage of athletic and artistic components to enhance cohesion. It nurtures the students’ potential, ultimately bringing about a harmonious realm of school spirit. The house which earns the most points throughout the course of the year is awarded the title of ‘CHAMPION HOUSE’ for its efforts.
 
