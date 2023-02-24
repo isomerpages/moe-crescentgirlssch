@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## **INFOCOMM TECHNOLOGY CLUB**
 
->"SHIFT THE CONTROL TO US AND WE WILL ALTER THE WORLD!"
+>*"SHIFT THE CONTROL TO US AND WE WILL ALTER THE WORLD!"*
 
 In Infocomm Club, we aim to develop our students’ different interest, needs and experiences. Our students learn to develop skills in coding, making animation and creating games online. They learn to problem-solve using technology in a logical and creative manner. Through these experiences, we developed an appreciation of how technology facilitates our daily life. We also work collaboratively by learning from each other, evaluating ideas and products created.  
 
