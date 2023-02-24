@@ -48,4 +48,6 @@ The motto of Red Cross Youth is “Serve One Another”.  Our main objective is
 ***- Lee Jia Rui (4S3) on the challenges faced as an NCO***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAlhCUmEJitUWBIKUkTAh5Mfov-NJ3dZMsvOJBs2yTRIm-if2zZnSL52rrJOMTZisw49dlivsFxTXZ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
