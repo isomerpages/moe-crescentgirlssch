@@ -53,4 +53,6 @@ To walk the talk, I&E Club members apply what they have learned about entreprene
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjeH-PC6zBLVAbyCHaJmv6flUynRptM1Io2thiASRHOqQWEek51DqERr0X5aaJ3USpexpqhQw-cyHv/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
