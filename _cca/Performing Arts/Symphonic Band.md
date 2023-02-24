@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## **SYMPHONIC BAND**
 
->"ET BIENTOT LE MEILLEUR - THE BEST IS YET TO BE."
+>*"ET BIENTOT LE MEILLEUR - THE BEST IS YET TO BE."*
 
 Established in 1967 as a military school band, Crescent Girls’ School Symphonic Band has since then expanded to become a symphonic band with a wide range of instruments, under the steadfast guidance of the band’s founder, Mr Lee Seck Chiang, and his protégés Mdm Tan Soh Hwa and Mr Chua Tiong Hong. With the band motto, Et bientot le meilleur — the best is yet to be, in mind, the members of Crescent Girls’ School Symphonic Band never fail to put in their best efforts to constantly improve their skills and techniques, where they never give up, never hold back, and are always working together as one band to achieve their goals.
 
