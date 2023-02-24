@@ -52,4 +52,6 @@ A core value of Girl Guides in Crescent – “Once a Guide, Always a Guide” �
 
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9CBH7mfvjywWWD8nhI4uDZOJr-rjiPenoX-Mjr8Ga2w_5H-W-ROYUQDhDmYePVOuBGVLKW9Bt2YBE/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
