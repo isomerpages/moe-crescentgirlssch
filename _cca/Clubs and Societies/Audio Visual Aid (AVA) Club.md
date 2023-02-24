@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## ** AUDIO VISUAL AID (AVA) CLUB
 
-> "SHOOTING STORIES, BROADCASTING MEMORIES"
+> *"SHOOTING STORIES, BROADCASTING MEMORIES"*
 
 The Audio Visual Aid Club is a key service provider for school events and assemblies. It has to provide timely and efficient support for many school events, including assembly programs, annual speech days, Student Leaders Investiture, National Day celebrations and many others. Through the experience of capable support rendered to the school, AVA students get to develop core technical and effective troubleshooting skills, learn to work as a cohesive team and cultivate a disciplined attitude.  
   
