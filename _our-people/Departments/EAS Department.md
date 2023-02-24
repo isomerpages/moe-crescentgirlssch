@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **EAS Department**
 
-<img src="/images/dept2.png" style="width:85%">
+<img src="/images/ExecutiveAdministrativeStaff2022.jpg" style="width:85%">
