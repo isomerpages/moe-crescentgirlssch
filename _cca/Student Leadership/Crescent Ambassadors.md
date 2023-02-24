@@ -20,4 +20,6 @@ The Crescent Ambassadors at Crescent Girls’ School play a significant role in 
 * Mr Tnia Zhao Peng
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAHH3dyPOcNym3utVonXMks5eBycNQySDfl5WI_ARyajp0zSjVub0U_snY4s9AO78tu0E2nQkMiBLH/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
