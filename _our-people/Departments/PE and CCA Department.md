@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **PE and CCA Department**
 
-<img src="/images/dept8.png" style="width:85%">
+<img src="/images/PhysicalccaDepartment2022.jpg" style="width:85%">
