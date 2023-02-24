@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **English Language and Literature Department**
 
-<img src="/images/dept3.png" style="width:85%">
+<img src="/images/EnglishLiteratureDepartment2022.jpg" style="width:85%">
