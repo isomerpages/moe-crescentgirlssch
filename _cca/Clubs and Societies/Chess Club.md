@@ -37,4 +37,6 @@ Mr Lee Tiong Beng
 ***- Anna Jessica (2C2) on how she feels about the Chess Club***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5JctAJCHntsDdN4j0OxmXDn0Pj0r7skz4d50wYEH9PiKotomffJPx7TpnyMmoZhKnjDK_VKqUAkt-/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
