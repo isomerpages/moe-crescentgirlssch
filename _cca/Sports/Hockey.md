@@ -56,4 +56,6 @@ To ensure that the Crescent Hockey community upholds the spirit of togetherness,
 ***Gabrielle Lum (3S2), Team Leader of 'B' Division***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDpRx7LCQwy2mwSWlcNu4JVncx24pykIRSp3zrD3CtLFHDAZGo-UP3k6jL6d1W0sV2AVjeTA-qwp8D/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
