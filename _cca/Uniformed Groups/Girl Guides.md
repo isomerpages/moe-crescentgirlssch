@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ## **GIRL GUIDES**
 
->"WE BUILD, WE STRIKE, WE IGNITE"
+>*"WE BUILD, WE STRIKE, WE IGNITE"*
 
 Girl Guides is an all-in-one CCA with a training programme that features a range of diverse activities, from tent-pitching to arts and crafts that mold the Guides into versatile ladies and leaders of tomorrow.  
   
