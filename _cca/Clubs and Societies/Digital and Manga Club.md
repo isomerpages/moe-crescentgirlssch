@@ -23,4 +23,6 @@ We at the DAMC have one very simple philosophy, one that has drawn people with t
 *   Jonathan Yip
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKZCPMMvhOKUvkZNkHcIarmRrrb9vs3rsBVyaz7X-f1bKViBYOqPn7ZlJj9xK5H1fl88thReYnR3mX/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
