@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## **ENGLISH DRAMA**
 
->"WE THINK, WE SPEAK, WE ACT"
+>*"WE THINK, WE SPEAK, WE ACT"*
 
 The English Language Literary Drama and Debate Society is a CCA for Crescentian writers, orators and thespians. The goal of ELDDS is to ensure that every member is equipped with the necessary skills to enable them to excel in drama, writing or debate. This also involves the skills for script-writing, stagecraft, the play production process and public speaking. Every member is given the opportunity to develop their talents and to discover their best talents to excel confidently.
 
