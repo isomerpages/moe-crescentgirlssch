@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ## **SOFTBALL**
 
->INDIVIDUAL PLAY THE GAME, BUT TEAMS BEAT THE ODDS"
+>*"INDIVIDUAL PLAY THE GAME, BUT TEAMS BEAT THE ODDS"*
 
 The Crescent Softball team comprises of a group of promising and talented athletes. Under the guidance of former National Team player Coach Marcus Yeo and teachers in charge, we have participated in many competitions and have successfully placed 3rd in the 2019 National Inter-School Games.
 
