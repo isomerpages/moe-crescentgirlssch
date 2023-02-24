@@ -30,4 +30,6 @@ Under the guidance of the conductors, the band has put up numerous performances 
 ***- Lee Hui (4C1) on her feelings and thoughts about the band.***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQD2c2aMBbSVbMscr0Q1p4RGI5QscUDcQgZAUCdJAkUKSVSM6t4qKQd57gBN2N65mMJG1el2t28IVOg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
