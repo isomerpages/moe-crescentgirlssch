@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## **CHESS CLUB**
 
->"EVERY PAWN IS A POTENTIAL QUEEN"
+>*"EVERY PAWN IS A POTENTIAL QUEEN"*
 
 Crescent's Chess Club holds training sessions every Monday from 3.30pm to 6.00pm. The sessions are conducted by a professional chess trainer who teaches the students how to play the game well and improve their skills. These skills include chess openings, end-game strategies, attacking or defending tactics and many other skills that can be used in the games. During the training sessions, members solve puzzles and spar with one another, putting what they have learned from the trainer to practice, thus ensuring that they understand how to apply the skills in their games. 
 
