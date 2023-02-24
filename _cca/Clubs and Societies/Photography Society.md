@@ -4,7 +4,6 @@ permalink: /our-holistic-curriculum/cce/cca/clubs-and-societies/photography-soci
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 ## **PHOTOGRAPHY SOCIETY**
 
 Crescent Girls’ School Photographic Society aims to promote a passion for photography and visual arts among our students. With the aim of encouraging members to understand the different facets of photography, our club is divided into two sections – basic and intermediate.
