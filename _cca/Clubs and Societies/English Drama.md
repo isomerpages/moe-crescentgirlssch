@@ -50,4 +50,6 @@ My most memorable experience would be in secondary one, when we entered the Poet
 ***- Shayna Robinson, Vice President of ELDDS, Special Projects (3C1/2013)***
 
 
-### **PHOTOS**
+### **PHOTOS** ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh-MNToYLIavuIELk_1UqdThZXZdO85CPNs5TPXl0PzIB_CKoWYMeiAuz5GHFGDR3Svh3wH2oec70x/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
