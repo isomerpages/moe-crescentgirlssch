@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## **ANGKLUNG AND KULINTANG**
 
->"We shake the world!"
+>*"We shake the world!"*
 
 Crescent’s Angklung and Kulintang Ensemble, also known as C.A.K.E., is more than just a Co-Curricular Activity (CCA). We have always been told about the importance of being united as an ensemble in order to achieve great feats. Through the various performances we have taken part in, we have definitely formed greater bonds with each other. 
 
