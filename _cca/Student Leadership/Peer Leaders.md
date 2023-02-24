@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 ---
 ## **PEER LEADERS**
 
->"LOVE IS LOUDER"
+>*"LOVE IS LOUDER"*
 
 As our motto says, being a peer leader is not just about being a leader. It's about love. Peer aims to cultivate a warm and comfortable school environment and to develop every Crescentian into a lady and leader of tomorrow.  
   
