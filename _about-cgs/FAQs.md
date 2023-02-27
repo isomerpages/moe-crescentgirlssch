@@ -30,7 +30,7 @@ All students must report to school  **for assembly at 7.30am**
 
 School ends by 2.00pm on most days for Secondary One and Two students. For the Upper Secondary levels, the end-time on different days varies, depending on the students’ subject combinations. 
 
-On days when students have to attend CCAs (ie, Mon & Wed for most CCAs; Mon, Wed & Fri for select CCAs), the end-time is 6pm. 
+On days when students have to attend CCAs (ie, Mon & Wed for most CCAs; Mon, Wed & Fri for select CCAs), the end-time is 6.30pm. 
 
 **4\. What are the streams offered?**<br>
 At every level from Secondary One to Four, the Express stream is offered.
