@@ -4,7 +4,7 @@ permalink: /our-holistic-curriculum/signature-programmes/pld-2021-2022/
 description: ""
 third_nav_title: M Learning @ Crescent
 ---
-### **Personal Learning Device (PLD) (2021 and 2022)**
+### **Personal Learning Device (PLD) (2021 - 2023)**
 Crescent has selected iPad with iPadOS for students for the following rationale:
 *   It is suitable for learning on-the-go.
 *   It comes with smooth inking with Apple Pencil.
@@ -25,11 +25,11 @@ The school has made arrangements for you to purchase the PLD from AsiaPac Distri
 
 <br clear="left">
 
-10.2-inch iPad 9th Gen Wifi 256GB – Space Grey, with 3-year warranty and insurance
+10.9-inch iPad 10th Gen Wifi 256GB – Silver, with 3-year warranty and insurance
 
 Apple Pencil (1st Gen) with 3-year warranty
 
-Logitech Rugged Combo 3 – protective keyboard case with 3-year warranty
+Logitech Rugged Combo 4 – protective keyboard case with 3-year warranty
 
 
 
