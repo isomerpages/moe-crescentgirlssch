@@ -15,15 +15,15 @@ description: ""
 *   [Returning Singaporeans](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/returning-singaporeans/)  
 *   [International Student](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/international-students/)
 
-**2\. How much is the school fees at Crescent Girls’ School?**<br>
-School fees range from $31 to $1626 a month.
+**2\. How much are the school fees at Crescent Girls’ School?**<br>
+School fees range from $31 to $1796 a month.
 
 The monthly rates for the following groups are as follows:
 
 Singaporean: $31<br>
-Singapore Permanent Resident: $466<br>
-International Students (Asean): $866<br>
-International Students: $1626
+Singapore Permanent Resident: $526<br>
+International Students (Asean): $936<br>
+International Students: $1796
 
 **3\. What is the start-time and end-time on regular school days?**<br>
 All students must report to school  **for assembly at 7.30am**
@@ -35,8 +35,8 @@ On days when students have to attend CCAs (ie, Mon & Wed for most CCAs; Mon, Wed
 **4\. What are the streams offered?**<br>
 At every level from Secondary One to Four, the Express stream is offered.
 
-**5\. What was the school’s PSLE cut-off point in 2021?**<br>
-In 2021, the cut-off Achievement Levels for admission into our school was 11.
+**5\. What was the school’s PSLE cut-off point in 2022?**<br>
+In 2022, the cut-off Achievement Levels for admission into our school was 12.
 
 [TO FIND OUT MORE](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/)
 
