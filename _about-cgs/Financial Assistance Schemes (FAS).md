@@ -15,6 +15,6 @@ description: ""
 
 _\*PCHI: Total monthly gross household income divided by number of household members._
 
-If you meet the criteria stated above and would like to receive financial assistance, please complete the attached [MOE FAS form](/files/moe%20fas%20form.pdf)(for MOE FAS and SAC Needy Pupil Scheme) or [Application form for Opportunity Fund](/files/application%20form%20for%20opportunity%20fund.pdf) and submit it together with the supporting documents to the General Office.  You do not need to complete the Opportunity Fund form if you are on MOE FAS/SAC Needy Pupil Scheme.
+If you meet the criteria stated above and would like to receive financial assistance, please complete the attached [MOE FAS form](https://drive.google.com/file/d/1kuU_sqM0DYr_BUIt7IxTUFUcTLB9v5Wv/view?usp=sharing)(for MOE FAS and SAC Needy Pupil Scheme) or [Application form for Opportunity Fund](/files/application%20form%20for%20opportunity%20fund.pdf) and submit it together with the supporting documents to the General Office.  You do not need to complete the Opportunity Fund form if you are on MOE FAS/SAC Needy Pupil Scheme.
 
 For further assistance or clarifications, please contact the General Office at Tel: 6475-8711.
