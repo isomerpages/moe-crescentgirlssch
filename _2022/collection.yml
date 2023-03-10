@@ -2,7 +2,6 @@ collections:
   "2022":
     output: true
     order:
-      - October/.keep
       - September/Teacher's Day Celebration.md
       - September/Champion Seminar.md
       - September/.keep
