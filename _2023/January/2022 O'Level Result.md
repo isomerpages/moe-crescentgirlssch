@@ -4,7 +4,6 @@ permalink: /2023/January/2022-olevel-result/
 description: ""
 third_nav_title: January
 ---
-
 ### **2022 O-Level Results** ###
 
 After the release of the 2022 ‘O’ level results, the CGS Corporate Communications Committee had the opportunity to interview some of the O level graduates who had just received their results after months of anticipation.
