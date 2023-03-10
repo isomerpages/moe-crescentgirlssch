@@ -3,6 +3,8 @@ title: Yearbook
 permalink: /about-cgs/yearbook/
 description: ""
 ---
+### Yearbook ###
+
 <img src="/images/YearbookCover2022.png" style="width:70%">
  
 <br>
