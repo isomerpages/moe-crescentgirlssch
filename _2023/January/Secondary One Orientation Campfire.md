@@ -19,3 +19,5 @@ Overall, while the experience was undoubtedly challenging, seeing the smiles on 
 
 
 #### Photo ####
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnq7RY_Nlxwbibgv7XUiGagT5PEZJWXaed8sOV0LCsr2CFAetYj_oV-5m48QSV-tln84Zqz7PQPSmM/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
