@@ -5,11 +5,11 @@ description: ""
 ---
 ### **What's Happening**
 
+
+
 #### **2023**
 
 Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening//2023/January/secondary-one-orientation-campfire/)** to find out more!
-
-
 
 #### **2022**
 
