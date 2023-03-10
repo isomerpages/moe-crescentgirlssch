@@ -2,9 +2,6 @@ collections:
   "2022":
     output: true
     order:
-      - September/Teacher's Day Celebration.md
-      - September/Champion Seminar.md
-      - September/.keep
       - January/.keep
       - January/Dedication Ceremony.md
       - January/Secondary 3 Orientation @ Crescent.md
@@ -31,4 +28,7 @@ collections:
       - August/Speech Day 2022.md
       - August/Secondary 2 Showcase.md
       - August/National Digital Explorer 2022.md
+      - September/.keep
+      - September/Teacher's Day Celebration.md
+      - September/Champion Seminar.md
       - Time Capsule for CG100.md
