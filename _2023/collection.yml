@@ -2,5 +2,6 @@ collections:
   "2023":
     output: true
     order:
+      - January/2022 O'Level Result.md
       - January/Secondary One Orientation Campfire.md
       - January/.keep
