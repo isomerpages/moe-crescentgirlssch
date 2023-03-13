@@ -66,4 +66,4 @@ On the other hand, my friends have been with me through this entire secondary sc
 
 
 #### Photo ####
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTzA_WpRlnS6p5wRKkHfietXgxgX4XHvbiLG1Svw4Vpj1ZczPkRgbwGezkd8xiAR5lFpvU4FNFWng8q/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTzA_WpRlnS6p5wRKkHfietXgxgX4XHvbiLG1Svw4Vpj1ZczPkRgbwGezkd8xiAR5lFpvU4FNFWng8q/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
