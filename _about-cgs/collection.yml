@@ -2,11 +2,11 @@ collections:
   about-cgs:
     output: true
     order:
-      - CGS Yearbook.md
       - Principal's Foreword.md
       - Mission, Vision & Values.md
       - School Song & Crest.md
       - History and Corporate Video.md
+      - CGS Yearbook.md
       - Yearbook.md
       - Admission/.keep
       - Admission/Admission after PSLE.md
