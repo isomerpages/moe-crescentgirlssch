@@ -1,15 +1,82 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/sch logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About CGS
+    url: /about-cgs/principals-foreword/
+    sublinks:
+      - title: Principal's Foreword
+        url: /about-cgs/principals-foreword/
+      - title: Mission, Vision & Values
+        url: /about-cgs/mission-vision-values/
+      - title: School Song & Crest
+        url: /about-cgs/school-song-and-crest/
+      - title: History & Corporate Video
+        url: /about-cgs/history-and-corporate-video/
+      - title: Yearbook
+        url: /yearbook
+      - title: Admission
+        url: /about-cgs/admission/
+      - title: Calender of Events
+        url: /about-cgs/calender/
+      - title: Contact Us
+        url: /about-cgs/contact-us/
+      - title: Discipl Philosophy & Sch Rules
+        url: /about-cgs/discipline-philosophy-and-school-rules/
+      - title: Financial Assistance Schemes
+        url: /about-cgs/fas/
+      - title: FAQs
+        url: /about-cgs/faq/
+  - title: Our People
+    url: /our-people/organisational-chart/
+    sublinks:
+      - title: Organisational Chart
+        url: /our-people/organisational-chart/
+      - title: Staff
+        url: /our-people/staff/
+      - title: Departments
+        url: /our-people/departments/
+  - title: Our Holistic Curriculum
+    url: /our-holistic-curriculum/instructional-programmes/
+    sublinks:
+      - title: Instructional Programmes
+        url: /our-holistic-curriculum/instructional-programmes/
+      - title: Character & Citizneship Edu
+        url: /our-holistic-curriculum/cce/
+      - title: Signature Programmes
+        url: /our-holistic-curriculum/signature-programmes/
+      - title: CCA
+        url: /our-holistic-curriculum/cca/
+  - title: Our Achievements
+    url: /our-achievements/international-awards/
+    sublinks:
+      - title: International Awards
+        url: /our-achievements/international-awards/
+      - title: School Awards
+        url: /our-achievements/school-awards/
+      - title: Academic Competitions
+        url: /our-achievements/academic-competitions/
+      - title: CCA Awards
+        url: /our-achievements/cca-awards/
+      - title: Virtual Gallery
+        url: /our-achievements/virtual-gallery/
+  - title: Our Partners
+    url: /our-partners/psg/
+    sublinks:
+      - title: Parent Support Group (PSG)
+        url: /our-partners/psg/
+      - title: Alumni
+        url: /our-partners/alumni/
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
+  - title: Cradle
+    url: /cradle/crescent-academy-for-digital-age-learning/
+    sublinks:
+      - title: Digital-Age Learning
+        url: /cradle/crescent-academy-for-digital-age-learning/
+      - title: Cyberwellness Advocacy Chall
+        url: /cradle/ncac/
+      - title: Youth Upcycling Movement
+        url: /cradle/nyum/
+      - title: Swift Explorers Singapore
+        url: /cradle/ses/
+      - title: National Digital Explorer
+        url: /cradle/nde/

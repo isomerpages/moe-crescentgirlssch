@@ -1,0 +1,34 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Sports/Badminton.md
+      - Sports/Canoeing.md
+      - Sports/Hockey.md
+      - Sports/Netball.md
+      - Sports/Softball.md
+      - Sports/Track and Field.md
+      - Sports/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/.keep
+      - Performing Arts/Angklung and Kulintang.md
+      - Performing Arts/Chinese and Modern Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Symphonic Band.md
+      - Performing Arts/.keep
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Audio Visual Aid (AVA) Club.md
+      - Clubs and Societies/Chess Club.md
+      - Clubs and Societies/Infocomm Technology Club.md
+      - Clubs and Societies/Digital and Manga Club.md
+      - Clubs and Societies/English Drama.md
+      - Clubs and Societies/Innovation and Enterprise Club.md
+      - Clubs and Societies/Photography Society.md
+      - Student Leadership/Crescent Ambassadors.md
+      - Student Leadership/House Leaders.md
+      - Student Leadership/Peer Leaders.md
+      - Student Leadership/Student Council.md
+      - Student Leadership/.keep

@@ -1,0 +1,18 @@
+collections:
+  our-holistic-curriculum:
+    output: true
+    order:
+      - Instructional Programmes/English Language & Literature Department.md
+      - Instructional Programmes/Mathematics Department.md
+      - Instructional Programmes/Science Department.md
+      - Instructional Programmes/Humanities Department.md
+      - Instructional Programmes/Creative Arts Department.md
+      - Instructional Programmes/Mother Tongue Languages Department.md
+      - Instructional Programmes/Physical Education Department.md
+      - Instructional Programmes/.keep
+      - Character and Citizenship Edu/.keep
+      - Character and Citizenship Edu/Pastoral Care and Career Guidance.md
+      - Character and Citizenship Edu/Cyber Wellness @ Crescent.md
+      - Character and Citizenship Edu/Citizenship Education @ Crescent.md
+      - Character and Citizenship Edu/Sexuality Education.md
+      - Signature Programmes/.keep
