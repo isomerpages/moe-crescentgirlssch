@@ -63,6 +63,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |  | More then Meets the Eye<br> Lesson 3<br>(60 mins) | This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |  - Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>- Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 3 Week 10 |
 |
 
+
 ##### **SECONDARY 2** #####
 
 | UNIT | LESSONS TITLE/<br>DURATION | LESSON OVERVIEW | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD |
@@ -105,32 +106,36 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |
 
 #### **Information for Parents** ####
-10\. Parents may opt their children out of the Sexuality Education Lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+10. Parents may opt their children out of the Sexuality Education Lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.Parents who wish to opt their children out of the Sexuality Education lesson need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sex%20edu%20form1.pdf) . A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 24/01/2022 and 26/02/2022 for Upper Secondary and Lower Secondary respectively.  
-  
-12.Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sex%20edu%20form2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 10/02/2022.  
-  
-13.Parents can contact the school at Mdm Norazimah, at 6708 7973 / [Norazimah\_bte\_ibrahim@crescent.edu.sg](mailto:Norazimah\_bte\_ibrahim@crescent.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
-  
-14.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**]()[](/files/Parent_OptOut_Form_Sec_AnnexA_Sec1to4_2023.pdf). The completed form is to be submitted by 6/2/2023.
 
-#### **eTeens Wise.Informed.Sensible.Empowered** ####
-###### **AIMS OF _ETEENS_** ######
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf). The completed form is to be submitted by 6/2/2023
 
-1. The Empowered Teens (eTeens) programme aims to provide students with accurate information to help them make good decisions in their life choices. It raises awareness and knowledge about the following:<br>
-a) awareness of the different sexually transmitted infections (STIs) and HIV/AIDS;<br>
-b) modes of transmission for STIs and HIV/AIDS;<br>
-c) modes of protection against infection, specifically abstinence and the correct use of condoms;<br>
-d) skills for decision-making, assertiveness, negotiation to say “no” to peer pressure to have pre-marital sex; and<br>
-e) consequences and impact of STIs/HIV.
+13. Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah\_bte\_ibrahim@crescent.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme
+
+
+#### **Empowered Teens** ####<br>
+##### **(eTeens)** ##### <br>
+
+#### STI (Sexually Transmitted Infection) /HIV (Human Immunodeficiency Virus) Prevention Programme ####
+
+  
+
+1. Health Promotion Board (HPB), in collaboration with the Ministry of Health (MOH) and the Ministry of Education (MOE), conduct a programme titled Empowered Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV. The programme provides information on transmission and prevention of STIs/HIV, and helps guide students to make good life choices to avoid risky sexual behaviors.<br>
 <br>
 
-**Format of Programme**
+2. The following topics are taught: <br>
+a) Infectious diseases (STIs and HIV);<br>
+b) Modes of transmission for STIs and HIV;<br>
+c) Modes of protection against infection, specifically abstinence and the correct and consistent use of condoms to prevent disease;<br>
+d) Skills for decision-making, assertiveness, negotiation to say “no” to peer pressure to have pre-marital sex; and<br>
+e) Consequences and impact of STIs/HIV.<br>
+<br>
 
-2. The eTeens programme comprises an assembly talk and a classroom-based lesson:
+3. The programme includes a 1-hour talk and a 1-hour classroom-based lesson:<br>
+a) The talk includes a multi-media presentation using a video and presentation to convey key learning points. The video depicts how teenagers weigh considerations in different scenarios and eventually make responsible decisions. Presenters are engaged by the HPB and follow a presentation guide approved by MOE.<br>
+b) The classroom-based lesson by an MOE-SEd trained teacher reinforces skills of responsible decision-making, negotiation and assertiveness, based on the values which students have been brought up with, in the family and the community. The training for teachers who conduct the classroom-based lesson is provided for by MOE.<br>
+<br>
 
-a) The mass talk is conducted by a speaker engaged by the Health Promotion Board (HPB) from an approved panel. The presentation follows an approved guide.<br>
-b) The duration of the assembly talk is about 1 hour. It includes a multi- media presentation, video screening as well as presentation of key learning points.<br>
-c) The classroom-based lesson reinforces skills of responsible decision-making, negotiation and assertiveness. The suggested time for the lesson is about one hour.<br>
-d) Training for teachers to conduct the classroom-based programme is provided for by MOE and HPB.
+4. Additional information is available on the MOE website. (https://go.gov.sg/moe-sexuality-education)
