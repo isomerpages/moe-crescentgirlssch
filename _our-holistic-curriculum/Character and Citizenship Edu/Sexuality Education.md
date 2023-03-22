@@ -4,7 +4,7 @@ permalink: /our-holistic-curriculum/cce/sex-edu/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-### **Sexuality Education**
+### **Sexuality Education** ###
 #### **Moe Sexuality Education in Schools**
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 <br>
@@ -51,7 +51,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | | | | | |
 |:---:|:---:|---|:---:|:---:|
 
-##### **At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in 2023:** #####
+#### **At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in 2023:** ####
 
 
 ##### **SECONDARY 1** #####
@@ -112,15 +112,14 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf). The completed form is to be submitted by 6/2/2023
 
-13. Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah\_bte\_ibrahim@crescent.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme
+13. Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah\_bte\_ibrahim@crescent.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme <br>
 
 
-#### **Empowered Teens** ####<br>
-##### **(eTeens)** ##### <br>
+#### **Empowered Teens** #### 
+##### **(eTeens)** #####
 
 #### STI (Sexually Transmitted Infection) /HIV (Human Immunodeficiency Virus) Prevention Programme ####
-
-  
+<br>  
 
 1. Health Promotion Board (HPB), in collaboration with the Ministry of Health (MOH) and the Ministry of Education (MOE), conduct a programme titled Empowered Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV. The programme provides information on transmission and prevention of STIs/HIV, and helps guide students to make good life choices to avoid risky sexual behaviors.<br>
 <br>
