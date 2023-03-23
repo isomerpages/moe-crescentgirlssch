@@ -7,10 +7,12 @@ third_nav_title: Swift Explorers Singapore
 ### **For Primary School**
 
 The Swift Explorers Singapore (SES) 2023 was conceptualised to support Student-Initiated Learning. It is open to students in Primary School, Secondary School, Junior College and Millenia Institute. All schools will participate in Phase 1 and 2.
-
+<br>
+<br>
+<br>
 <img src="/images/SESPrimaryPhase1.png" style="width:130%">
 
-Great apps start with great ideas. 
+Great apps start with great ideas.
 
 **Objective:** To learn about basic app design principles as well as how to design with different users' accessibility needs in mind in a teams of 5 students through completing the activities in SLS.
 
@@ -26,8 +28,8 @@ Great apps start with great ideas. 
 
 * Teachers are encouraged to guide their students while leveraging the lesson guides and videos on the SLS.
 
-| | | |
-|:---:|:---:|:---:|
+<br>
+<br>
 
 <img src="/images/SESPrimaryPhase2.png" style="width:130%">
 
