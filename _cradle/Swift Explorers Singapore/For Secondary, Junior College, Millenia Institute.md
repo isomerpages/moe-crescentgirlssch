@@ -6,7 +6,8 @@ third_nav_title: Swift Explorers Singapore
 ---
 ### **Secondar School / Junior College / Millennia Institute**
 
-The Swift Explorers Singapore (SES) 2023 was conceptualised to support Student-Initiated Learning. It is open to students in Primary School, Secondary School, Junior College and Millenia Institute. All schools will participate in Phase 1 and 2.
+<p style="text-align:justify;">The Swift Explorers Singapore (SES) 2023 was conceptualised to support Student-Initiated Learning. It is open to students in Primary School, Secondary School, Junior College and Millenia Institute. All schools will participate in Phase 1 and 2. </p>
+<br>
 
 <img src="/images/SESSecJcMiPhase1.png" style="width:130%">
 
@@ -23,13 +24,9 @@ Great apps start with great ideas. 
 * Students will be required to prepare a Keynote presentation for submission in SLS. Templates for the Keynote presentation will be provided to schools to guide students to prepare for the submission.
 
 * Teachers are encouraged to guide their students while leveraging the lesson guides and videos on the SLS.
-
 <br>
 
-|||
-|-----|-----|
- 
- 
+
 <img src="/images/SESSecJcMiPhase2.png" style="width:130%">
 
 Experience the joy of coding through gamified activities on Swift Playgrounds!
@@ -45,9 +42,7 @@ Experience the joy of coding through gamified activities on Swift Playgrounds!
 * Participating students will be presented e-certificates for completing Phase 1 and Phase 2.
 
 <br>
-
-|||
-|-----|-----|
+<br>
 
 <img src="/images/SESSecJcMiPhase3.png" style="width:130%">
 
