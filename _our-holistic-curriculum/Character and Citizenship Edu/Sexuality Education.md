@@ -106,7 +106,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf). The completed form is to be submitted by 6/2/2023
 
-13. Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah\_bte\_ibrahim@crescent.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme <br>
+13. Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah_bte_ibrahim@crescent.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme <br>
 
 
 ### Empowered Teens  (eTeens) ###
