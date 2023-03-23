@@ -9,6 +9,6 @@ description: ""
 <figcaption><strong> Click on the image to enter the Virtual Gallery
 	</strong>
 	
-<p><a href="https://www.crescent.edu.sg/qql/slot/u360/Virtual_Tour_v3/">
+<p><a href="https://tsmedia.blob.core.windows.net/vrs/index.htm">
 <img style="width:75%" src="/images/virtual%20gallery.png">
 </a></p>
