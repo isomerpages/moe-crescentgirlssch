@@ -3,7 +3,7 @@ title: Virtual Gallery
 permalink: /our-achievements/virtual-gallery/
 description: ""
 ---
-### **Virtual Gallery**
+### **Virtual Gallery** ###
 
 <figure>
 <figcaption><strong> Click on the image to enter the Virtual Gallery
