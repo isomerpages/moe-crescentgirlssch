@@ -80,3 +80,12 @@ links:
         url: /cradle/ses/
       - title: National Digital Explorer
         url: /cradle/nde/
+  - title: Quicklink
+    url: /quicklinks/for-students/
+    sublinks:
+      - title: For Students
+        url: /quicklinks/for-students/
+      - title: For Teachers
+        url: /quicklinks/for-teachers/
+      - title: For Parents
+        url: /quicklinks/for-parents/
