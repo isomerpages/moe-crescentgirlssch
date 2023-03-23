@@ -6,4 +6,4 @@ third_nav_title: Departments
 ---
 ### **School Executive Committee**
 
-<img src="/images/dept4.png" style="width:85%">
+<img src="/images/ExecutiveCommittee2022.jpg" style="width:85%">
