@@ -8,24 +8,24 @@ third_nav_title: Swift Explorers Singapore
 
 ![](/images/SES2023Logo.png)
 
-Crescent Girls’ School (CGS) is proud to organise Swift Explorers Singapore (SES) 2023!
+<p style="text-align:justify;">Crescent Girls’ School (CGS) is proud to organise Swift Explorers Singapore (SES) 2023!</p>
 
 Join us to discover the wonders of coding!  
 
-SES 2023 is a series of free online coding related activities using resources from Apple, hosted by CGS with training provided by Tinkercademy, an Apple Professional Learning Provider.
+<p style="text-align:justify;">SES 2023 is a series of free online coding related activities using resources from Apple, hosted by CGS with training provided by Tinkercademy, an Apple Professional Learning Provider.</p>
 
-Through this programme, students will learn how to design an app connected to a topic they care about. Students will hone computational thinking and creative problem-solving skills through basic coding on the iPad. Coding with Swift is a powerful, intuitive and easy-to-learn programming language which provides students with fun and engaging ways to prepare for the future.
+<p style="text-align:justify;">Through this programme, students will learn how to design an app connected to a topic they care about. Students will hone computational thinking and creative problem-solving skills through basic coding on the iPad. Coding with Swift is a powerful, intuitive and easy-to-learn programming language which provides students with fun and engaging ways to prepare for the future.</p>
 
-SES 2023 is designed to support Student-Initiated Learning (SIL) for Primary, Secondary, Junior College and Millenia Institute students. Accompanying teachers may also attend similar coding and app development workshops.
+<p style="text-align:justify;">SES 2023 is designed to support Student-Initiated Learning (SIL) for Primary, Secondary, Junior College and Millenia Institute students. Accompanying teachers may also attend similar coding and app development workshops.</p>
 
-In addition, selected participants will have an opportunity to engage with real-world developers, build their app, and showcase their work to industry leaders.
+<p style="text-align:justify;"> In addition, selected participants will have an opportunity to engage with real-world developers, build their app, and showcase their work to industry leaders.</p>
 
   
   
 
 The programme is free for all public education institutions to participate.
 
-#### The table for the key dates of the programme is appended below: ####
+##### The table for the key dates of the programme is appended below: #####
 
 <img src="/images/SES2023Programme1.png" style="width:100%">
 
