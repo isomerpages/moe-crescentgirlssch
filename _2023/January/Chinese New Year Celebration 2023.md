@@ -1,9 +1,10 @@
 ---
 title: Chinese New Year Celebration 2023
-permalink: /2023/January/chinese-new-year-celebration-2023/
+permalink: /2023/jan/chinese-new-year-celebration-2023/
 description: ""
 third_nav_title: January
 ---
+
 ### **Chinese New Year Celebration 2023** ###
 
 This year’s Lunar New Year Concert, the first since the start of the COVID-19 pandemic, was truly an unforgettable event for all Crescentians. Much effort was put into this year's event by the performing arts groups. The Chinese and Modern Dance Society practised tirelessly for their well-choreographed and joyous performance which featured the lion and dragon dance, whilst the Angklung and Kulintang Ensemble did a fantastic job coordinating with their peers to produce a symphony of tunes.

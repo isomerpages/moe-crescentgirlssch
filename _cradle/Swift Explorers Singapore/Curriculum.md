@@ -6,7 +6,7 @@ third_nav_title: Swift Explorers Singapore
 ---
 ### Curriculum ###
 
-<p>The Swift Explorers Singapore (SES) 2023 was conceptualised to support Student-Initiated Learning. It is open to students in Primary School, Secondary School, Junior College and Millenia Institute. All schools will participate in Phase 1 and 2. The top teams will be selected to participate in Phase 3.</p>
+<p style="text-align:justify;">The Swift Explorers Singapore (SES) 2023 was conceptualised to support Student-Initiated Learning. It is open to students in Primary School, Secondary School, Junior College and Millenia Institute. All schools will participate in Phase 1 and 2. The top teams will be selected to participate in Phase 3.</p>
 
 
 #### Programme Overview ####

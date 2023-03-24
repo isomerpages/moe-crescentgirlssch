@@ -4,30 +4,25 @@ permalink: /our-holistic-curriculum/cce/sex-edu/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-### **Sexuality Education**
-#### **Moe Sexuality Education in Schools**
+### **Sexuality Education** ###
+#### **Moe Sexuality Education in Schools** ####
+
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+<br>
 <br>
 
 2. The **Goals** of Sexuality Education are to:<br>
-
-(a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-
+(a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>
 (b) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>
-
 (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality..
 <br>
 <br>
 
 3.  The **key messages** of Sexuality Education are:<br>
-
-(a) Love and respect yourself as you love and respect others;
-
-(b) Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(c) Make responsible decisions for yourself, your family and society; and
-
-(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+**(a)** Love and respect yourself as you love and respect others;<br>
+**(b)** Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+**(c)** Make responsible decisions for yourself, your family and society; and<br>
+**(d)** Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. <br>
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
@@ -37,9 +32,9 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 <br>
 
-5. The subjects that incorporate topics on sexuality include:<br>
+5. The subjects that incorporate topics on sexuality include: <br>
 (a) Science<br>
-(b) Character and Citizenship Education (CCE)
+(b) Character and Citizenship Education (CCE)<br>
 
 
 ##### **Sexuality Education Lessons:** #####
@@ -48,10 +43,9 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-| | | | | |
-|:---:|:---:|---|:---:|:---:|
 
-##### **At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in 2023:** #####
+
+### **At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in 2023:** ###
 
 
 ##### **SECONDARY 1** #####
@@ -62,6 +56,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |  | Being Aware, Being Safe<br> Lesson 2<br>(60 mins) | This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | - Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 9 |
 |  | More then Meets the Eye<br> Lesson 3<br>(60 mins) | This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |  - Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>- Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 3 Week 10 |
 |
+
 
 ##### **SECONDARY 2** #####
 
@@ -105,32 +100,33 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |
 
 #### **Information for Parents** ####
-10\. Parents may opt their children out of the Sexuality Education Lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+10. Parents may opt their children out of the Sexuality Education Lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.Parents who wish to opt their children out of the Sexuality Education lesson need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sex%20edu%20form1.pdf) . A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 24/01/2022 and 26/02/2022 for Upper Secondary and Lower Secondary respectively.  
-  
-12.Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sex%20edu%20form2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 10/02/2022.  
-  
-13.Parents can contact the school at Mdm Norazimah, at 6708 7973 / [Norazimah\_bte\_ibrahim@crescent.edu.sg](mailto:Norazimah\_bte\_ibrahim@crescent.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
-  
-14.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**]()[](/files/Parent_OptOut_Form_Sec_AnnexA_Sec1to4_2023.pdf). The completed form is to be submitted by 6/2/2023.
 
-#### **eTeens Wise.Informed.Sensible.Empowered** ####
-###### **AIMS OF _ETEENS_** ######
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf). The completed form is to be submitted by 6/2/2023
 
-1. The Empowered Teens (eTeens) programme aims to provide students with accurate information to help them make good decisions in their life choices. It raises awareness and knowledge about the following:<br>
-a) awareness of the different sexually transmitted infections (STIs) and HIV/AIDS;<br>
-b) modes of transmission for STIs and HIV/AIDS;<br>
-c) modes of protection against infection, specifically abstinence and the correct use of condoms;<br>
-d) skills for decision-making, assertiveness, negotiation to say “no” to peer pressure to have pre-marital sex; and<br>
-e) consequences and impact of STIs/HIV.
+13. Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah_bte_ibrahim@crescent.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme <br>
+
+
+### Empowered Teens  (eTeens) ###
+##### STI (Sexually Transmitted Infection) /HIV (Human Immunodeficiency Virus) Prevention Programme #####
+<br>  
+
+1. Health Promotion Board (HPB), in collaboration with the Ministry of Health (MOH) and the Ministry of Education (MOE), conduct a programme titled Empowered Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV. The programme provides information on transmission and prevention of STIs/HIV, and helps guide students to make good life choices to avoid risky sexual behaviors.<br>
 <br>
 
-**Format of Programme**
+2. The following topics are taught: <br>
+a) Infectious diseases (STIs and HIV);<br>
+b) Modes of transmission for STIs and HIV;<br>
+c) Modes of protection against infection, specifically abstinence and the correct and consistent use of condoms to prevent disease;<br>
+d) Skills for decision-making, assertiveness, negotiation to say “no” to peer pressure to have pre-marital sex; and<br>
+e) Consequences and impact of STIs/HIV.<br>
+<br>
 
-2. The eTeens programme comprises an assembly talk and a classroom-based lesson:
+3. The programme includes a 1-hour talk and a 1-hour classroom-based lesson:<br>
+a) The talk includes a multi-media presentation using a video and presentation to convey key learning points. The video depicts how teenagers weigh considerations in different scenarios and eventually make responsible decisions. Presenters are engaged by the HPB and follow a presentation guide approved by MOE.<br>
+b) The classroom-based lesson by an MOE-SEd trained teacher reinforces skills of responsible decision-making, negotiation and assertiveness, based on the values which students have been brought up with, in the family and the community. The training for teachers who conduct the classroom-based lesson is provided for by MOE.<br>
+<br>
 
-a) The mass talk is conducted by a speaker engaged by the Health Promotion Board (HPB) from an approved panel. The presentation follows an approved guide.<br>
-b) The duration of the assembly talk is about 1 hour. It includes a multi- media presentation, video screening as well as presentation of key learning points.<br>
-c) The classroom-based lesson reinforces skills of responsible decision-making, negotiation and assertiveness. The suggested time for the lesson is about one hour.<br>
-d) Training for teachers to conduct the classroom-based programme is provided for by MOE and HPB.
+4. Additional information is available on the MOE website. (https://go.gov.sg/moe-sexuality-education)

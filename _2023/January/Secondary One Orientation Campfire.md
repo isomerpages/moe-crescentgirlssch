@@ -1,9 +1,11 @@
 ---
 title: Secondary One Orientation Campfire
-permalink: /2023/January/secondary-one-orientation-campfire/
+permalink: /2023/jan/secondary-one-orientation-campfire/
 description: ""
 third_nav_title: January
 ---
+
+
 ### **Secondary One Orientation Campfire** ###
 
 After a two-year hiatus due to the COVID-19 pandemic, Girl Guides is pleased to finally organise and bring the Orientation Campfire back to mark a memorable end to the Secondary One Orientation Programme.
