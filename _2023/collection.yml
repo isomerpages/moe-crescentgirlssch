@@ -2,11 +2,11 @@ collections:
   "2023":
     output: true
     order:
-      - January/Dedication Ceremony.md
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/2022 O'Level Result.md
       - January/Chinese New Year Celebration 2023.md
+      - January/Dedication Ceremony.md
       - February/.keep
       - February/Total Defence Day 2023.md
       - March/.keep
