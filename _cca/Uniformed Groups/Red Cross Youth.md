@@ -6,15 +6,15 @@ third_nav_title: Uniformed Groups
 ---
 ## **RED CROSS YOUTH**
 
->*"United As One, We Stand Strong!"*
+&gt; *"United As One, We Stand Strong!"*
 
-Red Cross Youth is one of the four Uniformed Groups in Crescent Girls’ School. As a Uniformed Group, we instill the values of self-discipline, order and teamwork in our cadets. Contrary to popular belief that Red Cross Youth only teaches First Aid, we also expose our cadets to activities and lessons such as Disaster Management, Foot-Drill, Outdoor Activity and Red Cross Knowledge. Our cadets are also exposed to various activities at Red Cross Headquarters and competitions such as Annual Red Cross Flag Day & National First Aid Competition.  
+Red Cross Youth is one of the three Uniformed Groups in Crescent Girls’ School. As a Uniformed Group, we instill the values of self-discipline, order and teamwork in our cadets. Contrary to popular belief that Red Cross Youth only teaches First Aid, we also expose our cadets to activities and lessons such as Disaster Management, Foot-Drill and Red Cross Knowledge Our cadets are also exposed to various activities at Red Cross Headquarters and competitions such as Annual Red Cross Flag Day &amp; National First Aid Competition.  
 
-Red Cross is a humanitarian organization. Thus, as a Co-Curricular Activity, we are often involved in community involvement programs, such as  Red Cross Flag Day and Home visits. During home visits, we interact with residents and as well as get hands-on doing area cleaning for the home.  
+Red Cross is a humanitarian organization. Thus, as a Co-Curricular Activity, we are often involved in community involvement programs, such as&nbsp; Red Cross Flag Day and Home visits. During home visits, we interact with residents and as well as get hands-on doing area cleaning for the home.  
 
 Our cadets are also exposed to real-life situations and are made to put their skills learned in Red Cross to use. They are deployed for First Aid duty during school events such as Sports Day and Cross Country. A more frequent duty would be during our weekly FITT runs. Our cadets will be stationed along the FITT run routes so as to ensure that the injured students will be tended to as soon as possible.  
 
-The motto of Red Cross Youth is “Serve One Another”.  Our main objective is to help one another as well as the community. As cadets, we work together as a team. Everyone plays a vital part in the work that we do. We cannot afford to be complacent, as we are taught to be always ready in the event that life may be in danger and to have a sense of urgency.
+The motto of Red Cross Youth is ***"The motto of Red Cross Youth is “Humanity in Our Hands”***. Our main objective is to help one another as well as the community. As cadets, we work together as a team. Everyone plays a vital part in the work that we do. We cannot afford to be complacent, as we are taught to be always ready in the event that life may be in danger and to have a sense of urgency.
 
 
 #### **EVENTS:**
@@ -23,17 +23,16 @@ The motto of Red Cross Youth is “Serve One Another”.  Our main objective is
 *   Red Cross Flag Day
 *   First Aid Competition
 *   Unit Leaders Program
-*   Current Affairs Competition
 *   Red Cross Youth Challenge
 
 
 #### **TEACHERS-IN-CHARGE:**
 **OIC:**
-* Ms Nat Yuen Mei Fang
+* Ms Tay Jieqi Isabella
 
 **OTHER TEACHER I/Cs:**
+* Ms Nat Yuen Mei Fang
 * Ms Tai Wai Peng
-* Ms Wu Meiling
 * Mr Rais Ismail
 
 
@@ -50,4 +49,4 @@ The motto of Red Cross Youth is “Serve One Another”.  Our main objective is
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAlhCUmEJitUWBIKUkTAh5Mfov-NJ3dZMsvOJBs2yTRIm-if2zZnSL52rrJOMTZisw49dlivsFxTXZ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAlhCUmEJitUWBIKUkTAh5Mfov-NJ3dZMsvOJBs2yTRIm-if2zZnSL52rrJOMTZisw49dlivsFxTXZ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
