@@ -4,9 +4,9 @@ permalink: /our-holistic-curriculum/cce/cca/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## **RED CROSS YOUTH**
+## **RED CROSS YOUTH** ##
 
-&gt; *"United As One, We Stand Strong!"*
+&gt; &gt; *"United As One, We Stand Strong!"*
 
 Red Cross Youth is one of the three Uniformed Groups in Crescent Girls’ School. As a Uniformed Group, we instill the values of self-discipline, order and teamwork in our cadets. Contrary to popular belief that Red Cross Youth only teaches First Aid, we also expose our cadets to activities and lessons such as Disaster Management, Foot-Drill and Red Cross Knowledge Our cadets are also exposed to various activities at Red Cross Headquarters and competitions such as Annual Red Cross Flag Day &amp; National First Aid Competition.  
 
