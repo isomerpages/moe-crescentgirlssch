@@ -1,9 +1,10 @@
 ---
 title: Secondary One Orientation Campfire
-permalink: /2023/jan/secondary-one-orientation-campfire/
+permalink: /whats-happening/2023/jan/secondary-one-orientation-campfire/
 description: ""
 third_nav_title: January
 ---
+
 
 
 ### **Secondary One Orientation Campfire** ###
