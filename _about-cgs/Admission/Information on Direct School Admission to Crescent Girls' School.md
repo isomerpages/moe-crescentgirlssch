@@ -33,7 +33,7 @@ Selection is based on the following criteria:
 
 ##### **Instructions for Application** #####
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp; There is no application fee.&nbsp; The application period is from **4 May 2023, 11.00 am to 31 May 2023, 3.00 pm.** For more details, please refer to the MOE website - **[Direct School Admission (sec) webpage]((https://www.moe.gov.sg/secondary/dsa)**
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp; There is no application fee.&nbsp; The application period is from **4 May 2023, 11.00 am to 31 May 2023, 3.00 pm.** For more details, please refer to the MOE website - **[Direct School Admission (sec) webpage](https://www.moe.gov.sg/secondary/dsa)**
 
 <p style="text-align:justify;">An applicant can indicate up to three choices. Each choice consists of a secondary school and a talent area offered by that secondary school.&nbsp; Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.</p>
 
