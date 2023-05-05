@@ -11,7 +11,6 @@ We welcome Primary 6 students with talent in the areas of music studies, perform
 ##### Criteria for DSA(Sec) Exercise 2023 #####
 
 Selection is based on the following criteria:
-<div>
 
 1. Talent in the respective areas:
 
@@ -33,7 +32,7 @@ Selection is based on the following criteria:
 	
 	
 <ol start="4">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and join the respective CCA allocated by the school **throughout their 4 years in Crescent**. Students admitted under DSA (Leadership) are expected to join the school allocated Uniformed Group throughout their 4 years. Students admitted under DSA (MEP) are expected to be in MEP and to join a Music CCA (either Concert Band or Choir) throughout their 4 years.
-</ol></ol></ol></div>
+</ol></ol></ol>
 
 #### **Instructions for Application** ####
 
