@@ -18,7 +18,7 @@ Selection is based on the following criteria:
 * Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) –Strong proficiency in the relevant areas of talent (e.g. Band Instrument Performance, Dance, or Voice)
 * Sports (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing) – past achievements would be an advantage e.g. NSG national/zonal level competitions (team); National-level competition (individual). &nbsp;
 * Leadership – past achievements in leadership at school/CCA level and a keen interest in the Uniformed Groups (Girl Guides, National Cadet Corps and Red Cross Youth).
-<br>
+
 
 2. The school will conduct in-person selection for all DSA talent areas.&nbsp; Shortlisted candidates should exhibit good performance in the relevant selection tests:
 
@@ -26,13 +26,13 @@ Selection is based on the following criteria:
 * Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition
 * Sports (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing) – sports trial
 *  Leadership - interview
-<br>
+
 
 3. Selection of students will also be based on the character and values displayed by candidates, aligned with the Crescent values of Moral Courage, Resilience, Drive, Innovativeness, Empathy and Teamwork.&nbsp; **Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.** 
-<br>
 
 
-4. &nbsp;Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and join the respective CCA allocated by the school **throughout their 4 years in Crescent**. Students admitted under DSA (Leadership) are expected to join the school allocated Uniformed Group throughout their 4 years. Students admitted under DSA (MEP) are expected to be in MEP and to join a Music CCA (either Concert Band or Choir) throughout their 4 years.
+
+4. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and join the respective CCA allocated by the school **throughout their 4 years in Crescent**. Students admitted under DSA (Leadership) are expected to join the school allocated Uniformed Group throughout their 4 years. Students admitted under DSA (MEP) are expected to be in MEP and to join a Music CCA (either Concert Band or Choir) throughout their 4 years.
 
 #### **Instructions for Application** ####
 
