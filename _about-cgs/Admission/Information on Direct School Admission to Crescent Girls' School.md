@@ -20,12 +20,11 @@ Selection is based on the following criteria:
 * Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) –Strong proficiency in the relevant areas of talent (e.g. Band Instrument Performance, Dance, or Voice)
 * Sports (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing) – past achievements would be an advantage e.g. NSG national/zonal level competitions (team); National-level competition (individual). &nbsp;
 * Leadership – past achievements in leadership at school/CCA level and a keen interest in the Uniformed Groups (Girl Guides, National Cadet Corps and Red Cross Youth).
-	
-2. The school will conduct in-person selection for all DSA talent areas.&nbsp; Shortlisted candidates should exhibit good performance in the relevant selection tests:
 
 <ol start="2">
 	<li>The school will conduct in-person selection for all DSA talent areas.&nbsp; Shortlisted candidates should exhibit good performance in the relevant selection tests:</li>
 </ol>
+
 
 * MEP (Music Elective Programme) – audition and written test
 * Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition
@@ -33,11 +32,14 @@ Selection is based on the following criteria:
 *  Leadership - interview
 
 
-3. Selection of students will also be based on the character and values displayed by candidates, aligned with the Crescent values of Moral Courage, Resilience, Drive, Innovativeness, Empathy and Teamwork.&nbsp; **Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.** 
+<ol start="3">
+	<li>Selection of students will also be based on the character and values displayed by candidates, aligned with the Crescent values of Moral Courage, Resilience, Drive, Innovativeness, Empathy and Teamwork.&nbsp; <b>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</b></li>
+</ol>
 
-	
-	
-4. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and join the respective CCA allocated by the school **throughout their 4 years in Crescent**. Students admitted under DSA (Leadership) are expected to join the school allocated Uniformed Group throughout their 4 years. Students admitted under DSA (MEP) are expected to be in MEP and to join a Music CCA (either Concert Band or Choir) throughout their 4 years.
+<ol start="4">
+	<li>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and join the respective CCA allocated by the school <b>throughout their 4 years in Crescent</b>. Students admitted under DSA (Leadership) are expected to join the school allocated Uniformed Group throughout their 4 years. Students admitted under DSA (MEP) are expected to be in MEP and to join a Music CCA (either Concert Band or Choir) throughout their 4 years.</li>
+</ol>
+
 
 
 #### **Instructions for Application** ####
