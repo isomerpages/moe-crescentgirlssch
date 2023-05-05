@@ -12,7 +12,9 @@ We welcome Primary 6 students with talent in the areas of music studies, perform
 
 Selection is based on the following criteria:
 
-1. Talent in the respective areas:
+<ol>
+	<li>Talent in the respective areas:</li>
+</ol>
 
 * MEP (Music Elective Programme) – intermediate proficiency in playing at least one music instrument and possess functional theory knowledge in the Western music tradition.
 * Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) –Strong proficiency in the relevant areas of talent (e.g. Band Instrument Performance, Dance, or Voice)
@@ -20,6 +22,10 @@ Selection is based on the following criteria:
 * Leadership – past achievements in leadership at school/CCA level and a keen interest in the Uniformed Groups (Girl Guides, National Cadet Corps and Red Cross Youth).
 	
 2. The school will conduct in-person selection for all DSA talent areas.&nbsp; Shortlisted candidates should exhibit good performance in the relevant selection tests:
+
+<ol start="2">
+	<li>The school will conduct in-person selection for all DSA talent areas.&nbsp; Shortlisted candidates should exhibit good performance in the relevant selection tests:</li>
+</ol>
 
 * MEP (Music Elective Programme) – audition and written test
 * Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition
