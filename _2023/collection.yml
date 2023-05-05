@@ -2,6 +2,7 @@ collections:
   "2023":
     output: true
     order:
+      - April/International Friendship Day 2023.md
       - April/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
