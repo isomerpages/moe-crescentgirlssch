@@ -2,8 +2,6 @@ collections:
   "2022":
     output: true
     order:
-      - October/CG100 Time Capsule.md
-      - October/.keep
       - January/.keep
       - January/Dedication Ceremony.md
       - January/Secondary 3 Orientation @ Crescent.md
@@ -33,4 +31,6 @@ collections:
       - September/.keep
       - September/Teacher's Day Celebration.md
       - September/Champion Seminar.md
+      - October/.keep
+      - October/CG100 Time Capsule.md
       - Time Capsule for CG100.md
