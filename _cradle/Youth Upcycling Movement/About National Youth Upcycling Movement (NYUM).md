@@ -79,7 +79,7 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 *   Likewise, teams that make donations to any environmental/ green initiatives nominated by the school will be required to record the amount of donations as well as the beneficiaries in their Final Report.
 
 **Submission of Final Report**
-* Teams will be required to submit their Final Report by **5.00 pm on 1 September 2023**.<br>
+* Teams will be required to submit their Final Report by **5.00pm on 1 September 2023**.<br>
 * Judges will grade each team based on how well they have designed their upcycled product prototypes as well as advocacy efforts.<br>
 * In addition, teams will be required to submit the following record tracking forms (to be given in due course), together with their Final Report:<br>
 	* Amount of plastic conserved<br>
@@ -91,15 +91,6 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 * Judging will take place from **September to November 2023**.<br>
 * **Gold**, **Silver** and **Bronze** Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:<br>
 
-| Component | Criteria | Weighting |
-|:---:|:---:|:---:|
-| Advocacy Outreach<br> Plan &amp; Final Report |  Feasibility<br>Impact<br>Scalability | 10%<br>30%<br>10% |
-| Upcycled Product |  Aesthetics<br>Creativity<br>Functionality<br>Sustainability | 10%<br>10%<br>10%<br>20% |
-|
+<img src="/images/NYUM_Phase3_FinalTally.png" style="width:75%"><br>
 
-| Award | Weighting |
-|:---:|:---:|
-| Gold | At least 80% |
-| Silver | At least 65% |
-|  Bronze | At least 50% |
-|
+<img src="/images/NYUM_Phase3_Award.png" style="width:75%"><br>
