@@ -13,12 +13,13 @@ There are 2 categories for participation for Primary Schools / Secondary / Post-
 *   Enrichment Module
 *   Advocacy Module
 
-#### **2. Theme for the 2021 Challenge**
-The theme for this year’s challenge is “**Food Packaging: Don't Throw it. Upcycle it!**”
+#### **2. Theme for the 2023 Challenge**
 
- Through this Challenge, we hope to achieve the following objectives:<br>
-(a)  To educate youth on the  threats facing the natural environment<br>
-(b)  To inspire youth to take action in promoting a culture of sustainability through upcycling and green consumerism
+The theme for NYUM 2023 is **‘Trash To Treasure’**.
+
+In a ‘**By Youths, For All**’ student-centric approach, the NYUM provides an opportunity for students to design and create upcycled household items using waste materials, with guidance from experts and consultants in the industry.
+
+NYUM also seeks to develop student voice and agency. Teams are tasked to plan and execute their advocacy plans, not only to reach out to, but also to engage as many members of the public as possible, through various team-proposed outreach events and activities, to promote the culture of environmental sustainability through upcycling of waste materials.
 
 #### **3. Phases in the Enrichment Module**
 <img src="/images/ncac2.jpg" style="width:65%">
@@ -52,21 +53,21 @@ The theme for this year’s challenge is “**Food Packaging: Don't Throw it. Up
 
 <img src="/images/ncac5.jpg" style="width:65%">
 
-**NYUM Symposium & Training Session**
+**NYUM Symposium &amp; Training Session**
 *   Teams are strongly encouraged to send all members to attend the Symposium. Should there be overwhelming response to the event, the organiser reserves the right to adjust the number of members attending the Symposium from each team.
 *   During the Symposium, teams will attend a seminar featuring pertinent environmental issues and content presented by experts and consultants in the environmental conservation field.
-*   A briefing cum Q & A session on the Movement will be included.
+*   A briefing cum Q &amp; A session on the Movement will be included.
 *   The Symposium will be followed on the same day by training sessions to equip teams with the knowledge and skills pertaining to the design of upcycled products.
 
 <img src="/images/nyum2.jpg" style="width:65%">
 
-**Presentation-cum-Consultation on Advocacy Toolkit & Outreach Project Pla**
+**Presentation-cum-Consultation on Advocacy Toolkit &amp; Outreach Project Pla**
 *   After attending the NYUM Online Symposium, all teams will be required to start working on the following deliverables for the Movement:
 *   * Upcycled products
 *   * Advocacy outreach plans
 *   All teams will be required to record the amount of different food packaging (e.g. styrofoam boxes, plastic bottles, etc) conserved by the team in their Final Report.
 *   Each team will be scheduled for an online Presentation-cum-Consultation session to meet the experts and consultants in the field for feedback and comments on their upcycled products and advocacy plans, for further refinements to be made by the teams. Teams will be notified about their allocated slots for the session via email in due course.
-*   All teams must prepare **at least** one upcycled product for the Presentation-cum-Consultation session. **Five** pictures from multiple angles of the upcycled prototype would be needed for presentation at the session.
+*   All teams must prepare&nbsp;**at least**&nbsp;one upcycled product for the Presentation-cum-Consultation session.&nbsp;**Five**&nbsp;pictures from multiple angles of the upcycled prototype would be needed for presentation at the session.
 *   Subsequent consultations and clarifications with the experts and consultants will be conducted via email.
 
 <img src="/images/ncac7.jpg" style="width:65%">
@@ -86,12 +87,12 @@ The theme for this year’s challenge is “**Food Packaging: Don't Throw it. Up
 *   Collated data and figures from these forms submitted by participating teams will be updated onto the NYUM mobile app.
 
 **Final Tally and Prize Presentation**
-*   Judging will take place from **September to November 2021**.
-*   **Gold**, **Silver** and **Bronze** Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:
+*   Judging will take place from&nbsp;**September to November 2021**.
+*   **Gold**,&nbsp;**Silver**&nbsp;and&nbsp;**Bronze**&nbsp;Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:
 
 | Component | Criteria | Weighting |
 |:---:|:---:|:---:|
-| Advocacy Outreach<br> Plan & Final Report |  Feasibility<br>Impact<br>Scalability | 10%<br>30%<br>10% |
+| Advocacy Outreach<br> Plan &amp; Final Report |  Feasibility<br>Impact<br>Scalability | 10%<br>30%<br>10% |
 | Upcycled Product |  Aesthetics<br>Creativity<br>Functionality<br>Sustainability | 10%<br>10%<br>10%<br>20% |
 |
 
