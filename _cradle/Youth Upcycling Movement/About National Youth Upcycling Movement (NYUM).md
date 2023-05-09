@@ -73,10 +73,10 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 <img src="/images/ncac7.jpg" style="width:75%">
 
 **Advocacy and Outreach**
-*   From **June to August 2023**, all participating teams will be required to mass produce their upcycled products as well as well to execute their advocacy plans to reach out to as many members of the public as possible.
-*   Should fund-raising events be carried out, the funds raised can be donated to any environmental/ green initiatives nominated by the school.
-*   Teams that carry out fund-raising events will be required to record the amount of funds raised in their Final Report.
-*   Likewise, teams that make donations to any environmental/ green initiatives nominated by the school will be required to record the amount of donations as well as the beneficiaries in their Final Report.
+*   From **June to August 2023**, all participating teams will be required to mass produce their upcycled products as well as well to execute their advocacy plans to reach out to as many members of the public as possible.<br>
+*   Should fund-raising events be carried out, the funds raised can be donated to any environmental/ green initiatives nominated by the school.<br>
+*   Teams that carry out fund-raising events will be required to record the amount of funds raised in their Final Report.<br>
+*   Likewise, teams that make donations to any environmental/ green initiatives nominated by the school will be required to record the amount of donations as well as the beneficiaries in their Final Report.<br>
 
 **Submission of Final Report**
 * Teams will be required to submit their Final Report by **5.00pm on 1 September 2023**.<br>
