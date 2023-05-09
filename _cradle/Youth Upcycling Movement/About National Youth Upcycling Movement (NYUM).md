@@ -91,6 +91,6 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 * Judging will take place from **September to November 2023**.<br>
 * **Gold**, **Silver** and **Bronze** Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:<br>
 
-<img src="/images/NYUM_Phase3_FinalTally.png" style="width:75%"><br>
+<img src="/images/NYUM_Phase3_FinalTally.png" style="width:90%"><br>
 
-<img src="/images/NYUM_Phase3_Award.png" style="width:75%"><br>
+<img src="/images/NYUM_Phase3_Award.png" style="width:90%"><br>
