@@ -35,13 +35,10 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 * The teacher will access SLS to duplicate a copy of the lesson package and conduct the one-hour lesson package in a pre-determined format by the school.<br>
 * Tentative sequence of NYUM activities, using the lesson package:<br>
 
-| Time | Content |
-|---|---|
-| 10 min | Video introduction on Sustainability Movement and Zero-waste concept |
-| 10 min | Instructional video on the creation of the upcycled product |
-| 15 min  | Hands-on activity for the participants |
-| 25 min | Showcase and photograph the final upcycled products.  |
-|
+<img src="/images/nyum_phase2_timeline.png" style="width:90%">
+
+<br>
+<br>
 
 <img src="/images/ncac4.jpg" style="width:75%">
 
