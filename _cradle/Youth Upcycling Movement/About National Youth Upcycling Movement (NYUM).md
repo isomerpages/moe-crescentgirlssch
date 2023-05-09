@@ -31,8 +31,9 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 <img src="/images/ncac3.jpg" style="width:65%">
 
 **Conduct of Lesson Package**
-*   The teacher will access the web page and conduct the one-hour lesson package in a pre-determined format by the school.
-*   Suggested sequence of NYUM activities, using the lesson package:
+* The lesson package will be shared via SLS and the link will be made available to registered schools on 12 May 2023. Schools can conduct the lesson package any time from 12 May 2023 to 3 November 2023.<br>
+* The teacher will access SLS to duplicate a copy of the lesson package and conduct the one-hour lesson package in a pre-determined format by the school.<br>
+* Tentative sequence of NYUM activities, using the lesson package:<br>
 
 | Time | Content |
 |---|---|
