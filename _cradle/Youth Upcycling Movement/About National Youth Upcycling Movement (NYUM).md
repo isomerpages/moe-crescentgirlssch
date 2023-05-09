@@ -46,29 +46,32 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 <img src="/images/ncac4.jpg" style="width:65%">
 
 **Submission of Evidence**
-*   Participating schools will submit a Padlet link, photographic evidence and an MS Excel file containing the list of names (in full) of the student participants.
-*   All participants will be issued an e-Certificate upon verification of the submission
+* Participating schools should submit photographic evidence and a MS Excel file containing the list of names (in full) of the student participants by 3 November 2023.<br>
+* All participants will be issued an e-Certificate upon verification of the submission.<br>
+
 
 #### **4. Phases in the Advocacy Module**
 
 <img src="/images/ncac5.jpg" style="width:65%">
 
 **NYUM Symposium &amp; Training Session**
-*   Teams are strongly encouraged to send all members to attend the Symposium. Should there be overwhelming response to the event, the organiser reserves the right to adjust the number of members attending the Symposium from each team.
-*   During the Symposium, teams will attend a seminar featuring pertinent environmental issues and content presented by experts and consultants in the environmental conservation field.
-*   A briefing cum Q &amp; A session on the Movement will be included.
-*   The Symposium will be followed on the same day by training sessions to equip teams with the knowledge and skills pertaining to the design of upcycled products.
+* Teams are strongly encouraged to send all members to attend the Symposium. Should there be overwhelming response for the event, the organiser reserves the right to adjust the number of members attending the Symposium from each team.<br>
+*  During the Symposium, teams will attend a seminar featuring pertinent environmental issues and content presented by experts and consultants in the environmental conservation field.<br>
+*  A briefing cum Q&amp;A session on the Movement will be included.<br>
+* The Symposium will be followed on the same day by training sessions to equip teams with the knowledge and skills pertaining to the design of upcycled products and strategies to develop an advocacy plan on how to engage peers and the public effectively.<br>
+* There will be materials that need to be prepared by individual schools. This list of materials will be provided during the confirmation of registration.<br>
 
 <img src="/images/nyum2.jpg" style="width:65%">
 
 **Presentation-cum-Consultation on Advocacy Toolkit &amp; Outreach Project Pla**
-*   After attending the NYUM Online Symposium, all teams will be required to start working on the following deliverables for the Movement:
-*   * Upcycled products
-*   * Advocacy outreach plans
-*   All teams will be required to record the amount of different food packaging (e.g. styrofoam boxes, plastic bottles, etc) conserved by the team in their Final Report.
-*   Each team will be scheduled for an online Presentation-cum-Consultation session to meet the experts and consultants in the field for feedback and comments on their upcycled products and advocacy plans, for further refinements to be made by the teams. Teams will be notified about their allocated slots for the session via email in due course.
-*   All teams must prepare&nbsp;**at least**&nbsp;one upcycled product for the Presentation-cum-Consultation session.&nbsp;**Five**&nbsp;pictures from multiple angles of the upcycled prototype would be needed for presentation at the session.
-*   Subsequent consultations and clarifications with the experts and consultants will be conducted via email.
+
+* After attending the NYUM Online Symposium, all teams will be required to start working on the following deliverables for the Movement:<br>
+	* Design of upcycled products
+	* Advocacy outreach plans
+* All teams will be required to record the amount of different food packaging (e.g. styrofoam boxes, plastic bottles, etc) conserved by the team in their Final Report.
+* Each team will be scheduled for an online Presentation-cum-Consultation session to meet the experts and consultants in the field for feedback and comments on their upcycled products and advocacy plans, for further refinements to be made by the teams. Teams will be notified about their allocated slots for the session via email in due course.
+* All teams must prepare&nbsp;**at least**&nbsp;one upcycled product for the Presentation-cum-Consultation session.&nbsp;**Five**&nbsp;pictures from multiple angles of the upcycled prototype would be needed for presentation at the session.
+* Subsequent consultations and clarifications with the experts and consultants will be conducted via email.
 
 <img src="/images/ncac7.jpg" style="width:65%">
 
