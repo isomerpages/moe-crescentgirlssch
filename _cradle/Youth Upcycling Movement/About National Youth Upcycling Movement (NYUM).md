@@ -25,9 +25,8 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 <img src="/images/ncac2.jpg" style="width:65%">
 
 **Preparation Stage**
-*   Schools are to plan for a one-hour time slot to go through the package in their own school (e.g. the lesson package may be carried out as a Post-Midyear/Year-End Exam Activity).
-
-*   Schools will access the lesson package on a webpage and go through the lesson package beforehand. Schools will conduct the one-hour lesson package on their own. There will be materials for dissemination which schools may choose to print or distribute digitally.
+* Schools are to plan for a one-hour time slot to go through the package in their own school (e.g. as a Post-Midyear/Year-end Exam Activity).<br>
+* Schools will access the lesson package on an online platform will be made available from 12 May 2023 to 3 November 2023 and go through the lesson package beforehand. There will be materials to be prepared by the students based on school’s choice of upcycled product. Teachers will need to remind the students to bring the materials on the day of activity chosen by the schools. The list of materials will be stated in the lesson package.<br>
 
 <img src="/images/ncac3.jpg" style="width:65%">
 
