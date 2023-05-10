@@ -35,7 +35,7 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 * The teacher will access SLS to duplicate a copy of the lesson package and conduct the one-hour lesson package in a pre-determined format by the school.<br>
 * Tentative sequence of NYUM activities, using the lesson package:<br>
 
-<img src="/images/nyum_phase2_timeline.png" style="width:90%">
+<img src="/images/nyum_phase2_timeline.png" style="width:95%">
 
 <br>
 <br>
@@ -62,7 +62,7 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 
 **Presentation-cum-Consultation on Advocacy Toolkit &amp; Outreach Project Pla**
 
-* After attending the NYUM Online Symposium, all teams will be required to start working on the following deliverables for the Movement:<br>
+* After attending the NYUM Online Symposium, all teams will be required to start working on the following deliverables for the Movement:
 	* Design of upcycled products
 	* Advocacy outreach plans
 * All teams will be required to record the amount of different food packaging (e.g. styrofoam boxes, plastic bottles, etc) conserved by the team in their Final Report.<br>
@@ -91,6 +91,6 @@ NYUM also seeks to develop student voice and agency. Teams are tasked to plan an
 * Judging will take place from **September to November 2023**.<br>
 * **Gold**, **Silver** and **Bronze** Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:<br>
 
-<img src="/images/NYUM_Phase3_FinalTally.png" style="width:90%"><br>
+<img src="/images/nyum_phase3_finaltally.png" style="width:90%"><br>
 
-<img src="/images/NYUM_Phase3_Award.png" style="width:90%"><br>
+<img src="/images/nyum_phase3_award.png" style="width:90%"><br>
