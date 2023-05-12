@@ -1,6 +1,6 @@
 ---
 title: CGS Yearbook
-permalink: /about-cgs/Yearbook/
+permalink: /about-cgs/yearbook/
 description: ""
 ---
 ### Yearbook ###
