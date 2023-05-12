@@ -2,7 +2,6 @@ collections:
   about-cgs:
     output: true
     order:
-      - Supplier.md
       - Principal's Foreword.md
       - Mission, Vision & Values.md
       - School Song & Crest.md
@@ -19,4 +18,5 @@ collections:
       - Contact Us.md
       - Discipline Philosophy and School Rules.md
       - Financial Assistance Schemes (FAS).md
+      - Supplier.md
       - FAQs.md
