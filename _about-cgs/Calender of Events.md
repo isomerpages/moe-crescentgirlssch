@@ -6,4 +6,4 @@ description: ""
 ### **Calender of Events**
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Asia%2FSingapore&showPrint=0&showTabs=1&showCalendars=0&showTitle=0&showTz=0&src=Y3Jlc2NlbnRnaXJsc3MzNTdAZ21haWwuY29t&src=bjhwbHBpdmR1YXYzaW00bzl2cHRpNWJyMWlqZHNrMzdAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%237986CB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border-width:0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0&amp;showDate=1&amp;showTitle=0&amp;src=bjhwbHBpdmR1YXYzaW00bzl2cHRpNWJyMWlqZHNrMzdAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%237986CB"></iframe>
