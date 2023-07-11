@@ -2,7 +2,6 @@ collections:
   "2023":
     output: true
     order:
-      - May/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/2022 O'Level Result.md
@@ -16,3 +15,4 @@ collections:
       - March/Sport Carnival 2023.md
       - April/.keep
       - April/International Friendship Day 2023.md
+      - May/.keep
