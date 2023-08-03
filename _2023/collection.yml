@@ -2,9 +2,6 @@ collections:
   "2023":
     output: true
     order:
-      - June/Model United Nations Conference 2023.md
-      - June/Student Leaders’ Investiture 2023.md
-      - June/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/2022 O'Level Result.md
@@ -19,5 +16,8 @@ collections:
       - April/.keep
       - April/International Friendship Day 2023.md
       - April/CB Paul Science Quiz 2023.md
-      - May/Sec 3 OBS.md
       - May/.keep
+      - May/Sec 3 OBS.md
+      - June/.keep
+      - June/Model United Nations Conference 2023.md
+      - June/Student Leaders’ Investiture 2023.md
