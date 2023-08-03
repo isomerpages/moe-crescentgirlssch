@@ -2,6 +2,7 @@ collections:
   "2023":
     output: true
     order:
+      - June/Model United Nations Conference 2023.md
       - June/Student Leaders’ Investiture 2023.md
       - June/.keep
       - January/.keep
