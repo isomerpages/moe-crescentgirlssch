@@ -2,8 +2,6 @@ collections:
   "2023":
     output: true
     order:
-      - July/Swift Explorers Singapore 2023.md
-      - July/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/2022 O'Level Result.md
@@ -23,3 +21,5 @@ collections:
       - June/.keep
       - June/Model United Nations Conference 2023.md
       - June/Student Leaders’ Investiture 2023.md
+      - July/.keep
+      - July/Swift Explorers Singapore 2023.md
