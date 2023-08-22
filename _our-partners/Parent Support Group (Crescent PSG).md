@@ -5,22 +5,17 @@ description: ""
 ---
 ### **Parent Support Group (Crescent PSG)**
 
-#### **2023**
 
-**Who We Are**
-
+**Who We Are** <br>
 Crescent PSG is a team of parents working together with the school to create a warm and nurturing environment for our daughters as they journey towards becoming Ladies and Leaders of Tomorrow.
 
 With the support of the school, Crescent PSG successfully registered as a non-profit society on 20 February 2020.
 
-**What We Do**
-
-Whatever we can! We organise a myriad of activities, events and workshops that strive to build enriching relationships between the school, students and parents.
-
+**What We Do**<br>
+Whatever we can! We organise a myriad of activities, events and workshops that strive to build enriching relationships between the school, students and parents.<br>
 Crescent PSG is grateful to have members whose commitment, generosity and enthusiasm have made organising our events an enjoyable and rewarding experience.
 
 **Find out more about Crescent PSG:**
-
 * Email us: [hello@crescentpsg.org](mailto:hello@crescentpsg.org)&nbsp;&nbsp;
 * Like us on Facebook: [https://www.facebook.com/crescentpsg/](https://www.facebook.com/crescentpsg/)
 * Follow us on Instagram: [https://instagram.com/crescentpsg](https://instagram.com/crescentpsg)
@@ -30,13 +25,68 @@ Crescent PSG is grateful to have members whose commitment, generosity and enthus
 Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.com/JoinCrescentPSG2023)
 
 
+#### **2023**
 ![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202023.png)
+
+**PSG Members**
+|             |              |             |
+| -------- | -------- | -------- |
+| Ms Adel Yip | Mdm Hui Ping Tan | Ms Rena Goh |
+| Mrs Adelyn Ang | Mdm Hwee Keng Loh | Ms Renee Ng |
+| Ms Ailin Ong | Mdm Ilya Ibrahim | Mr Ringo Fok |
+| Ms Alvean Lee | Mrs Inderpal Kaur | Mdm Rubenna Chang |
+| Ms Amanda Lau | Mrs Ing Ing Cheong | Mrs Sadhana Achapattira Ganesh |
+| Mrs Angeline Ang | Ms Irene Cheong | Mrs Sahiram Aswini |
+| Dr Angeline Ho | Mrs Jayasudha Victor | Mr Sahoo Purnendu Bikash |
+| Mr Anthony Goh | Ms Jaynie Oh | Mrs Sandeep Chopra |
+| Ms Audrey Ng | Ms Jesiee Tanudji | Ms Sandra Lee |
+| Ms Audrey Yew | Mr Jeyakumar Velusamy | Mrs Sangeeta Sivakumar |
+| Mdm Bee Leng Lee | Mdm Joan Tan | Mrs Sara Wong |
+| Mr Benjamin Joseph Clement | Ms Joanna Cheong | Ms Sarah Mak |
+| Mdm Carmen Loh | Ms Joanne Lui | Ms Serena Hoo |
+| Ms Carol Tan | Mr John Lee | Mrs Shamini Chandra |
+| Ms Charmaine Ee | Mdm June Lam | Mrs Shanmugapriya Vijayakumar |
+| Mrs Cheryl Tan/Lin | Ms Justina Ong | Ms Shee Chie Poh |
+| Ms Chiew Yang Lim | Mrs Jyothy Haridas | Mdm Sherry Tan |
+| Mdm Ching Ching Long | Mr Kee Ng | Mrs Shuling Tong |
+| Ms Ching Ju Cheng | Mr Kok Thong Cheong | Mdm Shymala Devi |
+| Dr Chinnu Palanivelu | Ms Lia Natalia | Mdm Siew Hua Tan |
+| Mr Chris Yeo | Mrs Lina Sanghvi | Ms Siti Nurbaya M J |
+| Mrs Christine Cheong | Ms Ling Tze Tan | Ms Siti Zubaidah Yusuf |
+| Mrs Christine Mak | Mrs Luisa Han | Mrs Sivagami R |
+| Ms Christine Pranoto | Ms Lydia Thio | Ms Sophia Tay |
+| Mr Christopher Nyoe | Mdm Lynette Lai | Mrs Sreelatha Kanta Reddy |
+| Ms Clara Keng | Ms Lynn Ong | Mdm Su Ching Sng |
+| Mdm Cynthia Lau | Ms Marie Ang | Ms Su Mar Win |
+| Mr Damian Muthu | Mr Martin Wang | Mdm Sujata Mohan |
+| Mr Delvin Dane Valentine | Ms Maureen Goh | Ms Susan Chiang |
+| Mrs Divya Prabhakar | Mr Maximilian Jackson | Ms Susan Ng |
+| Mrs Elizabeth Ng | Mrs Melina Ang-Julius | Mrs Swapna Venugopal |
+| Ms Esther Lim | Ms Melissa Ong | Mrs Thanuja Sanathi |
+| Ms Ettoria Tasani | Mrs Ming Chin Ti | Ms Tharshini S |
+| Dr Felicia Cheah | Mr Mohammad Nazree Mat Sidik | Mr Tiong Kiat Yeo |
+| Ms Florence Chia | Ms Nanying Liang | Ms Uma Devi Kaliperema |
+| Ms Foong Lee Chong, Nicole | Mrs Natalia Nesterenko | Mdm Vanessa Goh |
+| Mr Francis Anthony Ramos | Mrs Nivashini PV Subramaniam | Mr Venkatesh Guntur |
+| Mrs Gail Chang | Ms Norain Nordin | Mr Victor Huang |
+| Mrs Gayathri Painapen | Mr Norman Yen | Mr Vignesh KR |
+| Mdm Geraldine Lim Xiuping | Mdm Nur Azah Roslan | Mrs Vinodha Appaji |
+| Mrs Gitanjali Srivastava | Mdm Parimala Balasubramaniam | Ms Wai Yee Wan |
+| Rev Glenn Tan | Mdm Parveen Sidhu | Mr Wai Yip Choh |
+| Ms Goh Bee Lin | Mdm Peck Boon Wee | Dr War War Win Tun |
+| Ms Guat Mui Tan | Ms Pei Boon Tan | Mrs Winnie Cheah |
+| Ms Hazel Phua | Mr Prabu Vellaichamy | Ms Yingying Tan |
+| Mdm Helen Tandiono | Mrs Priyadharshini Ganesan | Mdm Yuen Chen Lee |
+| Mrs Hima Bindu Guntur | Mrs Priyanka Nayar | Mr Zech Leong |
+| Ms Hui Ching Sim | Mrs Reetika Gupta |&nbsp; |
+|             |              |             |
+
+
 
 
 #### **2022** ####
 
-![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/2023%20Parent%20Support%20Group%20(Crescent%20PSG).png)
-
+![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202022.png)
 
 **PSG MEMBER**
 
@@ -78,9 +128,6 @@ Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.co
 | Mrs Inderpal Kaur | Mrs Sahiram Aswini | Dr Ya Jun Wu |
 | Mrs Ing Ing Cheong | Mr Sahoo Purnendu Bikash | Mdm Yuen Chen Lee |
 |             |              |             |
-
-
-
 
 
 #### **Crescent PSG 2021**
