@@ -28,7 +28,7 @@ Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.co
 #### **2023**
 ![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202023.png)
 
-**PSG Members**
+**PSG MEMBERS**
 |             |              |             |
 | -------- | -------- | -------- |
 | Ms Adel Yip | Mdm Hui Ping Tan | Ms Rena Goh |
@@ -88,7 +88,7 @@ Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.co
 
 ![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202022.png)
 
-**PSG MEMBER**
+**PSG MEMBERS**
 
 |             |              |             |
 | -------- | -------- | -------- |
@@ -130,7 +130,7 @@ Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.co
 |             |              |             |
 
 
-#### **Crescent PSG 2021**
+##### **2021**
 
 <figure>
 <img style="width:75%" src="/images/crescentpsg1.jpg">
