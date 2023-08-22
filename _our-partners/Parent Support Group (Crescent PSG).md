@@ -6,40 +6,34 @@ description: ""
 ### **Parent Support Group (Crescent PSG)**
 
 #### **2023**
-**Our Vision and Guiding Philosophy:**<br>
-Parents, standing together with the school to equip each student with vital knowledge, useful skills, positive attitudes and upright values, to enable her to stand tall in the global community.
 
-**PSG – Network of Support**
-*   Comprises parents who meet regularly in school to engage in dialogue sessions with (or without) the Principal and key personnel to discuss educational concerns;  
-*   Creates a network of links between school, family and community.
+**Who We Are**
 
-**Shared Vision – Partners in Education**
-*   School and parents in a symbiotic relationship in which PSG members share a common vision and work towards improving the school.  
-*   Gives parents a legitimate voice for giving constructive feedback to the school;  
-*   Parents as a resource for the purpose of attracting other parents to be involved in school.
+Crescent PSG is a team of parents working together with the school to create a warm and nurturing environment for our daughters as they journey towards becoming Ladies and Leaders of Tomorrow.
 
-**Areas of Contribution**
-*   Resource personnel; Sponsorships;  
-*   Participation and involvements in school functions, activities, committees;  
-*   Organize and/or conduct workshops, courses, talks;
+With the support of the school, Crescent PSG successfully registered as a non-profit society on 20 February 2020.
 
-**JOIN US!**
-*   Sign up for PSG membership:&nbsp;&nbsp;[http://tiny.cc/JoinCrescentPSG](https://tinyurl.com/JoinCrescentPSG2023)
+**What We Do**
 
-<img align="left" style="width:15%" src="/images/psgqrcode.png">
-<br clear="left">
+Whatever we can! We organise a myriad of activities, events and workshops that strive to build enriching relationships between the school, students and parents.
 
-**Contact Us:**
-* **Email us:**&nbsp;[psgcgs@gmail.com](mailto:psgcgs@gmail.com)
+Crescent PSG is grateful to have members whose commitment, generosity and enthusiasm have made organising our events an enjoyable and rewarding experience.
 
-**Find out more about Crescent PSG!**
-*   **“Like” us on Facebook :**&nbsp;[https://www.facebook.com/crescentpsg/](https://www.facebook.com/crescentpsg/)
-*   **“Follow” us on Instagram :**&nbsp;[https://instagram.com/crescentpsg](https://instagram.com/crescentpsg)
+**Find out more about Crescent PSG:**
+
+* Email us: [hello@crescentpsg.org](mailto:hello@crescentpsg.org)&nbsp;&nbsp;
+* Like us on Facebook: [https://www.facebook.com/crescentpsg/](https://www.facebook.com/crescentpsg/)
+* Follow us on Instagram: [https://instagram.com/crescentpsg](https://instagram.com/crescentpsg)
+* Check out our website: [https://sites.google.com/crescentpsg.org/crescentpsg/](https://sites.google.com/crescentpsg.org/crescentpsg/)
+
+**Join us!** <br>
+Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.com/JoinCrescentPSG2023)
 
 
+![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202023.png)
 
-#### **2022**
 
+#### **2022** ####
 
 ![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/2023%20Parent%20Support%20Group%20(Crescent%20PSG).png)
 
