@@ -7,7 +7,7 @@ third_nav_title: Clubs and Societies
 ### **ENGLISH DRAMA** ###
 
 
-**'Our Best Act For You’**
+&gt; **'Our Best Act For You’**
 
 English Drama is a Co-Curricular Activity (CCA) for Crescentian theatre practitioners. The goal of the society is to ensure that every member is equipped with the necessary skills to enable them to excel in drama. This also involves the skills for scriptwriting, stagecraft as well as the play production process. Members are taught the core basics of dramatic technique – the use of levels to create effect, vocal projection, awareness of body language, facial expressions, use of space and behind-the-scenes work on lighting and sound. As such, every member is given the opportunity to develop their talents and to discover their best talents to excel confidently. Additionally, in the upper secondary levels, the students are trained to take on responsibilities as facilitators and leaders.
 
@@ -15,22 +15,12 @@ English Drama also takes part in the biennial Singapore Youth Festival Arts Pres
 
 The English Drama members are close and organise social events to bond as a family. It is common to see former students of the CCA returning to share their experiences with the current members and to inspire their juniors to new heights. The time the students spend in English Drama in Crescent is only the beginning of their journey into the Arts – it is an initiation into a cultural lifestyle.
 
-Teacher OIC: Mr Julius Li
+#### **Teachers-In-charge:** ####
+**OIC:** 
+* Mr Julius Li
 
-Other Teacher I/C: Mdm Norazlin Mohd
-
-#### **EVENTS**
-* Sec 1 Orientation CCA Open House
-* Annual Blackbox Performance
-* National Schools’ Literature Festival Poetry Slam-&nbsp; Singapore Secondary Schools Debating Championship
-
-
-#### **Teachers-In-charge:**
-**OIC:**  
-* Mr Lloyd Lin
-  
 **Other Teacher I/Cs:**  
-* Mrs Rupa Beng Choo
+*  Mdm Norazlin Mohd
 
 
 ### **Blurbs** ###
@@ -57,6 +47,6 @@ _My most memorable memory of Drama would have to be performing in 2023’s Singa
 **-Leong En Rui (3G2), Vice-President of Drama 2023/2024**_
 
 
-### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh-MNToYLIavuIELk_1UqdThZXZdO85CPNs5TPXl0PzIB_CKoWYMeiAuz5GHFGDR3Svh3wH2oec70x/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+### **PHOTOS** ###
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZ_jbQO2rvzJ-diakVyEBuoWRRNlMgKfEAiYjq1F5Z6b_CMQfUsvKyelp8OdaZydckcY-cu97IWmuu/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
