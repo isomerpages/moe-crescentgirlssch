@@ -38,4 +38,8 @@ sections:
       subtitle: Crescent Girls' School
       button: Learn more
       url: /about-cgs/fas/
+  - resources:
+      title: Test
+      subtitle: Crescent Girls' School
+      button: Click here
 ---
