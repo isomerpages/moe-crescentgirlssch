@@ -7,7 +7,7 @@ third_nav_title: Clubs and Societies
 ### **ENGLISH DRAMA** ###
 
 
-&gt; **'Our Best Act For You’**
+&gt; Our Best Act For You
 
 English Drama is a Co-Curricular Activity (CCA) for Crescentian theatre practitioners. The goal of the society is to ensure that every member is equipped with the necessary skills to enable them to excel in drama. This also involves the skills for scriptwriting, stagecraft as well as the play production process. Members are taught the core basics of dramatic technique – the use of levels to create effect, vocal projection, awareness of body language, facial expressions, use of space and behind-the-scenes work on lighting and sound. As such, every member is given the opportunity to develop their talents and to discover their best talents to excel confidently. Additionally, in the upper secondary levels, the students are trained to take on responsibilities as facilitators and leaders.
 
