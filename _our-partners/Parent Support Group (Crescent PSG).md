@@ -29,6 +29,7 @@ Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.co
 ![](/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202023.png)
 
 **PSG MEMBERS**
+
 |             |              |             |
 | -------- | -------- | -------- |
 | Ms Adel Yip | Mdm Hui Ping Tan | Ms Rena Goh |
@@ -258,7 +259,7 @@ Sign up for membership here: [http://tiny.cc/JoinCrescentPSG](https://tinyurl.co
 
 Not in picture: Asst Treasurer, MRs Ng Voon Keen, Mr M Muthusamy, Mr S Ramesh Kumar, Mr Mohd Khusni, Mdm Rosaidah Ghazali, Mdm Sharifah Maznah.
 
-Find out more about our activities here:&nbsp;[https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
+
 
 ##### **2013**
 
@@ -271,5 +272,3 @@ Find out more about our activities here:&nbsp;[https://www.facebook.com/crescent
 **Standing:**&nbsp;Mdm K Malliha, Mrs Foo-Ng Tze Leng, Mdm Winnie Tai, Mdm C. Arasi, Mdm Angelina Anthony, Mdm Kasimah Kassim, Mdm Ng Voon Keen (Vice-Treasurer), Mdm Rogaya bte Mohamed, Mrs Bernadette Ellya Jumana
 
 **Not in picture:**&nbsp;Mr Mariappan Muthusamy, Mrs Stpal Kaur, Ms R.Jeyapriya, Mrs Savitha Kumar.
-
-Find out more about our activities here:&nbsp;[https://www.facebook.com/crescentparents](https://www.facebook.com/crescentparents)
