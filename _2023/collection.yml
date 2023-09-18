@@ -2,6 +2,7 @@ collections:
   "2023":
     output: true
     order:
+      - September/Secondary 2 Showcase 2023.md
       - September/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
