@@ -2,8 +2,6 @@ collections:
   "2023":
     output: true
     order:
-      - September/Secondary 2 Showcase 2023.md
-      - September/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/2022 O'Level Result.md
@@ -26,5 +24,7 @@ collections:
       - July/.keep
       - July/Swift Explorers Singapore 2023.md
       - July/National Schools Literature Festival 2023.md
-      - August/National Day Celebration 2023.md
       - August/.keep
+      - August/National Day Celebration 2023.md
+      - September/.keep
+      - September/Secondary 2 Showcase 2023.md
