@@ -39,6 +39,7 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 *   Angklung & Kulintang Ensemble 
 *   Chinese & Modern Dance 
 *   Choir
+*   English Drama
 *   Symphonic Band
 
 **Clubs & Societies**
@@ -46,7 +47,6 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 *   Chess
 *   Infocomm 
 *   Digital Art & Photography 
-*   English Drama
 *   Innovation & Enterprise
 
 
