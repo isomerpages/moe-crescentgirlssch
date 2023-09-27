@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Crescent Girls' School
       background: /images/hero.gif
       key_highlights:
         - title: New Announcements
