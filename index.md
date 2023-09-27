@@ -4,7 +4,7 @@ title: Crescent Girls' School
 description: Brief site description here
 image: /images/sch logo.png
 permalink: /
-notification: ""
+notification: Notification testing
 sections:
   - hero:
       background: /images/hero.gif
@@ -18,6 +18,7 @@ sections:
         - title: Quicklinks
           description: ""
           url: /quicklinks/for-students/
+      title: Crescent Girl's School
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
