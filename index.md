@@ -4,7 +4,7 @@ title: Crescent Girls' School
 description: Brief site description here
 image: /images/sch logo.png
 permalink: /
-notification: Notification testing
+notification: ""
 sections:
   - hero:
       background: /images/hero.gif
