@@ -8,7 +8,7 @@ third_nav_title: National Digital Explorer
 
 <img src="/images/nde1.png" style="width:45%">
 
-<p style="text-align:justify;">Crescent Girls’ School is partnering ICDL Asia, which offers the world’s leading computer skills certification, to organise the inaugural National Digital Explorer (NDE) initiative. NDE is a nationwide digital literacy initiative designed to empower students to learn real-world skills that enable them to think critically and be more productive learners. It is targeted at all upper primary school pupils (Primary 3 to 6), secondary school, JC and MI students. </p>
+<p style="text-align:justify;">Crescent Girls’ School is partnering ICDL Asia, which offers the world’s leading computer skills certification, to organise the inaugural National Digital Explorer (NDE) initiative. NDE is a nationwide digital literacy initiative designed to empower students to learn real-world skills that enable them to think critically and be more productive learners. It is targeted at all primary school pupils (Primary 3 to 6), secondary school, JC and MI students. </p>
 
 <p style="text-align:justify;">To nurture future-ready students for the modern workplace, this initiative will focus on equipping students with key skills and knowledge on the effective use of office productivity tools.</p>
 
