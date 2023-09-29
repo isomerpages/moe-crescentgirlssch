@@ -17,8 +17,12 @@ Each participating school will host the certification test sessions. Schools wit
 
 #### Timeline and Summary of Key Dates ####
 
-<img src="/images/NDECertifyTimeline2023.png" style="width:120%">
-<br>
+| Dates | Activities |  |
+| -------- | -------- | -------- |
+| October 2023 - February 2024    | Briefing and Registration     | 
+|February 2024 | Issuance of accounts 
+November 2024 | Completion of certification 
+
 
 ##### Registration for NDE 2024 #####
 
