@@ -45,7 +45,7 @@ The top scorer from each school participating in Digital Explorer Certify will b
 
 ICDL Asia will also be recognising the top-performing schools for their commitment and outstanding performance during the Digital Explorer Competition 2023.
 
-##### ** Timeline and Summary of Key Dates** #####
+##### Timeline and Summary of Key Dates
 
 
 
