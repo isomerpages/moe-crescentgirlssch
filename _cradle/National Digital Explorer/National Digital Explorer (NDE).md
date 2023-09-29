@@ -38,8 +38,6 @@ Resources shared during the briefing for NDE 2024: [Resources for NDE 2024](http
 
 A gentle reminder to attach the candidate import template in the NDE 2024 Registration Form.<br>
 <br> 
-**Download the students details template [HERE](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h) 
+**Download the students details template [here](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h)** 
 
-
-
-**Scan or Register [here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)**
+**Register for NDE 2024 [HERE ](https://for.edu.sg/nde2024-registration)**[https://for.edu.sg/nde2024-registration]
