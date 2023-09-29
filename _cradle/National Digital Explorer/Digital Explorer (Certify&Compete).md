@@ -24,9 +24,8 @@ Top winners in the Secondary / JC / MI Level will fast track to the Grand Final 
 | -------- | -------- | -------- |
 | **Certification Round (in individual school** *Latest by 31 May 2024*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights ** (Big Data, Insights Cloud Computer)
 **National Round** | Spreadsheet &amp; Presentation | Documents &amp; Spreadsheet 
-**Grand Final Regional ICDL Asia Digital Challenge** * September 2024 (tentative*) | | Top winner in this category will be invited to represent Singapore 
-
-*The above modules are subject to change. Participating schools will be informed accordingly.*
+**Grand Final Regional ICDL Asia Digital Challenge** * September 2024 (tentative) | | Top winner in this category will be invited to represent Singapore 
+###### *The above modules are subject to change. Participating schools will be informed accordingly.*
 
 #### **Qualifying Criteria &amp; Prizes** ####
 The top scorer from each school participating in Digital Explorer Certify will be invited to participate as finalists in the National Round.
