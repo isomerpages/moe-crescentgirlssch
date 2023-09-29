@@ -6,34 +6,32 @@ third_nav_title: National Digital Explorer
 ---
 ### **Digital Explorer - Certify**
 
-The Digital Explorer – Certify provides opportunities for students to be certified in the various productivity skills selected by schools.  
+The Digital Explorer – Certify provides opportunities for students to be certified in the various productivity skills selected by schools. &nbsp;
 
 **Registration**<br>
-Registration will be open in February 2023. The registration fee for each participating student will be **S$20** for each module selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
+Registration is open from now until February 2024. The registration fee for each participating student will be **S$20(excluding GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
 
 All participants must sit for the certification tests on Windows device only. Upon confirmation of registration from Crescent Girls’ School, schools would be informed of payment details to ICDL via e-invoice.
 
-Each participating school will host the certification test sessions. Schools with only a small number of participating students may opt to have the certification test in Crescent Girls’ School. The date and time of the centralised certification test will be announced nearer to that date. All participating students will take the ICDL Application Essentials certification test by May 2023 at the latest for the score to be considered for Digital Explorer Compete. For students who would like to opt out of  Digital Explorer - Compete, schools may extend the deadline to November 2023. Successful students who pass the certification test will receive the ICDL eBadge and Certificate of Participation for the selected module.
+Each participating school will host the certification test sessions. Schools with only a small number of participating students may opt to have the certification test in Crescent Girls’ School. The date and time of the centralised certification test will be announced nearer to that date. All participating students will take the ICDL certification test by 15 November 2024. Successful students who pass the certification test will receive the ICDL eBadge and Certificate of Participation for the selected module.
 
 #### Timeline and Summary of Key Dates ####
 
 <img src="/images/NDECertifyTimeline2023.png" style="width:120%">
 <br>
 
-##### Registration for NDE 2023 #####
+##### Registration for NDE 2024 #####
 
-Registration for NDE 2023 is open from now until ***28 February 2023***. 
-A gentle reminder to attach the candidate import template in the NDE 2023 Registration Form.<br>
-Download template [Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)
+Registration for NDE 2024 is open from now until ***February 2024***.
 
-<img src="/images/NDERegistration2023.png" style="width:40%">
-<br>
+A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-Scan or Register [here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
+Register for NDE 2024 [here](https://for.edu.sg/nde2024-registration) [https://for.edu.sg/nde2024-registration]
 
 
 
-### UPPER PRIMARY LEVER ###
+### PRIMARY LEVEL ###
 
 **Learning Outcomes:** <br>
 Upon completion, successful students will feel confident using important office productivity applications to perform everyday workplace tasks. They will be able to:<br>
@@ -44,14 +42,6 @@ Upon completion, successful students will feel confident using important office 
 
 Students will use ICDL eLearning platform to complete the Essentials module(s) selected by their school in this programme: <br>
 
-##### Application Essentials: #####
-* Office productivity applications
-* Word processing
-* Spreadsheets
-* Presentation<br>
-	More information: [https://icdlasia.org/workforce/application-essentials/](https://icdlasia.org/workforce/application-essentials/)
-<br>
-
 ##### Computer and Online Essentials #####
 *  Computer and devices
 *  Manage files and applications
@@ -61,6 +51,16 @@ Students will use ICDL eLearning platform to complete the Essentials module(s) s
 * Safety <br>
 More information: [https://icdlasia.org/workforce/computer-and-online-essentials/](https://icdlasia.org/workforce/computer-and-online-essentials/)
 <br>
+
+
+##### Application Essentials: #####
+* Office productivity applications
+* Word processing
+* Spreadsheets
+* Presentation<br>
+	More information: [https://icdlasia.org/workforce/application-essentials/](https://icdlasia.org/workforce/application-essentials/)
+<br>
+
 
 
 ### SECONDARY/JC/MI ###
@@ -85,13 +85,13 @@ More information: [https://icdlasia.org/workforce/documents/](https://icdlasia.o
 ##### Workforce Spreadsheets #####
 * Cells
 *  Managing worksheets
-* Formulas and Functions 
+* Formulas and Functions&nbsp;
 * Formatting
 * Charts <br>
 More information: [https://icdlasia.org/workforce/spreadsheets/](https://icdlasia.org/workforce/spreadsheets/)
 
 ##### Workforce Presentation #####
-* Developing presentation 
+* Developing presentation&nbsp;
 * Text
 * Charts
 * Graphical Objects <br>
@@ -122,7 +122,7 @@ as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS) 
 Through participation in NDE, students will be equipped with essential skills and knowledge to use office productivity tools effectively. The self-directed/self-initiated aspect of the programme empowers students to build on their knowledge progressively at their own pace. In addition to this, the programme develops future-ready learners and gives students the opportunity to apply what they have learnt and connect with students beyond their community when they participate in national and regional competitions.
 
 **2\. Is there any registration fee or other cost to participate in the program?**<br>
-The registration fee for each participating student for Digital Explorer - Certify will be S$20. Upon confirmation of registration from Crescent Girls’ School, schools would be informed about payment details to ICDL via e-invoice (GeBIZ).<br>
+The registration fee for each participating student for Digital Explorer - Certify will be S$20(before GST). Upon confirmation of registration from Crescent Girls’ School, schools would be informed about payment details to ICDL via e-invoice (GeBIZ).<br>
 
 **3\. What if students do not complete the entire programme?**<br>
 For the Digital Explorer - Certify, students will need to attend the certification round after completing the e-Learning modules. Students will be assessed if they possess the necessary skills to be awarded the e-certificate. ICDL Asia will be coordinating with participating schools on the certification round to be held in respective schools.<br>
@@ -137,4 +137,4 @@ The teacher-in-charge of participating schools will be provided log-in access to
 The online portal will be generating the e-certificate for students upon their completion of all the e-Learning modules.<br>
 
 **7\. Do students need Windows-based devices for Learn and Apply Module?**<br>
-Students will need an internet-enabled device (laptop, iPad, Chrome Book etc.) with internet browser to access the e-Learning portal to complete the e-Learning modules. Students will need a Windows-based device for the Certification round held in respective schools. It is recommended for schools to use ACAD devices for the Certification round.<br>
+Students will need an internet-enabled device (laptop, iPad, Chrome Book etc.) with internet browser to access the e-Learning portal to complete the e-Learning modules. Students will need a **Windows-based device** for the Certification round held in respective schools. It is recommended for schools to use ACAD devices for the Certification round.<br>
