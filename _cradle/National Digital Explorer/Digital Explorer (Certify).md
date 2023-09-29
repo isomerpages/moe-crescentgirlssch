@@ -9,7 +9,7 @@ third_nav_title: National Digital Explorer
 The Digital Explorer – Certify provides opportunities for students to be certified in the various productivity skills selected by schools. &nbsp;
 
 **Registration**<br>
-Registration is open from now until February 2024. The registration fee for each participating student will be **S$20(excluding GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
+Registration is open from now until February 2024. The registration fee for each participating student will be **S$20(before GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
 
 All participants must sit for the certification tests on Windows device only. Upon confirmation of registration from Crescent Girls’ School, schools would be informed of payment details to ICDL via e-invoice.
 
