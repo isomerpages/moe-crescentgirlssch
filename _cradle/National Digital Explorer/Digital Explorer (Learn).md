@@ -11,10 +11,10 @@ The ICDL e-Learning solution provides a slew of interactive content and tools to
 
 The flexibility of Digital Explorer Learn programme allows schools to adopt this programme as a self-directed learning activity or complement it for classroom-based teaching. Schools may also choose to implement this programme as a post-exam activity.
 
-The registration fee for each participating student will be **S$5** for each module selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 16 November 2023.
+The registration fee for each participating student will be **S$5**. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 15 November 2024.
 
 
-### UPPER PRIMARY LEVEL ###
+### PRIMARY LEVEL ###
 
 **Learning Outcomes:** <br>
 Upon completion, successful students will feel confident using important office productivity applications to perform everyday workplace tasks. They will be able to:
@@ -26,13 +26,6 @@ Upon completion, successful students will feel confident using important office 
 
 Students will use ICDL eLearning platform to complete the Essentials module(s) selected by their school in this programme:<br>
 
-##### Application Essentials: #####
-* Office productivity applications
-* Word processing
-* Spreadsheets
-* Presentation <br>
-More information: [https://icdlasia.org/workforce/application-essentials/](https://icdlasia.org/workforce/application-essentials/)
-
 ##### Computer and Online Essentials #####
 * Computer and devices
 *  Manage files and applications
@@ -41,6 +34,14 @@ More information: [https://icdlasia.org/workforce/application-essentials/](https
 * Online communication
 * Safety<br> 
 More information: [https://icdlasia.org/workforce/computer-and-online-essentials/](https://icdlasia.org/workforce/computer-and-online-essentials/)
+
+##### Application Essentials: #####
+* Office productivity applications
+* Word processing
+* Spreadsheets
+* Presentation <br>
+More information: [https://icdlasia.org/workforce/application-essentials/](https://icdlasia.org/workforce/application-essentials/)
+
 
 
 ### Secondary/JC/MI ###
@@ -66,13 +67,13 @@ More information: [https://icdlasia.org/workforce/documents/](https://icdlasia.o
 ##### Workforce Spreadsheets #####
 * Cells
 * Managing worksheets
-* Formulas and Functions 
+* Formulas and Functions&nbsp;
 * Formatting
-*  Charts <br>
+*  Charts&nbsp;<br>
 More information: [https://icdlasia.org/workforce/spreadsheets/](https://icdlasia.org/workforce/spreadsheets/)
 
 ##### Workforce Presentation #####
-* Developing presentation 
+* Developing presentation&nbsp;
 * Text
 * Charts
 * Graphical Objects <br>
@@ -96,20 +97,25 @@ More information: [https://icdlasia.org/insights/cloud-computing/](https://icdla
 <br>
 * as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS) and Function as a Service (FaaS).
 
-#### **Registration for NDE 2023** ####
-Registration for NDE 2023 is open from now until ***28 February 2023***.
-A gentle reminder to attach the candidate import template in the NDE 2023 Registration Form.<br>
-Download template [Here](https://docs.google.com/spreadsheets/d/1xHwuA7NqU4t-ZOc56VGeSWQB-vg3bhAU/edit?usp=sharing&ouid=112150140364693489571&rtpof=true&sd=true)
+#### **Registration for NDE 2024** ####
+Registration for NDE 2024 is open from now until ***February 2024***.
 
-<img src="/images/NDERegistration2023.png" style="width:40%">
+A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-Scan or Register [here](www.Go.gov.sg/nde2023-registration](http://www.Go.gov.sg/nde2023-registration)
+Register for NDE 2024 [here](https://for.edu.sg/nde2024-registration) [https://for.edu.sg/nde2024-registration]
 
 
 #### **Timeline and Summary of Key Dates**
 
-<img src="/images/NDEUPPERPrimaryTimeline2023.png" style="width:120">
-<br>
+
+
+| Dates | Activities |  |
+| -------- | -------- | -------- |
+| October 2023 - February 2024     | Registration Period    |    
+February 2024| Release of eLearning Accounts
+November 2024 | Completion of Learn 
+
 
 
 #### **Frequently Asked Question (FAQs):**
@@ -124,7 +130,7 @@ There is a registration fee **$5** for Digital Explorer - Learn program. Student
 For the Digital Explorer - Learn programme, students will need to complete all lessons in the programme in order to be awarded the e-Certification of completion.
 
 **4\. Can I take a look at the contents before I sign my students up for the programmes?** <br>
-Please refer above for the Outline of activities for the Digital Explorer – Learn programme. _Please contact us at_ [**_nde@crescent.edu.sg_**](mailto:nde@crescent.edu.sg) if you need more information.
+Please refer above for the Outline of activities for the Digital Explorer – Learn programme.&nbsp;_Please contact us at_&nbsp;[**_nde@crescent.edu.sg_**](mailto:nde@crescent.edu.sg)&nbsp;if you need more information.
 
 **5\. Who will be monitoring the progress of students?** <br>
 The teacher-in-charge of participating schools will be provided log-in access to the admin portal where he / she will be provided with an overview of their students’ progress for the e-Learning modules. Teachers-in-charge are encouraged to have milestone check-ins with students to ensure students are on-task and complete the modules within the timeframe provided.
