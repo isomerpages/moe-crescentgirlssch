@@ -11,7 +11,7 @@ The ICDL e-Learning solution provides a slew of interactive content and tools to
 
 The flexibility of Digital Explorer Learn programme allows schools to adopt this programme as a self-directed learning activity or complement it for classroom-based teaching. Schools may also choose to implement this programme as a post-exam activity.
 
-The registration fee for each participating student will be **S$5**. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 15 November 2024.
+The registration fee for each participating student will be **S$5(before GST)**. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 15 November 2024.
 
 
 ### PRIMARY LEVEL ###
