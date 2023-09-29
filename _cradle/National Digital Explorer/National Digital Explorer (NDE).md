@@ -32,10 +32,13 @@ There are three available categories that schools can sign up for:
 
 #### **Registration for NDE 2024** ####
 
-Registration for NDE 2023 is open from now until ***February 2024***. <br>
+Registration for NDE 2024 is open from now until ***February 2024***. <br>
+
 A gentle reminder to attach the candidate import template in the NDE 2024 Registration Form.<br>
-<br>
-**Download template [Here]([NDE 2024 Mass Enrollment template V2.xlsx](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h))**
+<br> 
+
+**Download the students details template [Here ](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h) 
+
 
 
 <img src="/images/NDERegistration2023.png" style="width:40%">
