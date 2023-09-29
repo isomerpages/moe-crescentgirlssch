@@ -14,7 +14,7 @@ third_nav_title: National Digital Explorer
 
 <p style="text-align:justify;"> The NDE learning experience is aligned to the latest Ministry of Education’s EdTech Plan. Students will engage in a range of e-Learning content and activities to build their knowledge progressively. The ICDL e-Learning platform also enables students to learn at their own pace using their personal learning devices. To further enrich their learning experience, students are encouraged to participate in our national and regional competitions to apply what they have learnt and connect with students beyond their community. </p>
 
-*_The aims of the programme are as follows:_*<br>
+*The aims of the programme are as follows:*<br>
 * To develop digitally fluent students equipped with the mastery of practical digital skills for future digital workplace<br>
 * To encourage students to be self-directed learners who take ownership of their learning<br>
 * To provide students with the opportunity to gain an international outlook with ICDL Asia Digital Challenge<br>
@@ -22,12 +22,13 @@ third_nav_title: National Digital Explorer
 
 #### **Timeline and Summary of Keys Dates** ####
 
-<img src="/images/NDETimeline2023.png" style="width:120%">
-<br>
-There are three available categories that schools can sign up for:
+![](/images/nde%202024%20timeline.png)
 
-<img src="/images/NDECategory2023.png" style="width:120%">
-<br>
+There are three available categories for which schools can sign up:
+
+![NDE 2024 categories](/images/nde%202024%20categories.png)
+
+
 
 
 #### **Registration for NDE 2024** ####
