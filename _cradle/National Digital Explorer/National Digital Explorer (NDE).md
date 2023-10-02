@@ -35,7 +35,7 @@ There are three available categories for which schools can sign up:
 
 Registration for NDE 2024 is open from now until ***February 2024***. <br>
 
-Resources shared during the briefing for NDE 2024: [Resources for NDE 2024](https://for.edu.sg/nde2024-resouces ) [https://for.edu.sg/nde2024-resouces ]
+Resources shared during the briefing for NDE 2024: [Resources for NDE 2024](https://for.edu.sg/nde2024-resources ) [https://for.edu.sg/nde2024-resources ]
 
 A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
 <br> 
