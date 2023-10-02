@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Crescent Girls' School
       background: /images/hero.gif
       key_highlights:
         - title: New Announcements
@@ -19,6 +18,7 @@ sections:
         - title: Quicklinks
           description: ""
           url: /quicklinks/for-students/
+      title: Crescent Girl's School
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
