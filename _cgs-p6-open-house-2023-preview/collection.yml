@@ -1,4 +1,5 @@
 collections:
   cgs-p6-open-house-2023-preview:
     output: true
-    order: []
+    order:
+      - CGS P6 Open house 2023.md
