@@ -2,4 +2,5 @@ collections:
   cgs-p6-open-house-2023-preview:
     output: true
     order:
+      - Programmes/.keep
       - CGS P6 Open house 2023.md
