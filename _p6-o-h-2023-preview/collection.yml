@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - CGS P6 Open house 2023.md
-      - CCAs/.keep
       - Programmes/.keep
       - Programmes/IP & Niche Areas.md
+      - CCAs/.keep
