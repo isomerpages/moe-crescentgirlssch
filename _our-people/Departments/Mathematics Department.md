@@ -3,7 +3,8 @@ title: Mathematics Department
 permalink: /our-people/departments/mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### **Mathematics Department**
 
-<img src="/images/MathematicsDepartment2022.jpg" style="width:85%">
+![](/images/Our%20Partners/2023%20School%20staff%20&%20Department/mathematics%2023.jpg)
