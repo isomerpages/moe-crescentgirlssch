@@ -30,12 +30,8 @@ variant: markdown
 
 ### HUMANITIES
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Dc11r1EYDTc?si=BLHRtXdxB8zgZyvV" height="315" width="560"></iframe>
-<br>
+<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3v_848sPkjMvbzMZlJgLyH_X5VwNnA2JuAaZGT5_dCFCCqsJrjhWeNOKfJ86Nftu4xbkDTUhTHefB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3v_848sPkjMvbzMZlJgLyH_X5VwNnA2JuAaZGT5_dCFCCqsJrjhWeNOKfJ86Nftu4xbkDTUhTHefB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-<iframe allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1SoOIDACANFbY1qY9mkPTwVmwAXqC3E7Y/preview"></iframe>
 
 ### PHYSICAL EDUCATION
 
@@ -78,6 +74,3 @@ variant: markdown
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/I-jqO7ctz5w?si=NpeVubCzHi1kmefG" height="315" width="560"></iframe>
 <br>
-
-
-
