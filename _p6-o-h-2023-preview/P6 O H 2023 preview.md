@@ -1,7 +1,8 @@
 ---
-title: CGS P6 Open house 2023
-permalink: /cgs-p6openhouse2023preview/
+title: P6 O H 2023 preview
+permalink: /p6-o-h-2023-preview/
 description: ""
+variant: tiptap
 ---
 ### STAY TUNED FOR MORE INFORMATION
 

@@ -3,7 +3,8 @@ title: Creative Arts Department
 permalink: /our-people/departments/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### **Creative Arts Department**
 
-<img src="/images/CreativeArtsDepartment2022.jpg" style="width:85%">
+![](/images/Our%20Partners/2023%20School%20staff%20&%20Department/creative%20arts%2023.jpg)
