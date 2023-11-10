@@ -7,8 +7,8 @@ collections:
       - Programmes/General.md
       - Programmes/IP and Niche Areas.md
       - Programmes/CCAs.md
-      - CCAs/Clubs.md
-      - CCAs/Performing Arts.md
-      - CCAs/Uniformed Group.md
-      - CCAs/Sport.md
       - CCAs/.keep
+      - CCAs/Sport.md
+      - CCAs/Uniformed Group.md
+      - CCAs/Performing Arts.md
+      - CCAs/Clubs.md
