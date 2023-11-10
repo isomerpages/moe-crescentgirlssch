@@ -55,4 +55,4 @@ At Crescent Canoeing, we don’t just train athletes to win in races. Through in
 
 ### **PHOTOS** ###
 
-<iframe allowfullscreen="true" height="310" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkfuJjxvl8sMD27BaeLsRkIowgBSEev8H3V9W1EVQDH68i4hRaB2nDA188kDQeSQQvbETIj8PUtk_O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkfuJjxvl8sMD27BaeLsRkIowgBSEev8H3V9W1EVQDH68i4hRaB2nDA188kDQeSQQvbETIj8PUtk_O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
