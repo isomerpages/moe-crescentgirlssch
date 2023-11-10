@@ -60,4 +60,4 @@ We will continue to work hard and give our all for the team, and we hope to help
 
 ### **PHOTOS** ###
 
-<iframe allowfullscreen="true" height="310" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCKNqy3Q7drdT8_2ljUOsJRVuAIBZxH0aTCFztLS93KHnmx_7zJXp8UlqZr__1-dtiBwUC42O8ObDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCKNqy3Q7drdT8_2ljUOsJRVuAIBZxH0aTCFztLS93KHnmx_7zJXp8UlqZr__1-dtiBwUC42O8ObDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
