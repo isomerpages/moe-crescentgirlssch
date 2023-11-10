@@ -3,26 +3,28 @@ title: Badminton
 permalink: /our-holistic-curriculum/cce/cca/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## **Badminton** ##
->*"CRESCENT BADMINTON, ALWAYS READY TO STRIKE"*
 
 
-Badminton is a fast paced sport which requires not only agility, power, but also high mental endurance. That is why Crescent Badminton has always been persistent in terms of perfecting our skills, improving our agility as well as pushing our own boundaries during our trainings, which are held thrice a week, in order to bring the team to even greater heights. In 2013, Crescent Badminton was able to reap the fruits of our labour, with the C Division emerging as one of the Top 8 teams in Singapore.
+&gt; “IGNITE THE FIRE WITHIN!”
 
-Crescent Badminton’s vision is to instill character building through positive competition and to achieve excellence in competitions.
+Crescent Badminton’s vision is to instill&nbsp;character building through positive competition and to achieve excellence in competitions.
 
-Crescent Badminton has been actively participating in many competitions, such as the annual South Zone Inter-School Badminton Championships, the annual Wee Kim Wee Cup and many other friendly matches against opponents from other schools. These competitions not only allow our players to put what they have learnt from trainings into practice, but also gives us an opportunity to learn from our opponents, allowing us to improve our skills as well as our strategies.
+Badminton is a fast-paced sport which requires not only agility, power, but also high mental endurance. That is why Crescent Badminton has always been persistent in terms of perfecting our skills, improving our agility as well as pushing our own boundaries during our training sessions, which are held twice a week, in order to bring the team to even greater heights. In 2023, Crescent Badminton was able to reap the fruits of our labour, with the B Division attaining 1st Runner-up, and the C Division attaining 2nd Runner-up in the South Zone National School Games.
 
-In November 2013, Crescent Badminton also had the chance of going to Kuala Lumpur, Malaysia, to participate in friendly matches with the local sports academy and even got a chance to train together with the local players. We have benefited immensely from this trip, learning different skills from the local players as well as getting a chance to interact with people who share the same passion and love for Badminton as we do.
+Crescent Badminton has been actively participating in many competitions, such as the annual South Zone Inter-School Badminton Championships and many other friendly matches against opponents from other schools. These competitions not only allow our players to put what they have learnt from training sessions into practice, but also give us an opportunity to learn from our opponents, allowing us to improve our skills as well as our strategies.
 
-Over the past year, while there is no doubt that Crescent Badminton has grown significantly in terms of skills and agility, we have also grown closer as a team. As we become more agile, our ability to tackle obstacles gets better.  While our smashes become more powerful, our love for the team has also grown stronger.
+Over the past year, while there is no doubt that Crescent Badminton has grown significantly in terms of skills and agility, we have also grown closer as a team. As we become more agile, our ability to tackle obstacles gets better. &nbsp;While our smashes become more powerful, our love for the team has also grown stronger.
 
 We will continue to work hard and give our all for the team, and we hope to help Crescent Badminton scale even greater heights and achieve even more outstanding results in the near future.
 
 
-#### **COMPETITION**
-*   South Zone Inter-schools Badminton Championship
+#### **EVENTS**
+*   B Division South Zone National School Games
+*   C Division South Zone National School Games
+*   Singapore Badminton Open
 
 
 #### **TEACHERS-IN-CHARGE:**<br>
@@ -58,4 +60,4 @@ We will continue to work hard and give our all for the team, and we hope to help
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAxh6E1v4S8WZ9AKFQivSMqYA0e6CvBUXMx-TLEcWEP2z37vNuq723vsOyJDctVPZFR3-wUr4_y_CQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAxh6E1v4S8WZ9AKFQivSMqYA0e6CvBUXMx-TLEcWEP2z37vNuq723vsOyJDctVPZFR3-wUr4_y_CQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
