@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - P6 O H 2023 preview.md
-      - Programmes/IP and Niche Areas.md
-      - Programmes/General.md
       - Programmes/.keep
+      - Programmes/General.md
+      - Programmes/IP and Niche Areas.md
       - CCAs/.keep
