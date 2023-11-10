@@ -27,7 +27,7 @@ We will continue to work hard and give our all for the team, and we hope to help
 *   Singapore Badminton Open
 
 
-#### **TEACHERS-IN-CHARGE:**<br>
+#### **TEACHERS-IN-CHARGE:**
 **OIC:**
 * Ms Magdalena Furtado
 
@@ -60,4 +60,4 @@ We will continue to work hard and give our all for the team, and we hope to help
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAxh6E1v4S8WZ9AKFQivSMqYA0e6CvBUXMx-TLEcWEP2z37vNuq723vsOyJDctVPZFR3-wUr4_y_CQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="310" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCKNqy3Q7drdT8_2ljUOsJRVuAIBZxH0aTCFztLS93KHnmx_7zJXp8UlqZr__1-dtiBwUC42O8ObDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
