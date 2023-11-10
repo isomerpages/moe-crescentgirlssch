@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 ## **HOCKEY**
-&gt;*"WIN OR DON'T GO HOME!"*
+&gt; "WIN OR DON'T GO HOME!"
 
 Crescent Hockey has a long history dating back to 1959 and is one of the longest running CCAs in Crescent. In the early years, Crescent Hockey gradually gained recognition by achieving numerous awards in both district and national tournaments under the guidance of the teacher-in-charge and former coach, Mr Julian Hwang. The senior team had its first taste of winning when it clinched the first position in the District Tournament in 1971, followed by the junior team in 1975. In 1995, Mr Nordin took over Mr Julian Hwang’s position as a coach and has been coaching the team since then. Crescent Hockey continues to do well in the national schools competition emerging top 4 position every year. In 1999 and 2000, we clinched the Championship title in the National Schools ‘B’ Division Championship.  
   
