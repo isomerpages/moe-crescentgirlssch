@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Student Leadership
 ---
-## **CREZCOMM LEADERS** ##
+## **CREZCOMMUNITY LEADERS** ##
 
 > "Leading hand in hand, heart to heart"
 
@@ -13,9 +13,10 @@ The CrezCommunity leaders at Crescent Girls’ School play a significant role in
 
 #### **Teachers-In-charge:** ####
 **OIC**
+*   Ms. Nur Rafiqqa
 *   Mdm.  Rilaini Sapari
 *   Mr. Christian Seah
-*   Ms. Nur Rafiqqa
+
 
 
 ### **Blurbs** ###
