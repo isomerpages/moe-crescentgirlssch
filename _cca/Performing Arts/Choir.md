@@ -3,31 +3,27 @@ title: Choir
 permalink: /our-holistic-curriculum/cce/cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## **CHOIR**
 
->*"WE SING AS ONE"*
+&gt; “We Sing as One!”
 
-The Crescent Girls’ School Choir has been actively contributing to the musical culture in school, as well as participating in public performances regularly. The choir received a Certificate of Distinction at the Singapore Youth Festival Arts Presentation 2017, and also attained the Gold Award at the Singapore International Choral Festival (SICF) in 2018, having the highest score among the Singapore choirs in its category.
-
-With their motto, ‘_The Voice, The Spirit, The Soul_’, the choir shows commitment and passion be it in performing or mentoring fellow singers. Recent activities of the choir include singing at the Voices of Singapore Festival in the past two years, performing as a guest item with the VOCO Singapore Ladies’ Choir, being part of the chorus in the Orchestra of the Music Makers (OMM)’s productions - Hansel and Gretel and OMM10: Bernstein’s Mass, as well as participating in numerous inter-school choir exchanges throughout the year. The choir also mentored primary school choir members from selected schools in the most recent exchange. The choir has also put up numerous concerts over the years and has all been very warmly received.
+The Crescent Girls’ School Choir has been actively contributing to the musical culture in school, as well as participating in public performances regularly. The choir received the Certificate of Distinction at the Singapore Youth Festival Arts Presentation in 2017, 2019, and 2023. The choir is also proud to attain the Gold Award at the Singapore International Choral Festival (SICF) in 2018, scoring the highest mark among the Singapore choirs in its category.&nbsp;  
+  
+With their motto, ‘The Voice, The Spirit, The Soul’, the choir shows commitment and passion in both performing and mentoring younger singers. Significant events that the choir participated in include performing as a guest item with the VOCO Singapore Ladies’ Choir, and being part of the chorus in the Orchestra of the Music Makers (OMM)’s productions - Hansel and Gretel and OMM10: Bernstein’s Mass. The choir also participated in numerous inter-school choir exchanges with various primary and secondary school choirs and performed for the school during special occasions.
 
 
 #### **EVENTS:**
-*   Sec 1 Orientation Campfire  
-*   CCA Open House
-*   P6 Open House
-*   Speech Day
-*   National Day
-*   CCA S-ViA
-*   Choir exchanges with other secondary school choirs  
-*   Vivace, Vivace 2.0, Vivace 3.0 (Student-initiated concert)  
-*   Voices of Singapore (VOS) Festival  
-*   In collaboration with Orchestra of the Music Makers - OMM: Hansel and Gretel (2017)  
-*   Guest item at the VOCO Singapore Ladies’ Choir Concert (2017)
-*   SYF Arts Presentation (2017)  
-*   In collaboration with Orchestra of the Music Makers - OMM10: Bernstein’s Mass (2018)  
-*   Singapore International Choral Festival (2018)
+* Singapore Youth Festival Arts Presentation
+* Singapore International Choral Festival
+* Annual in-house concert ‘Vivace’
+* Choir Exchanges and Combined Concerts with other primary and/or secondary school choirs
+* Sec 1 Orientation Campfire
+* P6 Open House
+* Chinese New Year Celebrations
+* Speech Day
+* National Day Celebrations
 
 
 #### **Teachers-In-charge:**
@@ -36,28 +32,23 @@ With their motto, ‘_The Voice, The Spirit, The Soul_’, the choir shows commi
 * Ms Teo Kim Yung 
   
 **Other Teacher I/Cs:**  
-* Ms Yip Wai Pheng
 * Ms Shireen Sanbhnani
-
+* Ms Yip Wai Pheng
 
 
 ### **Blurbs**
-“The CrezChorale has helped me grow not only as a singer but also as a student. I've learned the importance of teamwork and discipline when we prepared for our various concerts and competitions. Each section is equally important and contributes to the quality of the performance. The CrezChorale is indeed a Co-curricular Activity that I am really proud of.”
-***- Nurul Rasyidah Binti Abdul Manaf (4S2) on how Choir has shaped her as a person***
 
-“Joining the CrezChorale was an invaluable experience which helped me to grow and develop my maturity. I am thankful for having the privilege of being under the tutelage of a renowned conductor, who has inculcated this set of values in me, equipped me with greater musical insight, and taught the choir to be intelligent, thinking people that can rise to the challenge and grow from our experiences and mistakes.”
-***- Victoria Elizabeth Yong Shu Qi (4S2) on what she has learned in Choir***
+“Being a part of choir allowed me to experience working with different people, as all of us come from different backgrounds and have different strengths. As a leader, I learned that it is important to earn the trust of each choir member in order to work well with them. Choir has a supportive and open environment where even the instructors are friendly and open to new ideas.” **_Lo Yi Xuan Claire (3C2) - President_**
 
-“I would say the Orientale Concentus VII competition impacted me the most. I remember being in a state of confusion when we were handed new scores and required to perform them at concert standard the following day. Despite these odds, we were recognized as the choir with the highest score in the entire competition. This experience taught me that with hard work and self-discipline, anything is possible.”
-***- Choinh Yee Ching (3G1) on her most memorable experience in Choir***
-
-“Scott Hoying (member of the A cappella group, Pentatonix) said, 'If music was the language of the world, imagine how beautiful a seven-billion-part harmony would be.' No matter how well an individual can sing, it cannot compare to a group of people creating harmonious music like a choir. Being in the choir requires not only a passion for singing but also the ability to work with other members and discipline. Everyone can sing, but not everyone can make music.”
-***- Nikki Lim Zhi Li (4S2) on how her perspective of music-making changed upon joining Choir***
-
-“The CrezChorale has made me feel like there is a place that I belong, as there will always be a section to suit my voice and all the members have a part to play in making music. We are one big family, and family means that nobody will be left behind!”
-***- Chong Sonia Chui Fang (3S2) on being part of the Choir family***
+“I enjoy being with the people in choir as they are very fun, and we also sing many different genres of music.&nbsp; We also have choir bonding sessions where we get to know other choristers in our section and cohort better, especially during the karaoke segment. Performing on stage, going for concerts, and participating in choir exchanges with other schools make for a really enriching experience!” **_Charissa Liang Hui En (1S2) &amp; Andrea Ong Joh Sim (1S2) - Alto 1_**  
+  
+“Choir helped me grow as a person. Being in Choir enables us to develop a sense of teamwork and discipline that help us perform more efficiently as a group.” **_Ng Ye Shuen (3G2) - Soprano 1_**  
+  
+“My experience in Choir is fulfilling to say the least! We get to learn how to sing well, and also experience singing in various languages. I made many friends in Choir, and they make my school life more fun! 😀" **_Isabel Kang Ting Xuan (2S2) - Alto 2_**  
+  
+“CrezChorale is a hodgepodge of different talents who come together, with the common goal of making music through singing. More importantly, we are a CrAzY🤪 family who go through life together through thick and thin, rise to challenges, and grow past them! We sing as one!” **_Mr. Keane Ong (Instructor/Conductor)_**
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGe75O-9a5xYW2Ql0Xxo2-hsoHA0fYKzjVx33xfO-Ef-Vcib8jjvrbLlJCicg9Src34mloCFQ-G8Dl/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2MScFYSHBMzc9RrZo83iDoIQC8vmPfdcpw4NZcvcjtFZqt2gWYsZdO_-PSSr5XEw1biILVyLw4_c7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
