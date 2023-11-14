@@ -3,10 +3,11 @@ title: Red Cross Youth
 permalink: /our-holistic-curriculum/cce/cca/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## **RED CROSS YOUTH** ##
 
-&gt; &gt; *"United As One, We Stand Strong!"*
+&gt; "United As One, We Stand Strong!"
 
 Red Cross Youth is one of the three Uniformed Groups in Crescent Girls’ School. As a Uniformed Group, we instill the values of self-discipline, order and teamwork in our cadets. Contrary to popular belief that Red Cross Youth only teaches First Aid, we also expose our cadets to activities and lessons such as Disaster Management, Foot-Drill and Red Cross Knowledge Our cadets are also exposed to various activities at Red Cross Headquarters and competitions such as Annual Red Cross Flag Day &amp; National First Aid Competition.  
 
@@ -37,14 +38,14 @@ The motto of Red Cross Youth is ***"The motto of Red Cross Youth is “Humanity 
 
 
 ### **Blurbs**
-“Over the years, being in a uniformed group has taught me many things. From having a sense of urgency to demonstrating the value of 'All for One, One for All', I came to realize that the Red Cross is not all about First Aid alone. It is far greater than that. Being in the Red Cross is about serving humanity. I am thankful for the opportunities to equip me with the skills and knowledge to serve others even after I graduate from Crescent.”
-***- Nicole Ong Hui Yi (4S2) on how Red Cross taught her many life skills***
-  
-“As an NCO in my Red Cross journey, I have been exposed to leadership and it has taught me far more ways to become a good role model. Endurance is definitely the key to each and everyone one of us as we have to face many challenges and obstacles along with the way. However, as our motto states, “United as One, We Stand Strong”, with each other’s support, we managed to overcome difficulties and lead the unit successfully.”
-***- Ow Rui Qi, Rachel (4S3) on how NCO life has taught her to become a better leader***
-  
-“Handling the cadets and taking up responsibilities to lead the unit together with the other NCOs is one of the major roles as an NCO in Red Cross Youth. The journey is unpredictable and we adapt to situations with each step we take, reacting fast and supporting the unit so that we can bring the unit to greater heights. We definitely get discouraged by the difficulties at times, but the learning points are what matters most so that we can overcome the obstacles eventually.”
-***- Lee Jia Rui (4S3) on the challenges faced as an NCO***
+
+Being in Red Cross Youth taught me the core skills of discipline and to look out for others. This is because I not only looked out for people who needed help, but I also looked out for my squadmates as we worked together through challenges to learn many life skills. ***- Shirin Angeline, 2G2***
+
+I started my Red Cross Youth (RCY) journey in 2021, and it continues to be the most enriching experience of my life. RCY, being a uniformed group, also ingrained a sense of discipline in me, which I can put to good use in other aspects of my life. I was able to develop a growth mindset and learn how to take feedback positively. I also learned how to communicate more maturely and effectively. ***- Loh En Tong, 3C2***
+
+Throughout the years from being a cadet to becoming an NCO, I learnt what it meant to be disciplined yet still have fun during CCA. Being disciplined enabled us to grow not only in the CCA but also to become better individuals who consistently worked hard by putting in effort in everything we do. ***- Shamitrra Aruchunan, 3G1***
+
+During my time with Red Cross Youth (RCY), a humanitarian organization dedicated to making a positive difference in communities, I engaged in various initiatives and projects, including doing First Aid Duty during FITT run, contributing to the Grateful Hearts Campaign, as well as planning for the many fun and enriching activities in Crescent RCY.&nbsp;My journey with RCY has been a transformative one, fostering a deep sense of empathy, responsibility, and a commitment to serve humanity. ***- Lydia Sun Liya, 4C1***
 
 
 ### **PHOTOS** ###
