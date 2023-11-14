@@ -3,21 +3,24 @@ title: Netball
 permalink: /our-holistic-curriculum/cce/cca/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## **NETBALL**
->*"TEAMWORK MAKES THE DREAM WORK"*
+&gt; "TEAMWORK MAKES THE DREAM WORK"
 
-A sport whose history dates back to the 1890s, Netball in Crescent Girls’ School is an established and increasingly popular CCA. Netball is a fast paced game that not only requires good teamwork and stamina but also quick and flexible thinking in order to strategize effective gameplay. In Crescent, trainings occur thrice a week. These trainings not only build up our members’ fitness and skills, but also train us in our perseverance and determination, reminding us of the importance of never giving up. Although the long hours of training under the hot sun can prove to be exhausting, the results attained on the court is jubilantly gratifying.
+Netball in Crescent Girls’ School is an established and increasingly popular CCA. Netball is a fast-paced game that not only requires good teamwork and stamina but also quick and flexible thinking in order to strategize effective gameplay.
 
-The pandemic has forced us to embrace many new norms and one of these new norms is e-CCA where netball training sessions are conducted via zoom sessions when the situation calls for it. E-CCAs are meaningfully planned to ensure our members continue to hone their skills and develop a deeper understanding of the game through video analysis of the matches.
+In Crescent, training takes place twice a week, and three times a week leading up to the National School Games season. Students are given ample opportunities through their course of study to participate in netball competitions and carnivals. Netball training includes strength-building and conditioning, skills mastery, understanding of tactics through video analysis and court games. This training not only builds up our members’ fitness and skills, but also develops us in our perseverance and determination, reminding us of the importance of never giving up. Although the long hours of training under the hot sun can prove to be exhausting, the results attained on the court is jubilantly gratifying
 
-Crescent Netball it is made up of dedicated netballers who have much passion and drive. The team spirit of Netball is one that cannot be described in words. The intangible feelings of familiarity, trust and comfort is one that is unique to Netballers. We are each other’s pillars of support and we have Netball to thank for bringing us together as one.
+Crescent Netball is made up of dedicated netballers who have great passion and drive. The team spirit of Netball is one that cannot be described in words. The intangible feelings of familiarity, trust and comfort are unique to Netballers. We are each other’s pillars of support, and we have Netball to thank for bringing us together as one.
 
 
 #### **EVENTS:**
 * National Schools ‘C’ Division South Zone Netball Championships
-* National Schools ‘C’ Division South Zone Netball Championships
+* National Schools 'B’ Division South Zone Netball Championships
 * Sneakers Carnival
+* Pesta Sukan
+* Netops Carnival
 
 
 #### **TEACHERS-IN-CHARGE:**
@@ -31,34 +34,18 @@ Crescent Netball it is made up of dedicated netballers who have much passion and
 
 ### **Blurbs**
 
-I have learnt that teamwork in the team is important and each player has an important role to play and that I should persevere despite challenges and have a constant drive for improvement. 
-***-Goh Yi Xin Karys***
+Netball has taught me the importance of teamwork, communication and taking feedback positively to help both ourselves and the team do better. During netball we do different drills and play matches to both help the team and us as individuals improve our skills. I find netball really fun and that it has taught me lifelong skills, such as to be more open-minded and resilient when facing challenges and to become a better player.&nbsp; - **Maya Jonsson-Goh**
 
-  
+Netball has aided me in my pursuit of becoming a fitter individual, where the tough training sessions have effectively inculcated a strong sense of resilience and tenacity in me. This has made me adaptable to change in my studies and other commitments. Weekly bonding and camaraderie with my teammates and seniors alike add invaluable enjoyment to the sport, as we forge lifelong friendships along the way! - **Lim Yat Kwan Angel Wathida**
 
-I like that we also get to play different positions during training matches so that we are not just skilled in one netball position. I enjoy the activities we do during CCA because we have other activities like treasure hunt and other games not related to netball.
-***-Chuang Weng Yin Nadya***
+Being in the Netball CCA has made me a more versatile player. I have been given opportunities to play different positions to experience what each player goes through during a game. I have also learnt how to push through even when I get tired or am facing challenges. Through Netball CCA, I have learnt not only skills on court but also lifelong skills that will help me in the future such as teamwork and being receptive to feedback. - **Arwen Khor (Xu Kai Yi)**
 
-  
+With the support and guidance of my teachers and friends, I strive to do better and build my self-confidence.&nbsp; Through Netball CCA, I have become more open-minded which helps me to develop a growth mindset. I learned that teamwork is important to enable the team to succeed. Even through setbacks, the team works hard and does not give up. - **Harinisree Venkatesan**
 
-I have learnt to have more teamwork and how to communicate well with others during a netball game. I have also learnt not to give up easily when I face challenges or even when I get really tired. ***-Munera Binte Haja Mydin***
+My Netball CCA experience has made me more receptive to feedback. I would take feedback positively and find ways to work harder to become a better player. Additionally, I also learned the importance of teamwork and communication which would then allow us to thrive as a team. - **Ang Xin Yi Clara**
 
-  
-
-I enjoy training with my friends and able to have good relationships with them and my seniors whom I can always turn to for help.
-***-Soo Qi Ming Charmaine***
-
-  
-
-I have learnt how to work better with other teammates and improved my communication skills during court game. I have also improved my physical strength through netball as well as learnt more in-depth about Netball and the different drills to have us in court.  
-***-Goh Shi Rou***
-
-  
-
- I have learnt to be resilient and to work together with my teammates.
-***-Rachel Tan Rae Shyen***
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSxQynCTLkVi4qIFour_cjNfDfOsJxEhxNYW5vjTQq6zgp-1vUrnjgh1b09YbrL9gt1aEGi4dMzfqw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpn7NgnnJfwSjBjBN_akbXTtQedcFvS3UufDgPXDW_yORoOIlaThxjfQ9m0UN8I-Qq9JyE-sxtT0dU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
