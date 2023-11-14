@@ -48,7 +48,7 @@ Mind Warriors (Upper Division) - 1 Gold, 2 Silvers<br>
 Mind Sports (Uppder Division) - 1 Silver, 1 Bronze<br>
 Math Olympiad - 2 Bronzes, 1 Honourable Mention<br>
 
-**Singapore and Asian Schools Math Olympiad (SASMO) 2021**<br>
+**Singapore and Asian Schools Math Olympiad (SASMO) 2023**<br>
 3 Golds, 14 Silvers, 30 Bronzes<br>
 6 Honourable Mentions<br>
 
