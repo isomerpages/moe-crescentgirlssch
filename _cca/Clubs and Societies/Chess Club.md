@@ -3,40 +3,48 @@ title: Chess Club
 permalink: /cca/Clubs-and-Societies/chess-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ## **CHESS CLUB**
 
->*"EVERY PAWN IS A POTENTIAL QUEEN"*
+&gt; "EVERY PAWN IS A POTENTIAL QUEEN"
 
-Crescent's Chess Club holds training sessions every Monday from 3.30pm to 6.00pm. The sessions are conducted by a professional chess trainer who teaches the students how to play the game well and improve their skills. These skills include chess openings, end-game strategies, attacking or defending tactics and many other skills that can be used in the games. During the training sessions, members solve puzzles and spar with one another, putting what they have learned from the trainer to practice, thus ensuring that they understand how to apply the skills in their games. 
+Crescent Chess club is a Co-Curricular Activity where we come together to share our deep passion for chess. The Chess Club holds its sessions every Monday and Wednesday, from 3 to 5pm. Chess is akin to a form of art — a canvas of sixty-four squares where each move and strategy can be refined and perfected with endless possibilities. During these sessions, our professional chess coach, Woman Fide Master (WFM) Thandar Aye Win, teaches us the spotting of tactics and game strategies. We then engage in thrilling chess games that puts our knowledge and skills we have learned to the test. Alongside our matches, our coach challenges us with intricate chess puzzles that train our problem-solving skills and develop our ability to spot similar patterns in our games. Chess Club members are encouraged to interact with each other in the form of chess variants like bughouse, four-player chess, and simuls.
 
-Chess improves players’ memory too, as it is crucial to recall the moves your opponent made, as well as the moves you made that helped you win in the past. In fact, it is no surprise that experienced chess players are able to recall every single move made by both their opponents and themselves in their games, without referring to any physical recording of the moves. Unlike other games, chess players interact with their opponents in a silent manner, which also trains them to interpret non-verbal languages. How do chess players know what their opponents are planning and how do they feel? In Chess, players learn through experiences in competitions or practice matches to observe and read their opponents’ body language and facial expressions. Therefore, chess also improves player’s analytical skills and trains the players to anticipate the next move of the opponent.  
+In Chess Club, a strong bond among the club members is forged through playing the game with one another and getting to know them better in the process. With warm and embracing coach and club members, there will always be others to seek guidance from. There are also many opportunities to gain experience such as in inter-school and external competitions. Some of these include the National School Individuals (NSI) and the National School Team Championship (NST).
 
-The Chess Club frequently participates in external competitions such as the annual National Schools Individual Chess Championship, the Inter-School Team Chess Championship and other Chess tournaments.  The members can gain valuable experiences through participation in these competitions and we have achieved quite a number of successes over the years. These include coming in second in the Under-14 Secondary Girls’ and 3rd in both the Secondary Girls’ and Open Girls’ category in the 2015 National Inter-School Team Chess Championships. In the 2016 National Schools Individual Chess Championships, nine of our members won prizes at the National and/or Zonal level. Two of them were selected to be part of the Singapore Chess Federation High-Performance Squad.
+#### **Achievements**
+
+**2023**
+* Under-14 Team 1 attained 2nd place in Nationals and South Zone championships
+* Under-16 Team 1 attained 3rd place in the South Zone championship
+* Under-20 Team 1 secured 2nd place in the National championship
+
+**2022**
+* Under-14 Teams 1 and 2 attained 2nd and 3rd place respectively in the NST championship
+* Under-16 Teams 1 and 2 clinched 2nd and 3rd place respectively in the NST championship
 
 
 #### **Teachers-In-charge:**
 **OIC:**  
-Mr Lee Tiong Beng
+* Mdm Lim Hong Geok
+
+**Other Teachers I/Cs**
+* Ms Saifa Ashraf
 
 
 ### **Blurbs**
-"Over the years, Crescent's Chess Club has given me many opportunities to hone my playing techniques in chess tournaments and to develop my strategic thinking skills. The training sessions held weekly improved my tactics and motivated me to become an avid and competitive chess player. I really look forward to chess practice every week!"
-***-Megan Kwok (3S2) on her perspective on joining the Chess Club since 2014***
 
-"The Chess Club is a CCA that trains your brain power, and it's really fun when we try to solve difficult chess puzzles during training sessions. It requires us to think calmly and anticipate our opponents' moves. I've also learnt to be persevering even when I'm losing pieces, for as long as I don't give up, there would always be a chance to win. The teacher and friends are all very friendly and I really enjoy being a member of the Chess Club."
-***- Li Jingwei (4G3) on benefits of playing Chess ***
+I have absolutely zero regrets joining chess. This chess club is not just a group of students who can play chess, but a family, who has walked with me on this incredible journey for about three years now. From a Secondary One student who had countless doubts about her ability, I have gained confidence over time with the unceasing reassurance from my peers and coach, and eventually joined Singapore’s National Junior Development Squad (NJDS). I have also seen this club grow with each passing year, and my absolute favourite quality about us is that we do not give up. After every defeat, we pick ourselves up, train harder, and fight even harder the next time round. I have never once felt forced to train because this club has truly helped me to inculcate a love for chess which makes me strive to put in more effort each time. Getting the opportunity to be the president of this CCA which I call home is certainly a great honour, and I have grown to learn to step out of my comfort zone to lead this CCA to greater heights. From the bottom of my heart, I cannot thank you enough, Crescent Chess! ***- Yip Ruo Yao (3S1), President of Chess Club 2023/2024***
 
-"Chess helps to improve many skills, like a person’s memory, strategic thinking abilities and performance in Mathematics, and I have benefited from all of them. Through the 3, coming to 4 years of being in the Chess Club, I have made many friends and have grown to like them, the teacher and the coach very much. I really do enjoy Chess overall as my CCA and I definitely do not regret joining it."
-***- Tan Si Min (4S2) on her joy of joining the Chess Club***
+Chess has empowered me to think better and smarter. Every chess game is different and unique which requires me to practise every variation possible. Chess is also a &nbsp;&nbsp;game which allows me to manage my time better, and I also always have a great time playing Chess and forging closer bonds with my Chess Club friends.
+***- Chuan Wen Xin (3S2), Vice-President of Chess Club 2023/2024***
 
-"I chose Chess as my CCA because I love playing board games and I enjoy thinking through playing. After joining chess, I gradually find that playing chess is not that easy. But I am not afraid of the difficulties lying ahead of me and will try to learn as much skills as I could. Through Chess, I learnt to think logically and more quickly!"
-***- Liu Xiangning (3S1) on what she learns from chess upon joining in 2016***
+I was really weak in chess previously but when I joined Crescent Chess Club, I gained confidence in it because of the training as well as the strong bond we have as a chess club. Joining Crescent Chess Club is a decision I will never regret. ***-Annette Sophie Tay (2S1)***
 
-"I find the Chess Club a fun and amazing CCA. I am better able to balance my studies and CCA commitments. The Chess Club also developed some important life skills in me in addition to improving my chess playing techniques."
-***- Anna Jessica (2C2) on how she feels about the Chess Club***
+Chess Club has not only improved my chess skills but also my confidence in general. Previously, I had no confidence in myself. When I joined chess club and improved my chess skills, winning games has been a way to boost my confidence. The teachers-in-charge, coach, and club mates are extremely helpful and supportive. I would definitely recommend the Chess Club to my juniors. ***- Viveka Mohan Amarnani (2G2)***
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5JctAJCHntsDdN4j0OxmXDn0Pj0r7skz4d50wYEH9PiKotomffJPx7TpnyMmoZhKnjDK_VKqUAkt-/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ52ccyDLzrzwhJTQ8VaTcGreF-i7vBdMHzzP_EJAUW3mMFyKTbNe3Nr8YMgLBnnRL5ZvXXZHJTCErI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
