@@ -48,7 +48,6 @@ Click&nbsp;[here](https://www.facebook.com/6788957003/posts/10160206090752004/?v
 <img style="width:30%" src="/images/musicqr.png">
 
 **Download**
-*   [MEP FAQ (2019).pdf](/files/MEP%20FAQ%20(2019).pdf)/ pdf 206kB
-*   
+*   [MEP_FAQ.pdf](/files/MEP_FAQ.pdf)
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1x1DkBBldeVJqjHYdWzd906LLatnWrF_BGcFscYJjwtvfg0AtwpTXEBY5tc7mlncHJDFJ9I_iKaBj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
