@@ -3,51 +3,49 @@ title: NCC
 permalink: /our-holistic-curriculum/cce/cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## **NCC**
 
->*"NCC, 永远第一"*
+&gt; *“Crescent NC, 永远第一”*
 
-The National Cadet Corps (NCC) is an enriching CCA that strives to ensure that every cadet is not only physically fit , but also has good moral values as we strongly believe that no matter how capable a person is they will never be a good leader without the proper values.  
-  
-As a Uniformed Group, we go through many training through which cadets will learn how to do foot drills, arm drills with a dummy rifle and learn how to synchronize with their other CCA mates while doing so. These activities require a tireless amount of effort to achieve. It is through such training that NCC cadets bond as they go through thick and thin together. At the same time, it instills discipline into cadets as they learn to be more attentive, concentrated and learn to respect the people teaching them these drills.  
-  
-Being NCC cadets, they experience the true joy of overcoming challenges. Cadets often put their abilities to the test by volunteering to go through exciting NCC courses to expand their knowledge of NCC. They are required to attend annual camps and courses which are held at the Headquarters(HQ) campus. Some of them include Camp FORGE for Secondary Ones, Camp STEEL for Secondary Twos, Specialist Course for all Secondary Threes, Senior Specialist Course for the top 5 Secondary Three specialists and Camp Pinnacle for the top 2 Secondary Three specialists. Through these camps and courses, cadets' emotional intelligence is put to the test and they are adequately prepared for further leadership training in order to lead their unit with pride and dedication.  
-  
-In Crescent NCC, we hold our core values very dear to our hearts. A Crescent NCC cadet is always upright, committed, responsible and most importantly, one who genuinely cares for their fellow cadets. At the end of one’s NCC journey, their hardwork, tears and sweat eventually pay off. One can never forget the 4 meaningful years spent with their platoonmates, Juniors and Seniors. No one is forgotten from Crescent NCC.
+The National Cadet Corps (NCC) is an enriching CCA that strives to ensure that every cadet is not only physically fit but upholds good moral values as we strongly believe that no matter how capable a person is they will never be a good leader without the proper values.
+
+As a Uniformed Group, we go through many training sessions where cadets will learn how to execute foot drills, arm drills with a dummy rifle and learn how to synchronize with their other platoonmates while doing so. These activities require a tireless amount of effort to achieve. It is through such training that NCC cadets bond as they go through thick and thin together. At the same time, it instills discipline in cadets as they learn to be more attentive, focused and respectful of the people teaching them these drills.
+
+Being NCC cadets, they experience the true joy of overcoming challenges. Cadets often put their abilities to the test by volunteering to go through exciting NCC courses to expand their knowledge of NCC. They are required to attend annual camps and courses which are held at the Headquarters (HQ) campus. Some of these courses include Camp FORGE for Secondary Ones, Camp STEEL for Secondary Twos, Specialist Assessment for all Secondary Threes and Senior Specialist Course for the top 6 Secondary Three specialists. Through these camps and courses, cadets’ emotional intelligence is put to the test, which ensures that they are adequately prepared for further leadership training in order to lead their unit with pride and dedication.
+
+Crescent NCC members hold our core values very closely to our hearts. A Crescent NCC cadet is always upright, committed, responsible, disciplined, gracious and most importantly, one who genuinely cares for their fellow cadets. At the end of one’s NCC journey, their hard work, sweat and tears eventually pay off. One can never forget the 4 meaningful years spent with their platoonmates, Juniors and Seniors. No one is ever forgotten in Crescent NCC.
 
 
 #### **EVENT**
-* Sec 1 Orientation  
+* Sec 1 Affirmation Ceremony
 * Precision Drill Squad Competition  
 * Freestyle Exhibition Drill Competition  
 * Orienteering Competition  
-* Shooting Competition  
+* Air Rifle Shooting
 * Annual NCC Camps
 
 
 #### **TEACHERS-IN-CHARGE:**
 **OIC:**
-* Mdm Eugenia Kok
+* Mdm Phua Peijuan
 
 **OTHER TEACHER I/Cs:**
-* Ms Poh Zhaoxin
-* Mdm Phua Pejuan
 * Mr Norman Ng
+* Ms Poh Zhaoxin
+* Mrs Lim-Soh Poh Ping 
 
 
 ### **Blurbs**
 
-“Throughout our 4 years in NCC, we have learnt many new things and gone through various challenges — but one thing is for sure, we never did it alone. We always had our platoonmates as well as Teacher Officers to help us through it all; NCC became our second home, the home where we have nurtured different values, and shaped our character. The time, effort and energy we’ve spent in NCC has all been extremely worthwhile and we would not want to trade our 4 years spent in NCC for anything else.”
-***- Delta’21, Senior Cadet Leaders of NCC 2021***
+NCC took us by storm and so did the pandemic! We started our NCC journey online due to the pandemic (in 2020) and our Specialist term started just in time with the easing of regulations (in early 2022). The NCC had our up and downs due to the pandemic, but by utilising our 8 core values learnt in NCC, we successfully conquered our challenges, emerging glorious. These challenges also shaped us into being committed and responsible leaders. The camaraderie among the 15 of us has still left an everlasting impact on our lives. We worked together and had fun, making memories which we cherish dearly. Surely, Delta '23 finished strong and successful! **- Delta’23, Senior Cadet Leaders of NCC 2023**
 
-“I had always thought a CCA could not possibly teach me important values that could be used in the future. NCC had definitely proved that point wrong. By joining NCC and following our motto of “leaving no men behind”, I had undoubtedly overcome multiple challenges and attained many achievements that was only obtainable through the generous help of my platoonmates. After going through the highs and lows together as one, I have absolutely forged strong and sincere friendships and created plenty of wonderful memories that would never die in my heart.”
-***- Corporal Shaza Kareem, Unit Sergeant Major, Charlie’21, Cadet Leaders of NCC 2021***
-  
-“Joining NCC was never my plan in Primary School. However, it has added up to be one of the best decisions I had ever taken in my journey as a Crescentian. Through hardships and perseverance, drills and marching, NCC has taught me a plethora of values and skills that I know will come in handy in my future endeavours. After almost 3 splendid years in Crescent NCC, I have gained some of my closest friends, forming a unique and unbreakable bond between every one of us. In hindsight, I am positive that I could not have chosen a more fulfilling, fun and enriching CCA!”
-***- Corporal Muralitharan Viehha, Assistant Unit Sergeant Major, Charlie’21, Cadet Leaders of NCC 2021***
+When I first joined NCC, I never expected that it would become such a big part of my life. Although my NCC journey has been filled with challenges and setbacks, my platoonmates always supported me through thick and thin. This CCA has shaped me into becoming a more independent, strong and level-headed person. I am ever so grateful for every camp, course and opportunity NCC has given me and I can never predict what sort of experience and adventure this CCA would offer me next. Even when HQ instructors nag at us, “Hurry up slowly!” a phrase which I’ve learnt to interpret as “be efficient but be careful”, is something I look forward to hearing each time I visit the HQ. Being able to tell others that I’m from Crescent NCC and sharing our achievements evokes a great sense of pride and gives me the motivation to continue our legacy as a top NCC unit. I have found myself growing as a person and I really could not ask for a more enriching CCA experience than NCC. It truly is the foundation of my character and the most memorable part of my Crescentian journey.&nbsp;**– First Sergeant Giselle Tay, Unit Sergeant Major, Charlie’23, Cadet Leaders of NCC 2023**
+
+NCC, a CCA I never expected to join but grew to love. That is how I would describe my feelings towards this CCA. NCC was a part in my life that really taught me a lot of important values, such as, discipline, time management, hard work, resilience and much much more. NCC was a powerful platform for my personal growth and character development. One of the life lessons I learnt from this CCA, is “teamwork makes the dream work”. Since we were children, we have always heard of this in storybooks, movies, animations and more, but never did I learn the true meaning until I joined NCC. In NCC, we go through so many experiences together, whether it be good, or bad. We learn to support each other through the thick and thin no matter what. Lessons learnt in NCC can continue to serve as a guiding force throughout our life, contributing to our growth and making a positive impact on the lives of those around us. This allows us to not only cherish our memories but also continue to apply these valuable life lessons and skills in all our endeavours.&nbsp;**– First Sergeant Subekshasri Venkateswaran, Assistant Unit Sergeant Major, Charlie'23, Cadet Leaders of NCC 2023**
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCtSTqMwg1AF1Fl6Br0oRVZ-dTSgnqc9mFQ_Bu1ArT6zJDSUg-GXWgfVyKWT3j7OuRFKECqdAGIzDu/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhkodXwjBA6guAzuyuzAy_2oy7lpBT1qGJtdZTIRHydNKayM2sgy2sEZs5CP6SLLL0JPvel-QEovSv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
