@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Student Leadership
 ---
-## **CREZCOMMUNITY LEADERS** ##
+## **CREZCOMM LEADERS** ##
 
 > "Leading hand in hand, heart to heart"
 
@@ -30,4 +30,3 @@ CrezCommunity has helped me meet many people of different personalities and has 
 
 
 ### **PHOTOS** ###
-
