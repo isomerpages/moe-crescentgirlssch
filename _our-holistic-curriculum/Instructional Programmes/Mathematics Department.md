@@ -3,6 +3,7 @@ title: Mathematics Department
 permalink: /our-holistic-curriculum/instructional-programmes/mathematics-dept/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 ### **Mathematics Department**
 #### **Vision**
@@ -31,49 +32,26 @@ The Secondary 3 Integrated Curriculum is a distinctive school programme that int
 Secondary one to three students who demonstrate strong passion and talent in Mathematics will be invited to take part in the training programme for Singapore Mathematical Olympiad. These students undergo a series of rigourous training as they develop and deepen their creativity and problem-solving ability.
 
 #### **Achievements**
-##### **2021**
-**Australian Mathematics Competition 2021**<br>
-1 High Distinction & 9 Distinctions
+##### **2023**
+**Australian Mathematics Competition 2023**<br>
+2 High Distinction, 29 Distinctions, 84 Credits<br>
 
-**Singapore Mathematical Olympiad 2021:**<br>
-1 Bronze & 8 Honourable Mentions
+**Singapore Mathematical Olympiad (SMO) 2023:**<br>
+Junior Division - 3 Honourable Mentions<br>
+Senior Division - 2 Silvers, 3 Honourable Mentions<br>
 
-**Singapore Mathematical Olympiad 2021: School Award**<br>
-Commendation (Cat 1)
+**Singapore Mathematical Olympiad (SMO) 2023 School Award**<br>
+Commendation (Cat 1)<br>
+
+**Singapore International Math Olympiad Challenge (SIMOC) 2023**
+Mind Warriors (Upper Division) - 1 Gold, 2 Silvers<br>
+Mind Sports (Uppder Division) - 1 Silver, 1 Bronze<br>
+Math Olympiad - 2 Bronzes, 1 Honourable Mention<br>
 
 **Singapore and Asian Schools Math Olympiad (SASMO) 2021**<br>
-5 Golds, 16 Silvers, 24 Bronzes
+3 Golds, 14 Silvers, 30 Bronzes<br>
+6 Honourable Mentions<br>
 
-**Singapore International Math Olympiad Challenge (SIMOC) 2021**
-* Math Master Mind -- 1 Gold, 1 Bronze
-* Math Olympiad -- 1 Honourable Mention
-* Mind Sports -- 1 Gold, 2 Silvers
-
-**Singapore Math Kangaroo Contest 2021**<br>
-19 Golds, 34 Silvers, 38 Bronzes
-
-##### **2020**
-**Australian Mathematics Competition 2020**<br>
-10 Distinctions
-
-**Singapore and Asian Schools Math Olympiad (SASMO) 2020**<br>
-1 Gold, 9 Silvers, 14 Bronzes
-
-**Singapore Math Kangaroo Contest 2020**<br>
-6 Golds, 12 Silvers, 21 Bronzes
-
-##### **2019**
-**Australian Mathematics Competition 2019**<br>
-15 Distinctions
-
-**Singapore Mathematical Olympiad 2019:**<br>
-7 Bronzes, 7 Honourable Mentions
-
-**Singapore Mathematical Olympiad 2019: School Award**<br>
-Commendation
-
-**Singapore and Asian Schools Math Olympiad (SASMO) 2019**<br>
-8 Golds, 12 Silvers, 24 Bronzes
-
-**Singapore Math Kangaroo Contest 2019**<br>
-15 Golds, 29 Silvers, 38 Bronzes
+**Singapore Math Kangaroo Contest 2023**<br>
+11 Golds, 36 Silvers, 36 Bronzes<br>
+13 Honourable Mentions<br>
