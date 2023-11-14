@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-## **CHESS CLUB**
+## **INTERNATIONAL CHESS**
 
 &gt; "EVERY PAWN IS A POTENTIAL QUEEN"
 
