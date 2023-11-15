@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero.gif
+      background: /images/Background/CGS_Open_House_2023__V2_compressed.gif
       key_highlights:
         - title: New Announcements
           description: ""
@@ -19,6 +19,7 @@ sections:
           description: ""
           url: /quicklinks/for-students/
       title: Crescent Girls' School
+      variant: image
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
