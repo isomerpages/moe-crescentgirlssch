@@ -2,6 +2,7 @@ collections:
   p6-o-h-2023-preview:
     output: true
     order:
+      - General.md
       - P6 O H 2023 preview.md
       - Programmes/.keep
       - CCAs/.keep
