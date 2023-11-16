@@ -19,6 +19,7 @@ sections:
           description: ""
           url: /quicklinks/for-students/
       title: Crescent Girls' School
+      variant: image
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school

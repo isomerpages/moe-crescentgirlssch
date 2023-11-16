@@ -1,5 +1,5 @@
 ---
-title: CCAs Performing Arts
+title: Performing Arts
 permalink: /p6-o-h-2023-preview/ccas/openhouse2023-performingarts/
 variant: markdown
 description: ""

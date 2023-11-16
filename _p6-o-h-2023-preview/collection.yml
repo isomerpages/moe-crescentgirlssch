@@ -4,11 +4,10 @@ collections:
     order:
       - P6 O H 2023 preview.md
       - Programmes/General.md
+      - Programmes/IP & Niche Areas.md
       - Programmes/.keep
-      - Programmes/General.md
-      - Programmes/IP and Niche Areas.md
       - CCAs/.keep
       - CCAs/Sport.md
       - CCAs/Uniformed Group.md
-      - CCAs/CCAs Performing Arts.md
-      - CCAs/CCAs Clubs.md
+      - CCAs/Performing Arts.md
+      - CCAs/Clubs.md

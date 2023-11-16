@@ -1,5 +1,5 @@
 ---
-title: CCAs Clubs
+title: Clubs
 permalink: /p6-o-h-2023-preview/ccas/openhouse2023-clubs/
 variant: markdown
 description: ""
