@@ -154,7 +154,8 @@ To broaden the minds of our Humanities scholars, students engage in conversation
 **Dunman High ASEAN Plus Summit**<br>
 1 Honourable Mention<br>
 1 Double Delegation Verbal Commendation<br>
-Raffles Model United Nations Conference<br>
+
+**Raffles Model United Nations Conference**<br>
 1 Best Position Paper<br>
 1 Best Double Delegation Position Paper<br>
 1 Double Delegation Honourable Mention
@@ -169,3 +170,14 @@ Raffles Model United Nations Conference<br>
 
 **Historical Scene Investigation**<br>
 1 Gold<br>
+1 Silver
+
+**History Talent Development Programme (HTDP) 2023/2024**<br>
+1 Awardee
+
+**Farmathon 2023**<br>
+1 Bronze
+
+**National Youth Upcycling Movement**<br>
+1 Silver<br>
+1 Bronze
