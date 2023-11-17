@@ -37,7 +37,7 @@ third_nav_title: Programmes
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4XoQQG9A5xVv3VbNNHlp1SufC3unndJPrDSemV2s1o_A3y_pd-NI4AZvXXGErqqhWX7kNktSMYu1A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
-### INTERGRATED CURRICULUM (IC)
+### INTEGRATED CURRICULUM (IC)
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDBHIzkdgJRYVz94rEM8cPdI87SB5PCxvIpD2XAdqVeFjmkmI3Fdu6FUMvRq0Lg-VUqyTpQfpubExl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
