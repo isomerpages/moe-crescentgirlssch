@@ -2,6 +2,7 @@
 title: FAQs
 permalink: /about-cgs/faq/
 description: ""
+variant: markdown
 ---
 ### **FAQs**
 
@@ -26,11 +27,11 @@ International Students (Asean): $936<br>
 International Students: $1796
 
 **3\. What is the start-time and end-time on regular school days?**<br>
-All students must report to school  **for assembly at 7.30am**
+All students must report to school&nbsp;&nbsp;**for assembly at 7.30am**
 
 School ends by 2.00pm on most days for Secondary One and Two students. For the Upper Secondary levels, the end-time on different days varies, depending on the students’ subject combinations. 
 
-On days when students have to attend CCAs (ie, Mon & Wed for most CCAs; Mon, Wed & Fri for select CCAs), the end-time is 6.30pm. 
+On days when students have to attend CCAs (ie, Mon &amp; Wed for most CCAs; Mon, Wed &amp; Fri for select CCAs), the end-time is 6.30pm. 
 
 **4\. What are the streams offered?**<br>
 At every level from Secondary One to Four, the Express stream is offered.
@@ -53,7 +54,7 @@ The school is located near Redhill MRT and is also easily accessible via public 
 _Nearest MRT Station: Redhill MRT (EW18)<br>
 Walk for 6 mins from Exit B_
 
-_Bus Services (at Bus-stops B10321 & B10329):  32, 111, 122 and 132_
+_Bus Services (at Bus-stops B10321 &amp; B10329):&nbsp; 32, 111, 122 and 132_
 
 [TO FIND OUT MORE ABOUT DIRECTION TO SCHOOL](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/contact-us/)
 
@@ -64,12 +65,12 @@ Students are encouraged to purchase a Personal Learning Device (PLD) upon joinin
 
 #### **Student Development Programmes**
 **9. What are the CCAs available to the students?**<br>
-Students in Crescent are able to choose from a variety of about 20 CCAs, including Sports & Games, Uniformed Groups, Performing Arts and Clubs & Societies.
+Students in Crescent are able to choose from a variety of about 20 CCAs, including Sports &amp; Games, Uniformed Groups, Performing Arts and Clubs &amp; Societies.
 
 [TO FIND OUT MORE ABOUT CCA](https://staging.d38imrvfgjjnoy.amplifyapp.com/our-holistic-curriculum/cca/)
 
 **10. What are the Student Leadership opportunities available in Crescent Girls’ School?**<br>
-All students go through a leadership programme designed based on The Leadership Challenge model by Kouzes and Posner. There are also 4 main leadership groups which students could join to take on leadership roles, namely, the Student Council, Peer Leaders, House Leaders and CrezAmbassadors. In addition, students are given opportunities to take on leadership roles in their CCAs or class committees.
+All students go through a leadership programme designed based on Servant Leadership. There are also 3 main leadership groups which students could join to take on leadership roles, namely, the Student Council, House Leaders and CrezCommunity Leaders. In addition, students are given opportunities to take on leadership roles in their CCAs or class committees.
 
 **11. What are the signature programmes that Crescent Girls’ School offers?**<br>
 At Crescent, we offer a curriculum which is interdisciplinary, integrated and project-based, designed to provide opportunities for our students to develop and master the 21st century competencies.
@@ -84,23 +85,23 @@ We offer our students a range of signature programmes: m-learning@Crescent, 21st
 
 |  |  |
 |---|---|
-| Secondary One | Art<br>Communicative Arts<br>Design & Technology *<br>Food & Consumer Education *<br>Geography<br>History<br>Mathematics<br>Mother Tongue / Higher Mother Tongue<br>Music / Higher Music<br>Science |
-| Secondary Two | Art<br>Design & Technology *<br>English Language<br>Food and Consumer Education *<br>Geography<br>History<br>Literature in English<br>Mathematics<br>Mother Tongue / Higher Mother Tongue<br>Music / Higher Music<br>Science  |
+| Secondary One | Art<br>Communicative Arts<br>Design &amp; Technology *<br>Food &amp; Consumer Education *<br>Geography<br>History<br>Mathematics<br>Mother Tongue / Higher Mother Tongue<br>Music / Higher Music<br>Science |
+| Secondary Two | Art<br>Design &amp; Technology *<br>English Language<br>Food and Consumer Education *<br>Geography<br>History<br>Literature in English<br>Mathematics<br>Mother Tongue / Higher Mother Tongue<br>Music / Higher Music<br>Science  |
 |
 
-*Students who are enrolled in the Music Elective Programme in lower secondary will take Higher Music in lieu of Design & Technology and Food & Consumer Education.
+*Students who are enrolled in the Music Elective Programme in lower secondary will take Higher Music in lieu of Design &amp; Technology and Food &amp; Consumer Education.
 
 |  |  |
 |---|---|
-| Secondary Three & Four <br>  |Triple Science (9 Subjects)<br>English<br>Mother Tongue / Higher Mother Tongue<br>Elementary Mathematics<br>Additional Mathematics<br>Chemistry<br>Physics<br>Biology<br>Humanities (SS & Elective) #<br>Core Humanities # <br> |
-|  | Triple Science (8 Subjects)<br>English<br>Mother Tongue / Higher Mother Tongue<br>Elementary Mathematics<br>Additional Mathematics<br>Chemistry<br>Physics<br>Biology<br>Humanities (SS & Elective) # |
-|  | Double Science (8 Subjects)<br>English<br>Mother Tongue / Higher Mother Tongue<br>Elementary Mathematics<br>Additional Mathematics<br>Chemistry<br>Biology or Physics<br>Humanities (SS & Elective) #<br>Core Humanities # <br> |
-| Additional Subjects <br> <br> <br>  | > Music<br>> Art<br>> 3rd language (if already taking at lower sec)<br><br>* Students who offer 10 subjects at ‘O’ Level need to obtain approval from MOE:<br><br>- Excellent results in Sec 3<br>- Outstanding CCA records<br>- Recommended by the school<br> |
+| Secondary Three &amp; Four <br>  |Triple Science (9 Subjects)<br>English<br>Mother Tongue / Higher Mother Tongue<br>Elementary Mathematics<br>Additional Mathematics<br>Chemistry<br>Physics<br>Biology<br>Humanities (SS &amp; Elective) #<br>Core Humanities # <br> |
+|  | Triple Science (8 Subjects)<br>English<br>Mother Tongue / Higher Mother Tongue<br>Elementary Mathematics<br>Additional Mathematics<br>Chemistry<br>Physics<br>Biology<br>Humanities (SS &amp; Elective) # |
+|  | Double Science (8 Subjects)<br>English<br>Mother Tongue / Higher Mother Tongue<br>Elementary Mathematics<br>Additional Mathematics<br>Chemistry<br>Biology or Physics<br>Humanities (SS &amp; Elective) #<br>Core Humanities # <br> |
+| Additional Subjects <br> <br> <br>  | &gt; Music<br>&gt; Art<br>&gt; 3rd language (if already taking at lower sec)<br><br>* Students who offer 10 subjects at ‘O’ Level need to obtain approval from MOE:<br><br>- Excellent results in Sec 3<br>- Outstanding CCA records<br>- Recommended by the school<br> |
 |
 
 Humanities offered:<br>
-SS & Geography<br>
-SS & Literature in English<br>
-SS & History
+SS &amp; Geography<br>
+SS &amp; Literature in English<br>
+SS &amp; History
 
 Core Humanities offered: Geography / Literature in English / History / Higher Music (for MEP students)
