@@ -3,54 +3,50 @@ title: Infocomm Technology Club
 permalink: /our-holistic-curriculum/cce/cca/clubs-and-societies/infocomm-technology-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ## **INFOCOMM TECHNOLOGY CLUB**
 
->*"SHIFT THE CONTROL TO US AND WE WILL ALTER THE WORLD!"*
+&gt; "SHIFT THE CONTROL TO US AND WE WILL ALTER THE WORLD"
 
-In Infocomm Club, we aim to develop our students’ different interest, needs and experiences. Our students learn to develop skills in coding, making animation and creating games online. They learn to problem-solve using technology in a logical and creative manner. Through these experiences, we developed an appreciation of how technology facilitates our daily life. We also work collaboratively by learning from each other, evaluating ideas and products created.  
+In 2023, the Infocomm Club embarked on several exciting initiatives that showcased its diverse talents and expertise, with the two main ones being robotics and Swift programming.
 
-  
+Under the guidance of dedicated teachers and instructors, the club members were trained in robotics. Through hands-on workshops and training sessions, students have gained insights into the building and the programming of the EV3 bots.
 
-Due to Covid-19 Safety Management Measures (SMM) in 2020 and 2021, our students were not able to compete in several notable competitions such as National Robotics Challenge and Singapore Game Creation. Making the best of the situation, our students focused on spreading important safety messages to our peers by creating online games related to Covid-19 and producing animation videos for Teachers’ Day and other school events in 2020.
+The club was also introduced to Swift programming, a language that is used to create applications for Apple devices. Our members had the opportunity to explore app development and honed their skills in designing and coding. This initiative not only equipped students with valuable programming skills but also exposed them to mobile application development which would be very useful in tech related occupations.
 
-This year, our students had the opportunity to explore with new resources that is the Lego Mindstorm SPIKE Prime. We experimented with the equipment to build and code the robots to perform various tasks. Through this experience, we learnt to be creative, work cooperatively and to think critically. Our students also participated in online trainings organised by Shopee in March. The training covered skills development in Data Analytics, Data Science and Programming. Although the trainings were challenging and complicated, they persevered and greatly benefitted from the exposure that they had in these trainings.
+The Infocomm Club takes pride in its active participation in various competitions that challenge students to showcase their technical abilities. This year, some of the club members enthusiastically participated in the National Youth Tech Championship (NYTC), a competition held by IMDA Singapore and Google. This competition encouraged teamwork, problem-solving skills, and creativity. It also tested our spontaneous thinking. We were also introduced to drones in this event, and we learned how to manoeuvre it using coding in Python language.
 
-Our students are currently involved in creating mobile app design using Figma. We are creating an app for personal use which hopefully will also benefit other students. We are also sending some Sec 2 students to attend a 3-day Space Coding Boot Camp, which will be held virtually, during the June holiday. Our students will learn the basics of Android Studio and Java to programme free-flying robots on board the international space station. This camp gives students insights into space robotics and programming, which is something new to them.
+The culmination of the club’s efforts was evident in its participation in the National Robotics Competition (NRC). The club fielded a team that designed, built, and programmed a robot to overcome intricate challenges, demonstrating both technical competence and innovative problem-solving skills. Through these different competitions and workshops, we have learned many things like teamwork, leadership, presentation skills, team spirit, and various tech-related skills.
 
-With the motto ‘**Shift the Control to us and we will Alter the World**’, we are determined to put our technological knowledge to good use for the better of mankind and the environment. Infocomm Club is under the guidance of Ms Azilah, Mr Kelwin Koh together with our invaluable in-house trainers, Ms Fadilah and Ms Jessica Tan.
+The Infocomm Club remains aligned with the school's vision and values, actively being innovative, strive for excellence, and demonstrating good teamwork. Through various projects, workshops, and outreach programs, the club aims to make a positive impact on the school community and beyond. The members have been involved in tech-related workshops for fellow students and the public, contributing to digital literacy and fostering a culture of innovation within the school. We have participated in Values-in-Action (ViA) projects like teaching primary school kids on app development at the Choa Chu Kang Library.
 
+On top of workshops and competitions, members also attend leadership conferences hosted by IMDA Singapore which develop in them valuable leadership skills on how to manage a team or CCA effectively.
+
+The teachers in charge: Ms Azilah, Mr Kelwin Koh, and Ms Fadilah, have been constantly guiding us through these competitions and workshops. They have been a constant support to us and have always encouraged us. Their unwavering support has been vital in nurturing the club's members into competent and confident leaders in tech.
 
 #### **Teachers-In-charge:**
 **OIC:**  
 * Ms Azilah Abd Wahid
-* Mr Kelwin Koh
-  
-**Other Teacher I/Cs:**  
-* Ms Fadilah Yusoff
-* Ms Jessica Tan
 
+**Other Teacher I/Cs:**  
+* Mr Kelwin Koh
+* Ms Fadilah Yusoff
 
 
 ### **Blurbs**
-“Through the different workshops and competitions, I have learned many different applications and software that I've not known or used before. It is also a place where I can find my strengths and weaknesses and work with my teammates to do the best we can in various competitions.”
-***- Yeoh Wan Ting (2C1) on the learning benefits of joining the Computer Club***
 
-"As a Computer Club member, I've learnt computer skills I can use in life. Throughout the past year, I faced many difficulties such as not being able to understand the content, not being able to keep up and more. With the help of my CCA friends and the continuous guidance of my CCA teachers, I was able to overcome the difficulties that seemed never-ending. I am glad that it has helped me develop better as a person."
-***- Thirumalai Harinika (2C2) on the improvements she has made since joining the Computer Club***
+“Infocomm Club has given me various opportunities to express my interests as well as improve on my weaknesses regarding technology and computing. The environment at Infocomm Club is extremely friendly and welcoming, which helps me to be at ease when participating in club activities.” ***– Charlotte Ye Xiaoxian (2C2)***
 
-"At the Computer Club, we get to increase our potential by learning more about technology as we learn technical skills like coding and programming that will help us in the future. Having being equipped with these skills, we also get to help our fellow Crescentians understand the importance of technology in the 21st century."
-***- Wee Shu Yan Serafina (2C2) on the relevance of skills learnt from the Computer Club***
+“I enjoy Infocomm a lot as it helps me learn skills that are beneficial for the future while being in a comfortable environment. It has an environment that makes me feel like I can ask any question and not be judged. The teachers are always so understanding and patient, making me feel even more like I belong.” ***– Yeo Kee Yam Shanice (Yang Qian) (3G3)***
 
-“We get to attend lessons on topics that are much related to the real world. These include activities such as coding. We can sometimes even contribute back to the community by engaging in community activities that maximize our learning like teaching the elderly how to create accounts in various social media platforms.”
-***- Radhakrishnan Suwetha (3S2) on the opportunities the Computer Club provides***
+“The workshops that I have attended during CCA has helped expanded my knowledge in terms of technology. I enjoy delving deeper into topics I cannot learn during regular lessons in school, such as the Artificial Intelligence technology as well as game development. Learning about such topics has increased my interest in technology and is an “eye-opener” to the advancing world we live in. I am always excited what our CCA has in store.” ***- Joanne Chong Yong En (3S1)***
 
-“The Computer Club has nurtured me to be persevering performing to the best of my abilities. As information and communication technology covers a wide range of topics, we are often given projects, some of which require us to learn from scratch. When faced with such difficulties, we work as a team and gain small wins by acquiring knowledge in every competition that we participate in. The exposure I've received has definitely shaped my personal values."
-***-May Yune Maung Maung (3S2) on the challenging yet rewarding experience she gained from the Computer Club***
+“I absolutely love being a part of the Infocomm Club for many reasons. One of the most exciting aspects of being in the club is the opportunity for hands-on learning and experimentation. I get to explore many technologies, try out new software, and tinker with hardware components. This practical experience not only enhances my tech-related skills but also fuels my curiosity and creativity. Moreover, Infocomm club serves as a platform for leadership opportunities. I had the chance to take on a leadership role, attend different leadership conferences, and hone my communication and teamwork skills. These experiences are invaluable for my future career and personal life. Last but not least, the club provides me with a sense of belonging and a community of like-minded individuals who share my passion for technology. Infocomm Club has been a place where I can thrive, pursue my passions, and build lasting connections with fellow tech enthusiasts.” ***-Alagappan Visalakshi (3G3)***
 
 
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZ3p9MZfAocCtDaMHAGaA8kW0DSIoruUZDbU9YFGjPSFdWIvnJQkYjWp9UWdNDGnGgVDCKq91ffn51/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRs4tfTLroRimmnvY6l8zAokFiFikJYc8CqdRywoFL1T-SLcuQcUfrrgvJZZorhPM4tfARLCIdqfFMN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

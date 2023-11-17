@@ -3,10 +3,11 @@ title: Audio Visual Aid (AVA) Club
 permalink: /our-holistic-curriculum/cce/cca/clubs-and-societies/audio-visual-aid-ava-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
-## ** AUDIO VISUAL AID (AVA) CLUB
+## AUDIO VISUAL AID (AVA) CLUB
 
-> *"SHOOTING STORIES, BROADCASTING MEMORIES"*
+&gt; "SHOOTING STORIES, BROADCASTING MEMORIES"
 
 The Audio Visual Aid Club is a key service provider for school events and assemblies. It has to provide timely and efficient support for many school events, including assembly programs, annual speech days, Student Leaders Investiture, National Day celebrations and many others. Through the experience of capable support rendered to the school, AVA students get to develop core technical and effective troubleshooting skills, learn to work as a cohesive team and cultivate a disciplined attitude.  
   
@@ -34,11 +35,10 @@ Apart from providing audio visual aid, AVA members attend CCA training twice wee
 
 
 ### **Blurbs**
-From operating the PA system to editing a video to using a professional sound recording system, and of course, filming videos, we have truly benefited from this CCA. We are proud to say- we will never look at movies the same way again!
-***- Annabel Wee (3S2), President of the AVA Club***
+Being a member of the AVA Club has been an incredible and fulfilling journey, full of unforgettable memories. During my time in the club, I gained many unique experiences and skills, from operating the PA system to filming and editing videos. I am honoured to have been a part of such a bonded family. ***-Nai’mah (4C2), AVA President***
 
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPJtsJWz3FA_cQrTeEJ6kc_nnqSpbNaX0OvaIozDjyohwKyC9N5I3ZEawR-_O9gXzrz6Q2XYGtHMKR/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhOTar2O04KFnUPC31WsDmRjAbXI4_zDez1HIX0GZzdos8P7nL8Ub8fTW1aqUGtO-YRbKhtYSgCWhQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

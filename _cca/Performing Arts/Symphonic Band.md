@@ -3,33 +3,40 @@ title: Symphonic Band
 permalink: /our-holistic-curriculum/cce/cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## **SYMPHONIC BAND**
 
->*"ET BIENTOT LE MEILLEUR - THE BEST IS YET TO BE."*
+&gt; "ET BIENTOT LE MEILLEUR - THE BEST IS YET TO BE."
 
-Established in 1967 as a military school band, Crescent Girls’ School Symphonic Band has since then expanded to become a symphonic band with a wide range of instruments, under the steadfast guidance of the band’s founder, Mr Lee Seck Chiang, and his protégés Mdm Tan Soh Hwa and Mr Chua Tiong Hong. With the band motto, Et bientot le meilleur — the best is yet to be, in mind, the members of Crescent Girls’ School Symphonic Band never fail to put in their best efforts to constantly improve their skills and techniques, where they never give up, never hold back, and are always working together as one band to achieve their goals.
+Established in 1967 as a military school band, Crescent Girls’ School Symphonic Band has since then, expanded to become a symphonic band with a wide range of instruments, under the steadfast guidance of Mdm Tan Soh Hwa, Mr Chua Tiong Hong and Mr Patrick Neo. With the band motto, Et bientot le meilleur — the best is yet to be, in mind, members of Crescent Girls’ School Symphonic Band have never failed to put in their best efforts to constantly improve their skills and techniques – never giving up nor holding back, but are always working together as one band to achieve their goals.
 
-Under the guidance of the conductors, the band has put up numerous performances at venues such as Esplanade for Limelight. Despite the recent restrictions put in place due to the current Covid-19 pandemic, the band members have continued to show their determination and love for band by working around these obstacles to have e-CCA training sessions on Zoom. While it has certainly not been an easy journey, Band has shown their determination and perseverance in striving for betterment despite challenges. With the mentorship of Ms Low Geok Pin and the supervision of teachers-in-charge, Mdm Norzaidah Suparman, Ms Rafiqqa Binte Mustapha, Ms Brenda Boey and Ms Tan Chin Yee, Crescent Girls’ School Symphonic Band has established itself as a fine band that never stops pursuing excellence.
+Under the guidance of the conductors, the band put on numerous performances both internally and at venues such as Esplanade for Limelight. While it has certainly not been an easy journey, Band members have shown their determination and perseverance in striving for betterment of their performances. Under the mentorship of Ms Low Geok Pin and the supervision of teachers-in-charge, Mdm Norzaidah Suparman, Ms Rafiqqa Binte Mustapha, and from 2023, Ms Jacqueline Chen Wei Wen and Ms Lim Yin Xia, Crescent Girls’ School Symphonic Band has established itself as a fine band that never stops pursuing excellence
 
+#### Events
+*   Limelight @ Esplanade
+*   Singapore Youth Festival
+*   Singapore International Band Festival
+*   Band Exchange
 
 #### **Teachers-In-charge:**
+**OIC**
 * Ms Norzaidah Suparman  
-* Ms Nur Rafiqqa Binte Mustapha  
-* Ms Tan Chin Yee
+
+**OTHER TEACHERS I/Cs**
+*   Ms Nur Rafiqqa Binte Mustapha
+*   Ms Jacqueline Chen Wei Wen
+*   Ms Lim Yin Xia
 
 
 ### **Blurbs**
-"Band is like a family to me because we share a close bond with one another, making band fun and warm. To me, the band is not just a CCA, it is like a home that allows us to learn many new things and many life values. We learn how to play good music together as one band, and at the same time possessing a high level of discipline and responsibility too. I believe these life values and the lessons we learn through each and every experience will guide us along with our life, our journey."
-***- Nicole Tang Rui Qi (3G3) about her opinions on the band.***
+“The experiences that I went through in Band certainly has helped me improve as a person and Band player. The past 2.5 years in Band allowed me to form many precious memories with my bandmates and the journey with them so far, has been a very memorable one. The process of learning new pieces and fine-tuning them to the smallest detail is tiring, but the rewards that are gained after a performance is worth it.”&nbsp;**- Cayley Wong Jing Yi (3G1)**
 
-"Band is a great addition to my secondary school life. It has taught me countless things and I can't imagine how plain and boring my secondary school life would have been without the band. Sometimes when I look at the other CCAs, I would wonder how different my life would have been if I was in another CCA. We have gone through all the good and bad times together as a band and we have never given up because we love the band. I have slowly realized how the band is like a family to me, something I greatly cherish. Something that I will never regret in my life, and the best decision I've ever made, is ticking the option to join the band. It has turned out to be the greatest gift I have gotten from Crescent, an experience that can't be explained with words. I will give the band whatever I have in return for what it has given me."
-***- Leong Shi Yin Vanessa (3C2) about her thoughts and experiences in the band.***
+“I’m thankful for the opportunities the Band has to offer. The journey of playing and fine-tuning our instruments with our bandmates allows us to create many memories. Performing on stage is an exciting and rewarding experience that I hope others can enjoy as well!” **- Jovin Cheong Lee Ann(3C2)**
 
-"Being a part of the Crescent Symphonic Band has shaped me into a leader of courage, and a person of character. To summarise my band experience in 50 words is simply making an understatement. In the 3 1/3 years I have never learned as much as I did anywhere else, and what I have gained from this journey is priceless. Not only have I learned values and skills, but I have also learned many life lessons. I fell in love with the people and the art, and I have never felt more blessed to be anywhere else. The band was a journey, an experience, the family I never had, for which I will never forget."
-***- Lee Hui (4C1) on her feelings and thoughts about the band.***
+“Being a part of Band not only allowed me to appreciate music and improve my playing, it has also taught me valuable life lessons. Despite the tough hours of practice during CCA, I learned to listen, adjust, and adapt to others. There is nothing compared to the satisfaction felt when the Band comes together to create one harmonious sound. As I continue to evolve, I carry with me the meaningful lessons learned, forever grateful for the profound impact it has had on shaping who I am today.” **- Danielle Lim Zhi Ling (3S2)**
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQD2c2aMBbSVbMscr0Q1p4RGI5QscUDcQgZAUCdJAkUKSVSM6t4qKQd57gBN2N65mMJG1el2t28IVOg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQF0EWKw1hoBR5IB8l54UGPcQ0TK5wbz1scPy4_mDDcOHQqVZxq3TA_DseHytyzzzT_7Z5syePY500V/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

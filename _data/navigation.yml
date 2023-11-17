@@ -15,7 +15,7 @@ links:
         url: /about-cgs/yearbook
       - title: Admission
         url: /about-cgs/admission/
-      - title: Calender of Events
+      - title: Calendar of Events
         url: /about-cgs/calender/
       - title: Contact Us
         url: /about-cgs/contact-us/
@@ -48,10 +48,8 @@ links:
       - title: CCA
         url: /our-holistic-curriculum/cca/
   - title: Our Achievements
-    url: /our-achievements/international-awards/
+    url: /our-achievements/school-awards/
     sublinks:
-      - title: International Awards
-        url: /our-achievements/international-awards/
       - title: School Awards
         url: /our-achievements/school-awards/
       - title: Academic Competitions
@@ -69,7 +67,7 @@ links:
         url: /our-partners/alumni/
       - title: School Advisory Committee
         url: /our-partners/school-advisory-committee/
-  - title: Cradle
+  - title: CrADLe
     url: /cradle/crescent-academy-for-digital-age-learning/
     sublinks:
       - title: Digital-Age Learning
@@ -82,7 +80,7 @@ links:
         url: /cradle/ses/
       - title: National Digital Explorer
         url: /cradle/nde/
-  - title: Quicklink
+  - title: Quicklinks
     url: /quicklinks/for-students/
     sublinks:
       - title: For Students
@@ -91,3 +89,12 @@ links:
         url: /quicklinks/for-teachers/
       - title: For Parents
         url: /quicklinks/for-parents/
+  - title: CGS 2023 Open House
+    url: /cgs-p6openhouse2023/
+    sublinks:
+      - title: CGS Open House 2023
+        url: /cgs-p6openhouse2023/
+      - title: Programmes
+        url: /cgs-p6openhouse2023/
+      - title: CCA
+        url: /cgs-p6openhouse2023/ccas/openhouse2023-sports/

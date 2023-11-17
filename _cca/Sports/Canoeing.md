@@ -3,26 +3,32 @@ title: Canoeing
 permalink: /our-holistic-curriculum/cce/cca/canoeing/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## ** CANOEING**
-> *"ONE MILLION PERCENT!"*
+&gt; “ONE MILLION PERCENT!”
 
-The Crescent Canoeing team is one of the few all-girls teams in the sport, and has been flourishing under the guidance of former Youth World Champion and current coach, Mr Denes Szaszak, a Hungarian national who also coaches our Singapore National Team.  
-  
-The team has performed well in recent years, constantly being in the top 3 nationally. The student-athletes are given plenty of race experiences throughout their four years with the team, and many of them are often invited to train with the national youth team from as young as 14 years old.  
-  
-Even with the current pandemic, the team continues to train hard, and has acquired new assets in the likes of kayak ergometers to train remotely, as well as new junior kayaks to allow less experienced kayakers to be able to train effectively. The team innovates in training and continues to perform at a high level despite the ever-changing situation.
+The Crescent Canoeing team is one of the few all-girls teams in the sport and has been flourishing under the guidance of former Youth World Champion and current coach, Mr Denes Szaszak, a Hungarian national who also coaches our Singapore National Team.
+
+The team trains at the MacRitchie Reservoir and is one of the few sports that can truly be called an outdoor sport. Being surrounded by nature while paddling is not only a refreshing change to the urban setting we are usually in, but also a great way for the students to be more connected to nature.
+
+With the team motto and cheer being “One Million Percent!”, the team trains hard and gives their all during training and races. The team has performed well in recent years, constantly being in the top 3 nationally. The student-athletes are given plenty of race experience throughout their four years with the team, and many of them are often invited to train with the national youth team from as young as 14 years old.
+
+Apart from training and races, the team also has bonding events such as our annual Family Day where we invite parents and family to paddle together, as well as the year-end camp where we engage in activities together and foster closer relationships.
+
+At Crescent Canoeing, we don’t just train athletes to win in races. Through instilling discipline and the desire to strive for excellence, we develop students who will go through life with the same mentality, excelling in any field that they go into.<br>
+
 
 #### **EVENTS**
-*    Singapore Canoe Marathon
-*   National Junior Canoeing Championships (NJCC)
-*   National Inter-School Canoeing Championships (NICC)
-*   National Canoeing Championships (NCC)
-*   National Womens’ Kayaking Championships (NWKC)
-*   National Mid-Distance Canoeing Championships
+*   Singapore Canoe Marathon
+*   National Junior Canoeing Championships
+*   National School Games Canoeing Championships
+*   Singapore Sprint Cup
+*   Singapore Canoe Sprint Championships
+*   National Inter-Schools Dragon Boat Championship
 *   One Star Kayaking Course
-*   CGS Canoeing family day
-*   Canoeing camp
+*   CGS Canoeing Family Day
+*   Canoeing Camp
 
 
 #### **TEACHERS-IN-CHARGE**
@@ -31,26 +37,22 @@ Even with the current pandemic, the team continues to train hard, and has acquir
 * Mr Ho Yuan Seng
 
 **OTHER TEACHERS I/Cs**
-
-* Mr Tan Jun Wei
+* Mr Chan Jen Wuu
 * Mr Eddie Tay
+* Mdm Makaisvery Esther
 
 
 ### **Blurbs**
-"Canoeing has trained me not just physically, but also mentally in persevering through difficulties. It has also helped me realise how crucial teamwork is, especially when participating in team events in which coordination is essential for a boat to move fast."
-***Anisha Singh Le Shuang (4G3) on what she has learnt from being a Canoeist for the past 4 years***
 
-"Being in the Canoeing Team, I have come to learn that no matter what challenges we face, we must put in our utmost effort. Only then will we be able to achieve what we desire. Being the 'C' Division Captain 2015-2016, I have also come to appreciate the amount of effort it takes to lead, and that for a team to work, they must have a good leader." 
-***Anna Lim Jia Jia (3S1) on being the 'C' Division Captain***
+“Being part of Crescent Canoeing has taught me the significance of consistent effort in achieving success. Despite many of us lacking prior experience in water sports, our team improved rapidly by training diligently. While canoeing may appear to be an individual sport, we have a strong sense of camaraderie, supporting one another on and off water. The team spirit and friendships fostered has made CCA an incredibly enriching and memorable part of my secondary school experience.” ***Shantell Wong&nbsp;(4S2), Team Captain 2022-2023,&nbsp;on what&nbsp;she&nbsp;has&nbsp;learnt from being&nbsp;a Canoeist&nbsp;for the past 4 years.***
 
+“Canoeing has taught me about the importance of team spirit. Even when training is tough, I look around and see my friends trying their best and I feel encouraged to do the same. We always push each other to be the best we can be for the team.” ***Bhavya Musunuri (3S1), Team Vice-Captain 2023-2024, on what drives her during training.***
 
-"Although I have only been in the Canoeing Team for two years, I feel that this CCA has taught me to always try your best and never give up. Training may be tough, but we've learnt to persevere and I believe this has made me more resilient not only in CCA but also in my school work. As a team, we have bonded and have become good friends and team members."  
-***Nur Adelin Bte Johari (2S1) on being stronger in character***
+“Being in canoeing has made me stronger, not just physically but mentally as well. It has taught me many lessons that I’ll always remember, from working together as a team to never giving up no matter how hard it gets. Working together as a team has bonded us and the friendships I’ve made in canoeing are ones I will always cherish.” ***Sakura Therese Soon Wen Ying&nbsp; (2S1)&nbsp;on being stronger in character.***
 
-"I'm very enthusiastic about canoeing. After about two months of paddling with the team, I've learnt to take responsibility of my own actions. I am also very appreciate of my seniors, teachers and coaches who have guided us and encouraged us to help us to improve. I really enjoy paddling." 
-***Liaw Ann Zhen (1C1)  on being a new member in the team***
+“Being part of the Canoeing CCA has been a really fun and interesting experience for me. I have been in this CCA for about half a year now, and throughout this time, I have learnt a lot about teamwork, being responsible and taking action without others having to remind me to do so. I would like to thank all the teachers, seniors and coach for teaching and guiding us all the way. This is definitely one of the best things I enjoy about Crescent.” ***Charlotte Filia Nugraha&nbsp;(1G1)&nbsp;&nbsp;on being a new member in the team.***
 
 
 ### **PHOTOS** ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiM4fCMPyWPE14PuIEDwfRRYomhV73xIN7ACzWp6RMWtnq_1kcP6dhBHgoprDpdyY30CjmBlGUF2bB/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkfuJjxvl8sMD27BaeLsRkIowgBSEev8H3V9W1EVQDH68i4hRaB2nDA188kDQeSQQvbETIj8PUtk_O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

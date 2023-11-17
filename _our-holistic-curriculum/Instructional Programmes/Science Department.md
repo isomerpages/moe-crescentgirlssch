@@ -3,6 +3,7 @@ title: Science Department
 permalink: /our-holistic-curriculum/instructional-programmes/science-dept/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 ### **Science Department**
 #### **Mission**
@@ -77,7 +78,7 @@ Under the Science Research Programme, a group of enthusiastic students with a ke
 
 Quote from our 2021 batch of young reviewers: “Under this programme, we grew to be fascinated by the process of reviewing articles. We also had the opportunity to enhance our critical thinking and widen our perspectives by sharing our views with a scientist. We had a fruitful journey as this reviewing process has enabled us to explore something out of our curriculum.”  
   
-You may view their reviewed article for a scientific journal at Frontiers For Young Minds at this [**link**](https://kids.frontiersin.org/articles/10.3389/frym.2021.584941).
+You may view their reviewed article for a scientific journal at Frontiers For Young Minds at this&nbsp;[**link**](https://kids.frontiersin.org/articles/10.3389/frym.2021.584941).
 
 **Learning Journey to i-Fly**<br>
 To further enrich students’ learning experience, students also went on learning journeys. With the relaxing of Safe Management Measures, 40 Upper Secondary Physics students embarked on a Learning Journey to iFly Singapore, Singapore’s only indoor skydiving facility. With the help of professional indoor skydiving instructors, the students were able to experience flying in mid-air in the high-velocity vertical wind tunnel. This Learning Journey sparked the joy of learning in the students and they had the chance to experience what they have learnt in the Physics classroom about kinematics, forces and air resistance in action!
@@ -94,24 +95,43 @@ To further enrich students’ learning experience, students also went on learnin
  </figcaption>
 </figure>
 
-#### **2021 Achievements**
+#### **2023 Achievements**
 **International Competition and Assessments for Schools**<br>
-2 High Distinctions, 15 Distinctions, 21 Credits, 10 Merits
+2 High Distinctions, 21 Distinctions, 45 Credits, 20 Merits
 
-**Singapore Junior Chemistry Olympiad (SJChO) 2021**<br>
-1 Silver, 2 Bronzes, 1 Merit  
-  
-**14th Singapore Junior Physics Olympiad**<br>
-1 Honourable Mention  
-  
-**Singapore Junior Biology Olympiad 2021**<br>
-1 Silver, 2 Bronzes  
-  
-**42nd International C B Paul Science Quiz**<br>
-3 Gold, 2 Silvers, 2 Bronzes   
+**STEM Playground 2023**<br>
+1st Runner-up for Participation rate for *"Challenge #1: CanBridge Hold'em"*<br>
+Champion for highest participation rate for *"Challenge #2: SEA-RIOUS" CHALLENGER"*
+1 Silver, 1 Meril
 
-**10th International Biomedical Quiz 2021**<br>
-2 Bronzes, 2 Honourable Mentions, 1 Merit  
+**Singapore Junior Chemistry Olympiad  2023**<br>
+1 Silver, 1 Merit  
+  
+**2023 Singapore Junior Physics Olympiad**<br>
+Individual: 2 Silvers, 1 Bronze, 4 Honourable Mentions<br>
+Teams: 1 Bronze
+  
+**Singapore Junior Biology Olympiad 2023**<br>
+3Gold, 1 Bronze, 1 Honourable Mention  
+  
+**44th International C B Paul Science Quiz**<br>
+Individual: 2 Silver, 1 Bronze, 4 Honourable Mentions
+Teams: 1 Bronze
+
+**24th International Elementz Fair**<br>
+1 Bronze  
   
 **A\* Star Science Award (Upper Secondary)**<br>
-2 awardees
+3 awardees
+
+**27th Chem-Dot-Comm Challenge**<br>
+Participation
+
+**15th National Crystal Growing Challenge**<br>
+Participation
+
+**Tan Kah Kee Young Inventors Awards**<br>
+4 participated teams
+
+**Science Mentorship Program**<br>
+1 participated teams

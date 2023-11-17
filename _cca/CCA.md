@@ -2,6 +2,7 @@
 title: CCA
 permalink: /our-holistic-curriculum/cca/
 description: ""
+variant: markdown
 ---
 ### **CO-CURRICULAR (CCA) DEPARTMENT**
 
@@ -14,53 +15,48 @@ To provide a broad-based co-curricular programme and fuel interest in life-long 
 #### **CURRICULUM**
 By the end of the 4 years of CCA, a Crescentian should be able to:
 
-*   Learn the value of responsibility, teamwork, discipline, and commitment; 
-*   Acquire social-emotional learning competencies and leadership skills; 
+*   Learn the value of responsibility, teamwork, discipline, and commitment;&nbsp;
+*   Acquire social-emotional learning competencies and leadership skills;&nbsp;
 *   Develop interest and talent in specific areas of CCA;
 *   Participate in inter-school competitions/external events.
 
 
-#### **CO-CURRICULUM ACTIVITIES**
-**Sports & Games**
+#### **CO-CURRICULAR ACTIVITIES**
+**Sports &amp; Games**<br>
 *   Badminton
 *   Canoeing
-*   Track & Field
+*   Track &amp; Field
 *   Hockey
 *   Netball
 *   Softball
 
-**Uniformed Groups**
+**Uniformed Groups**<br>
 *   Girl Guides
 *   National Cadet Corps (Land)
-*   National Police Cadet Corps
 *   Red Cross Youth
 
-**Performing Arts**
-*   Angklung & Kulintang Ensemble 
-*   Chinese & Modern Dance 
+**Performing Arts**<br>
+*   Angklung &amp; Kulintang Ensemble&nbsp;
+*   Chinese &amp; Modern Dance&nbsp;
 *   Choir
 *   English Drama
 *   Symphonic Band
 
-**Clubs & Societies**
+**Clubs &amp; Societies**<br>
 *   Audio Visual Aid
 *   Chess
-*   Infocomm 
-*   Digital Art & Photography 
-*   Innovation & Enterprise
+*   Infocomm&nbsp;
+*   Digital Art &amp; Photography&nbsp;
+*   Innovation &amp; Enterprise
 
 
 #### **SPECIAL PROGRAMMES**
-**Champion Seminar**
+**Champion Seminar**<br>
+To celebrate the school’s CCA achievements and recognize the commitment and passion underlying the efforts of pupils, teachers and instructors &nbsp;
 
-To celebrate the school’s CCA achievements and recognize the commitment and passion underlying the efforts of pupils, teachers and instructors  
+***School Colours Award**<br>
+To encourage and recognize desirable values such as commitment &amp; dedication in the pursuit of CCA excellence
 
-  
+Please&nbsp;[click&nbsp;here](https://www.crescent.edu.sg/qql/slot/u360/CCA/LEAPS%202%200%20Framework.pdf)&nbsp;for information on Holistic Education for Secondary School Students (LEAPS 2.0)
 
-***School Colours Award**
-
-To encourage and recognize desirable values such as commitment & dedication in the pursuit of CCA excellence
-
-Please [click here](https://www.crescent.edu.sg/qql/slot/u360/CCA/LEAPS%202%200%20Framework.pdf) for information on Holistic Education for Secondary School Students (LEAPS 2.0)
-
-Information about **CCA Venues and Schedule** can be found [here](https://www.crescent.edu.sg/qql/slot/u360/CCA/CCA%20schedule%20and%20Venues%202021.pdf).
+Information about&nbsp;**CCA Venues and Schedule**&nbsp;can be found&nbsp;[here](https://www.crescent.edu.sg/qql/slot/u360/CCA/CCA%20schedule%20and%20Venues%202021.pdf).

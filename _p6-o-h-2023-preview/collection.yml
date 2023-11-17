@@ -1,8 +1,0 @@
-collections:
-  p6-o-h-2023-preview:
-    output: true
-    order:
-      - P6 O H 2023 preview.md
-      - Programmes/.keep
-      - Programmes/IP & Niche Areas.md
-      - CCAs/.keep
