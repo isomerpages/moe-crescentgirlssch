@@ -84,7 +84,7 @@ links:
         url: /cradle/ses/
       - title: National Digital Explorer
         url: /cradle/nde/
-  - title: Quicklink
+  - title: Quicklinks
     url: /quicklinks/for-students/
     sublinks:
       - title: For Students
@@ -100,3 +100,5 @@ links:
         url: /cgs-p6openhouse2023/
       - title: Programmes
         url: /cgs-p6openhouse2023/
+      - title: CCA
+        url: /cgs-p6openhouse2023/ccas/openhouse2023-sports/
