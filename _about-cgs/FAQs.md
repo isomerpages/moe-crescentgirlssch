@@ -34,7 +34,7 @@ School ends by 2.00pm on most days for Secondary One and Two students. For the U
 On days when students have to attend CCAs (ie, Mon &amp; Wed for most CCAs; Mon, Wed &amp; Fri for select CCAs), the end-time is 6.30pm. 
 
 **4\. What are the streams offered?**<br>
-At every level from Secondary One to Four, the Express stream is offered.
+In 2024, there will be two posting groups (PGs) PG3 and PG2 at Secondary One. At the other level only the Express stream is offered.
 
 **5\. What was the school’s PSLE cut-off point in 2022?**<br>
 In 2022, the cut-off Achievement Levels for admission into our school was 12.
