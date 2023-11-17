@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Programmes
 ---
-### COMMUNICATIVE ARTS
+### ENGLISH LANGUAGE AND LITERATURE
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSG86_LNpHk_-MTu24XrNtJjhT78zJWu5Ly3PPD2dEMVNFpJOphWNycZO-PHxTfIYWtvGJjCcS_qXXu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
