@@ -2,7 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
-      - International Awards.md
       - School Awards.md
       - Academic Competitions/Academic Competitions.md
       - Academic Competitions/2018.md
