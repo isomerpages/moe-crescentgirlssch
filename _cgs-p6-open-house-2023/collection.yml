@@ -1,5 +1,5 @@
 collections:
-  p6-o-h-2023-preview:
+  cgs-p6-open-house-2023:
     output: true
     order:
       - Welcome page.md
