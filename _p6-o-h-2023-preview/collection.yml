@@ -2,7 +2,7 @@ collections:
   p6-o-h-2023-preview:
     output: true
     order:
-      - P6 O H 2023 preview.md
+      - Welcome page.md
       - Programmes/General.md
       - Programmes/IP & Niche Areas.md
       - Programmes/.keep
