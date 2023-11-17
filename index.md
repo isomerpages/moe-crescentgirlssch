@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Background/CGS_E_Open_House_2023_Banner_V2_.png
+      background: /images/CGS open house/CGS_Open_house_2023_Hero_Banner.png
       key_highlights:
         - title: New Announcements
           description: ""
