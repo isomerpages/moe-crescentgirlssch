@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: CCAs
 ---
-###  Digital Art and Photography club (DAPC)
+###  Digital Art and Photography Club (DAPC)
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgJOUCAIgCLiTW2ZRpV7GHHZuAfzDqDjySEAV-KImOzfeZYLFQGedr8w-KXzTUQWibiZ4rXO5lhMI5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### AVA Club
