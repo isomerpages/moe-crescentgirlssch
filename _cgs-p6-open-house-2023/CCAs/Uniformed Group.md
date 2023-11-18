@@ -6,12 +6,12 @@ description: ""
 third_nav_title: CCAs
 ---
 ### Girl Guides
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6OQ1-Jm8uDSgQFPBdfdA0Il6WZ8ds7ACtm26YUiMbv24nKd1a-g9fSkat22Lr2E5SJJ39Eok4Ys58/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KHT0RquFNvM?si=-xmpSZrmAnAJzmhN" height="315" width="560"></iframe>
 
 
 ### NCC
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJzuOihgtud9KdB6qaD5pA1AWfjfuSF26O6-qyNQQ65-9UG8I4rsgTd8o3v3HLtc8eBEjBGaQvYyWw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-KLu3HSYITk?si=q0r8fmpT7462CyHy" height="315" width="560"></iframe>
 
 
 ### Red Cross
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRoa8UQCyzLBx0Im1rVBn-QghU9khh6_lPTX3BCxcu7t40iOlqq-sDdblv9kpYL2P8B8Pd-KKoLFLWy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dZVa1l9wo6g?si=sXvzGnoBsf035Hlb" height="315" width="560"></iframe>
