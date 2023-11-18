@@ -18,6 +18,9 @@ sections:
         - title: Quicklinks
           description: ""
           url: /quicklinks/for-students/
+        - title: CGS Open House 2023
+          description: Please click here!
+          url: https://www.crescent.edu.sg/cgs-p6openhouse2023/
       title: Crescent Girls' School
       variant: image
   - infobar:
