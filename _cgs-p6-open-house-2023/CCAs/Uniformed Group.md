@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: CCAs
 ---
-### Girls Guide
+### Girl Guides
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6OQ1-Jm8uDSgQFPBdfdA0Il6WZ8ds7ACtm26YUiMbv24nKd1a-g9fSkat22Lr2E5SJJ39Eok4Ys58/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 

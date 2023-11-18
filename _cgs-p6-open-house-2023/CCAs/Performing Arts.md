@@ -9,11 +9,11 @@ third_nav_title: CCAs
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOlhYX-xUQfkBf-AA3PgohkRBx8wEcm3dkhxOMgRYzhByIOpTPFXr-z08umfI0Ex5xUaqV1CLaaQeC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
-### Chinese Modern Dance
+### Chinese &amp; Modern Dance
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEnLPUwcINEUXRfsT6hvGeqlGvz2S_HJtvoLn7MbXq-sLsoTTRxuYFQbjspzA8qAZUT2oMPqDHrTBK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
-### Choirs
+### Choir
 <iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR100apzgb4gu73qHffIbh0jGZ0JVkJbw-UqEFd6kkpt2ZXUUbjyhSb4n4eY-tlmJPBuiuUiba_r7XX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
