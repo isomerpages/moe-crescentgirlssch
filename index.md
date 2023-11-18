@@ -23,6 +23,7 @@ sections:
           url: https://www.crescent.edu.sg/cgs-p6openhouse2023/
       title: Crescent Girls' School
       variant: image
+      url: https://www.crescent.edu.sg/cgs-p6openhouse2023/
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
