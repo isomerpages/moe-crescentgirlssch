@@ -6,23 +6,23 @@ variant: markdown
 third_nav_title: Programmes
 ---
 ### English Language And  Literature
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSG86_LNpHk_-MTu24XrNtJjhT78zJWu5Ly3PPD2dEMVNFpJOphWNycZO-PHxTfIYWtvGJjCcS_qXXu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/flx_GynxBGU?si=ZQopKtgS3As5JYjL" height="315" width="560"></iframe>
 
 
 ### Mother Tongue
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPOBoItX_ZD27P1nWp2tYk7ok2cvu3KQzCmjFBu7d9yHxP7ttsWkR9nItZ84kTegSu42tpaLKqazQ0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7sjR3xZzVwg?si=fQ2Q3-HS7NLweJi5" height="315" width="560"></iframe>
 
 
 ### Mathematics
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3YbYuUA5trcltSytF1ZKZAC-cwYV7zeMrnpabLv6neOFtYMD0JyKxEXzPqiZwkhCe0i-5cQZh99Ws/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csbYrqNnZN8?si=S6pV7sgEeF7OYzsk" height="315" width="560"></iframe>
 
 
 ### Science
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThsrskO8Rp03d0MeMCSB1bug-K70ToVGFnjDY6WcXwhQ86-2zYWoQ7q1YX_XQs_Flc_61jQlpTfxsj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OEOwzuhyO8g?si=Ef7C7qC5HB0PLnAd" height="315" width="560"></iframe>
 
 
 ### Humanities
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3v_848sPkjMvbzMZlJgLyH_X5VwNnA2JuAaZGT5_dCFCCqsJrjhWeNOKfJ86Nftu4xbkDTUhTHefB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dc11r1EYDTc?si=9THIYpU4YUXPr-O8" height="315" width="560"></iframe>
 
 
 ### Physical Education
