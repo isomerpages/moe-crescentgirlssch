@@ -26,28 +26,28 @@ third_nav_title: Programmes
 
 
 ### Physical Education
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgINkT6bdPctTyD1dUwCclg72oAHcIuJ8tTn1bWWxwyznNRg_2E6wMWJXxrzGAFY3xc4YC_iQCAoK4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Jm62fsORphA?si=f3l2956XryVv_mrg" height="315" width="560"></iframe>
 
 
 ### Creative Arts
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQD19cVLJM1l7Ni2Mg7Q_JNtZbBxOe3SaqUs_JzsomTTkOeAMPR17P9ha9tVHdSK5CtqmESH3TMZEDC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tciLQKgG8Ms?si=sXMvYwuL-1s5A_V_" height="315" width="560"></iframe>
 
 
 ### Character And Citizenship Education (CCE)
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4XoQQG9A5xVv3VbNNHlp1SufC3unndJPrDSemV2s1o_A3y_pd-NI4AZvXXGErqqhWX7kNktSMYu1A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GweV9bkRNiU?si=G3JvhN-s_7liZnsh" height="315" width="560"></iframe>
 
 
 ### Integrated Curriculum (IC)
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDBHIzkdgJRYVz94rEM8cPdI87SB5PCxvIpD2XAdqVeFjmkmI3Fdu6FUMvRq0Lg-VUqyTpQfpubExl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yiakYe8WqUI?si=opthqeZaxzNDJrDf" height="315" width="560"></iframe>
 
 
 ### Lower Secondary Computer Education Programme (LSCEP)
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrNbFLglAvHQS8gVjvMnAOMHJFlRP5FHiAKhtNOGhv5ogHSV_jBmS_f1bcb5pW5LD8hUEzqpIVSwns/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Epl1MCP7jCU?si=ykrX1yvfAcbvgt9Q" height="315" width="560"></iframe>
 
 
 ### Student Leadership
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRm7KqSv2EWpBsVKE7UfMoxfavMFaxg0vc_dDp2lrIZTqA6bLtHwWWx023TL9BuXHXUa2hm-Lu88zce/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S89tZ57BmiQ?si=U2_SA5rMhq_ar_dY" height="315" width="560"></iframe>
 
 
 ### Talent Development Programme (TDP)
-<iframe allowfullscreen="true" height="344" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2cmxbjUfOGvY0g1koGRQ2hOTRsvvZUPo3d2GNM3-4wYnKy1C_NOouryP8DCwrhPYdwxr-dVVEPuTB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I-jqO7ctz5w?si=MR2VU5UO0uGYeTS4" height="315" width="560"></iframe>
