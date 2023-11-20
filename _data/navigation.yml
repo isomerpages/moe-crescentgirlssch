@@ -100,4 +100,6 @@ links:
         url: /cgs-p6openhouse2023/ccas/openhouse2023-sports/
   - title: Secondary 1 Registration
     url: /cgs-sec1-registration-2024/
-    sublinks: []
+    sublinks:
+      - title: Welcome Annoucements
+        url: /cgs-sec1-registration-2024/
