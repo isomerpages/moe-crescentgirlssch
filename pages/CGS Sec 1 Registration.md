@@ -49,3 +49,13 @@ Year Head Briefing on Registration (to be uploaded on **"INSERT DATE"**)
 <img src="/images/Step_4.png" style="width:65%"><br>
 [**Sec 1 Registration Package**](https://sites.google.com/d/1kMZPAmfOvOQz8UupAhTb_t-fLH_ePlUu/p/1XI63OmmPd2K6g6OUrjdi4ZFGC7Q0GDsM/edit)<br>
 Welcome Letter, Info on Reporting Details, Purchase of Uniforms and Books, FAS, Orientation, Application Forms for Car Decal, Financial Assistance and Parent Support Group Brochure<br>
+
+
+
+|  |  |
+|:---:|---|
+| ![Step 1](/images/Sec%201%20Registration/Step_1.png)<br>**Step 1** | [Registration and Application Deadlines](https://sites.google.com/d/1kMZPAmfOvOQz8UupAhTb_t-fLH_ePlUu/p/1jZA57TsizVzb8aazi659s9Q12NtaCzgG/edit)<br><br>**Registration for Higher MTL, 3rd Language, MSP and CSP**<br>Info and Application on MEP and AEP<br> |
+|   ![Step 2](/images/Sec%201%20Registration/Step_2.png)<br>**Step 2** | [Student Particulars Form](https://sites.google.com/d/1kMZPAmfOvOQz8UupAhTb_t-fLH_ePlUu/p/1AH-D6MXyYrHezNS2QjwdVb4gvZXM9Goh/edit)<br>All parents/guardians are required to provide contact details of daughter/ward and parents/guardians for communication purposes with the school.<br> |
+|  <br>**TEAMS** |<br>Teams is an all-encompassing tool for students to consolidate learning resources, communicate with teachers and collaborate with peers. It helps students with homework management too. It empowers students to have better **self-management** and **collaboration** with peers. |
+|  ![](/images/apps4.png)<br>**OneNote**<br>**Class Notebook** | <br>OneNote Class Notebook will be used by various subject teachers to disseminate lesson materials to students. It serves as a powerful tool for students to **create and curate their own learning notes**. |
+|
