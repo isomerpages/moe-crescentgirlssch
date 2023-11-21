@@ -4,7 +4,7 @@ permalink: /registration-hmtl-3rdlanguage-csp-msp-mep-application/
 variant: markdown
 description: ""
 ---
-### 1. Higher Mother Tongue Language (HMTL), Chinese and Malay Special Programmes &amp; 3rd Language Registration (more information will be posted here on "**UPDATE DATE**")
+### **1. Higher Mother Tongue Language (HMTL), Chinese and Malay Special Programmes &amp; 3rd Language Registration (more information will be posted here on "UPDATE DATE**")
 
 ##### **For Higher Mother Tongue Languages**<br>
 Students who are eligible to take up HMTL will receive the option form via Parents Gateway by **"INSERT DATE HERE"**. Parents can accept/reject the offer by giving consent via the platform.
@@ -21,7 +21,7 @@ CSP and MSP are offered at Crescent and no further action is needed for CSP and 
 You may refer to the CSP and MSP Briefing Video in Step 3 for more details.<br>
 
 
-### 2. Music Elective Programme (MEP) Application
+### **2. Music Elective Programme (MEP) Application**
 
 For students who are interested in applying for the MEP programme, please submit your application by **"UPDATE DATE HERE"**.<br>
   
