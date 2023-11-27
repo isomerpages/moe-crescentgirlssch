@@ -18,9 +18,6 @@ sections:
         - title: Quicklinks
           description: FOR STUDENTS AND PARENTS
           url: /quicklinks/for-students/
-        - title: Sec 1 Registration 2024
-          description: CLICK HERE TO FIND OUT MORE
-          url: sec1-registration-2024
       title: Crescent Girls' School
       variant: image
   - infobar:
