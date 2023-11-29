@@ -4,4 +4,4 @@ permalink: /cgs-sec1-registration-2024/
 variant: markdown
 description: ""
 ---
-##### Stay tune for more information!
+##### Stay tuned for more information.
