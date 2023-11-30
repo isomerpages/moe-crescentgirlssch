@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CGS open house/CGS_E_Open_House_2023_Banner__V3_1_.png
+      background: /images/Background/Hero_1st.gif
       key_highlights:
         - title: New Announcements
           description: ""
@@ -16,14 +16,10 @@ sections:
           description: ""
           url: /about-cgs/calender/
         - title: Quicklinks
-          description: ""
+          description: FOR STUDENTS AND PARENTS
           url: /quicklinks/for-students/
-        - title: CGS Open House 2023
-          description: Please click here!
-          url: https://www.crescent.edu.sg/cgs-p6openhouse2023/
       title: Crescent Girls' School
       variant: image
-      url: https://www.crescent.edu.sg/cgs-p6openhouse2023/
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
