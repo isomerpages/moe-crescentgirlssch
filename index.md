@@ -32,7 +32,7 @@ sections:
       description: Scan QR code to join Crescent PSG!
       button: Learn more about Crescent PSG
       url: /our-partners/psg/
-      image: /images/psgqrcode.png
+      image: /images/psgqrcode_2024_resize.png
       alt: Image alt text
   - infobar:
       title: Financial Assistance Schemes
