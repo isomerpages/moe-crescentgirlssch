@@ -31,5 +31,5 @@ Primary 6 pupils who have applied to Crescent Girls’ School during MOE’s Sec
 (\*Note: Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.)
 
 **Application period**<br>
-The application period is from 20 Dec 2023 day of release of Secondary 1 Posting results to 22 Dec 2023, 5pm<br>
+The application period is from 20 Dec 2023 day of release of Secondary 1 Posting results to 22 Dec 2023, 5pm.<br>
 Late or incomplete application will not be considered. Only shortlisted applicants will be informed.
