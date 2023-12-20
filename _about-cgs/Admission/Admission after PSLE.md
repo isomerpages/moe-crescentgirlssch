@@ -9,7 +9,7 @@ variant: markdown
 Upon the release of the Primary School Leaving Examination (PSLE) results in late November, pupils graduating from Singapore primary schools are to indicate their six secondary school choices during the Secondary One Option Exercise centrally conducted by the Ministry of Education (MOE). The posting will be processed by MOE based on pupils’ PSLE score and choices, and the results are usually out in mid/late December each year.
 
 ##### **Q1: What is the school’s cut-off PSLE?**
-The cut-off PSLE score for admission into our school at Secondary One in 2023 is 12.
+The cut-off PSLE score for admission into our school at Secondary One in 2024 is 11 (PG3) and 25 (PG2).
 
 ##### **Q2: What if I miss the cut-off score?**
 We are unable to accept appeals from applicants whose PSLE score does not meet our cut-off score for the 2023 Secondary One Posting Exercise. If your PSLE score is same or better than our cut-off score and wishes to appeal to our school, you can submit an&nbsp;**[Appeal Form](https://form.gov.sg/655c61bdb6f4b70012408d6e)**&nbsp;with photocopies of the relevant documents for consideration. The outcome of appeal will be made known to you as and when there is an available vacancy.
