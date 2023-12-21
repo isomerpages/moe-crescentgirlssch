@@ -6,9 +6,9 @@ variant: markdown
 ---
 ### **New Announcements**
 
-##### **[Secondary 1 Orientation 2023](https://crescentgirlsschool.sg/about-cgs/admission/sec1-registration-2023/)**
+##### **[Secondary 1 Orientation 2023](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/)**
 
-Click [here](https://crescentgirlsschool.sg/about-cgs/admission/sec1-registration-2023/) to find out more.
+Click [here](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/) to find out more.
 
 ##### **[Time Capsule for CG100!](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2022/time-capsule/)**
 
