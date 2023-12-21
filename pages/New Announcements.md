@@ -2,21 +2,6 @@
 title: New Announcements
 permalink: /announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **New Announcements**
-
-##### **[Secondary 1 Registration 2023](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/)**
-
-Click [here](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/) to find out more.
-
-##### **[Time Capsule for CG100!](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2022/time-capsule/)**
-
-We wish to invite you to suggest on the items to be sealed in the new time capsule which will be opened in 2056 at CG100. Click to find out more.
-
-##### **[Virtual Gallery](https://staging.d38imrvfgjjnoy.amplifyapp.com/our-achievements/virtual-gallery/)**
-We wish to invite you to our Virtual Gallery to celebrate the positive achievements of our students and staff. Please click on the link above to access the Virtual Gallery.
-
-##### **[Guidelines on Parents’ Communication with the School](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2022/guidelines-on-parents-communication-with-school/)**
-
-Please click here for Guidelines on Parents’ Communication with the School
+<h3><strong>New Announcements</strong></h3><h5><strong><a href="https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Registration 2023</a></strong></h5><p>Dear parents/guardians of our 2024 Secondary One students&nbsp;</p><p>A warm welcome to our Crescent family. Please check your Parents Gateway for links to the following resources/platforms (sent on Thursday, 21 December):&nbsp;</p><p>1) Registration package&nbsp;<br>2) Registration briefing videos<br>3) Personal Particulars Form Submission (required for all parents/guardians)&nbsp;</p><p>If you have any questions, please feel free to reach out to us via <a href="mailto:crescentgirl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crescentgirl@moe.edu.sg</a>&nbsp;</p><p>Regards<br>Ms Li Xiaoping<br>Year Head/Secondary 1 and 2</p><p>Click <a href="https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out more.</p><h5><strong><a href="https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2022/time-capsule/" rel="noopener noreferrer nofollow" target="_blank">Time Capsule for CG100!</a></strong></h5><p>We wish to invite you to suggest on the items to be sealed in the new time capsule which will be opened in 2056 at CG100. Click to find out more.</p><h5><strong><a href="https://staging.d38imrvfgjjnoy.amplifyapp.com/our-achievements/virtual-gallery/" rel="noopener noreferrer nofollow" target="_blank">Virtual Gallery</a></strong></h5><p>We wish to invite you to our Virtual Gallery to celebrate the positive achievements of our students and staff. Please click on the link above to access the Virtual Gallery.</p><h5><strong><a href="https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2022/guidelines-on-parents-communication-with-school/" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Parents’ Communication with the School</a></strong></h5><p>Please click here for Guidelines on Parents’ Communication with the School</p>
