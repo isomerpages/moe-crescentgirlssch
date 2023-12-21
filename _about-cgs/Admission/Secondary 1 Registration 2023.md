@@ -1,6 +1,6 @@
 ---
 title: Secondary 1 Registration 2023
-permalink: /about-cgs/admission/permalink/
+permalink: /about-cgs/admission/sec1-registration-2023/
 variant: tiptap
 description: ""
 third_nav_title: Admission
