@@ -2,12 +2,17 @@
 title: New Announcements
 permalink: /announcement/
 description: ""
+variant: markdown
 ---
 ### **New Announcements**
 
+##### **[Secondary 1 Orientation 2023](https://crescentgirlsschool.sg/about-cgs/admission/sec1-registration-2023/)**
+
+Click [here](https://crescentgirlsschool.sg/about-cgs/admission/sec1-registration-2023/) to find out more.
+
 ##### **[Time Capsule for CG100!](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2022/time-capsule/)**
 
-We wish to invite you to suggest on the items to be sealed in the new time capsule which will be opened in 2056 at CG100. Click to find out more
+We wish to invite you to suggest on the items to be sealed in the new time capsule which will be opened in 2056 at CG100. Click to find out more.
 
 ##### **[Virtual Gallery](https://staging.d38imrvfgjjnoy.amplifyapp.com/our-achievements/virtual-gallery/)**
 We wish to invite you to our Virtual Gallery to celebrate the positive achievements of our students and staff. Please click on the link above to access the Virtual Gallery.
