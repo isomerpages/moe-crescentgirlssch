@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **New Announcements**
 
-##### **[Secondary 1 Orientation 2023](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/)**
+##### **[Secondary 1 Registration 2023](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/)**
 
 Click [here](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/admission/sec1-registration-2023/) to find out more.
 
