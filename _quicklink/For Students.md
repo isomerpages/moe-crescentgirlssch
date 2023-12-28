@@ -8,7 +8,7 @@ variant: markdown
 
 | Information | Links |
 |---|---|
-| Case Logging for Support | https://for.edu.sg/cgscaselogging 
+| Case Logging for Support | https://for.edu.sg/cgscaselogging
 | Crescent Email | [http://mail.office365.com/](http://mail.office365.com/)  |
 | SLS | [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) |
 | Library OPAC | [https://schoolibrary.moe.edu.sg/crescentgirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME](https://schoolibrary.moe.edu.sg/crescentgirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
