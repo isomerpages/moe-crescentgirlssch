@@ -8,4 +8,4 @@ variant: markdown
 ### **Science Department**
 
 
-![](/images/Our%20Partners/2023%20School%20staff%20&%20Department/science%2023.jpg)
+![Science Department](/images/Our%20People/School%20Departments/science%2023.jpg)
