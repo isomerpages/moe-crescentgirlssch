@@ -7,4 +7,4 @@ variant: markdown
 ---
 ### **Mother Tongue Languages Department**
 
-![](/images/Our%20Partners/2023%20School%20staff%20&%20Department/mother%20tongue%20languages%2023.jpg)
+![Mother Tongue Department](/images/Our%20People/School%20Departments/mother%20tongue%20languages%2023.jpg)
