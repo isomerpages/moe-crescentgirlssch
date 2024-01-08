@@ -7,4 +7,4 @@ variant: markdown
 ---
 ### **English Language and Literature Department**
 
-![](/images/Our%20Partners/2023%20School%20staff%20&%20Department/english%20language%20and%20literature%20department%2023.jpg)
+![English Language and Literature Department](/images/Our%20People/School%20Departments/english%20language%20and%20literature%20department%2023.jpg)
