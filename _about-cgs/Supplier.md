@@ -29,7 +29,7 @@ variant: markdown
           </tr>
 					 <tr>
             <th scope="row">Website</th>
-            <td colspan="2"><a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a><br>Note: For purchase of school uniform and PE attire, kindly click on "eShop" at the top of the website. Alternatively, you can access the eShop at&nbsp;<a href="https://for.edu.sg">https://for.edu.sg/cgs-uniform</a></td>
+            <td colspan="2"><a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a><br>Note: For purchase of school uniform and PE attire, kindly click on "eShop" at the top of the website. Alternatively, you can access the eShop at&nbsp;<a href="https://for.edu.sg/cgs-uniform">https://for.edu.sg/cgs-uniform</a></td>
           </tr>
         </tbody>
      </table>
