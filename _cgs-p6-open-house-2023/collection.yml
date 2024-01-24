@@ -1,0 +1,13 @@
+collections:
+  cgs-p6-open-house-2023:
+    output: true
+    order:
+      - Welcome page.md
+      - Programmes/General.md
+      - Programmes/IP & Niche Areas.md
+      - Programmes/.keep
+      - CCAs/.keep
+      - CCAs/Sports.md
+      - CCAs/Uniformed Group.md
+      - CCAs/Performing Arts.md
+      - CCAs/Clubs.md

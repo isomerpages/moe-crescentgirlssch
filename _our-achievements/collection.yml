@@ -1,0 +1,18 @@
+collections:
+  our-achievements:
+    output: true
+    order:
+      - School Awards.md
+      - Academic Competitions/Academic Competitions.md
+      - Academic Competitions/2018.md
+      - Academic Competitions/2019.md
+      - Academic Competitions/2021.md
+      - Academic Competitions/.keep
+      - CCA Awards/.keep
+      - CCA Awards/CCA Awards.md
+      - CCA Awards/2019.md
+      - CCA Awards/2020.md
+      - CCA Awards/2021.md
+      - CCA Awards/2022.md
+      - CCA Awards/2023.md
+      - Virtual Gallery.md

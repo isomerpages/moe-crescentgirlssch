@@ -1,0 +1,23 @@
+collections:
+  about-cgs:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Mission, Vision & Values.md
+      - School Song & Crest.md
+      - History and Corporate Video.md
+      - CGS Yearbook.md
+      - Admission/.keep
+      - Admission/Admission after PSLE.md
+      - Admission/Secondary 1 Registration 2023.md
+      - Admission/Information on Direct School Admission to Crescent Girls'
+        School.md
+      - Admission/International Students.md
+      - Admission/Returning Singaporeans.md
+      - Admission/Transfer of School.md
+      - Calender of Events.md
+      - Contact Us.md
+      - Discipline Philosophy and School Rules.md
+      - Financial Assistance Schemes (FAS).md
+      - Supplier.md
+      - FAQs.md

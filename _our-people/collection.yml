@@ -1,0 +1,16 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Organisational Chart.md
+      - Staff.md
+      - Departments/Creative Arts Department.md
+      - Departments/EAS Department.md
+      - Departments/English Language and Literature Department.md
+      - Departments/School Executive Committee.md
+      - Departments/Humanities Department.md
+      - Departments/Mathematics Department.md
+      - Departments/Mother Tongue Languages Department.md
+      - Departments/PE and CCA Department.md
+      - Departments/Science Department.md
+      - Departments/.keep

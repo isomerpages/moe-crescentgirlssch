@@ -1,0 +1,18 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - M Learning @ Crescent/.keep
+      - M Learning @ Crescent/m Learning @ Crescent.md
+      - M Learning @ Crescent/Personal Learning Device (PLD) (2021 to 2023).md
+      - M Learning @ Crescent/Application and ICT Training in School.md
+      - M Learning @ Crescent/Device Management Application (DMA).md
+      - M Learning @ Crescent/Important Contacts, Helplines and Resources.md
+      - M Learning @ Crescent/FAQs.md
+      - 21st Century Competencies.md
+      - Secondary 1 Communicative Arts.md
+      - Integrated Curriculum.md
+      - Internationalisation Programme.md
+      - Music Elective Programme.md
+      - Talent Development Programme.md
+      - Values In Action.md

@@ -1,0 +1,31 @@
+collections:
+  cradle:
+    output: true
+    order:
+      - Digital   Age Learning/Crescent Academy for Digital Age Learning.md
+      - Digital   Age Learning/Digital Age Learning Conference (DALC).md
+      - Digital   Age Learning/Open Classrooms.md
+      - Digital   Age Learning/21st Century Learning Design (21CLD) Workshops.md
+      - Digital   Age Learning/Webinar (NEW).md
+      - Digital   Age Learning/Professional Learning (NEW).md
+      - Digital   Age Learning/.keep
+      - Cyberwellness Advocacy Chall/About National Cyberwellness Advocacy
+        Challenge (NCAC).md
+      - Cyberwellness Advocacy Chall/.keep
+      - Youth Upcycling Movement/About National Youth Upcycling Movement
+        (NYUM).md
+      - Youth Upcycling Movement/.keep
+      - Swift Explorers Singapore/.keep
+      - Swift Explorers Singapore/About Swift Explorers Singapore (SES).md
+      - Swift Explorers Singapore/Registration.md
+      - Swift Explorers Singapore/Curriculum.md
+      - Swift Explorers Singapore/For Primary School.md
+      - Swift Explorers Singapore/For Secondary, Junior College, Millenia
+        Institute.md
+      - Swift Explorers Singapore/FAQs.md
+      - Swift Explorers Singapore/SES 2022 Celebrations.md
+      - National Digital Explorer/.keep
+      - National Digital Explorer/National Digital Explorer (NDE).md
+      - National Digital Explorer/Digital Explorer (Learn).md
+      - National Digital Explorer/Digital Explorer (Certify).md
+      - National Digital Explorer/Digital Explorer (Certify&Compete).md
