@@ -2,9 +2,14 @@
 title: What's Happening
 permalink: /whats-happening/
 description: ""
+variant: markdown
 ---
 ### **What's Happening**
 
+
+#### **2024**
+
+Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2024/jan/secondary-one-orientation-campfire/)** to find out more!
 
 
 #### **2023**
