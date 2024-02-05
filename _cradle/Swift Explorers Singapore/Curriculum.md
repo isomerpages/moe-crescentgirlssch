@@ -13,7 +13,7 @@ and two exciting challenges:</p>
 <p>Led by Crescent Girls' School, this challenge focuses on design thinking
 and basic coding with Swift Playgrounds on the iPad. Participants will
 create innovative and user-friendly apps that solve real-world problems.</p>
-<h4><strong>1.</strong>&nbsp;&nbsp;&nbsp; <strong>Great apps start with great ideas.</strong> </h4>
+<h4><strong>1.</strong>&nbsp;&nbsp;&nbsp; <strong>Great apps start with great ideas.</strong></h4>
 <p>Students will come up with an app idea connected to a topic they care
 about, then discover how to design with inclusion and accessibility as
 a centerpiece of their app design.</p>
@@ -34,7 +34,6 @@ showcase their app ideas at the celebration event held at Crescent Girls’
 School.</p>
 <p>Deliverables: Keynote app prototype and presentation poster of app idea</p>
 <p>Outline of activities in SLS</p>
-<p></p>
 <p></p>
 <p><strong><u>App Design Challenge</u></strong>
 </p>
@@ -79,12 +78,14 @@ guides and videos in the SLS.</p>
 <p>Each participating school will nominate a maximum of 2 best apps for the
 selection panel’s consideration. Selected entries will be invited to showcase
 their app prototypes at the celebration event held at Crescent Girls’ School.</p>
-<p>Deliverables: Students will submit their app prototype as well as the
-poster of their app.</p>
-<p>Outline of activities on SLS</p>
+<p></p>
+<p><em>Deliverables: Students will submit their app prototype as well as the poster of their app.</em>
+</p>
+<p><em>Outline of activities on SLS</em>
+</p>
 <p></p>
 <p></p>
-<p><strong>App Development Challenge</strong>
+<p><strong><u>App Development Challenge</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,4 +114,7 @@ poster of their app.</p>
 CoreML</p>
 </li>
 </ul>
-<p>*The lesson plan provided above is subject to change.</p>
+<p><strong><em>*The lesson plan provided above is subject to change.</em></strong>
+</p>
+<hr>
+<p></p>
