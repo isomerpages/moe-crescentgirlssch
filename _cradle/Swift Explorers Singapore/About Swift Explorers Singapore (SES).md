@@ -14,7 +14,8 @@ variant: tiptap
 <p></p>
 <p>Crescent Girls’ School (CGS) and School of Science and Technology (SST)
 are proud to organise Swift Explorers Singapore (SES) 2024!</p>
-<p>Join us to discover the wonders of coding!</p>
+<p><em>Join us to discover the wonders of coding!</em>
+</p>
 <p>SES 2024 is a programme designed to empower students and teachers in the
 field of app development. SES 2024 is organised using resources from Apple,
 with training supported by Tinkercademy, an Apply Professional Learning
@@ -31,7 +32,6 @@ teachers may also attend similar coding and app development workshops.</p>
 with real-world developers, build their app, and showcase their work to
 industry leaders.</p>
 <p>The programme is free for all public education institutions to participate.</p>
-<p></p>
 <hr>
 <h4><strong>What’s New?</strong></h4>
 <p>This year we are excited to launch the programme with a brand-new curriculum
@@ -61,38 +61,19 @@ Girls' School. At this event, you will:</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <h4>The table for the key dates of the programme is appended below:</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/SES2023Programme1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cradle/Swift Explorers Singapore SES/SES_2024_Programme.png">
 </div>
-<p>Registration will open from <strong>10 February 2023</strong>
+<p></p>
+<p>Registration is open from <strong>22 January 2024</strong>
 </p>
-<p>Registration now at : <a href="https://go.gov.sg/ses-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ses-registration</a>!</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/SES2023QRcode1.png">
-</div>
-<p>Scan here</p>
-<p>
-<br>
-<br>
+<p>Registration now at : <strong><em><a href="https://for.edu.sg/ses-registration2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration2024</a></em></strong>
 </p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
+<hr>
 <h4><strong>About Tinkercademy</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/ses2.png">
 </div>
