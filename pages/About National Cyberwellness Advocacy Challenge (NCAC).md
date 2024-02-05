@@ -2,7 +2,6 @@
 title: About National Cyberwellness Advocacy Challenge (NCAC)
 permalink: /cradle/ncac/
 description: ""
-third_nav_title: Cyberwellness Advocacy Chall
 ---
 ### **About NCAC**
 
@@ -16,7 +15,7 @@ There are 2 categories for participation for Primary Schools / Secondary / Post-
 #### **2. Theme for the 2021 Challenge**
 The theme for this year’s challenge is **“Fake News: Spot It, Evaluate It, Remove It!”**
 
- Through this Challenge, we hope to achieve the following objectives:<br>
+&nbsp;Through this Challenge, we hope to achieve the following objectives:<br>
 (a)  To reach out to parents with the voices of children and youths, and<br>
 (b)  To empower youth advocates and impart Cyber Wellness principles and values.
 
@@ -59,11 +58,11 @@ The theme for this year’s challenge is **“Fake News: Spot It, Evaluate It, R
 
 <img src="/images/ncac6.jpg" style="width:65%">
 
-**Presentation-cum-Consultation on Advocacy Toolkit & Outreach Project Plan**
+**Presentation-cum-Consultation on Advocacy Toolkit &amp; Outreach Project Plan**
 *   After attending the NCAC training camp, all teams will be required to start working on the following deliverable for the Challenge:
 *   * Advocacy Toolkit (Physical/Digital)
 *   Each team will be scheduled for a Presentation-cum-Consultation session to meet the experts and consultants in the field for feedback and comments on their advocacy toolkit and outreach project, for further refinements to be made by the teams. Teams will be notified about their allocated slots for the session via email in due course.
-*   All teams must prepare **at least one physical or digital toolkit** for the Presentation-cum-Consultation session.
+*   All teams must prepare&nbsp;**at least one physical or digital toolkit**&nbsp;for the Presentation-cum-Consultation session.
 *   Subsequent consultations and clarifications with the experts and consultants will be conducted via email.
 *   Judges will score each team based on the advocacy toolkit and outreach project plan.
 
@@ -74,7 +73,7 @@ The theme for this year’s challenge is **“Fake News: Spot It, Evaluate It, R
 *   Teams will be required to submit their Final Report (deliverables as stated by the judging panel).
 
 **Final Tally and Prize Presentation** 
-*   **Gold**, **Silver** and **Bronze** Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:
+*   **Gold**,&nbsp;**Silver**&nbsp;and&nbsp;**Bronze**&nbsp;Awards will be awarded to the qualifying teams from each category based on the scores in the following areas:
 
 | Component | Criteria | Weighting  |
 |:---:|:---:|:---:|
