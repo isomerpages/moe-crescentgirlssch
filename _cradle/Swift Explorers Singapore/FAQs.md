@@ -53,7 +53,7 @@ plans and SLS packages) will be shared with the TCC for assignment to participat
 students. While the activities are design to support Self-Directed Learning,
 TCCs are required to set milestone check-ins with participating students
 and to select the team for the SES Showcase and SES Graduation.</p>
-<p>During the course of SES 2023, there will be briefing sessions and training
+<p>During the course of SES 2024, there will be briefing sessions and training
 workshops for TCCs. Teachers do not need any coding or computing knowledge
 to be eligible for the role of TCC.</p>
 <p></p>
