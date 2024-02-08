@@ -2,6 +2,7 @@
 title: Calender of Events
 permalink: /about-cgs/calender/
 description: ""
+variant: markdown
 ---
 ### **Calender of Events**
 
