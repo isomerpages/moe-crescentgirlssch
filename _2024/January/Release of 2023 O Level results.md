@@ -9,8 +9,7 @@ third_nav_title: January
 <p><em>After the release of the 2023 ‘O’ level results, the CGS Corporate Communications Committee had the opportunity to interview some of the Character Edusave Awardees to provide some insights into their experience in preparing for the O Levels.</em>
 </p>
 <p></p>
-<p></p>
-<p><strong><em>Can you describe your journey to success in preparing for the ‘O’ Levels? Were there any specific challenges you faced, and how did you overcome them? </em></strong>
+<p><strong><em>Can you describe your journey to success in preparing for the ‘O’ Levels? Were there any specific challenges you faced, and how did you overcome them?</em></strong>
 </p>
 <p><strong>Xin Hui: </strong>Preparing for O Levels was a tiring but worthwhile
 journey. On several days, I had to sacrifice my rest and leisure time just
@@ -49,9 +48,7 @@ teamwork can be, I was always happy to help and be helped by my peers,
 making school life much less stressful.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>What advice would you give to current and future students? How can they develop the same level of resilience and determination that you have demonstrated?&nbsp;</strong>
+<p><strong>&nbsp;What advice would you give to current and future students? How can they develop the same level of resilience and determination that you have demonstrated?&nbsp;</strong>
 </p>
 <p><strong>Shantell: </strong>Learn how to time manage well and to seize
 the opportunities you have. Find a system of planning and tracking tasks
@@ -63,15 +60,13 @@ balance to manage challenges effectively. As for developing resilience,
 have a clear goal and find the reason for chasing that goal. Make sure
 that you also have a good support system that can be both a safety net
 and driving force for you to achieve your goals.&nbsp;</p>
-<p></p>
 <p><strong>Janessa: </strong>Trust the process. When the going gets tough,
 the tough get going. I feel that as long as students believe in themselves,
 they can develop the same level of resilience and determination.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong><em>Insights by: &nbsp;Joanne Pang Rui Qi, Janessa Low, Ong Xin Hui, Shantell Wong, Stacie Goh Mei Yi (Class of 2023)</em></strong>
 </p>
-<p></p>
+<hr>
 <p></p>
 <h4><strong><em>Photos</em></strong></h4>
 <div class="iframe-wrapper">
