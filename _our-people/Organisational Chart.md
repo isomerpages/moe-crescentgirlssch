@@ -231,7 +231,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
 </div>
-<p>Mr Foo Wen Yeow SH/ICT</p>
+<p>Mr Foo Wen Yeow</p>
+<p>SH/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
