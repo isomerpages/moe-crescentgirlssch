@@ -37,7 +37,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+<img style="width: 66%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
 <p>Ms Usha Jeyarajah
 <br>Vice-Principal</p>
@@ -92,14 +92,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 73%;" height="auto" width="100%" alt="Mrs Shirlene Koh" src="/images/Our People/Organization Chart/organisation8.png">
+<img style="width: 71%;" height="auto" width="100%" alt="Mrs Shirlene Koh" src="/images/Our People/Organization Chart/organisation8.png">
 </div>
 <p>Mrs Shirlene Koh
 <br>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="Mr Lee Boon Keng" src="/images/Our People/Organization Chart/organisation12.png">
+<img style="width: 89%;" height="auto" width="100%" alt="Mr Lee Boon Keng" src="/images/Our People/Organization Chart/organisation12.png">
 </div>
 <p>Mr Lee Boon Keng
 <br>HOD/ICT</p>
@@ -145,21 +145,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Miss Pamelia Goh" src="/images/Our People/Organization Chart/organisation16.png">
+<img style="width: 91%;" height="auto" width="100%" alt="Miss Pamelia Goh" src="/images/Our People/Organization Chart/organisation16.png">
 </div>
 <p>Miss Pamelia Goh
 <br>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Ms Jerene Sim" src="/images/Our People/Organization Chart/organisation14.png">
+<img style="width: 78%;" height="auto" width="100%" alt="Ms Jerene Sim" src="/images/Our People/Organization Chart/organisation14.png">
 </div>
 <p>Ms Jerene Sim
 <br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="Ms Vivienne He" src="/images/Our People/Organization Chart/MsVivienneHe.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Ms Vivienne He" src="/images/Our People/Organization Chart/MsVivienneHe.png">
 </div>
 <p>Ms Vivienne He HOD/CCE</p>
 </td>
@@ -167,58 +167,55 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Mr Desmond Keong" src="/images/Our People/Organization Chart/organisation17.png">
+<img style="width: 76%;" height="auto" width="100%" alt="Mr Desmond Keong" src="/images/Our People/Organization Chart/organisation17.png">
 </div>
 <p>Mr Desmond Keong
 <br>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
 </div>
-<p>Ms Ting Hui Yi</p>
-<p>SH/Math
+<p>Ms Ting Hui Yi SH/Math
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
+<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
 </div>
-<p>Mr Lim Wee Khiang</p>
-<p>LH/Science</p>
+<p>Mr Lim Wee Khiang LH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Tai_Wai_Peng.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/ms_punitha_ramanathan.png">
 </div>
-<p>Miss Tai Wai Peng</p>
-<p>SH/CCE</p>
+<p>Ms Punitha d/o Ramanathan SH/English Literature</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="Ms Soh Poh Ping" src="/images/Our People/Organization Chart/organisation24.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
+</div>
+<p>Miss Tai Wai Peng SH/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation24.png">
 </div>
 <p>Ms Soh Poh Ping SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="Mr Kelwin Koh" src="/images/Our People/Organization Chart/organisation20.png">
+<img style="width: 78%;" height="auto" width="100%" alt="Mr Kelwin Koh" src="/images/Our People/Organization Chart/organisation20.png">
 </div>
 <p>Mr Kelwin Koh
 <br>SH/Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
-</div>
-<p>Mr Foo Wen Yeow SH/ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
 </div>
 <p>Mr Kingsley Ng SH/Student Management</p>
 </td>
@@ -226,27 +223,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Miss Tay Puay Hoon" src="/images/Our People/Organization Chart/organisation25.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
+</div>
+<p>Mr Foo Wen Yeow SH/ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Miss Tay Puay Hoon" src="/images/Our People/Organization Chart/organisation25.png">
 </div>
 <p>Miss Tay Puay Hoon
 <br>Administration Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Mrs Ng Wei San" src="/images/Our People/Organization Chart/organisation26.png">
+<img style="width: 78%;" height="auto" width="100%" alt="Mrs Ng Wei San" src="/images/Our People/Organization Chart/organisation26.png">
 </div>
 <p>Mrs Ng Wei San
 <br>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="Mr Mohammad Fahmie" src="/images/Our People/Organization Chart/organisation27.png">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
 </div>
 <p>Mr Mohammad Fahmie
 <br>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
