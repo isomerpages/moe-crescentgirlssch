@@ -176,8 +176,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
 </div>
-<p>Ms Ting Hui Yi</p>
-<p>SH/Math
+<p>Ms Ting Hui Yi SH/Math
 <br>
 </p>
 </td>
@@ -185,15 +184,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 73%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
 </div>
-<p>Mr Lim Wee Khiang</p>
-<p>LH/Science</p>
+<p>Mr Lim Wee Khiang LH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/ms_punitha_ramanathan.png">
 </div>
-<p>Ms Punitha d/o Ramanathan</p>
-<p>SH/English Literature</p>
+<p>Ms Punitha d/o Ramanathan SH/English Literature</p>
 </td>
 </tr>
 <tr>
@@ -201,15 +198,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
 </div>
-<p>Miss Tai Wai Peng</p>
-<p>SH/CCE</p>
+<p>Miss Tai Wai Peng SH/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation24.png">
 </div>
-<p>Ms Soh Poh Ping</p>
-<p>SH/Chemistry</p>
+<p>Ms Soh Poh Ping SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -230,8 +225,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
 </div>
-<p>Mr Foo Wen Yeow</p>
-<p>SH/ICT</p>
+<p>Mr Foo Wen Yeow SH/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
