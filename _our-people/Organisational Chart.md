@@ -201,8 +201,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
 </div>
-<p>MIss Tai Wai</p>
-<p>Peng</p>
+<p>Miss Tai Wai Peng</p>
 <p>SH/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
