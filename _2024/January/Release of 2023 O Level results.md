@@ -21,7 +21,8 @@ exam stress. I always had the thought that I was not sufficiently prepared
 for all my exams which made me super anxious. To deal with this, I had
 my friends recall the important points with me before the exam and tested
 each other.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p><strong>What strategies or techniques did you adopt to maintain your motivation and focus during the preparation period leading up to the O levels?"</strong>
 </p>
 <p><strong>Joanne</strong>: I believe that having a healthy body and mind
