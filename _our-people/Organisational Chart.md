@@ -145,21 +145,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Miss Pamelia Goh" src="/images/Our People/Organization Chart/organisation16.png">
+<img style="width: 91%;" height="auto" width="100%" alt="Miss Pamelia Goh" src="/images/Our People/Organization Chart/organisation16.png">
 </div>
 <p>Miss Pamelia Goh
 <br>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Ms Jerene Sim" src="/images/Our People/Organization Chart/organisation14.png">
+<img style="width: 78%;" height="auto" width="100%" alt="Ms Jerene Sim" src="/images/Our People/Organization Chart/organisation14.png">
 </div>
 <p>Ms Jerene Sim
 <br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="Ms Vivienne He" src="/images/Our People/Organization Chart/MsVivienneHe.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Ms Vivienne He" src="/images/Our People/Organization Chart/MsVivienneHe.png">
 </div>
 <p>Ms Vivienne He HOD/CCE</p>
 </td>
@@ -167,14 +167,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Mr Desmond Keong" src="/images/Our People/Organization Chart/organisation17.png">
+<img style="width: 76%;" height="auto" width="100%" alt="Mr Desmond Keong" src="/images/Our People/Organization Chart/organisation17.png">
 </div>
 <p>Mr Desmond Keong
 <br>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
 </div>
 <p>Ms Ting Hui Yi</p>
 <p>SH/Math
@@ -183,7 +183,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
+<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
 </div>
 <p>Mr Lim Wee Khiang</p>
 <p>LH/Science</p>
@@ -214,7 +214,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Mr Kelwin Koh" src="/images/Our People/Organization Chart/organisation20.png">
+<img style="width: 78%;" height="auto" width="100%" alt="Mr Kelwin Koh" src="/images/Our People/Organization Chart/organisation20.png">
 </div>
 <p>Mr Kelwin Koh
 <br>SH/Geography</p>
@@ -229,7 +229,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
 </div>
 <p>Mr Foo Wen Yeow SH/ICT</p>
 </td>
