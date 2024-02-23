@@ -37,7 +37,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+<img style="width: 66%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
 <p>Ms Usha Jeyarajah
 <br>Vice-Principal</p>
@@ -92,14 +92,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 73%;" height="auto" width="100%" alt="Mrs Shirlene Koh" src="/images/Our People/Organization Chart/organisation8.png">
+<img style="width: 71%;" height="auto" width="100%" alt="Mrs Shirlene Koh" src="/images/Our People/Organization Chart/organisation8.png">
 </div>
 <p>Mrs Shirlene Koh
 <br>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="Mr Lee Boon Keng" src="/images/Our People/Organization Chart/organisation12.png">
+<img style="width: 89%;" height="auto" width="100%" alt="Mr Lee Boon Keng" src="/images/Our People/Organization Chart/organisation12.png">
 </div>
 <p>Mr Lee Boon Keng
 <br>HOD/ICT</p>
