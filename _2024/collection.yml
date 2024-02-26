@@ -2,8 +2,8 @@ collections:
   "2024":
     output: true
     order:
-      - February.md
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/Dedication Ceremony 2024.md
       - January/Release of 2023 O Level results.md
+      - February.md
