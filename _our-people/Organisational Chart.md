@@ -174,7 +174,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
 </div>
 <p>Ms Ting Hui Yi SH/Math
 <br>
@@ -188,7 +188,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/ms_punitha_ramanathan.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/ms_punitha_ramanathan.png">
 </div>
 <p>Ms Punitha d/o Ramanathan SH/English Literature</p>
 </td>
@@ -215,7 +215,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
 </div>
 <p>Mr Kingsley Ng SH/Student Management</p>
 </td>
@@ -229,7 +229,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Miss Tay Puay Hoon" src="/images/Our People/Organization Chart/organisation25.png">
+<img style="width: 88%;" height="auto" width="100%" alt="Miss Tay Puay Hoon" src="/images/Our People/Organization Chart/organisation25.png">
 </div>
 <p>Miss Tay Puay Hoon
 <br>Administration Manager 1</p>
@@ -243,7 +243,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
 </div>
 <p>Mr Mohammad Fahmie
 <br>Operations Manager</p>
