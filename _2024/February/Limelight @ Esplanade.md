@@ -9,17 +9,17 @@ third_nav_title: February
 <p></p>
 <p>Limelight @ Esplanade 2024, which took place on 6 February at the Esplanade
 Concert Hall, was certainly an enriching experience, as we got to see months
-of hard work and <a rel="noopener noreferrer nofollow" target="_blank">determination</a> paid
-off. The opportunity to play in such a prestigious concert hall has fuelled
-us to ensure we put on our best performance, enduring grueling and rigorous
-rehearsals as we perfected pieces like Coldplay Classics and Merry-Go-Round
-of Life. This was also a wonderful experience as we bonded with our section
-mates and thoroughly enjoyed each other’s company and encouragement. During
-the concert, the loud cheers and responses from the audience after each
-musical piece served as an indication that we had performed well and it
-left a sense of accomplishment in all our hearts.</p>
+of hard work and determination paid off. The opportunity to play in such
+a prestigious concert hall has fuelled us to ensure we put on our best
+performance, enduring grueling and rigorous rehearsals as we perfected
+pieces like Coldplay Classics and Merry-Go-Round of Life. This was also
+a wonderful experience as we bonded with our section mates and thoroughly
+enjoyed each other’s company and encouragement. During the concert, the
+loud cheers and responses from the audience after each musical piece served
+as an indication that we had performed well and it left a sense of accomplishment
+in all our hearts.</p>
 <p></p>
-<p><strong><em>Written by: the Crescent Girls’ School Symphonic Band </em></strong>
+<p><strong><em>Written by: the Crescent Girls’ School Symphonic Band</em></strong>
 </p>
 <hr>
 <h4>Photo</h4>
