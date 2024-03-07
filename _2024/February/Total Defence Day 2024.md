@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: February
 ---
-<p>Total Defence Day 2024</p>
+<h3>Total Defence Day 2024</h3>
 <p></p>
 <p>The year 2024 marks 40 years of Total Defence in Singapore. On 15 February,
 Crescent held several events to commemorate Total Defence Day. For instance,
