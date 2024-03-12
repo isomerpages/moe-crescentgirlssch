@@ -5,7 +5,7 @@ description: ""
 third_nav_title: M Learning @ Crescent
 variant: markdown
 ---
-### **Personal Learning Device (PLD) **
+### Personal Learning Device (PLD)
 Crescent has selected iPad with iPadOS for students for the following rationale:
 *   It is suitable for learning on-the-go.
 *   It comes with smooth inking with Apple Pencil.
