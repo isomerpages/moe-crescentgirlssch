@@ -3,6 +3,7 @@ title: Digital Explorer (Certify&Compete)
 permalink: /cradle/national-digital-explorer/digital-explorer-compete/
 description: ""
 third_nav_title: National Digital Explorer
+variant: markdown
 ---
 ### **Digital Explorer - Certify&amp;Compete** ###
 The Digital Explorer – Certify&amp;Compete is a nationwide student competition organised by Crescent Girls’ School and ICDL Asia which invites students in primary and secondary school / JC / MI in Singapore to compete and demonstrate how digital skills can be applied in the new digital economy.
@@ -20,8 +21,8 @@ Top winners in the Secondary / JC / MI Level will fast track to the Grand Final 
 
 | Competition Round | Primary Level Modules | Sec/JC/MI Modules |
 | -------- | -------- | -------- |
-| **Certification Round (in individual school**  *Latest by 31 May 2024*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights ** (Big Data, Insights Cloud Computer)
-**National Round** | Spreadsheet &amp; Presentation | Documents &amp; Spreadsheet 
+| **Certification Round (in individual school**  *Latest by 31 May 2024*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights**  (Big Data, Insights Cloud Computing)
+**National Round** | Spreadsheet &amp; Presentation | Advanced Presentation &amp; Advanced Spreadsheet
 **Grand Final Regional ICDL Asia Digital Challenge** * September 2024  (tentative) | | Top winner in this category will be invited to represent Singapore |
 
 
