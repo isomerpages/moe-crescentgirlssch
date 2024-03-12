@@ -1,15 +1,15 @@
 ---
-title: Personal Learning Device (PLD) (2021 to 2023)
-permalink: /our-holistic-curriculum/signature-programmes/pld-2021-2023/
+title: Personal Learning Device (PLD)
+permalink: /our-holistic-curriculum/signature-programmes/pld/
 description: ""
 third_nav_title: M Learning @ Crescent
+variant: markdown
 ---
-
-### **Personal Learning Device (PLD) (2021 - 2023)**
+### Personal Learning Device (PLD)
 Crescent has selected iPad with iPadOS for students for the following rationale:
 *   It is suitable for learning on-the-go.
 *   It comes with smooth inking with Apple Pencil.
-*   It has many educational apps available in iOS app store for T&L.
+*   It has many educational apps available in iOS app store for T&amp;L.
 *   Apple Classroom allows teachers to better monitor, control and share resources with students during lessons.
 
 Parents are given 3 options for m-Learning @ Crescent
@@ -21,8 +21,8 @@ Parents are given the flexibility and autonomy, through Option 2 and 3, to choos
 #### **Option 1: MOE iPad Bundle**
 The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Pte. Ltd. (Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 
-<img src="/images/pld2.png" style="width:50%" align=left>
-<img src="/images/pld3.png" style="width:40%" align=right>
+<img src="/images/pld2.png" style="width:50%" align="left">
+<img src="/images/pld3.png" style="width:40%" align="right">
 
 <br clear="left">
 
@@ -73,17 +73,17 @@ Some Examples of Recommended Combo for Option 2 - Purchasing New iPad
 
 **11-inch iPad Pro (3rd Gen)**
 
-<img src="/images/pld4.png" style="width:30%" align=left>
-<img src="/images/pld5.jpg" style="width:10%" align=left>
-<img src="/images/pld6.png" style="width:50%" align=left>
+<img src="/images/pld4.png" style="width:30%" align="left">
+<img src="/images/pld5.jpg" style="width:10%" align="left">
+<img src="/images/pld6.png" style="width:50%" align="left">
 
 <br clear="left">
 
 **iPad Air 4 (4th Gen)**
 
-<img src="/images/pld7.jpg" style="width:30%" align=left>
-<img src="/images/pld8.jpg" style="width:10%" align=left>
-<img src="/images/pld9.png" style="width:50%" align=left>
+<img src="/images/pld7.jpg" style="width:30%" align="left">
+<img src="/images/pld8.jpg" style="width:10%" align="left">
+<img src="/images/pld9.png" style="width:50%" align="left">
 
 <br clear="left">
 
@@ -93,7 +93,7 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 *   Servicing can be done at Apple Service Centres.
 *   Accidental damage protection is included with a service fee
 
-(Please refer to the full T&C on the link: **[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
+(Please refer to the full T&amp;C on the link:&nbsp;**[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
 
 #### **Apple Service Centres (for both Option 1 and 2)**
 
@@ -111,7 +111,7 @@ The table below shows other iPad models that are compatible with MOE DMA.
 
 |  | Model Number |   |  |
 |---|---|---|---|
-|  **Model Name** | **Wi-Fi Only** |  **Wi-Fi & Cellular** | **Compatible Apple Pencil** |
+|  **Model Name** | **Wi-Fi Only** |  **Wi-Fi &amp; Cellular** | **Compatible Apple Pencil** |
 | iPad Air 4th Gen | A2316 | A2324 or A2325 or A2072 | Apple Pencil 2nd Gen |
 | iPad Pro 11 inch 1st | A1980 | A2013 or A1934 or A1979 | Gen Apple Pencil 2nd Gen |
 | iPad Pro 12.9 inch 3rd Gen | A1876 | A2013 or A1934 OR A1979 | Apple Pencil 2nd Gen |
@@ -119,12 +119,12 @@ The table below shows other iPad models that are compatible with MOE DMA.
 | iPad Pro 12.9 inch 4th Gen | A2229 | A2069 or A2232 or A2233 | Apple Pencil 2nd Gen. |
 |
 
-*Parents may choose the most suitable iPad for their daughter, but ICT Department will need to evaluate the compatibility of the iPad with DMA and other school ICT Apps used for T&L.
+*Parents may choose the most suitable iPad for their daughter, but ICT Department will need to evaluate the compatibility of the iPad with DMA and other school ICT Apps used for T&amp;L.
 
 *Please note that parents will not be able to use Edusave for the purchase of new iPad under Option 2
 
 #### **How to Find the Model Number of your iPad**
 
-Open the Settings app and tap on _General > About_ Look for the Model entry on this page. You should see a model number beginning with an **‘M’.** Tap on the Model entry and it will show a model number beginning with an **‘A’**. The image below shows the iPad model is **“A2316”**
+Open the Settings app and tap on&nbsp;_General &gt; About_&nbsp;Look for the Model entry on this page. You should see a model number beginning with an&nbsp;**‘M’.**&nbsp;Tap on the Model entry and it will show a model number beginning with an&nbsp;**‘A’**. The image below shows the iPad model is&nbsp;**“A2316”**
 
 <img src="/images/pld10.png" style="width:85%">
