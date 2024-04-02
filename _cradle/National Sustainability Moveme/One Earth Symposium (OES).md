@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: National Sustainability Moveme
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/One_Earth_Symposium_logo.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/One_Earth_Symposium_logo.png">
 </div>
 <p>One Earth Symposium (OES) is an annual one-day symposium slated to take
 place in Term 2 Week 9 or Week 10. OES is aimed at educators via keynote
