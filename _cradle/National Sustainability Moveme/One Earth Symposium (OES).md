@@ -45,7 +45,14 @@ into instructional &amp; non- instructional programmes.</p>
 Circular Asia and The Carbon Academy. The venue partner for OES is Tzu
 Chi Humanistic Youth Centre.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Multiple_Logo.png">
+</div>
 <p></p>
+<p>For schools that are interested in participating, the sign-up link via
+FormSG will be sent out to all schools sometime in April. The Organising
+Committee will be confirming the participation of the attendees within
+1 week of the form submission.</p>
 <p></p>
 <p></p>
 <p></p>
