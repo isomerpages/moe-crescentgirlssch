@@ -30,6 +30,55 @@ sign up:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Advocacy_module_and_Enrichment_Module.png">
 </div>
+<p></p>
 <hr>
+<p></p>
+<h3><strong>Advocacy Module</strong></h3>
+<p>Participating schools can nominate a team of 3 to 5 students from Primary
+4 upwards to collaborate and act as Green Champions to pilot sustainability
+efforts in schools and execute their planned outreach activities. Students
+in participating teams are strongly encouraged to be <strong>creators</strong>, <strong>connectors</strong> and <strong>contributors</strong> and
+spearhead their own sustainability initiative(s). The Green Champions can
+come up with their own authentic, interesting and engaging activities to
+reach out to as many members of the community as possible.</p>
+<p></p>
+<p>There are 3 phases of movement in the SAC Advocacy Module.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Learn__create_and_advocate.png">
+</div>
+<p></p>
+<p><strong><u>Phase 1: Learn</u></strong>
+</p>
+<p>All members of participating teams are strongly encouraged to sign up
+for and to attend the <strong>SAC Symposium</strong> that will take place
+from <strong>1.30pm to 4.30pm</strong> on <strong>11 March 2024</strong> in
+Crescent Girls’ School. The Symposium comprises a keynote address and a
+training bootcamp, allowing participants to be equipped with the necessary
+knowledge and skills to design their community outreach project.</p>
+<p></p>
+<p><strong><u>Phase 2: Create</u></strong>
+</p>
+<p>Teams will then collaborate to design their own authentic, interesting
+and engaging activities/initiatives to promote sustainable living and in
+doing so, they are able to reach out to as many members of the community
+(school / neighbourhood etc.) Teams are strongly encouraged to attend an <strong>online Presentation-cum-Consultation session </strong>at
+a later date in late Term 2 to showcase their advocacy plans to an expert
+panel for feedback. Participation in this consultation session is option.</p>
+<p></p>
+<p><strong><u>Phase 3: Advocate</u></strong>
+</p>
+<p>Teams will then execute their advocacy plans/sustainability initiatives
+anytime from 12 March to 8 September 2024. Teams will need to submit a <strong>Final Report </strong>that
+documents their advocacy plans /sustainability initiatives (planning stage
+to implementation stage, reflections etc).</p>
+<p>&nbsp;Three categories of awards (Gold, Silver and Bronze) will be presented
+at the end of SAC to recognise the achievements of every team. Participation
+in the SAC may also be considered as part of the school’s contribution
+to efforts in environmental conservation when applying for the School Green
+Awards.</p>
+<p></p>
+<p><strong><u>Timeline and Summary of Key Dates</u></strong>
+</p>
+<p></p>
 <p></p>
 <p></p>
