@@ -79,5 +79,30 @@ Awards.</p>
 <p></p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC_Timeline.png">
+</div>
+<p></p>
+<p>Schools interested in participating can register their interest here <strong>by 29 February</strong>:
+<a href="https://go.gov.sg/sac2024-advocacy-reg-interest" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sac2024-advocacy-reg-interest</a>
+</p>
+<p></p>
+<p></p>
+<hr>
+<p></p>
+<h3><strong>Enrichment Module</strong></h3>
+<p>The SAC Enrichment Module comprises a one-hour, multi-modal lesson package
+that will be uploaded on Student Learning Space (SLS) and made available
+to participating schools for schools’ use.</p>
+<p>Schools have the choice to decide when to carry out the lesson package
+with their students before the submission deadline. Schools have the autonomy
+to choose the students to participate in the Enrichment Module. It could
+be a selected student group, a CCA, a class or class(es), a level or the
+entire school.</p>
+<p>All participants will receive an e-Certificate through their respective
+schools upon verification of evidence submitted by 1 November 2024.</p>
+<p></p>
+<p><strong><u>Timeline and Summary of Key Dates</u></strong>
+</p>
 <p></p>
 <p></p>
