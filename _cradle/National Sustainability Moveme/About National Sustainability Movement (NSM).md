@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>About National Sustainability Movement (NSM)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSM_logo.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSM_logo.png">
 </div>
 <h4><strong>Building a Generation of Eco Stewards</strong></h4>
 <p>Launched in 2024, the inaugural <strong>National Sustainability Movement (NSM)</strong> is
@@ -19,13 +19,13 @@ SG.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/school_logo.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/school_logo.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Terra.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Terra.png">
 </div>
 </th>
 </tr>
