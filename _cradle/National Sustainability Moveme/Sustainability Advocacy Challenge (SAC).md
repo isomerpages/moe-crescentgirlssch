@@ -23,7 +23,6 @@ environmental sustainability and conservation issues.</p>
 eco-stewards who are inspired to take action in promoting a culture of
 sustainable living and actively practise green citizenry that contributes
 to a sustainable Singapore.&nbsp;</p>
-<p>&nbsp;</p>
 <p>For SAC 2024, there will be two available tracks for which schools can
 sign up:</p>
 <p></p>
@@ -31,6 +30,7 @@ sign up:</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Advocacy_module_and_Enrichment_Module.png">
 </div>
 <p></p>
+<hr>
 <hr>
 <p></p>
 <h3><strong>Advocacy Module</strong></h3>
@@ -80,7 +80,7 @@ Awards.</p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC_Timeline.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/sac_advocacy_timeline.png">
 </div>
 <p></p>
 <p>Schools interested in participating can register their interest here <strong>by 29 February</strong>:
@@ -104,5 +104,15 @@ schools upon verification of evidence submitted by 1 November 2024.</p>
 <p></p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC_Enrichment_Timeline.png">
+</div>
+<p></p>
+<p>Schools interested in participating can register their interest here <strong>by 29 February</strong>:
+<a href="https://go.gov.sg/sac2024-enrichment-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sac2024-enrichment-registration</a>
+</p>
+<hr>
+<p></p>
 <p></p>
 <p></p>
