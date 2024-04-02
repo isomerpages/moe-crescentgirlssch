@@ -27,4 +27,9 @@ to a sustainable Singapore.&nbsp;</p>
 <p>For SAC 2024, there will be two available tracks for which schools can
 sign up:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Advocacy_module_and_Enrichment_Module.png">
+</div>
+<hr>
+<p></p>
 <p></p>
