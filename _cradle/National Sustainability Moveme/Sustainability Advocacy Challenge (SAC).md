@@ -31,7 +31,6 @@ sign up:</p>
 </div>
 <p></p>
 <hr>
-<hr>
 <p></p>
 <h3><strong>Advocacy Module</strong></h3>
 <p>Participating schools can nominate a team of 3 to 5 students from Primary
