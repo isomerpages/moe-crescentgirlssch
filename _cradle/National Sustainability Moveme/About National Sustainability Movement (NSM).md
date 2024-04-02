@@ -6,8 +6,6 @@ third_nav_title: National Sustainability Moveme
 variant: tiptap
 ---
 <h3><strong>About National Sustainability Movement (NSM)</strong></h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSM_logo.png">
 </div>
@@ -21,7 +19,7 @@ SG.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/school_logo.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/school_logo.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -65,7 +63,7 @@ stakeholders:</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSG_3_segment.png">
 </div>
 <p></p>
-<p>Resources shared during the briefing and launch for NSM 2024: <strong><a href="https://for.edu.sg/nsm-2024-launch-briefing" rel="noopener noreferrer nofollow" target="_blank">Resources for NSM 2024</a> </strong>
+<p>Resources shared during the briefing and launch for NSM 2024: <strong><a href="https://for.edu.sg/nsm-2024-launch-briefing" rel="noopener noreferrer nofollow" target="_blank">Resources for NSM 2024</a></strong>
 </p>
 <p></p>
 <p>For more information, please send your queries via email to <strong><a rel="noopener noreferrer nofollow" target="_blank">nsm@crescent.edu.sg</a></strong>.</p>
