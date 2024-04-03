@@ -7,7 +7,7 @@ third_nav_title: National Sustainability Moveme
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Sustainability_Advocacy_Challenge.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Sustainability_Advocacy_Challenge.png">
 </div>
 <p></p>
 <p>In support of MOE’s continued efforts to promote Sustainable Living under
