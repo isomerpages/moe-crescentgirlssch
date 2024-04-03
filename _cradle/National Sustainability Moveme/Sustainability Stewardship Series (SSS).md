@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: National Sustainability Moveme
 ---
-<h3><strong>Sustainability Stewardship Series</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SSS_logo.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SSS_logo.png">
 </div>
 <p>Sustainability Stewardship Series (SSS) is a programme championed by Terra
 SG and supported by Asia Pacific Brewery Foundation (ABPF), an Institution
