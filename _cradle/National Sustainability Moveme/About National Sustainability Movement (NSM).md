@@ -5,7 +5,6 @@ description: ""
 third_nav_title: National Sustainability Moveme
 variant: tiptap
 ---
-<h3><strong>About National Sustainability Movement (NSM)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSM_logo.png">
 </div>
