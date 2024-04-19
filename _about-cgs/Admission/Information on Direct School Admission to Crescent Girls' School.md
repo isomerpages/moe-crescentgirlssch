@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Admission
 variant: tiptap
 ---
+<h4><strong>Information on Direct School Admission to Crescent Girls' School</strong></h4>
 <p>We welcome Primary 6 students with talent in the areas of music studies,
 performing arts, sports and leadership to apply to our school under the
 Direct School Admission (DSA) Exercise.&nbsp; Parents and students are
 encouraged to choose schools wisely based on the student’s aptitudes and
 strengths, bearing in mind the schools’ academic and non-academic requirements
 and the programmes available to develop the area of talent.</p>
+<p></p>
 <h4><strong><u>DSA(Sec) Exercise 2024</u></strong></h4>
 <p><strong>Talent in the respective areas:</strong>
 </p>
