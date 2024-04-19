@@ -44,5 +44,5 @@ or Choir) throughout their 4 years.</p>
 from early May.&nbsp; For more information on DSA-Sec, please refer to
 the MOE website at <strong><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>.</p>
 <p></p>
-<p>For further enquiries, you may also contact the school at 6475 8711 or
-email cgs_dsa@crescent.edu.sg.</p>
+<p>For further enquiries, you may also contact the school at <strong>6475 8711</strong> or
+email <strong>cgs_dsa@crescent.edu.sg</strong>.</p>
