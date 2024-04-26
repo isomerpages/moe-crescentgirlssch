@@ -2,6 +2,7 @@ collections:
   about-cgs:
     output: true
     order:
+      - Canteen/School Canteen Advertisement.md
       - Canteen/.keep
       - Principal's Foreword.md
       - Mission, Vision & Values.md
