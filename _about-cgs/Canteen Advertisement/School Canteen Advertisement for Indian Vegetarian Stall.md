@@ -47,13 +47,13 @@ third_nav_title: Canteen Advertisement
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">* [Application Form]</a> 
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[AK(1]</a>&nbsp;</p>
-<p>&nbsp;</p>
-<p>2. Attached the following documents together with the application form:</p>
+<p><strong><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></strong>
+</p>
+<p>&nbsp;2. Attached the following documents together with the application
+form:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Photocopy of the NRIC (front and back)</p>
+<p>Photocopy of the NRIC (<em>front and back</em>)</p>
 </li>
 <li>
 <p>List of proposed menu and pricing for all items</p>
@@ -63,17 +63,15 @@ a hardcopy from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>3. Submit the completed application form and documents by closing date
-via email OR to the School's General Office.</p>
-<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;3. Submit the completed application form and documents by closing
+date via email OR to the School's General Office.</p>
 <p>Address: 357 Tanglin Road S247961</p>
 <p>Contact No: 6475 8711</p>
 <p>Email: <a href="mailto:crescentgirl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crescentgirl@moe.edu.sg</a>
 </p>
 <p>Contact Person: Ms Tay PH or Ms Phylis Chee</p>
-<p>&nbsp;</p>
-<p><strong>How to get there?</strong>
+<p>&nbsp;<strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -83,8 +81,8 @@ via email OR to the School's General Office.</p>
 <p>Bus number: 32, 111, 122, 132 - 3 minutes walking distance</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Interest applicants must meet the following criteria:</strong>
+<p></p>
+<p>&nbsp;<strong>Interest applicants must meet the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -98,7 +96,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines (<strong>see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>).</p>
+Programme (HMSP)" guidelines <strong>(see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>)</strong>.</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
@@ -107,7 +105,6 @@ Programme (HMSP)" guidelines (<strong>see <a href="https://www.hpb.gov.sg/school
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -124,7 +121,6 @@ Singapore Food Agency (SFA).</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+<p><strong><em>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em></strong>
 </p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[AK(1]</a>Insert attachment here</p>
+<p></p>
