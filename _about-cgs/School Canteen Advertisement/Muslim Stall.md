@@ -25,7 +25,7 @@ third_nav_title: School Canteen Advertisement
 <p>Muslim Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 May 2024</p>
+<p>31 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice and/or noodle stall is acceptable.</p>
