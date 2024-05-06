@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Admission
 variant: tiptap
 ---
+<h4><strong>Information on Direct School Admission to Crescent Girls' School</strong></h4>
+<p></p>
 <p>We welcome Primary 6 students with talent in the areas of music studies,
 performing arts, sports and leadership to apply to our school under the
 Direct School Admission (DSA) Exercise.&nbsp; Parents and students are
@@ -118,6 +120,27 @@ Band or Choir) throughout their 4 years.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><u>Instructions for Application</u></strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;
@@ -143,6 +166,6 @@ the date of the relevant selection test or interview.&nbsp; Selection tests
 will be held from 15 Jul to 8 Aug 2024.&nbsp; All applicants will be informed
 of the outcome of their application by 9 Sep 2024.</p>
 <p></p>
-<p>For further enquiries, you may also contact the school at 6475 8711 or
+<p>For further enquiries, you may also contact the school at <strong>6475 8711</strong> or
 email <strong><a rel="noopener noreferrer nofollow" target="_blank">cgs_dsa@crescent.edu.sg</a></strong>.&nbsp;</p>
 <p>&nbsp;</p>
