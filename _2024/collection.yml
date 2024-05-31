@@ -2,6 +2,7 @@ collections:
   "2024":
     output: true
     order:
+      - May/Art Exhibition @ CGS.md
       - May/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
