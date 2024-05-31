@@ -2,8 +2,6 @@ collections:
   "2024":
     output: true
     order:
-      - May/Art Exhibition @ CGS.md
-      - May/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/Dedication Ceremony 2024.md
@@ -15,3 +13,5 @@ collections:
       - March/.keep
       - March/Secondary 2 Special Week.md
       - March/Cross Country @ Bedok Reservoir.md
+      - May/.keep
+      - May/Art Exhibition @ CGS.md
