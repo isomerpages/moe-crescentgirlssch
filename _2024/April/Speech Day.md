@@ -24,8 +24,7 @@ in the past year. It fosters a sense of community and pride, inspiring
 students to continue striving for excellence and upholding the values of
 Crescent.
 <br>
-<br>
-<br><em>Written by Vera Ann Chee (3S7)</em>
+<br><strong><em>Written by Vera Ann Chee (3S7)</em></strong>
 </p>
 <p></p>
 <hr>
