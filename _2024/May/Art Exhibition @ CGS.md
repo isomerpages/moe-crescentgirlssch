@@ -26,7 +26,8 @@ them to try and experiment with during their Art lessons.</p>
 the artworks onto the whiteboards and arranging the sculptures gained new
 perspectives and greater appreciation for the subject and felt it was truly
 a great way to expose them to the world of Art.</p>
-<p><strong>Written by Yew Yores (2G2)</strong>
+<p></p>
+<p><strong><em>Written by Yew Yores (2G2)</em></strong>
 </p>
 <hr>
 <h4>Photos</h4>
