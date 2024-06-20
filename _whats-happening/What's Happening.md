@@ -9,7 +9,7 @@ variant: markdown
 
 #### **2024**
 
-Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2024/march/cross-country-bedok-reservoir/)** to find out more!
+Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2024/may/art-exhibition-cgs/)** to find out more!
 
 
 #### **2023**
