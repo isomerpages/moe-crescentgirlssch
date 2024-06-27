@@ -7,7 +7,12 @@ third_nav_title: School Canteen Advertisement
 ---
 <h4><strong>School Canteen Advertisement - Muslim Stall</strong></h4>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,7 +30,7 @@ third_nav_title: School Canteen Advertisement
 <p>Muslim Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024</p>
+<p>19 July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice and/or noodle stall is acceptable.</p>
