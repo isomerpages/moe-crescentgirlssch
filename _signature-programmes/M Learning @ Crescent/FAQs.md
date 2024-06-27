@@ -3,6 +3,7 @@ title: FAQs
 permalink: /our-holistic-curriculum/signature-programmes/faq/
 description: ""
 third_nav_title: M Learning @ Crescent
+variant: markdown
 ---
 ### **FAQs**
 ##### **1\. Does the insurance cover the accessories for e.g. the Apple Pencil and Logitech Ruggerdised Combo 3)?**
@@ -16,9 +17,9 @@ No, Edusave can only be used for the purchase of MOE iPad Bundle, Option 1.
 Edusave is used for a wide variety of purposes e.g. enrichment, overseas trips. The amount can be used for other purposes and can be rolled over to subsequent years if not fully utilised.
 
 ##### **4\. Any support for financially needy students?**
-Financial support is available for students on Financial Assistance Scheme. Students who need financial assistance can apply by 7 January 2022. Form may be obtained from General Office.
+Financial support is available for students on Financial Assistance Scheme. Students who need financial assistance can apply by Week 1 of the school year. Form may also be obtained from the school General Office.
 
-More information can be found here: **[https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/fas/](https://staging.d38imrvfgjjnoy.amplifyapp.com/about-cgs/fas/)**
+More information can be found here: &nbsp;**https://www.crescent.edu.sg/about-cgs/fas/**
 
 ##### **5\. I have a Windows touch-screen enabled device. Can my daughter use it?**
 No, only iPads can be enrolled into MOE DMA for Crescent Girls’ School.
@@ -33,7 +34,7 @@ We strongly recommend that the iPad not be used as an entertainment or lifestyle
 No. DMA is compulsory for all students who bring their device to school as a Personal Learning Device (PLD).
 
 ##### **9\. How do I seek help if my daughter is facing technical difficulties on her device / her device is not working properly?**
-Please advise your daughter to log a case using the school Case Logging System **([https://go.gov.sg/cgscaselogging](https://go.gov.sg/cgscaselogging))**. Our school Technical Assistant (TA) will contact your daughter and assist her accordingly.
+Please advise your daughter to log a case using the school Case Logging System **([https://for.edu.sg/cgscaselogging](https://for.edu.sg/cgscaselogging))**. Our school Technical Assistant (TA) will contact your daughter and assist her accordingly.
 
 ##### **10\. What if my child lost her device?**
-Please make a police report immediately and inform the school about it using the school Case Logging System **([https://go.gov.sg/cgscaselogging](https://go.gov.sg/cgscaselogging))**. We will advise accordingly.
+Please make a police report immediately and inform the school about it using the school Case Logging System **([https://for.edu.sg/cgscaselogging](https://for.edu.sg/cgscaselogging))**. We will advise accordingly.
