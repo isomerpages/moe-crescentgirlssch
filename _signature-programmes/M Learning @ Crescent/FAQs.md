@@ -19,7 +19,7 @@ Edusave is used for a wide variety of purposes e.g. enrichment, overseas trips. 
 ##### **4\. Any support for financially needy students?**
 Financial support is available for students on Financial Assistance Scheme. Students who need financial assistance can apply by Week 1 of the school year. Form may also be obtained from the school General Office.
 
-More information can be found here: &nbsp;**https://www.crescent.edu.sg/about-cgs/fas/**
+More information can be found here: &nbsp;**https://www.crescent.edu.sg/about-cgs/fas/** 
 
 ##### **5\. I have a Windows touch-screen enabled device. Can my daughter use it?**
 No, only iPads can be enrolled into MOE DMA for Crescent Girls’ School.
