@@ -23,7 +23,8 @@ to subsequent years if not fully utilised.</p>
 Students who need financial assistance can apply by Week 1 of the school
 year. Form may also be obtained from the school General Office.</p>
 <p>More information can be found here:</p>
-<p>&nbsp;https://www.crescent.edu.sg/about-cgs/fas/</p>
+<p>&nbsp;<a href="https://www.crescent.edu.sg/about-cgs/fas/" rel="noopener noreferrer nofollow" target="_blank">https://www.crescent.edu.sg/about-cgs/fas/</a> 
+</p>
 <h5><strong>5. I have a Windows touch-screen enabled device. Can my daughter use it?</strong></h5>
 <p>No, only iPads can be enrolled into MOE DMA for Crescent Girls’ School.</p>
 <h5><strong>6. I have a MacBook. Can my daughter use it instead?</strong></h5>
