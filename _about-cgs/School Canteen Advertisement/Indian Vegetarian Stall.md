@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: School Canteen Advertisement
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ third_nav_title: School Canteen Advertisement
 <p>Indian Vegetarian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024</p>
+<p>19 July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice and/or noodle stall is acceptable</p>
