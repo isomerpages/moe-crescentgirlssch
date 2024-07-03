@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 <h3><strong>Creative Arts Department</strong></h3>
-<h4><strong>Mission </strong></h4>
+<h4><strong>Mission</strong></h4>
 <p>To enrich the lives of individual students and the school community by
 fostering appreciation and participation in the fine and performing arts,
 as well as culinary and craft cultures, through learning, discovery, and
