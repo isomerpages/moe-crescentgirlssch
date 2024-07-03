@@ -32,14 +32,18 @@ ready to manage their daughter’s use of device on their own. There are
 also Option A and B for parents who would prefer other settings&nbsp;<strong>after school hours</strong>.</p>
 <p>The diagram below shows the summary of DMA settings during school hours
 and after-school hours.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/dma1.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Signature Programme/M@Learning/infographic_on_the_pld_option.jpg">
 </div>
+<p></p>
 <p><em>*School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by CGS is from 6am – 3pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/dma2.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Signature Programme/M@Learning/DMA_options.jpg">
 </div>
+<p></p>
 <p>Parents may request to change their choice of DMA settings via the form:&nbsp;<strong><a href="http://www.go.gov.sg/cgsdmaoptions" rel="noopener noreferrer nofollow" target="_blank">http://www.go.gov.sg/cgsdmaoptions</a></strong>.
 Parents should consider their daughter’s current device usage habits (time
 spent, self-regulation and self-discipline) and parental involvement (awareness
