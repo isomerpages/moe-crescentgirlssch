@@ -23,6 +23,11 @@ had a less diverse past, culturally, to our more inclusive community today.
 One good example is reflected in the variety of cultural foods sold in
 school to accommodate diverse dietary needs, as well as offering us opportunities
 to explore different cuisines.&nbsp;</p>
-<p></p>
 <p><strong><em>Reported by Ashlynn Tan (3C3)&nbsp;</em></strong>
 </p>
+<hr>
+<h4><strong><em>Photo</em></strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTN4lIVQwsfC34q_Q-J7f-jVwX4juLFEfYrJM2o1x29f4X0lluu3uxYMf0q-RBu0VkHrDASGWPq4hhp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
