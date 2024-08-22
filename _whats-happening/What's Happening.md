@@ -9,7 +9,7 @@ variant: markdown
 
 #### **2024**
 
-Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2024/july/love-chinese-inspire-life/)** to find out more!
+Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2024/july/student-leaders-investiture/)** to find out more!
 
 
 #### **2023**
