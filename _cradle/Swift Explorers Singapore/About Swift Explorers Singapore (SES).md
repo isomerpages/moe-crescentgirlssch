@@ -18,7 +18,7 @@ are proud to organise Swift Explorers Singapore (SES) 2024!</p>
 </p>
 <p>SES 2024 is a programme designed to empower students and teachers in the
 field of app development. SES 2024 is organised using resources from Apple,
-with training supported by Tinkercademy, an Apply Professional Learning
+with training supported by Tinkercademy, an Apple Professional Learning
 Provider.</p>
 <p>Through this programme, students will learn how to design an app connected
 to a topic they care about. Students will hone computational thinking and
