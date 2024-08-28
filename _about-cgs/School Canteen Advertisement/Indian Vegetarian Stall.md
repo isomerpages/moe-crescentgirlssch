@@ -75,7 +75,7 @@ date via email OR to the School's General Office.</p>
 <p>Contact No: 6475 8711</p>
 <p>Email: <a href="mailto:crescentgirl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crescentgirl@moe.edu.sg</a>
 </p>
-<p>Contact Person: Ms Tay PH or Ms Phylis Chee</p>
+<p>Contact Person: Ms Tay PH or Ms Ho SL</p>
 <p>&nbsp;<strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
