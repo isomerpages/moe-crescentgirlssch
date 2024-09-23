@@ -1,6 +1,6 @@
 ---
 title: Speech Day
-permalink: /speech-day/
+permalink: /whats-happening/2024/april/speech-day/
 variant: tiptap
 description: ""
 third_nav_title: April
