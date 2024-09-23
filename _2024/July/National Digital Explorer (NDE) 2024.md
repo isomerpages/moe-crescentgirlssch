@@ -27,9 +27,11 @@ also applicable to everyday tasks. The journey through NDE has been both
 educational and exhilarating, equipping me with valuable tools to support
 my future endeavours.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Result_of_NDE_2024.jpg">
+</div>
 <p></p>
-<p></p>
-<p><strong>Writen by Shristi Saha (1C2)</strong>
+<p><strong><em>Written by Shristi Saha (1C2)</em></strong>
 </p>
 <hr>
 <h4>Photos</h4>
