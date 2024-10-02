@@ -50,15 +50,12 @@ learning, CrADLe has organised several conferences since 2011.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DALC 2023 (<strong><a href="/files/DALC%202020%20Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme</a></strong>)</p>
+<p>DALC 2023 (<strong><a href="/files/DALC%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme</a></strong>)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4>Upcoming Conference</h4>
-<p><strong><a href="/files/DALC%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">DALC 2023</a></strong>
-</p>
 <p></p>
 <p></p>
 <hr>
