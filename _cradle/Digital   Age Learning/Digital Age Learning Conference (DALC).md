@@ -9,7 +9,10 @@ variant: tiptap
 <p>To share Crescent’s journey in the use of educational technology for engaged
 learning, CrADLe has organised several conferences since 2011.</p>
 <h4>Past Conference</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,6 +46,11 @@ learning, CrADLe has organised several conferences since 2011.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>DALC 2020 (<strong><a href="/files/DALC%202020%20Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme</a></strong> | <strong><a href="/files/DALC%202020%20Presentation.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentations</a></strong>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DALC 2023 (<strong><a href="/files/DALC%202020%20Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme</a></strong>)</p>
 </td>
 </tr>
 </tbody>
