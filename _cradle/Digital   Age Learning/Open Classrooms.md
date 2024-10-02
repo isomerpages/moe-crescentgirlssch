@@ -3,6 +3,7 @@ title: Open Classrooms
 permalink: /cradle/crescent-academy-for-digital-age-learning/open-classrooms/
 description: ""
 third_nav_title: Digital   Age Learning
+variant: markdown
 ---
 ### **Open Classrooms**
 
@@ -14,9 +15,11 @@ As a form of professional learning for teachers, Crescent has invited teachers t
 
 **2019**: Mixed Reality \| eLearning
 
+**2022 - 2024**: [Padlet for OCs](https://crescentgirls.padlet.org/jerene_sim/cgs-cradle-open-classrooms-14cgbepyf22ocfoe)
+
 
 #### Photos ####
-<img src="/images/oc1.jpg" style="width:49%" align=left>
+<img src="/images/oc1.jpg" style="width:49%" align="left">
 <img src="/images/oc2.jpg" style="width:35%">
 
 <br clear="left">
