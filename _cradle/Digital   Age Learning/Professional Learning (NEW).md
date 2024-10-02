@@ -3,9 +3,10 @@ title: Professional Learning (NEW)
 permalink: /cradle/crescent-academy-for-digital-age-learning/professional-learning/
 description: ""
 third_nav_title: Digital   Age Learning
+variant: markdown
 ---
-### **Professional Learning (NEW)**
-**Professional Learning (NEW)<br>
+### **Professional Learning **
+**Professional Learning <br>
 2020**
 
 COVID-19 saw the need for us to accelerate the National Digital Literacy Programme (NDLP) and all secondary schools will embark on the Personalised Digital Learning Programme (PDLP) from 2021. Equipping each secondary school student with a personal learning device (PLD) necessitates a whole-school approach to re-inventing teaching and learning. No less important a decision to make is the choice of the e-learning platform for shaping our students’ PDLP experience.
