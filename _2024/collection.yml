@@ -2,8 +2,6 @@ collections:
   "2024":
     output: true
     order:
-      - August/Swift Explorer Singapore (SES) 2024.md
-      - August/.keep
       - January/.keep
       - January/Secondary One Orientation Campfire.md
       - January/Dedication Ceremony 2024.md
@@ -25,5 +23,7 @@ collections:
       - July/Student Leaders' Investiture.md
       - July/National Digital Explorer (NDE) 2024.md
       - July/Minecraft Edventure Quest (MEQ) 2024.md
-      - September/Champion Seminar.md
+      - August/.keep
+      - August/Swift Explorer Singapore (SES) 2024.md
       - September/.keep
+      - September/Champion Seminar.md
