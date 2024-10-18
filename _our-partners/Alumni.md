@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Partner/Alumni/Alumni_2024.jpg">
 </div>
-<p></p>
 <p><strong>First row from left to right:</strong>
 </p>
 <p>Ms Low Wai Mun (Honorary Treasurer), Ms Quek Ser Choon (Vice-President),
