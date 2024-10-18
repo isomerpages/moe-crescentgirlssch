@@ -114,6 +114,6 @@ Crescent.” <strong><em>Charlotte Filia Nugraha&nbsp;(1G1)&nbsp;&nbsp;on being 
 </p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkfuJjxvl8sMD27BaeLsRkIowgBSEev8H3V9W1EVQDH68i4hRaB2nDA188kDQeSQQvbETIj8PUtk_O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="466" width="736" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkfuJjxvl8sMD27BaeLsRkIowgBSEev8H3V9W1EVQDH68i4hRaB2nDA188kDQeSQQvbETIj8PUtk_O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
