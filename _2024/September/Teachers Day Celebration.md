@@ -40,7 +40,7 @@ Happy Teachers' Day!&nbsp;</p>
 <hr>
 <h4><strong>Photo</strong><br></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZxrXfmOYnji9of-MAyc28t8euI_k9XNwTTkpCaWKI2n4OLHvHgi6m3lPTAOebwHuCMoq3EmilP3AQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZxrXfmOYnji9of-MAyc28t8euI_k9XNwTTkpCaWKI2n4OLHvHgi6m3lPTAOebwHuCMoq3EmilP3AQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><br></h4>
 <p></p>
