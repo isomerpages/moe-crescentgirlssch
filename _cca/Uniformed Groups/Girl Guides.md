@@ -59,7 +59,7 @@ or challenge by being observant and vigilant at all times.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Wan A</p>
+<p>Ms Wan Azrina</p>
 </li>
 </ul>
 <p><strong>OTHER TEACHER I/Cs:</strong>
