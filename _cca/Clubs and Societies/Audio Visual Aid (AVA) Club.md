@@ -30,7 +30,6 @@ Apart from providing audio visual aid, AVA members attend CCA training twice wee
   
 **Other Teacher I/Cs:**  
 * Ms Zhang Hong
-* Ms Sambandam Mohan
 
 
 
