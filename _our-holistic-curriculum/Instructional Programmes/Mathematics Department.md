@@ -3,55 +3,75 @@ title: Mathematics Department
 permalink: /our-holistic-curriculum/instructional-programmes/mathematics-dept/
 description: ""
 third_nav_title: Instructional Programmes
-variant: markdown
+variant: tiptap
 ---
-### **Mathematics Department**
-#### **Vision**
-To be a value-added department, nurturing young minds to be creative and confident problem solvers.
-
-#### **Curriculum**
-The Mathematics syllabus aims to develop students to:
-*   acquire mathematical concepts and skills for continuous learning and to support learning in other subjects;
-*   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving;
-*   connect ideas within mathematics and with other subjects;
-*   build confidence and foster interest in mathematics.
-
-#### **Special Programmes**
-Smart Money Workshop is a financial literacy programme organized for our Secondary one students. Through the series of fun-filled activities, the students learn about the importance of financial planning and how they can make smart money choices in authentic settings.
-
-<figure>
-<img src="/images/math.jpg" style="width:75%">
-<figcaption>  Our Secondary One students enjoying the activities in Smart Money Workshop
- </figcaption>
-</figure>
-
-**Secondary 3 Integrated Curriculum**<br>
-The Secondary 3 Integrated Curriculum is a distinctive school programme that integrates English, Social Studies and Mathematics. Through the lessons, the students delve into contemporary social issues that include ageing population, healthcare, transport and the integration of foreigners in the society. The Mathematics component focuses on the application of statistical representations and computations as students process and analyse data in the real-world contexts. The students will also learn to exercise discernment as they interpret statistical diagrams from print and social media.
-
-**Secondary 1 to 3 Training Programme for Singapore Mathematical Olympiad**<br>
-Secondary one to three students who demonstrate strong passion and talent in Mathematics will be invited to take part in the training programme for Singapore Mathematical Olympiad. These students undergo a series of rigourous training as they develop and deepen their creativity and problem-solving ability.
-
-#### **Achievements**
-##### **2023**
-**Australian Mathematics Competition 2023**<br>
-2 High Distinction, 29 Distinctions, 84 Credits<br>
-
-**Singapore Mathematical Olympiad (SMO) 2023:**<br>
-Junior Division - 3 Honourable Mentions<br>
-Senior Division - 2 Silvers, 3 Honourable Mentions<br>
-
-**Singapore Mathematical Olympiad (SMO) 2023 School Award**<br>
-Commendation (Cat 1)<br>
-
-**Singapore International Math Olympiad Challenge (SIMOC) 2023**
-Mind Warriors (Upper Division) - 1 Gold, 2 Silvers<br>
-Mind Sports (Uppder Division) - 1 Silver, 1 Bronze<br>
-Math Olympiad - 2 Bronzes, 1 Honourable Mention<br>
-
-**Singapore and Asian Schools Math Olympiad (SASMO) 2023**<br>
-3 Golds, 14 Silvers, 30 Bronzes<br>
-6 Honourable Mentions<br>
-
-**Singapore Math Kangaroo Contest 2023**<br>
-11 Golds, 36 Silvers, 36 Bronzes<br>
-13 Honourable Mentions<br>
+<h3><strong>Mathematics Department</strong></h3>
+<h4><strong>Vision</strong></h4>
+<p>To be a value-added department, nurturing young minds to be creative and
+confident problem solvers.</p>
+<h4><strong>Curriculum</strong></h4>
+<p>The Mathematics syllabus aims to develop students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>acquire mathematical concepts and skills for continuous learning and to
+support learning in other subjects;</p>
+</li>
+<li>
+<p>develop thinking, reasoning, communication, application and metacognitive
+skills through a mathematical approach to problem-solving;</p>
+</li>
+<li>
+<p>connect ideas within mathematics and with other subjects;</p>
+</li>
+<li>
+<p>build confidence and foster interest in mathematics.</p>
+</li>
+</ul>
+<h4><strong>Special Programmes</strong></h4>
+<p>Smart Money Workshop is a financial literacy programme organized for our
+Secondary one students. Through the series of fun-filled activities, the
+students learn about the importance of financial planning and how they
+can make smart money choices in authentic settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/math.jpg">
+</div>
+<p>Our Secondary One students enjoying the activities in Smart Money Workshop</p>
+<p><strong>Secondary 1 to 3 Training Programme for Singapore Mathematical Olympiad</strong>
+<br>Secondary one to three students who demonstrate strong passion and talent
+in Mathematics will be invited to take part in the training programme for
+Singapore Mathematical Olympiad. These students undergo a series of rigourous
+training as they develop and deepen their creativity and problem-solving
+ability.</p>
+<p></p>
+<hr>
+<h4><strong>Achievements for 2024</strong></h4>
+<p><strong>Australian Mathematics Competition 2024</strong>
+<br>1 High Distinction, 24 Distinctions, 70 Credits
+<br>
+</p>
+<p><strong>Singapore Mathematical Olympiad (SMO) 2024:</strong>
+<br>Junior Division - 3 Bronze, 8 Honourable Mentions
+<br>Senior Division - 1 Silvers, 1 Bronze, 8 Honourable Mentions
+<br>
+</p>
+<p><strong>Singapore Mathematical Olympiad (SMO) 2024 School Award (Cat 1)</strong>
+<br>Commendation
+<br>
+</p>
+<p><strong>Singapore and Asian Schools Math Olympiad (SASMO) 2024</strong>
+<br>4 Golds, 5 Silvers, 19 Bronzes
+<br>13 Honourable Mentions
+<br>
+</p>
+<p><strong>Singapore Math Kangaroo Contest 2024</strong>
+<br>15 Golds, 24 Silvers, 43 Bronzes
+<br>16 Honourable Mentions</p>
+<p></p>
+<p><strong>Singapore Mathematics Project Festival 2024</strong>
+<br><strong>(Title: Analyzing COE Premium determinants: A Mathematical Modelling approach and its applications)</strong>
+<br>Honourable Mentions
+<br>
+</p>
+<p>
+<br>
+</p>
