@@ -72,6 +72,8 @@ or challenge by being observant and vigilant at all times.</p>
 <p>Ms Ting Hui Yi</p>
 </li>
 </ul>
+<hr>
+<p></p>
 <h3><strong>Blurbs</strong></h3>
 <p>Outdoor cooking is a fun experience that I look forward to in Girl Guides.
 We learn important skills such as how to start a fire and how to cook basic
@@ -107,6 +109,8 @@ and how I look. Hence, through these workshops, I have learned more about
 myself and issues in society, gaining more knowledge through Girl Guides
 – <strong>P Haritha Sree (4G3), Assistant Company Leader of Girl Guides Company 2 2023/2024, on her experience in girl guides after 3 years.</strong>
 </p>
+<hr>
+<p></p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLHlN6H7nbCa8Vdh8tJYuyR90QdXUzrFRM5FjmVvAOk-V5HACEe7mZwcpGBhELm_cpJqbGG5_Jlpgp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
