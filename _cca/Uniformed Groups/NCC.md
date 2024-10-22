@@ -151,9 +151,7 @@ such as attending NCC HQ camps, courses, and competitions. Overall, NCC
 transcends the definition of a regular CCA, and instead becomes a passion
 that truly burns in me! <strong><em>– Staff Sergeant Ashlynn Tan, Assistant Unit Sergeant Major’24/25, Charlie’24, Cadet Leader of NCC 2024</em></strong>
 </p>
-<p></p>
 <hr>
-<p></p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvphS9iHuR4arU2FstxKIpZ_q0vB2jufcBo5tpdY_S-FBYdxC6lQBiO_WDQZu_uOhTnkDILOU8bwL-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
