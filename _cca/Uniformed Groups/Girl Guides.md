@@ -62,17 +62,17 @@ or challenge by being observant and vigilant at all times.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tay Jiegi Isabella</p>
+<p>Ms Wan Azrina</p>
 </li>
 </ul>
 <p><strong>OTHER TEACHER I/Cs:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tai Wa Peng</p>
+<p>Ms Lim Yin Xia</p>
 </li>
 <li>
-<p>Mr Rais Ismail</p>
+<p>Ms Ting Hui Yi</p>
 </li>
 </ul>
 <hr>
