@@ -42,7 +42,6 @@ in Mathematics will be invited to take part in the training programme for
 Singapore Mathematical Olympiad. These students undergo a series of rigourous
 training as they develop and deepen their creativity and problem-solving
 ability.</p>
-<p></p>
 <hr>
 <h4><strong>Achievements for 2024</strong></h4>
 <p><strong>Australian Mathematics Competition 2024</strong>
@@ -72,6 +71,7 @@ ability.</p>
 <br>Honourable Mentions
 <br>
 </p>
+<hr>
 <p>
 <br>
 </p>
