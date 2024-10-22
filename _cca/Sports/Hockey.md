@@ -137,6 +137,6 @@ and friendships that Crescent Hockey has brought into my life. <strong>- Anisah 
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRccAkUiWxaeDK-HKgRhK8Si1a-HOCsHNqxsV4rjRPEPdYguYY5Tqoxe20GyJtpuGKCDgQHRWLZPTQ1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShgrxkDhcxhlGyBSaVTArdwWDqbbCLW4ec0BhVC_vzEAmmkQA3RGIw8ZLSxvOoBuWBV7dTI9ya5PeO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
