@@ -85,7 +85,6 @@ a part of DAPC and look forward to every moment spent drawing or taking
 photos.”<strong><em>-Miraya Jolly (1G2)</em></strong>
 </p>
 <hr>
-<p></p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="439" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkJRNua6blfsb3VYqLGSNGS8qINeVR4RA2asmaeEeyNC9XPb512vwucuSeD6z84jH_Z-DKwB7cfaBV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
