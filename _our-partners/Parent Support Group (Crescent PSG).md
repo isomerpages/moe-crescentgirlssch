@@ -42,6 +42,11 @@ experience.</p>
 </p>
 <hr>
 <h4><strong>2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Partner/Parent Support Group/psg exco 2024.jpg">
+</div>
+<p></p>
 <p><strong>PSG MEMBERS</strong>
 </p>
 <table style="minWidth: 75px">
@@ -51,6 +56,17 @@ experience.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Adel Yip</p>
