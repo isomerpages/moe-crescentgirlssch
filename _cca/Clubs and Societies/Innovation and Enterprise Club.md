@@ -45,8 +45,7 @@ communication skills in pitching their ideas and prototypes to judges,
 industry experts and peers, the I&amp;E Club members have learned to be
 flexible and confident aspiring entrepreneurs with a spirit of giving back
 to the community.</p>
-<p><strong>EVENTS I COMPETITIONS</strong>
-</p>
+<h4><strong>EVENTS | COMPETITIONS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>New Members Welcome Event</p>
@@ -76,8 +75,7 @@ to the community.</p>
 <p>Sustainability Advocacy Challenge</p>
 </li>
 </ul>
-<p><strong>Teachers-In-charge:</strong>
-</p>
+<h4><strong>Teachers-In-charge:</strong></h4>
 <p><strong>OIC:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -97,14 +95,13 @@ my ability to work in a team and have learnt to empathise with people in
 our society. Through working in different projects, I have learnt crucial
 21st century competencies like being an active contributor and a self-directed
 learner. I am honoured to have the position of CEO as our CCA is full of
-amicable and good-hearted people.”
-<br>— <strong><em>Dhruvi Verma of 4S2 (2024)&nbsp;–on what she has gained from I&amp;E Club</em></strong>
+amicable and good-hearted people.” - <strong><em>Dhruvi Verma of 4S2 (2024)&nbsp;–on what she has gained from I&amp;E Club</em></strong>
 </p>
 <p>“I was really excited to join I&amp;E ever since the start. &nbsp;I was
 pleasantly surprised at how welcoming and nurturing the CCA was. From sec
 1, I have learnt a lot of real-life skills that involve communication and
 real-world problem solving. I’m truly grateful for how this CCA has shaped
-me and am looking to apply what i have learnt in the future!”&nbsp;<strong><em>-Aloysius Rhea of 4S1 (2024) on what she has learnt from I&amp;E Club</em></strong>
+me and am looking to apply what i have learnt in the future!”&nbsp;<strong><em>- Aloysius Rhea of 4S1 (2024) on what she has learnt from I&amp;E Club</em></strong>
 </p>
 <p>“Being a Human Resource manager has given me many opportunities to step
 out of my comfort zone to interact with and guide people through vastly
@@ -115,19 +112,18 @@ along with colleagues under different circumstances and coming up with
 solutions to problem pains through establishing good teamwork and helping
 one another out. I have helped out many of my juniors and learnt from my
 seniors to the best of my abilities. Remembering the sheer passion and
-close-knit bonds fostered, I will never forget being in this CCA.” <strong><em>-Xue Aili Crystal of 4G1 (2023) on how I&amp;E Club has contributed to her holistic development</em></strong>
+close-knit bonds fostered, I will never forget being in this CCA.” <strong><em>- Xue Aili Crystal of 4G1 (2023) on how I&amp;E Club has contributed to her holistic development</em></strong>
 </p>
 <p>Being the Marketing and Communications director of Innovation and Enterprise
 club has provided me with ample opportunities to learn about finance management
 and more about the business industry. I&amp;E has helped me to become more
 creative and conceptualise ideas better. I’m glad to have been given the
-opportunity to lead the CCA and acquire these skills beneficial to my growth.
-<br><strong><em>⁃ Chai Sheenyee of 4S1 (2023) on how I&amp;E Club has developed her as a student leader</em></strong>
+opportunity to lead the CCA and acquire these skills beneficial to my growth. <strong><em>- Chai Sheenyee of 4S1 (2023) on how I&amp;E Club has developed her as a student leader</em></strong>
 </p>
 <p>“As a member and CEO of I&amp;E, I have gained a great deal of knowledge
 regarding finance, business management, and product development. Over the
 years, the CCA has helped me grow into a more confident and capable person,
-and I'm glad to have been a part of it!”&nbsp;<strong><em>– Nuhaa Afaf Aman&nbsp;of 4S2 (2023) on what she has learned from being involved in the CCA</em></strong>
+and I'm glad to have been a part of it!”&nbsp;<strong><em>- Nuhaa Afaf Aman&nbsp;of 4S2 (2023) on what she has learned from being involved in the CCA</em></strong>
 </p>
 <p>“Being a part of Innovation and Enterprise Club has taught me a lot of
 valuable skills which are most definitely useful in the future such as
@@ -139,7 +135,7 @@ will never forget. Being part of the EXCO also gave me a chance to give
 back to the CCA that has taught me so much and provided me with countless
 opportunities.&nbsp;&nbsp;CCA definitely has been one of the best parts
 of my secondary school life, I made so many friends here who I know I can
-always rely on for any help. I&amp;E is not just a CCA; it's a family. <strong><em>– Lanka Lakshmi Kaivalya of 4C2 (2023) on how she has benefited from her CCA involvement</em></strong>
+always rely on for any help. I&amp;E is not just a CCA; it's a family. <strong><em>- Lanka Lakshmi Kaivalya of 4C2 (2023) on how she has benefited from her CCA involvement</em></strong>
 </p>
 <p><strong><em>&nbsp;</em></strong>
 </p>
