@@ -609,10 +609,10 @@ experience.</p>
 </table>
 <hr>
 <h4><strong>2022</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202022.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Partner/Parent Support Group/PSG_2022.jpg">
+</div>
 <p><strong>PSG MEMBERS</strong>
 </p>
 <table style="minWidth: 75px">
