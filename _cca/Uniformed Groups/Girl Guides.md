@@ -45,13 +45,16 @@ or challenge by being observant and vigilant at all times.</p>
 <p>Sec 1 Orientation Campfire</p>
 </li>
 <li>
-<p>World Thinking Day</p>
+<p>Enrolment Ceremony cum Recognition Day</p>
 </li>
 <li>
-<p>South Division Day</p>
+<p>First Aid Competition</p>
 </li>
 <li>
-<p>Annual Guides Camp</p>
+<p>Unit Leaders Program</p>
+</li>
+<li>
+<p>Red Cross Youth Challange</p>
 </li>
 </ul>
 <h4><strong>TEACHERS-IN-CHARGE:</strong></h4>
@@ -59,21 +62,20 @@ or challenge by being observant and vigilant at all times.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Wan Azrina</p>
+<p>Ms Tay Jiegi Isabella</p>
 </li>
 </ul>
 <p><strong>OTHER TEACHER I/Cs:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Lim Yin Xia</p>
+<p>Ms Tai Wa Peng</p>
 </li>
 <li>
-<p>Ms Ting Hui Yi</p>
+<p>Mr Rais Ismail</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <h3><strong>Blurbs</strong></h3>
 <p>Outdoor cooking is a fun experience that I look forward to in Girl Guides.
 We learn important skills such as how to start a fire and how to cook basic
@@ -110,7 +112,6 @@ myself and issues in society, gaining more knowledge through Girl Guides
 – <strong>P Haritha Sree (4G3), Assistant Company Leader of Girl Guides Company 2 2023/2024, on her experience in girl guides after 3 years.</strong>
 </p>
 <hr>
-<p></p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLHlN6H7nbCa8Vdh8tJYuyR90QdXUzrFRM5FjmVvAOk-V5HACEe7mZwcpGBhELm_cpJqbGG5_Jlpgp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
