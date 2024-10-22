@@ -6,7 +6,9 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h2><strong>INTERNATIONAL CHESS</strong></h2>
-<p>&gt; "EVERY PAWN IS A POTENTIAL QUEEN"</p>
+<blockquote>
+<p>"EVERY PAWN IS A POTENTIAL QUEEN"</p>
+</blockquote>
 <p>Crescent Chess club is a Co-Curricular Activity where we come together
 to share our deep passion for chess. The Chess Club holds its sessions
 every Monday and Wednesday, from 3 to 5pm. Chess is akin to a form of art
