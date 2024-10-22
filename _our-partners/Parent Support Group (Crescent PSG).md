@@ -43,9 +43,11 @@ experience.</p>
 <hr>
 <p></p>
 <h4><strong>2023</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Partners/Parents%20Support%20Group%20(PSG)/cgs%20psg%202023.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Partner/Parent Support Group/PSG_2023.jpg">
 </div>
+<p></p>
 <p><strong>PSG MEMBERS</strong>
 </p>
 <table style="minWidth: 75px">
