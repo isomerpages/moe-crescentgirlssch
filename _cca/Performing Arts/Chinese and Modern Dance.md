@@ -148,11 +148,9 @@ memories are what shaped me to the person I am today. From the seniors
 who inspired and the juniors that aspire. There’s no other like crescent
 dance in my heart.” <strong><em>- Janelle Soh on her love for dance</em></strong>
 </p>
-<p></p>
 <hr>
-<p></p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="489" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-mlpNKOCuJA6p8EAASEFsJj-bXul3GnMn8-erdcnjfzg8kHpvlVW8FXX-5PXeeMfRlLVG8ur0Czlw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-mlpNKOCuJA6p8EAASEFsJj-bXul3GnMn8-erdcnjfzg8kHpvlVW8FXX-5PXeeMfRlLVG8ur0Czlw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
