@@ -14,8 +14,8 @@ role in promoting a sense of belonging to the Crescent community and to
 Singapore, through fostering positive relations and by spreading joy to
 students and staff. In their journey as leaders, the CrezCommunity Leaders
 aim to cultivate positive emotions for all and to make a difference in
-the lives of others in the school community. They organise and run meaningful
-school-wide events such as the Crescent Care Programme, Total Defence Day
+the lives of others in the school community. They organize and run meaningful
+school-wide events such as the Crescent Care Programme, Total Defence Day,
 and National Day where they try to inject enriching and educational elements
 into these events while making it as fun an event as possible for the study
 body.</p>
@@ -82,6 +82,7 @@ ideas and responsibilities. Each and every experience has taught me the
 importance of collaboration and compassion, allowing me to grow both as
 a leader, and as a person. <strong><em>- Khoo Yu Han Cheryl 2C2</em></strong>
 </p>
+<p></p>
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
