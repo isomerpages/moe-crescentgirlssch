@@ -103,7 +103,6 @@ a sense of belonging towards what we call, the Crescent Hockey Family.</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <h3><strong>BLURBS:</strong></h3>
 <p>During my time in Crescent Hockey, I have learnt to be a leader that displays
 sportsmanship. I have also been given the opportunity to forge new friendships
