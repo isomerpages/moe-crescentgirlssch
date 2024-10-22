@@ -114,6 +114,6 @@ myself and issues in society, gaining more knowledge through Girl Guides
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLHlN6H7nbCa8Vdh8tJYuyR90QdXUzrFRM5FjmVvAOk-V5HACEe7mZwcpGBhELm_cpJqbGG5_Jlpgp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="466" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLHlN6H7nbCa8Vdh8tJYuyR90QdXUzrFRM5FjmVvAOk-V5HACEe7mZwcpGBhELm_cpJqbGG5_Jlpgp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
