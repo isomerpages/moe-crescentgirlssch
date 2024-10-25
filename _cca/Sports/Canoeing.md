@@ -84,34 +84,59 @@ any field that they go into.
 <p>Mdm Makaisvery Esther</p>
 </li>
 </ul>
+<hr>
 <h3><strong>Blurbs</strong></h3>
-<p>“Being part of Crescent Canoeing has taught me the significance of consistent
-effort in achieving success. Despite many of us lacking prior experience
-in water sports, our team improved rapidly by training diligently. While
-canoeing may appear to be an individual sport, we have a strong sense of
-camaraderie, supporting one another on and off water. The team spirit and
-friendships fostered has made CCA an incredibly enriching and memorable
-part of my secondary school experience.” <strong><em>Shantell Wong&nbsp;(4S2), Team Captain 2022-2023,&nbsp;on what&nbsp;she&nbsp;has&nbsp;learnt from being&nbsp;a Canoeist&nbsp;for the past 4 years.</em></strong>
+<p>Joining the Crescent Canoeing team has truly changed me for the better.
+Every training session builds and tests our perseverance and determination,
+but at the end of the day, the biggest takeaway I have from this CCA is
+team spirit. I learnt that the biggest sense of accomplishment comes when
+efforts pay off and we win together as a team. These invaluable lessons
+have made Canoeing CCA a highlight of my Crescent journey. <strong><em>- Ariel Loh Zhi Lin (3S6), Team Vice-captain 2024-2025</em></strong>
 </p>
-<p>“Canoeing has taught me about the importance of team spirit. Even when
-training is tough, I look around and see my friends trying their best and
-I feel encouraged to do the same. We always push each other to be the best
-we can be for the team.” <strong><em>Bhavya Musunuri (3S1), Team Vice-Captain 2023-2024, on what drives her during training.</em></strong>
+<p></p>
+<p>Canoeing has significantly enhanced my resilience and tenacity. Over the
+past three years, I've been pushed both physically and mentally to become
+the best version of myself, and I’m grateful for the opportunity to grow
+in character. Although training gets tough, it is reassuring to know that
+a supportive and encouraging team always has my back. I love Canoeing and
+am glad that I chose to be part of this team! <strong><em>- Athena Clare Tham Yun Kay (3C1), Team Vice-Captain 2024-2025</em></strong>
 </p>
-<p>“Being in canoeing has made me stronger, not just physically but mentally
-as well. It has taught me many lessons that I’ll always remember, from
-working together as a team to never giving up no matter how hard it gets.
-Working together as a team has bonded us and the friendships I’ve made
-in canoeing are ones I will always cherish.” <strong><em>Sakura Therese Soon Wen Ying&nbsp; (2S1)&nbsp;on being stronger in character.</em></strong>
+<p></p>
+<p>“Canoeing? What’s that? Let me put it for fun in my CCA choices!” This
+was a sentence I said to my friends in Secondary One. Although not one
+of my top choices, I am extremely glad that I ended up in the CCA! We are
+an enthusiastic team that always supports one another despite any challenges
+faced. Through the friendships and bonds fostered within the CCA, Crescent
+Canoeing is like my second family. We go through common experiences together,
+sweat together, laugh together, and most importantly cherish each other. <strong><em>- Sherlene Ng Rui Xuan (3S7), Team Captain 2024-2025</em></strong>
 </p>
-<p>“Being part of the Canoeing CCA has been a really fun and interesting
-experience for me. I have been in this CCA for about half a year now, and
-throughout this time, I have learnt a lot about teamwork, being responsible
-and taking action without others having to remind me to do so. I would
-like to thank all the teachers, seniors and coach for teaching and guiding
-us all the way. This is definitely one of the best things I enjoy about
-Crescent.” <strong><em>Charlotte Filia Nugraha&nbsp;(1G1)&nbsp;&nbsp;on being a new member in the team.</em></strong>
+<p></p>
+<p>Being in Crescent Canoeing has allowed me to grow as a person and become
+a stronger athlete. It taught me the importance of perseverance and sportsmanship.
+Going through hardships, celebrating achievements, always supporting each
+other and shouting encouragements across the water are what bonds our team.
+This CCA is the main part of my Crescent journey and has allowed me to
+create long lasting memories that I will forever cherish.” <strong><em>- Juliana Wang Jinrong (3S6)</em></strong>
 </p>
+<p></p>
+<p>Joining Crescent Canoeing has exposed me to many opportunities to race
+and represent our school, improve myself and learn what the true essence
+of perseverance really means. This CCA has helped to develop me into a
+resilient and responsible person as we must take very good care of our
+equipment. It has also taught me that training hard and preparing well
+for our races is key. <strong><em>- Dorcas Koh Shun Hee (2G2)</em></strong>
+</p>
+<p></p>
+<p>Joining Crescent Canoeing has been a transformative experience for me
+these past two years. Each competition and training allowed us to grow,
+both individually and as a team. Through victories and defeats, we developed
+not just athletic abilities, but also confidence and leadership qualities.
+My teammates have built a strong bond, and we encourage each other to improve
+and grow to be better canoeists. Being in Crescent Canoeing has been a
+wonderful experience for me! <strong><em>- Shabnam Jochebed Blessy (2C1)</em></strong>
+</p>
+<hr>
+<p></p>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="466" width="736" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkfuJjxvl8sMD27BaeLsRkIowgBSEev8H3V9W1EVQDH68i4hRaB2nDA188kDQeSQQvbETIj8PUtk_O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
