@@ -7,25 +7,16 @@ variant: markdown
 ---
 ### **Science Department**
 #### **Mission**
-To nurture creative, innovative and independent learners for the new economy.
+To nurture curious and confident learners of tomorrow.
 
 #### **Vision**
 An inquiring Crescentian and an innovative Department.
 
 #### **Curriculum**
-By the end of Secondary 4, a Crescentian should be able to:
+The curriculum goals of Science department are referenced from the Science Curriculum Framework. The goals are:
+* To enthuse and nurture all students to be scientifically literate, which can help them to make informed decisions and take responsible actions in their daily lives. 
+* To provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
 
-a. acquire sufficient  understanding and knowledge to become confident citizens in a technological world;<br>
-b. develop an informed interest in matters of scientific importance;<br>
-c. recognise the usefulness and limitations of scientific methods and models and to appreciate their applicability in everyday life;<br>
-d. possess abilities and skills that
-
-*   are relevant to the study and practice of science,
-*   are useful in everyday life,
-*   encourage efficient and safe practice, and
-*   encourage effective communication;
-
-e. possess attitudes relevant to science such as accuracy and precision, objectivity, integrity, inquiry, initiative and inventiveness.
 
 #### **Special Programmes**
 **Sec 1 Integrated Curriculum**<br>
