@@ -176,7 +176,9 @@ of collaboration, creativity, and the joy of discovery.</p>
 <br>Our secondary 1 to 3 Crescentians participated in the STEM Playground
 Challenge jointly organized by CPDD, MOE, Science Centre and the James
 Dyson Foundation. Watch our students in action in the video below.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ002GcRKEho8rqBvgC73xr-9vax6eZDQ-KkhcGEukAd1G33ajuoaQAYtyKDSoRfISDqxjASdXsEIG0/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <hr>
 <p></p>
 <h4><strong>2024 Achievements</strong></h4>
