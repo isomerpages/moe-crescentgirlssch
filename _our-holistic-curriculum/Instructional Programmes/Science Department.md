@@ -88,9 +88,9 @@ us to explore something out of our curriculum.”</p>
 <p>You may view their reviewed article for a scientific journal at Frontiers
 For Young Minds at this <strong><a href="https://kids.frontiersin.org/articles/10.3389/frym.2021.584941" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>.</p>
 <p></p>
-<p></p>
 <p><strong>Biology Learning Journey to Lee Kong Chian Natural History Museum</strong>
-<br>The Biology Learning Journey to the Lee Kong Chian Natural History Museum
+</p>
+<p>The Biology Learning Journey to the Lee Kong Chian Natural History Museum
 offered students a hands-on exploration of the natural world at the molecular
 level. Using stereomicroscopes, students observed pollen grains, anthers
 and filaments to deepen their understanding of plant biology. They also
