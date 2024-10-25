@@ -17,28 +17,15 @@ The curriculum goals of Science department are referenced from the Science Curri
 * To enthuse and nurture all students to be scientifically literate, which can help them to make informed decisions and take responsible actions in their daily lives. 
 * To provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
 
+![Source: Curriculum Planning and Development Division, Ministry of Education](/images/Instructional%20Programmes/Science%20Department/Science_1.png)
+
 
 #### **Special Programmes**
-**Sec 1 Integrated Curriculum**<br>
-Sec 1 Integrated Curriculum is the first part of the Integrated Curriculum@Crescent. Students are stretched through a carefully designed curriculum that integrates a few subjects at each level from Secondary One to Three.
-
-Secondary One students experience the Integrated Curriculum Programme through the lenses of Geography and Science, where the two subjects explore the common theme of water scarcity. Through Geography, students pick up knowledge about global water crisis, water management strategies, and the skills of geographical investigation focusing on the human impact on water qualities and water quality testing. They extend their learning by exploring the various separation techniques in Science to devise methods in obtaining clean water in both laboratory and home-based settings, by understanding the factors that would influence the choices of separation techniques. The coursework and hands-on activities provide the students with enriching inter-disciplinary learning experiences about sustainability of our precious resources.
-
-<img src="/images/sci1.jpg" style="width:55%">
-<figure>
-<img src="/images/sci2.jpg" style="width:75%">
-<figcaption>  Obtaining clean water using various separation techniques
- </figcaption>
-</figure>
 
 **ICT-enabled Inquiry Based Learning**<br>
-Our science teachers are guided by Leahy’s AFL framework and e-pedagogy to design Science learning experiences and learning activities that enable Crescentians to acquire and develop the knowledge, skills and dispositions as future-ready learners. A wide variety of learning experiences are designed to promote acquisition of expertise and understanding, with emphasis on the understanding and application of concepts and principles. Knowledge Construction in a Science classroom is anchored by the active learning processes with Technology – Activating Learning, Promoting Thinking and Discussion, Facilitating Demonstration of Learning and Monitoring and Providing Feedback. "
+Our science teachers are guided by Leahy’s AFL framework and e-pedagogy to design Science learning experiences and learning activities that enable Crescentians to acquire and develop the knowledge, skills and dispositions as future-ready learners. A wide variety of learning experiences are designed to promote acquisition of expertise and understanding, with emphasis on the understanding and application of concepts and principles. Knowledge Construction in a Science classroom is anchored by the active learning processes with Technology – Activating Learning, Promoting Thinking and Discussion, Facilitating Demonstration of Learning and Monitoring and Providing Feedback. 
 
-<figure>
-<img src="/images/sci3.jpg" style="width:75%">
-<figcaption>  An ICT-enable inquiry-based learning lesson
- </figcaption>
-</figure>
+![ICT-enable inquiry-based learning lesson](/images/Instructional%20Programmes/Science%20Department/Science_2.jpg)
 
 **Mixed reality in Science**<br>
 Students immerse themselves in exciting gamified mixed reality (MR) lessons to understand and visualize abstract Science concepts better. Through such lessons, students get to collaborate and be involved in real-world problem solving, and this increases students’ engagement level.
@@ -49,80 +36,92 @@ In the Physics task, students are to solve a crisis management scenario for an i
 
 Such authentic tasks help students to map and better relate different concepts in the chapter and see the real-world application of the concepts learnt.
 
-<figure>
-<img src="/images/sci4.png" style="width:75%">
-<figcaption>  Students exploring a virtual nuclear site using Mixed Reality technology
- </figcaption>
-</figure>
+![Students exploring a virtual nuclear site using Mixed Reality technology](/images/Instructional%20Programmes/Science%20Department/Science_3.jpg)
+
 
 **Science Mentorship Program**<br>
 To develop interest and talents in the areas of Science amongst our students, a group of them participated in the Science Mentorship Program jointly organised by the Ministry of Education’s Gifted Education Branch and partners from tertiary institutions and research agencies. Under the guidance of their mentors, students work on their research projects, which they subsequently showcase to an audience of peers, teachers and scientists in the Youth Science Conference.
 
-<figure>
-<img src="/images/sci5.jpg" style="width:75%">
-<figcaption>  Presentation at Youth Science Conference (photo taken during pre-Covid times)
- </figcaption>
-</figure>
+![Presentation at Youth Science Conference ](/images/Instructional%20Programmes/Science%20Department/Science_4.jpg)
+
 
 **Science Research Program**<br>
 Under the Science Research Programme, a group of enthusiastic students with a keen interest in Science embarked on their journey as young reviewers under the guidance of Dr Kerri McCrickerd.
 
-Quote from our 2021 batch of young reviewers: “Under this programme, we grew to be fascinated by the process of reviewing articles. We also had the opportunity to enhance our critical thinking and widen our perspectives by sharing our views with a scientist. We had a fruitful journey as this reviewing process has enabled us to explore something out of our curriculum.”  
-  
-You may view their reviewed article for a scientific journal at Frontiers For Young Minds at this&nbsp;[**link**](https://kids.frontiersin.org/articles/10.3389/frym.2021.584941).
+Quote from our young reviewers: “Under this programme, we grew to be fascinated by the process of reviewing articles. We also had the opportunity to enhance our critical thinking and widen our perspectives by sharing our views with a scientist. We had a fruitful journey as this reviewing process has enabled us to explore something out of our curriculum.”
+
+You may view their reviewed article for a scientific journal at Frontiers For Young Minds at this [**link**](https://kids.frontiersin.org/articles/10.3389/frym.2021.584941).
+
+
+**Biology Learning Journey to Lee Kong Chian Natural History Museum**<br>
+The Biology Learning Journey to the Lee Kong Chian Natural History Museum offered students a hands-on exploration of the natural world at the molecular level. Using stereomicroscopes, students observed pollen grains, anthers and filaments to deepen their understanding of plant biology. They also learnt about fascinating bioluminescent arthropods. Additionally, students utilised scanning electron microscopes to examine the intricate structures of animal body coverings from sharks, owls, pythons, and sea stars. This enriching experience provided a unique opportunity to engage with advanced scientific equipment and explore the diversity of life in greater 
+
+![Crescentians examining specimens using stereomicroscopes](/images/Instructional%20Programmes/Science%20Department/Science_5.jpg)
+
 
 **Learning Journey to i-Fly**<br>
-To further enrich students’ learning experience, students also went on learning journeys. With the relaxing of Safe Management Measures, 40 Upper Secondary Physics students embarked on a Learning Journey to iFly Singapore, Singapore’s only indoor skydiving facility. With the help of professional indoor skydiving instructors, the students were able to experience flying in mid-air in the high-velocity vertical wind tunnel. This Learning Journey sparked the joy of learning in the students and they had the chance to experience what they have learnt in the Physics classroom about kinematics, forces and air resistance in action!
+To further enrich students’ learning experience, students also went on learning journeys. Upper Secondary Physics students embarked on a Learning Journey to iFly Singapore, Singapore’s only indoor skydiving facility. With the help of professional indoor skydiving instructors, the students were able to experience flying in mid-air in the high-velocity vertical wind tunnel. This Learning Journey sparked the joy of learning in the students and they had the chance to experience what they have learnt in the Physics classroom about kinematics and dynamics in action!
 
-<figure>
-<img src="/images/sci6.jpg" style="width:75%">
-<figcaption>  Learning Journey to i-Fly
- </figcaption>
-</figure>
+![](/images/Instructional%20Programmes/Science%20Department/Science_6.jpg)
 
-<figure>
-<img src="/images/sci7.jpg" style="width:75%">
-<figcaption>  Our flyers suit up in cool skydiving gear
- </figcaption>
-</figure>
+![Our flyers suit up in cool skydiving gear](/images/Instructional%20Programmes/Science%20Department/Science_7.jpg)
 
-#### **2023 Achievements**
-**International Competition and Assessments for Schools**<br>
-2 High Distinctions, 21 Distinctions, 45 Credits, 20 Merits
 
-**STEM Playground 2023**<br>
-1st Runner-up for Participation rate for *"Challenge #1: CanBridge Hold'em"*<br>
-Champion for highest participation rate for *"Challenge #2: SEA-RIOUS" CHALLENGER"*
-1 Silver, 1 Meril
+**Chemistry Learning Journey**<br>
+Chemistry Learning Journey is a valuable platform for our students to bring learning outside their classrooms and experience the joy of learning. In the Chemistry of Chocolate Workshop, students learned to compare and evaluate the sensory properties and nutritional value of food, recognise the effects of crystallization on physical properties of chocolate, recognise compounds that are water-based or oil-based and recognise that some chemical reactions are irreversible.
+![Chemistry of Chocolate Workshop](/images/Instructional%20Programmes/Science%20Department/Science_8.jpg)
 
-**Singapore Junior Chemistry Olympiad  2023**<br>
-1 Silver, 1 Merit  
-  
-**2023 Singapore Junior Physics Olympiad**<br>
-Individual: 2 Silvers, 1 Bronze, 4 Honourable Mentions<br>
-Teams: 1 Bronze
-  
-**Singapore Junior Biology Olympiad 2023**<br>
-3Gold, 1 Bronze, 1 Honourable Mention  
-  
-**44th International C B Paul Science Quiz**<br>
-Individual: 2 Silver, 1 Bronze, 4 Honourable Mentions
-Teams: 1 Bronze
 
-**24th International Elementz Fair**<br>
-1 Bronze  
-  
-**A\* Star Science Award (Upper Secondary)**<br>
-3 awardees
 
-**27th Chem-Dot-Comm Challenge**<br>
+**Crystal Growing**<br>
+Two teams participated in the 16th Singapore National Crystal Growing Challenge, a biennial event for secondary school, junior college and polytechnic students. The students presented Ammonium Copper(II) Sulphate Hexahydrate crystals and showcased their months of hard work at the NUS Chemistry Teaching laboratories. 
+
+![](/images/Instructional%20Programmes/Science%20Department/Science_9.jpg)
+
+
+
+**Science Busking**<br>
+The 2024 Singapore Science Buskers competition showcased the talents of young scientists from Crescent Girls' School, which sent 30 teams to participate. These aspiring innovators worked diligently, crafting engaging presentations that combined science with entertainment, making complex concepts accessible and fun for the audience. Out of all the entries, four finalist teams emerged, each demonstrating exceptional creativity and depth of understanding. The final round took place at Bukit Panjang Plaza on 14 and 15 September, where the energy was palpable as students passionately shared their projects. Families, friends, and science enthusiasts gathered to support the competitors, creating a vibrant atmosphere filled with curiosity and excitement. The event not only highlighted the students' hard work but also fostered a love for science in the community, inspiring the next generation of thinkers and problem solvers. This year's competition was a testament to the power of collaboration, creativity, and the joy of discovery.
+
+![our buskers](/images/Instructional%20Programmes/Science%20Department/Science_10.jpg)
+
+![our buskers](/images/Instructional%20Programmes/Science%20Department/Science_11.jpg)
+
+![our buskers](/images/Instructional%20Programmes/Science%20Department/Science_12.jpg)
+
+
+**STEM Playground 2024**<br>
+Our secondary 1 to 3 Crescentians participated in the STEM Playground Challenge jointly organized by CPDD, MOE, Science Centre and the James Dyson Foundation. Watch our students in action in the video below.
+
+
+
+#### **2024 Achievements**
+**International Competition and Assessments for Schools**
+7 High Distinctions, 14 Distinctions, 41 Credits, 
+
+**STEM Playground 2024**<br>
+1st Runner-up for Participation rate for Challenge# 2: Support the Mass!
+
+**Singapore Junior Biology Olympiad 2024**<br>
+2 Silvers, 7 Bronzes
+
+**Singapore Junior Chemistry Olympiad 2024**<br>
+1 Silver, 2 Bronzes
+
+**Singapore Junior Physics Olympiad 2024**<br>
+1 Silver, 1 Honourable Mention
+
+**25th International Elementz Fair**<br>
+1 Commendation
+
+**A* Star Science Award (Upper Secondary)**<br>
+2 awardees
+
+**16th National Crystal Growing Challenge**<br>
 Participation
 
-**15th National Crystal Growing Challenge**<br>
-Participation
+**Science Mentorship Program**
+1 team
 
-**Tan Kah Kee Young Inventors Awards**<br>
-4 participated teams
-
-**Science Mentorship Program**<br>
-1 participated teams
+**Singapore Science Buskers**
+4 Finalist teams
