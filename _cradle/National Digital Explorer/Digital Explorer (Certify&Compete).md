@@ -8,22 +8,22 @@ variant: markdown
 ### **Digital Explorer - Certify&amp;Compete** ###
 The Digital Explorer – Certify&amp;Compete is a nationwide student competition organised by Crescent Girls’ School and ICDL Asia which invites students in primary and secondary school / JC / MI in Singapore to compete and demonstrate how digital skills can be applied in the new digital economy.
 
-Participating students will take ICDL certification tests and go through 2 rounds of competition from Jan to July 2024. There will be two categories: Primary and Secondary / JC / MI Level.
+Participating students will take ICDL certification tests and go through 2 rounds of competition from Jan to July 2025. There will be two categories: Primary and Secondary / JC / MI Level.
 
-During the first Certification Round, all participating students will take the certification test for ICDL modules latest by 31 May 2024. Top students who emerge from this round will be notified via email to represent their schools to compete in the National Round hosted by Crescent Girls’ School in July 2024 (tentative).
+During the first Certification Round, all participating students will take the certification test for ICDL modules latest by 30 May 2025. Top students who emerge from this round will be notified via email to represent their schools to compete in the National Round hosted by Crescent Girls’ School in July 2025 (tentative).
 
 After the National Round, a prize presentation ceremony will be held to announce the Primary and Secondary / JC / MI winners of the Digital Explorer – Certify&amp;Compete.
 
-Top winners in the Secondary / JC / MI Level will fast track to the Grand Final of the regional ICDL Asia Digital Challenge 2024. They will represent Singapore to compete against students from other countries in the Asia Pacific region.
+Top winners in the Secondary / JC / MI Level will fast track to the Grand Final of the regional ICDL Asia Digital Challenge 2025. They will represent Singapore to compete against students from other countries in the Asia Pacific region.
 <br>
 
 #### Competition Outline ####
 
 | Competition Round | Primary Level Modules | Sec/JC/MI Modules |
 | -------- | -------- | -------- |
-| **Certification Round (in individual school**  *Latest by 31 May 2024*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights**  (Big Data, Insights Cloud Computing)
-**National Round** | Spreadsheet &amp; Presentation | Advanced Presentation &amp; Advanced Spreadsheet
-**Grand Final Regional ICDL Asia Digital Challenge** * September 2024  (tentative) | | Top winner in this category will be invited to represent Singapore |
+| **Certification Round (in individual school**  *Latest by 30 May 2025*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights**  (Big Data, Insights Cloud Computing)
+**National Round** | (TBC) | (TBC)
+**Grand Final Regional ICDL Asia Digital Challenge** * September 2025  (tentative) | | Top winner in this category will be invited to represent Singapore |
 
 
 
@@ -53,23 +53,23 @@ ICDL Asia will also be recognising the top-performing schools for their commitme
 
 | Dates | Activities |  |
 | -------- | -------- | -------- |
-| October 2023 - February 2024    | Briefing and Registration     | 
-|February 2024 | Issuance of accounts 
-May 2024 | Completion of certification 
-July 2024 | National Round for Certify&amp;Compete 
-September 2024 | Regional ICDL Digital Challenge for SG top winner from Sec/JC/MI Category
+| October 2024 - February 2025    | Briefing and Registration     | 
+|February 2025 | Issuance of accounts 
+May 2025 | Completion of certification 
+July 2025 | National Round for Certify&amp;Compete 
+September 2025 | Regional ICDL Digital Challenge for SG top winner from Sec/JC/MI Category
 
 
 
 
-#### **Register for NDE 2024** ####
+#### **Register for NDE 2025** ####
 
-Registration for NDE 2024 is open from now until ***February 2024***.
+Registration for NDE 2025 is open from now until ***February 2025***.
 
-A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
 Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-Register for NDE 2024 [here](https://for.edu.sg/nde2024-registration) [https://for.edu.sg/nde2024-registration]
+##### **Register for NDE 2025 [HERE](https://for.edu.sg/nde2025-registration )**
 
 
 
@@ -82,7 +82,7 @@ Through participation in NDE, students will be equipped with essential skills an
 The registration fee for each participating student for *each module* for certification will be S$20(before GST). Upon confirmation of registration from Crescent Girls’ School, schools would be informed about payment details to ICDL via e-invoice (GeBIZ).<br>
 
 **3\. What if students do not complete the entire programme?**<br>
-For the Digital Explorers Certify programme, students will need to attend the certification round after completing the e-Learning modules. Students will be assessed if they possess the necessary skills to be awarded the e-certificate. ICDL Asia will be coordinating with participating schools on the certification round to be held in respective schools. Selected students will be invited to participate in the National Round which will be held in Crescent Girls’ School in July 2024 (tentative).<br>
+For the Digital Explorers Certify programme, students will need to attend the certification round after completing the e-Learning modules. Students will be assessed if they possess the necessary skills to be awarded the e-certificate. ICDL Asia will be coordinating with participating schools on the certification round to be held in respective schools. Selected students will be invited to participate in the National Round which will be held in Crescent Girls’ School in July 2025 (tentative).<br>
 
 **4\. Can I take a look at the contents before I sign my students up for the programmes?**<br>
 Please refer to the Outline of activities for both the Digital Explorer - Certify programme.&nbsp;_Please contact us at_&nbsp;[**_nde@crescent.edu.sg_**](mailto:nde@crescent.edu.sg)&nbsp;if you need more information.<br>
