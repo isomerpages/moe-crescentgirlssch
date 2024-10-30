@@ -104,7 +104,7 @@ Registration for NDE 2025 is open from now until ***February 2025***.
 A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
 Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-#### Register for NDE 202 [HERE](https://for.edu.sg/nde2025-registration )
+#### Register for NDE 2025 [HERE](https://for.edu.sg/nde2025-registration )
 
 
 #### **Timeline and Summary of Key Dates**
