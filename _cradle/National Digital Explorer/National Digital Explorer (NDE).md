@@ -3,6 +3,7 @@ title: National Digital Explorer (NDE)
 permalink: /cradle/nde/
 description: ""
 third_nav_title: National Digital Explorer
+variant: markdown
 ---
 ### **National Digital Explorer (NDE)**
 
@@ -31,14 +32,14 @@ There are three available categories for which schools can sign up:
 
 
 
-#### **Registration for NDE 2024** ####
+#### **Registration for NDE 2025** ####
 
-Registration for NDE 2024 is open from now until ***February 2024***. <br>
+Registration for NDE 2025 is open from now until ***February 2025***. <br>
 
-Resources shared during the briefing for NDE 2024: [Resources for NDE 2024](https://for.edu.sg/nde2024-resources ) [https://for.edu.sg/nde2024-resources ]
+Resources shared during the briefing for NDE 2025: [Resources for NDE 2024](https://for.edu.sg/nde2025-resources ) [https://for.edu.sg/nde2025-resources ]
 
-A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
 <br> 
 **Download the students details template [here](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h)** 
 
-**Register for NDE 2024 [HERE ](https://for.edu.sg/nde2024-registration)**[https://for.edu.sg/nde2024-registration]
+**Register for NDE 2025 [HERE ](https://for.edu.sg/nde2025-registration)**[https://for.edu.sg/nde2025-registration]
