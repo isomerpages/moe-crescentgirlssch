@@ -31,4 +31,9 @@ community-focused efforts, making it a highly recommendable experience.</p>
 <p></p>
 <p><strong><em>Written by Tiara Kasih(3G4)</em></strong>
 </p>
+<hr>
+<h3>Photos</h3>
+<div class="iframe-wrapper">
+<iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSquCv3ux-zRD9SWgLEPzrOW2xE2I3Mg9IJ0D4sSZDo3meh0LOIASpZ6UkGNEJ1ApXTeAv2CS-RZHzi/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>

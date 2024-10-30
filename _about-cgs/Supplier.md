@@ -2,35 +2,70 @@
 title: Supplier
 permalink: /about-cgs/supplier/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### School Bookshop, School Uniform and PE Attire
-
-<div class="table-responsive-lg">
-      <table class="table table-bordered">
-        <thead>
-          <tr>
-            <th scope="col">Name of Supplier</th>
-            <th scope="col">Pacific Bookstores Pte Ltd</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Operating Hours</th>
-            <td>Mondays to Fridays, 8.30am to 3.30pm <br> (**School Days only**)</td>
-          </tr>
-          <tr>
-            <th scope="row">Contact Person</th>
-            <td>Lee Lee</td>
-          </tr>
-          <tr>
-            <th scope="row">Contact Number</th>
-            <td colspan="2">6476 7451</td>
-          </tr>
-					 <tr>
-            <th scope="row">Website</th>
-            <td colspan="2"><a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a><br>Note: For purchase of school uniform and PE attire, kindly click on "eShop" at the top of the website. Alternatively, you can access the eShop at&nbsp;<a href="https://for.edu.sg/cgs-uniform">https://for.edu.sg/cgs-uniform</a></td>
-          </tr>
-        </tbody>
-     </table>
-    </div>
+<h4>School Bookshop, School Uniform and PE Attire</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Supplier</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Pacific Bookstores Pte Ltd</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mondays to Fridays, 8.30am to 3.30pm
+<br>(**School Days only**)</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Contact Person</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Lee Lee</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Contact Number</p>
+</th>
+<td rowspan="1" colspan="2">
+<p>9048 0449</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Website</p>
+</th>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+<br>Note: For purchase of school uniform and PE attire, kindly click on "eShop"
+at the top of the website. Alternatively, you can access the eShop at&nbsp;
+<a href="https://for.edu.sg/cgs-uniform" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/cgs-uniform</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

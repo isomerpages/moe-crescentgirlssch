@@ -3,43 +3,83 @@ title: English Drama
 permalink: /our-holistic-curriculum/cce/cca/clubs-and-societies/english-drama/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-### **ENGLISH DRAMA** ###
-
-&gt; "Our Best Act For You"
-
-English Drama is a Co-Curricular Activity (CCA) for Crescentian theatre practitioners. The goal of the society is to ensure that every member is equipped with the necessary skills to enable them to excel in drama. This also involves the skills for scriptwriting, stagecraft as well as the play production process. Members are taught the core basics of dramatic technique – the use of levels to create effect, vocal projection, awareness of body language, facial expressions, use of space and behind-the-scenes work on lighting and sound. As such, every member is given the opportunity to develop their talents and to discover their best talents to excel confidently. Additionally, in the upper secondary levels, the students are trained to take on responsibilities as facilitators and leaders.
-
-English Drama also takes part in the biennial Singapore Youth Festival Arts Presentation. For such performances, the students, in collaboration with their instructors, discuss and devise a twenty-minute perspective that provides reflection about a certain aspect of society. Students would also have the opportunity to craft the scripts, create the props and costumes as well as to arrange the lighting. Most importantly, it is the students who assume roles such as the Stage Manager, that give them autonomy over their production. This provides them with a good platform to hone their leadership and organizational skills.
-
-The English Drama members are close and organise social events to bond as a family. It is common to see former students of the CCA returning to share their experiences with the current members and to inspire their juniors to new heights. The time the students spend in English Drama in Crescent is only the beginning of their journey into the Arts – it is an initiation into a cultural lifestyle.
-
-#### **Teachers-In-charge:** ####
-**OIC:** 
-* Mr Julius Li
-
-**Other Teacher I/Cs:**  
-*  Mdm Norazlin Mohd
-
-
-### **Blurbs** ###
-
-Over the past four enriching years, my journey as a dedicated member of Crescent Drama has been nothing short of learning invaluable skills and forging memories every single session. It is truly a place where creativity knows no boundaries, as I delved into diverse roles, exploring the depths of various characters and honing my acting prowess. The camaraderie and support among the members fostered a sense of belonging, encouraging me to step out of my comfort zone and embrace new challenges fearlessly, with more confidence each time. Thank you, Crescent Drama! - **_Lim Zhi Yu (4G1), President of English Drama 2022/2023_**
-
-For me, joining Drama was a decision that breathed new life into my passions and talents. I found myself being pushed beyond my limits and strove constantly to reach for the stars. Drama provided me with a safe place to experiment, stumble, and rise again, and to constantly strive to improve on my skills. I slowly discovered that failure was not an end but a chance to grow stronger. **- Gopinath Deetyaa (4C2), Vice-President of English Drama 2022/2023**
-
-Throughout my enriching journey with Crescent Drama, I have been given many opportunities to step out of my comfort zone and to express myself freely, all while acquiring countless new skills. I stepped into drama thinking that I would only learn how to act but stepped away with a greater appreciation for the efforts of all members who made our performances a huge success, from the actresses themselves to the backstage and technical crew who worked tirelessly behind the scenes. **- Gan Yang Le (4G3), Vice-President of English Drama 2022/2023**
-
-To me, the one thing I never regretted doing was joining Crescent Drama. Through my years of acting in Drama, I realized that I not only learned acting skills, but also met the wonderful personalities of different people in our CCA, which definitely made me the person that I am today. I have been taught to adapt, grow and accept, and these values are one of a kind- something Crescent Drama has helped me to learn in my years of being in this CCA. By being given this opportunity to be the President of the CCA I love most, I will certainly hope to pass on this love for acting to my younger peers. **- Sandi Win Sun (3G1), President of Drama 2023/2024**_
-
-_Drama is not just a CCA but a family. It’s apparent how tight knit we are as a group and it shines through in whatever performances we put on. Our ensemble pieces, one of which was called Recollections, was a massive hit among Crescentians and managed to wow the audience with our perfect synchronisation and unison. Of course, a lot of skills and learning went into making it what it was because we had to perfect the acting as individual actors. **- Neha Thyagarajan (3C2), Vice-President of Crescent Drama 2023/2024**_
-
-_Joining Crescent Drama is something I will never regret. It has given me the opportunity to discover the different techniques used in acting as well as taught me many life values, some of which being discipline, punctuality, responsibility and others. I will be forever grateful for the family I have made here in Drama and always treasure the memories we have made together. **- Natalie Ng Zhi En (3S2), Vice-President of Drama 2023/2024**_
-
-_My most memorable memory of Drama would have to be performing in the 2023’s Singapore Youth Festival. The ecstasy one feels after a successful performance is unmatched, and simply being able to act without judgement is truly amazing. Indeed, these experiences are what push me to give my best act for everyone, inside and outside of drama.**- Leong En Rui (3G2), Vice-President of Drama 2023/2024**_
-
-
-
-### **PHOTOS** ###
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJ7gEdHhhYD7c1iuJ4r8bylYKuzXjnswLFqdupcbs3cGIZrMS4KdEz455wTC8L6w87sJasYly9Hn97/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<h3><strong>ENGLISH DRAMA</strong></h3>
+<blockquote>
+<p>"Our Best Act For You"</p>
+</blockquote>
+<p>English Drama is a Co-Curricular Activity (CCA) for Crescentian theatre
+practitioners. The goal of the society is to ensure that every member is
+equipped with the necessary skills to enable them to excel in drama. This
+also involves the skills for scriptwriting, stagecraft as well as the play
+production process. Members are taught the core basics of dramatic technique
+– the use of levels to create effect, vocal projection, awareness of body
+language, facial expressions, use of space and behind-the-scenes work on
+lighting and sound. As such, every member is given the opportunity to develop
+their talents and to discover their best talents to excel confidently.
+Additionally, in the upper secondary levels, the students are trained to
+take on responsibilities as facilitators and leaders.</p>
+<p>English Drama also takes part in the biennial Singapore Youth Festival
+Arts Presentation. For such performances, the students, in collaboration
+with their instructors, discuss and devise a twenty-minute perspective
+that provides reflection about a certain aspect of society. Students would
+also have the opportunity to craft the scripts, create the props and costumes
+as well as to arrange the lighting. Most importantly, it is the students
+who assume roles such as the Stage Manager, that give them autonomy over
+their production. This provides them with a good platform to hone their
+leadership and organizational skills.</p>
+<p>The English Drama members are close and organise social events to bond
+as a family. It is common to see former students of the CCA returning to
+share their experiences with the current members and to inspire their juniors
+to new heights. The time the students spend in English Drama in Crescent
+is only the beginning of their journey into the Arts – it is an initiation
+into a cultural lifestyle.</p>
+<h4><strong>Teachers-In-charge:</strong></h4>
+<p><strong>OIC:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Julius Li</p>
+</li>
+</ul>
+<p><strong>Other Teacher I/Cs:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Norazlin Mohd</p>
+</li>
+</ul>
+<hr>
+<h3><strong>Blurbs</strong></h3>
+<p>Joining Crescent Drama has been a transformative journey of discovery.
+Apart from refining my acting skills, it has helped reveal my true capabilities.
+Every role I’ve embodied and every rehearsal I’ve participated in has significantly
+shaped my confidence, creativity, and resilience. I am amazed at how I
+am constantly pushed beyond my comfort zone, yet this heightens my sense
+of accomplishment when I achieve things I never fathomed! You never truly
+realize the depths of your potential until you step into the world of Crescent
+Drama! <strong><em>- Isha Manoj (3S6), President of English Drama 2024/2025</em></strong>
+</p>
+<p>Drama is more than a CCA to me; it is a class, a home, a family. The values
+I have learned during our sessions have shaped me and will stay with me,
+guiding me through other aspects of my journey as a performer, a student,
+and a person. I have learned the importance of clear communication and
+will carry these lessons into the future. <strong><em>- Yeo Jia Chi (3S7), Vice-President of English Drama 2024/2025</em></strong>
+</p>
+<p>When I first stepped into Drama, I thought I knew exactly what to expect.
+Having been a Drama student for four years in primary school, I felt a
+surge of pride, ready to shine among the “amateurs.” However, I quickly
+realized how wrong I was. My know-it-all attitude was promptly corrected
+by the seniors—there are no "know-it-alls," only "learn-it-alls." That
+moment humbled me, and I opened my mind to everything Drama had to teach.
+But if I say more, I might spoil the adventure waiting for you. So, what
+are you waiting for? Come join us and watch as we prepare our best act
+for you! <strong><em>- Kripa Anna Thariyan (3S6), Vice-President of English Drama 2024/2025</em></strong>
+</p>
+<hr>
+<h3><strong>PHOTOS</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJ7gEdHhhYD7c1iuJ4r8bylYKuzXjnswLFqdupcbs3cGIZrMS4KdEz455wTC8L6w87sJasYly9Hn97/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>

@@ -3,7 +3,7 @@ title: Swift Explorer Singapore (SES) 2024
 permalink: /whats-happening/2024/april/swift-explorer-singapore-ses-2024/
 variant: tiptap
 description: ""
-third_nav_title: April
+third_nav_title: August
 ---
 <h4><strong>Swift Explorers Singapore (SES) 2024</strong></h4>
 <p>Participating in Swift Explorers Singapore's App Design challenge, we
