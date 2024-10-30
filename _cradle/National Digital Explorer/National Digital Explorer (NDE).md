@@ -31,14 +31,14 @@ variant: markdown
 | Nov 2024    |Briefing, registration and issuance of accounts 1st intake |  
 Jan 2025 | Briefing, registration and issuance of accounts 2nd intake
 Feb 2025 | Closing of registration
-May 2025 | Completion of certification for Certify&amp;Compete 
+May 2025  | Completion of certification for Certify&amp;Compete 
 July 2025 | National Round for Certify&amp;Compete 
 Sep 2025 | Regional ICDL Digital Challenge for SG Top Winners 
 Nov 2025 | Completion of Learn and Certify 	
 
 There are three available categories for which schools can sign up:
 
-
+![](/images/nde_2025.png)
 
 
 
