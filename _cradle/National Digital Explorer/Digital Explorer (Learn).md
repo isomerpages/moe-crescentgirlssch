@@ -3,6 +3,7 @@ title: Digital Explorer (Learn)
 permalink: /cradle/nde/digital-explorer-learn/
 description: ""
 third_nav_title: National Digital Explorer
+variant: markdown
 ---
 ### **Digital Explorer - Learn** ###
 The Digital Explorer Learn programme covers the main concepts and skills needed to start using common office productivity applications such as Documents, Spreadsheets, and Presentations effectively. The estimated duration to complete this programme is **8 hours**.
@@ -97,13 +98,13 @@ More information: [https://icdlasia.org/insights/cloud-computing/](https://icdla
 <br>
 * as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS) and Function as a Service (FaaS).
 
-#### **Registration for NDE 2024** ####
-Registration for NDE 2024 is open from now until ***February 2024***.
+#### **Registration for NDE 2025** ####
+Registration for NDE 2025 is open from now until ***February 2025***.
 
-A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
 Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-Register for NDE 2024 [here](https://for.edu.sg/nde2024-registration) [https://for.edu.sg/nde2024-registration]
+#### Register for NDE 202 [HERE](https://for.edu.sg/nde2025-registration )
 
 
 #### **Timeline and Summary of Key Dates**
@@ -112,9 +113,9 @@ Register for NDE 2024 [here](https://for.edu.sg/nde2024-registration) [https://f
 
 | Dates | Activities |  |
 | -------- | -------- | -------- |
-| October 2023 - February 2024     | Registration Period    |    
-February 2024| Release of eLearning Accounts
-November 2024 | Completion of Learn 
+| Nov 2024 - February 2025     | Registration Period    |    
+February 2025| Release of eLearning Accounts
+November 2025 | Completion of Learn 
 
 
 
@@ -124,7 +125,7 @@ November 2024 | Completion of Learn
 Through participation in NDE, students will be equipped with essential skills and knowledge to use office productivity tools effectively. The self-directed/self-initiated aspect of the programme empowers students to build on their knowledge progressively at their own pace. In addition to this, the programme develops future-ready learners and gives students the opportunity to apply what they have learnt and connect with students beyond their community when they participate in national and regional competitions.
 
 **2\. Is there any registration fee or other cost to participate in the program?**<br>
-There is a registration fee **$5** for Digital Explorer - Learn program. Students will need to have an internet-enabled device to access the e-Learning portal and resources.
+There is a registration fee **$10** for Digital Explorer - Learn program. Students will need to have an internet-enabled device to access the e-Learning portal and resources.
 
 **3\. What if students do not complete the entire programme?** <br>
 For the Digital Explorer - Learn programme, students will need to complete all lessons in the programme in order to be awarded the e-Certification of completion.
