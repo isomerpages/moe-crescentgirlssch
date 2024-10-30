@@ -29,7 +29,7 @@ November 2025 | Completion of certification
 
 Registration for NDE 2024 is open from now until ***February 2024***.
 
-A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
 Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
 ##### Register for NDE 2024 [HERE](https://for.edu.sg/nde2025-registration )
