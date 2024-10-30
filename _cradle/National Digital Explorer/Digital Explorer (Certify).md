@@ -3,35 +3,36 @@ title: Digital Explorer (Certify)
 permalink: /cradle/nde/digital-explorer-certify/
 description: ""
 third_nav_title: National Digital Explorer
+variant: markdown
 ---
 ### **Digital Explorer - Certify**
 
 The Digital Explorer – Certify provides opportunities for students to be certified in the various productivity skills selected by schools. &nbsp;
 
 **Registration**<br>
-Registration is open from now until February 2024. The registration fee for each participating student will be **S$20(before GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
+Registration is open from now until February 2025. The registration fee for each participating student will be **S$20(before GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
 
 All participants must sit for the certification tests on Windows device only. Upon confirmation of registration from Crescent Girls’ School, schools would be informed of payment details to ICDL via e-invoice.
 
-Each participating school will host the certification test sessions. Schools with only a small number of participating students may opt to have the certification test in Crescent Girls’ School. The date and time of the centralised certification test will be announced nearer to that date. All participating students will take the ICDL certification test by 15 November 2024. Successful students who pass the certification test will receive the ICDL eBadge and Certificate of Participation for the selected module.
+Each participating school will host the certification test sessions. Schools with only a small number of participating students may opt to have the certification test in Crescent Girls’ School. The date and time of the centralised certification test will be announced nearer to that date. All participating students will take the ICDL certification test by 21 November 2025. Successful students who pass the certification test will receive the ICDL eBadge and Certificate of Participation for the selected module.
 
 #### Timeline and Summary of Key Dates ####
 
 | Dates | Activities |  |
 | -------- | -------- | -------- |
-| October 2023 - February 2024    | Briefing and Registration     | 
-|February 2024 | Issuance of accounts 
-November 2024 | Completion of certification 
+| October 2024 - February 2025    | Briefing and Registration     | 
+|February 2025 | Issuance of accounts 
+November 2025 | Completion of certification 
 
 
-##### Registration for NDE 2024 #####
+##### Registration for NDE 2025 #####
 
 Registration for NDE 2024 is open from now until ***February 2024***.
 
-A gentle reminder to attach the students details template in the NDE 2024 Registration Form.<br>
+A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
 Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-Register for NDE 2024 [here](https://for.edu.sg/nde2024-registration) [https://for.edu.sg/nde2024-registration]
+##### Register for NDE 2024 [HERE](https://for.edu.sg/nde2025-registration )
 
 
 
