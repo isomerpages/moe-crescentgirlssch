@@ -1,25 +1,28 @@
 ---
 title: Performing Arts
 permalink: /cgs-p6openhouse2023/ccas/openhouse2023-performingarts/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-### Angklung and Kulintang
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TpKAbU0EvcE?si=2lpYf1YkL7ypZ1tj" height="315" width="560"></iframe>
-
-
-### Chinese &amp; Modern Dance
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HLvtxlO10-o?si=NsDIjJj49BaApN10" height="315" width="560"></iframe>
-
-
-### Choir
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IIjsI6mhyek?si=hVE1vke46HO2s5yk" height="315" width="560"></iframe>
-
-
-### Symphonic Band
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fb82ehrxEjE?si=wqyKf9fl74JXxPMC" height="315" width="560"></iframe>
-
-
-### Drama
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HRsgTUQwjPQ?si=9Ll86RjAMqlJDbMz" height="315" width="560"></iframe>
+<h3>Angklung and Kulintang</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TpKAbU0EvcE?si=7CaS4DpWwxaFU5g5"></iframe>
+</div>
+<h3>Chinese &amp; Modern Dance</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HLvtxlO10-o?si=E6MgjVFvZAWn5hSH"></iframe>
+</div>
+<h3>Choir</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IIjsI6mhyek?si=zFburImgeml1XUzw"></iframe>
+</div>
+<h3>Symphonic Band</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wbfwrmLg6lA?si=IWWexUDlwxa0yEsF"></iframe>
+</div>
+<h3>Drama</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HRsgTUQwjPQ?si=MqOV9vwkoMgWeR-F"></iframe>
+</div>
+<p></p>
