@@ -4,3 +4,5 @@ permalink: /0test-p6-lock-page/
 variant: tiptap
 description: ""
 ---
+<p>test lock page</p>
+<p></p>
