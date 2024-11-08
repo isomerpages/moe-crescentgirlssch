@@ -10,4 +10,5 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<p>Click here to access</p>
+<p><a href="/cgs-pqopenhouse2024/" rel="noopener nofollow" target="_blank">Click here to access</a>
+</p>
