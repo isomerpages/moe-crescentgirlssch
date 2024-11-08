@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Background/Hero_1st.gif
       key_highlights:
-        - title: New Announcements
-          description: ""
-          url: /announcement/
         - title: Calender of Events
           description: ""
           url: /about-cgs/calender/
@@ -20,6 +17,15 @@ sections:
           url: /quicklinks/for-students/
       title: Crescent Girls' School
       variant: image
+  - infopic:
+      title: Upcoming Event
+      id: infopic
+      description: Crescent Girls' School Open house
+      button: Read more
+      url: /cgs-open-house-message/
+      image: /images/CGS open
+        house/CGS_Open_house_2024_Invitation_card__website_thumbnail_.png
+      alt: Invitation cover
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
