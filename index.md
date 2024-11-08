@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Background/Hero_1st.gif
       key_highlights:
-        - title: New Announcements
-          description: ""
-          url: /announcement/
         - title: Calender of Events
           description: ""
           url: /about-cgs/calender/
