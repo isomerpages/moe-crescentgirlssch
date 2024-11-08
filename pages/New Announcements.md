@@ -10,5 +10,5 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<p><a href="/cgs-pqopenhouse2024/" rel="noopener nofollow" target="_blank">Click here to access</a>
+<p><strong><a href="/cgs-pqopenhouse2024/" rel="noopener nofollow" target="_blank">Click here to access</a></strong>
 </p>
