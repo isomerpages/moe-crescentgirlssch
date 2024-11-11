@@ -2,4 +2,4 @@ collections:
   cgs-sec1-registration:
     output: true
     order:
-      - CGS S01 reg Welcome Announcement.md
+      - CGS s01Intro.md
