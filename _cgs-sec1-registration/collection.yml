@@ -1,4 +1,5 @@
 collections:
   cgs-sec1-registration:
     output: true
-    order: []
+    order:
+      - cgsregs1intro.md
