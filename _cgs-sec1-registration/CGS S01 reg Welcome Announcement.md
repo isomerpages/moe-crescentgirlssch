@@ -9,10 +9,10 @@ description: ""
 <p></p>
 <p>Dear Parents/Guardians,</p>
 <p>Crescent Girls’ School would like to warmly welcome you to our Crescentian
-family. The Secondary One Registration Exercise marks the start of your
-daughter’s/ward’s journey at Crescent. We look forward to building a strong
-partnership with you to support your daughter/ward as she develops into
-a lady and leader.</p>
+family. The <strong><u>(insert title)</u></strong> Exercise marks the start
+of your daughter’s/ward’s journey at Crescent. We look forward to building
+a strong partnership with you to support your daughter/ward as she develops
+into a lady and leader.</p>
 <p>Please go through the following 4 steps outlined below to complete your
 registration process.</p>
 <p>We will also be organising a Parents' Seminar for all parents/guardians
@@ -25,9 +25,7 @@ via Parents Gateway by <strong><u>(insert date)</u></strong>.</p>
 <hr>
 <h4><strong>Step by step guide</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CGS Sec1 Registration/Registration_step1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 1:</div><div class="isomer-card-description">Registration for Higher MTL, 3rd Language, MSP and CSP
-
-Info and Application on MEP and AEP</div><div class="isomer-card-link">Registration and Application Deadline</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CGS Sec1 Registration/Registration_step1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 1:</div><div class="isomer-card-description">Registration for Higher MTL, 3rd Language, MSP and CSP</div><div class="isomer-card-link">Registration and Application Deadline</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -40,9 +38,7 @@ Info and Application on MEP and AEP</div><div class="isomer-card-link">Registrat
 and parents/guardians for communication purposes with the school.</div>
 <div class="isomer-card-link">Student Particulars Form</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Step 3:" src="/images/CGS Sec1 Registration/Registration_step3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 3:</div><div class="isomer-card-description">Principal's Address, M-Learning, MEP and AEP, CSP and MEP Videos 
-
-Year Head Briefing on Registration (to be uploaded on "INSERT DATE")</div><div class="isomer-card-link">Sec 1 Registration Videos</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Step 3:" src="/images/CGS Sec1 Registration/Registration_step3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 3:</div><div class="isomer-card-description">Principal's Address, M-Learning, MEP and AEP, CSP and MEP Videos</div><div class="isomer-card-link">Sec 1 Registration Videos</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
