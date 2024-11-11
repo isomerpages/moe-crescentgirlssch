@@ -9,3 +9,6 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="CGS Open House Welcome message" src="/images/CGS open house/CGS_OpenHouse2024_Website_Message.png">
 </div>
 <p></p>
+<p></p>
+<p><strong><a href="/cgs-pqopenhouse2024/" rel="noopener nofollow" target="_blank">Click here to access</a></strong>
+</p>
