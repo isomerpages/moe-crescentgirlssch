@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Admission
 ---
-<h3><strong>Secondary 1 Registration 2024</strong></h3>
+<h3><strong>Secondary 1 Registration 2023</strong></h3>
 <p>Dear parents/guardians of our 2024 Secondary One students&nbsp;</p>
 <p>A warm welcome to our Crescent family. Please check your Parents Gateway
 for links to the following resources/platforms (sent on Thursday, 21 December):&nbsp;</p>
