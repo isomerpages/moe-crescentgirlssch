@@ -2,5 +2,4 @@ collections:
   cgs-sec1-registration:
     output: true
     order:
-      - Secondary 1 Registration 2023.md
       - CGS S01 reg Welcome Announcement.md
