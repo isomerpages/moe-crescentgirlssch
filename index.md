@@ -24,11 +24,11 @@ sections:
       title: Upcoming Event
       id: infopic
       description: Crescent Girls' School Open House on 16 Nov 2024
-      button: Button Text
-      url: /cgs-pqopenhouse2024/
+      button: Click here
+      url: /announcement/
       image: /images/CGS open
         house/CGS_Open_house_2024_Invitation_card__website_thumbnail_.png
-      alt: Image alt text
+      alt: CGS Open House 2024
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
