@@ -6,7 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2><strong>SYMPHONIC BAND</strong></h2>
+<blockquote>
 <p>ET BIENTOT LE MEILLEUR - THE BEST IS YET TO BE.</p>
+</blockquote>
 <p>Established in 1967 as a military school band, Crescent Girls’ School
 Symphonic Band has since then, expanded to become a symphonic band with
 a wide range of instruments, under the steadfast guidance of Mdm Tan Soh
