@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2><strong>CHOIR</strong></h2>
 <blockquote>
-<p>&gt; “We Sing as One!”</p>
+<p>“We Sing as One!”</p>
 </blockquote>
 <p>The Crescent Girls’ School Choir has been actively contributing to the
 musical culture in school, as well as participating in public performances
