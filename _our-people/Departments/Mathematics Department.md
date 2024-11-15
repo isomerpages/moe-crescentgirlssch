@@ -3,8 +3,11 @@ title: Mathematics Department
 permalink: /our-people/departments/mathematics/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
-### **Mathematics Department**
-
-![Mathematics Department](/images/Our%20People/School%20Departments/mathematics%2023.jpg)
+<h3><strong>Mathematics Department</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="Mathematics Department 2024" src="/images/Our People/School Departments/Mathematics_24.jpg">
+</div>
+<p></p>
