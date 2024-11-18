@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /cgs-pqopenhouse2024/programmes/openhouse2024-general/
+permalink: /cgs-p6openhouse2024/programmes/openhouse2024-general/
 description: ""
 variant: tiptap
 third_nav_title: Programmes

@@ -1,6 +1,4 @@
 collections:
   cgs-sec1-registration:
     output: true
-    order:
-      - SampleaaboutRegHTML.md
-      - cgsregs1intro.md
+    order: []

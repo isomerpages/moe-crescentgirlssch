@@ -1,6 +1,6 @@
 ---
 title: Welcome page
-permalink: /cgs-pqopenhouse2024/
+permalink: /cgs-p6openhouse2024/
 description: ""
 variant: tiptap
 ---

@@ -1,6 +1,6 @@
 ---
 title: Performing Arts
-permalink: /cgs-pqopenhouse2024/ccas/openhouse2024-performingarts/
+permalink: /cgs-p6openhouse2024/ccas/openhouse2024-performingarts/
 variant: tiptap
 description: ""
 third_nav_title: CCAs

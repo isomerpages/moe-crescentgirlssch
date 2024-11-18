@@ -1,6 +1,6 @@
 ---
 title: Uniformed Group
-permalink: /cgs-pqopenhouse2023/ccas/openhouse2024-uniformed-group/
+permalink: /cgs-p6openhouse2024/ccas/openhouse2024-uniformed-group/
 variant: tiptap
 description: ""
 third_nav_title: CCAs

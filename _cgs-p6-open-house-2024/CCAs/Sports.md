@@ -1,6 +1,6 @@
 ---
 title: Sports
-permalink: /cgs-pqopenhouse2024/ccas/openhouse2024-sports/
+permalink: /cgs-p6openhouse2024/ccas/openhouse2024-sports/
 variant: tiptap
 description: ""
 third_nav_title: CCAs

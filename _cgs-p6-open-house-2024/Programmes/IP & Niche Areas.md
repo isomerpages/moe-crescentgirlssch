@@ -1,6 +1,6 @@
 ---
 title: IP & Niche Areas
-permalink: /cgs-pqopenhouse2024/programmes/openhouse2024-ipandnicheareas/
+permalink: /cgs-p6openhouse2024/programmes/openhouse2024-ipandnicheareas/
 description: ""
 variant: tiptap
 third_nav_title: Programmes

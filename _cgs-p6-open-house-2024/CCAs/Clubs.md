@@ -1,6 +1,6 @@
 ---
 title: Clubs
-permalink: /cgs-pqopenhouse2024/ccas/openhouse2024-clubs/
+permalink: /cgs-p6openhouse2024/ccas/openhouse2024-clubs/
 variant: tiptap
 description: ""
 third_nav_title: CCAs
