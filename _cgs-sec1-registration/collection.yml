@@ -2,4 +2,4 @@ collections:
   cgs-sec1-registration:
     output: true
     order:
-      - Secondary 1 Registration.md
+      - SO1R.md
