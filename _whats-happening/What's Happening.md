@@ -9,7 +9,7 @@ variant: markdown
 
 #### **2024**
 
-Click **[here](https://staging.d38imrvfgjjnoy.amplifyapp.com/whats-happening/2024/september/champion-seminar/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/whats-happening/2024/september/champion-seminar/)** to find out more!
 
 
 #### **2023**
