@@ -2,6 +2,6 @@ collections:
   cgs-sec1-registration:
     output: true
     order:
-      - S01PF.md
       - SO1R.md
       - S01MTL.md
+      - S01PF.md
