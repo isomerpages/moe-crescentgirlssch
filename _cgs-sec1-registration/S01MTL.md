@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <hr>
-<h4><strong>1.  Higher Mother Tongue Language (HMTL), Chinese and Malay Special Programmes &amp; 3rd Language Registration (more information will be posted here on 21 December 2022)</strong></h4>
+<h4><strong>1. Higher Mother Tongue Language (HMTL), Chinese and Malay Special Programmes &amp; 3rd Language Registration (more information will be posted here on 21 December 2022)</strong></h4>
 <p>For Higher Mother Tongue Languages</p>
 <p>Students who are eligible to take up HMTL will receive the option form
 via Parents Gateway by <strong><em><u>"Insert Date/Day/Time here"</u></em></strong>.
