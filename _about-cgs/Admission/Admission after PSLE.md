@@ -19,9 +19,9 @@ in 2024 is 11 (PG3) and 25 (PG2).</p>
 <p>We are unable to accept appeals from applicants whose PSLE score does
 not meet our cut-off score for the Secondary One Posting Exercise. If your
 PSLE score is same or better than our cut-off score and wishes to appeal
-to our school, you can submit an Appeal Form with photocopies of the relevant
-documents for consideration. The outcome of appeal will be made known to
-you as and when there is an available vacancy.</p>
+to our school, you can submit an <strong><a href="https://form.gov.sg/655c61bdb6f4b70012408d6e" rel="noopener nofollow" target="_blank">Appeal Form</a> </strong>with
+photocopies of the relevant documents for consideration. The outcome of
+appeal will be made known to you as and when there is an available vacancy.</p>
 <h5><strong>Q3: Is the school affiliated to any primary school?</strong></h5>
 <p>No.</p>
 <h5><strong>Q4: How has the school performed academically?</strong></h5>
