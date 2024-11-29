@@ -31,7 +31,7 @@ with value-added performance.</p>
 <p>We offer Higher Chinese, Higher Malay and Higher Tamil, and lessons are
 held within the school during curriculum time.</p>
 <h4><strong>NOTE</strong></h4>
-<p><strong>Appeal for School Transfer (Primary 6 pupils) </strong>
+<p><strong>Appeal for School Transfer (Primary 6 pupils)</strong>
 </p>
 <p><strong>(applicable after the release of Secondary 1 Posting Results) </strong>Primary
 6 pupils who have applied to Crescent Girls’ School during MOE’s Secondary
