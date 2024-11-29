@@ -1,5 +1,0 @@
-collections:
-  cgs-sec1-registration:
-    output: true
-    order:
-      - SO1R.md
