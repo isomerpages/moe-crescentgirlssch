@@ -5,7 +5,7 @@ permalink: /sec-1-registration-registration-for-higher-mtl-3rd-language-csp-msp-
 variant: tiptap
 description: ""
 ---
-<h4>1.  Higher Mother Tongue Language (HMTL), Chinese and Malay Special Programmes &amp; 3rd Language Registration (more information will be posted here on <strong><em><u>"Insert Date/day/time here"</u></em></strong>)</h4>
+<h4>1. Higher Mother Tongue Language (HMTL), Chinese and Malay Special Programmes &amp; 3rd Language Registration (more information will be posted here on <strong><em><u>"Insert Date/day/time here"</u></em></strong>)</h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,7 +49,7 @@ process.</p>
 <p>Please watch the MEP Briefing Video in Step 3 for more details. More info
 on AEP can also be found in the same video.</p>
 <p></p>
-<p><em>PLACE  LETTER IMAGE OR LINK HERE</em>
+<p><strong><em><a href="INSERT LINK HERE" rel="noopener nofollow" target="_blank">INSERT LINK HERE</a></em></strong>
 </p>
 <p></p>
 <p></p>
