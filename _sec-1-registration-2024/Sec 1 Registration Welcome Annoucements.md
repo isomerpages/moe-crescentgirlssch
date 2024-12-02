@@ -20,9 +20,7 @@ your attendance via Parents Gateway by Wednesday, <strong><u>"Insert date/day he
 <p>Thank you.</p>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Click here for step 1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Step 1" src="/images/CGS Sec1 Registration/Registration_step1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 1:</div><div class="isomer-card-description">Registration for Higher MTL, 3rd Language, MSP and CSP
-
-Info and Application on MEP and AEP</div><div class="isomer-card-link">Click here for step 1</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Click here for step 1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Step 1" src="/images/CGS Sec1 Registration/Registration_step1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 1:</div><div class="isomer-card-description">Registration for Higher MTL, 3rd Language, MSP and CSP</div><div class="isomer-card-link">Click here for step 1</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Click here for Step 2" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -35,7 +33,7 @@ Info and Application on MEP and AEP</div><div class="isomer-card-link">Click her
 and parents/guardians for communication purposes with the school.</div>
 <div class="isomer-card-link">Click here for Step 2</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Click here for Step 3" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Step 3" src="/images/CGS Sec1 Registration/Registration_step3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 3</div><div class="isomer-card-description">Principal's Address, M-Learning, MEP and AEP, CSP and MEP Videos </div><div class="isomer-card-link">Click here for Step 3</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Click here for Step 3" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Step 3" src="/images/CGS Sec1 Registration/Registration_step3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Step 3</div><div class="isomer-card-description">Principal's Address, M-Learning, MEP and AEP, CSP and MEP Videos</div><div class="isomer-card-link">Click here for Step 3</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Click here for Step 4" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
