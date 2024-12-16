@@ -38,19 +38,13 @@ submit your application by <strong><em><u>19 December 2024, 12pm</u></em></stron
 <p>Please watch the MEP Briefing Video for more details. More info on AEP
 can also be found in the same video.</p>
 <p></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM0As3IgRBGANvedrRUulnYOFyWF6RybRgR7_ViSMW8sSBgw/viewform" rel="noopener nofollow" target="_blank">MEP and AEP Application Form </a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM0As3IgRBGANvedrRUulnYOFyWF6RybRgR7_ViSMW8sSBgw/viewform" rel="noopener nofollow" target="_blank">MEP and AEP Application Form</a>
 </p>
 <p></p>
 <hr>
-<h4>3. Music Elective Programme (MEP) Application</h4>
-<p>For students who are interested in applying for the MEP programme, please
-submit your application by <strong><em><u>19 December 2024, 12pm</u></em></strong><em><u>.</u></em>
-</p>
-<p>Please watch the MEP Briefing Video for more details. More info on AEP
-can also be found in the same video.</p>
-<p></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM0As3IgRBGANvedrRUulnYOFyWF6RybRgR7_ViSMW8sSBgw/viewform" rel="noopener nofollow" target="_blank">MEP and AEP Application Form </a>
-</p>
+<h4>3. Exercising Option to Take Subjects at G3 Level (only for students in PG2)</h4>
+<p>Parents will be informed via Parents Gateway (PG) on 18 December 2024,
+4pm. Please respond by 23 December 2024, 12pm.</p>
 <p></p>
 <p></p>
 <p></p>
