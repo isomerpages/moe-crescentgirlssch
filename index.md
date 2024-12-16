@@ -26,7 +26,7 @@ sections:
       id: infobar
       description: Please click the link below for more information.
       button: Click Here
-      url: https://cms.isomer.gov.sg/sites/moe-crescentgirlssch/folders/sec-1-registration-2024
+      url: /sec-1-registration-welcome-annoucements/
   - infobar:
       title: What's Happening
       subtitle: crescent girls' school
