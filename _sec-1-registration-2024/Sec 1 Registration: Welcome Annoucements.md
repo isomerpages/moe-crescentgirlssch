@@ -22,3 +22,6 @@ going on board Parents Gateway.&nbsp;&nbsp;</p>
 <p>We have also made available the relevant resources which will be helpful
 to your daughter in getting ready for the new school year.&nbsp;</p>
 <p>Thank you.&nbsp;</p>
+<p></p>
+<h4>Please click here to access the relevant resources: <a href="https://for.edu.sg/sec1reg2025-resources" rel="noopener nofollow" target="_blank">Sec 1 (2025) Registration Resources</a></h4>
+<p></p>
