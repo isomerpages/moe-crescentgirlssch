@@ -12,7 +12,7 @@ daughter’s/ward’s journey at Crescent. We look forward to building a strong
 partnership with you to support your daughter/ward as she develops into
 a lady and leader.&nbsp;&nbsp;</p>
 <p>Please access your Parents Gateway account for links to the registration
-form and online videos from 1pm onwards. Students who are eligible for
+form and online videos from 4pm onwards. Students who are eligible for
 Higher Mother Tongue will also receive the option form through Parents’
 Gateway. Students from Posting Group 2 who are eligible to take subjects
 at a Higher Demanding Level (Posting Group 3) will also receive the option
