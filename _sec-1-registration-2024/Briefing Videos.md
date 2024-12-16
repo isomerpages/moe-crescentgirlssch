@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Principal's Address</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MGnUFbst5fo?si=Ps-18YChUx9dHvMf"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7fKy2aOF_t4?si=fCSq17GWW5ewTBGm"></iframe>
 </div>
 <p></p>
 <hr>
@@ -20,22 +20,16 @@ description: ""
 <p></p>
 <h4>M-LEARNING 3.0</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bCkD1fhXdA0?si=_a5wDV1vWi-JLSoS"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lJ4FL1I6cjo?si=bvmEAbxLBVwHxkdp"></iframe>
 </div>
 <p></p>
 <hr>
 <p></p>
 <h4>AEP MEP Briefing</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fgtjtGM7UP8?si=VhPzN6syn9w4I09e"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wDP1btoonE?si=r6NJcKxNN6QQiWF-"></iframe>
 </div>
-<p></p>
 <hr>
-<h4>CSP MSP Briefing</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kxdlBBF2PxA?si=uLwVyd65gOec6gdB"></iframe>
-</div>
-<p></p>
 <hr>
 <p></p>
 <p></p>
