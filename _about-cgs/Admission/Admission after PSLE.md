@@ -14,7 +14,7 @@ The posting will be processed by MOE based on pupils’ PSLE score and choices,
 and the results are usually out in mid/late December each year.</p>
 <h5><strong>Q1: What is the school’s cut-off PSLE?</strong></h5>
 <p>The cut-off PSLE score for admission into our school at Secondary One
-in 2024 is 11 (PG3) and 25 (PG2).</p>
+in 2025 is 10 (PG3) and 23 (PG2).</p>
 <h5><strong>Q2: What if I miss the cut-off score?</strong></h5>
 <p>We are unable to accept appeals from applicants whose PSLE score does
 not meet our cut-off score for the Secondary One Posting Exercise. If your
