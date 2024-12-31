@@ -19,7 +19,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
+<img style="width: 28%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
 </div>
 <p>Ms Cindy Low</p>
 <p>Principal</p>
