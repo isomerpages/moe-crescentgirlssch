@@ -21,13 +21,6 @@ sections:
       title: Crescent Girls' School
       variant: image
   - infobar:
-      title: Secondary One Registration Exercise
-      subtitle: Crescent Girls' School
-      id: infobar
-      description: Please click the link below for more information.
-      button: Click Here
-      url: /sec-1-registration-welcome-annoucements/
-  - infobar:
       title: What's Happening
       subtitle: crescent girls' school
       description: Keep up with what's happening at CGS!
