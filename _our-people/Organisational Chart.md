@@ -20,7 +20,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
+<img style="width: 33%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
 </div>
 <p>Ms Cindy Low</p>
 <p>Principal</p>
@@ -48,10 +48,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
 </div>
-<p>Miss Low Geok Pin</p>
-<p>HOD/Creative Arts</p>
+<p>Mrs Chiang Po Lin</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 </tbody>
