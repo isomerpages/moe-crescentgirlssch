@@ -15,14 +15,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
-</div>
-<p>Ms Cindy Low</p>
-<p>Principal</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
+</div>
+<p>Ms Cindy Low</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -31,35 +32,26 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
-</div>
-<p>Ms Cindy Low</p>
-<p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
 <p>Ms Usha Jeyarah</p>
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
 </div>
-<p>Mrs Chiang Po Lin</p>
-<p>Vice-Principal</p>
+<p>Miss Low Geok Pin</p>
+<p>HOD/Creative Arts</p>
 </td>
 </tr>
 </tbody>
