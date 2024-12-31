@@ -29,10 +29,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 69%;" height="auto" width="100%" alt="Mrs Helen Chong" src="/images/Our People/Organization Chart/Mrs_Helen_Chong.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
 </div>
-<p>Mrs Helen Chong
+<p>Ms Cindy Low
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,17 +50,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Mrs Chiang Po Lin" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Mrs Chiang Po Lin" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
 </div>
 <p>Mrs Chiang Po Lin
 <br>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Ms Chuang Siew Chin" src="/images/Our People/Organization Chart/Ms_Chuang_Siew_Chin.png">
-</div>
-<p>Ms Chuang Siew Chin
-<br>Vice-Principal</p>
+<p></p>
 </td>
 </tr>
 </tbody>
