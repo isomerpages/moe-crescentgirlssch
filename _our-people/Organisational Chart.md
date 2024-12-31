@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h3><strong>Organisational Chart</strong></h3>
 <h4><strong>Executive Committee 2024</strong></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,29 +27,26 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
 </div>
 <p>Ms Cindy Low</p>
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
-<p>Ms Usha Jeyarajah</p>
-<p>Vice-Principal</p>
+<p>Ms Usha Jeyarajah Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Mrs Chiang Po Lin" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
 </div>
-<p>Mrs Chiang Po Lin
-<br>Vice-Principal</p>
+<p>Mrs Chiang Po Lin Vice-Principal</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
