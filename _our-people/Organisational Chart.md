@@ -2,7 +2,7 @@
 title: Organisational Chart
 permalink: /our-people/organisational-chart/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Organisational Chart</strong></h3>
 <h4><strong>Executive Committee 2024</strong></h4>
@@ -14,34 +14,12 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
 </div>
 <p>Ms Cindy Low</p>
 <p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -61,31 +39,27 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
+</div>
+<p>Ms Cindy Low</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
-<p>Ms Usha Jeyarajah Vice-Principal</p>
+<p>Ms Usha Jeyarah</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
 </div>
-<p>Mrs Chiang Po Lin Vice-Principal</p>
+<p>Mrs Chiang Po Lin</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 </tbody>
