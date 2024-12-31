@@ -27,64 +27,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
 </div>
 <p>Ms Cindy Low</p>
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 48%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Usha Jeyarajah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
-<p>Ms Usha Jeyarajah
-<br>Vice-Principal</p>
+<p>Ms Usha Jeyarajah</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 48%;" height="auto" width="100%" alt="Mrs Chiang Po Lin" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Mrs Chiang Po Lin" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
 </div>
 <p>Mrs Chiang Po Lin
 <br>Vice-Principal</p>
