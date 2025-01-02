@@ -14,18 +14,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
-<img style="width: 28%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
 </div>
-<p>Ms Cindy Low</p>
-<p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cindy Low Principal</p>
 </td>
 </tr>
 </tbody>
@@ -41,8 +34,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
 </div>
-<p>Ms Usha Jeyarah</p>
-<p>Vice-Principal</p>
+<p>Mrs Shirlene Koh HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -74,8 +66,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Miss Low Geok Pin" src="/images/Our People/Organization Chart/organisation9.png">
+<img style="width: 52%;" height="auto" width="100%" alt="Ms Cindy Low" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
+</div>
+<p>Ms Cindy Low Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Usha Jeyarah" src="/images/Our People/Organization Chart/Ms_Usha_Jeyarajah.png">
+</div>
+<p>Ms Usha Jeyarajah ~Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 92%;" height="auto" width="100%" alt="Mrs Chiang Po Lin" src="/images/Our People/Organization Chart/Mrs_Chiang_Po_Lin.png">
+</div>
+<p>Mrs Chiang Po Lin Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 43%;" height="auto" width="100%" alt="Miss Low Geok Pin" src="/images/Our People/Organization Chart/organisation9.png">
 </div>
 <p>Miss Low Geok Pin HOD/Creative Arts</p>
 </td>
