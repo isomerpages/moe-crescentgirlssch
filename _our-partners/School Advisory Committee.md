@@ -28,22 +28,19 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac1.jpg">
 </div>
-<p>Mr S Sivaram</p>
-<p>Chairman</p>
+	<p>Mr S Sivaram<br>Chairman<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac3.jpg">
 </div>
-<p>Ms Ramanujam Jeyapriya</p>
-<p>Vice-Chairman</p>
+<p>Ms Ramanujam Jeyapriya<br>Vice-Chairman<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
 </div>
-<p>Ms Cindy Low</p>
-<p>Hon Secretary/Principal</p>
+<p>Ms Cindy Low<br>Hon Secretary/Principal<br></p>
 </td>
 </tr>
 </tbody>
@@ -75,29 +72,25 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac4.jpg">
 </div>
-<p>Ms Alpana Keertikar</p>
-<p>Member</p>
+	<p>Ms Alpana Keertikar<br>Member<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac8.jpg">
 </div>
-<p>Ms Damini</p>
-<p>Member</p>
+<p>Ms Damini<br>Member<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac5.jpg">
 </div>
-<p>Mr Raymond Wong</p>
-<p>Member</p>
+<p>Mr Raymond Wong<br>Member<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mr_Richard_Tan.png">
 </div>
-<p>Mr Richard Tan</p>
-<p>Member</p>
+<p>Mr Richard Tan<br>Member<br></p>
 </td>
 </tr>
 </tbody>
@@ -127,24 +120,21 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Sally_Seow.png">
 </div>
-<p>Ms Sally Seow</p>
-<p>Member</p>
+	<p>Ms Sally Seow<br>Member<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mrs_Veronika_Linardi.jpg">
 </div>
-<p>Mrs Veronika Linardi</p>
-<p>Member</p>
+<p>Mrs Veronika Linardi<br>Member<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac7.png">
 </div>
-<p>Ms Yvonne Aw</p>
-<p>Member</p>
+<p>Ms Yvonne Aw<br>Member<br></p>
 </td>
 </tr>
 </tbody>
