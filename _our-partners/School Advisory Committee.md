@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Advisory Committee</strong></h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,91 +26,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mr_S_Sivaram1.jpg">
 </div>
-<p>Mr S Sivaram
-<br>Chairman
-<br>
-</p>
+<p>Mr S Sivaram</p>
+<p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Ms_Ramanujam_Jeyapriya2.jpg">
 </div>
 <p>Ms Ramanujam Jeyapriya
-<br>Vice-Chairman
-<br>
-</p>
+<br>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Ms_Cindy_Low3.jpg">
 </div>
 <p>Ms Cindy Low
 <br>Hon Secretary/Principal</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac3.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Principal_Cindy_Low_OrgChart.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
