@@ -25,7 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac1.jpg">
 </div>
@@ -33,7 +32,6 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac3.jpg">
 </div>
@@ -41,23 +39,11 @@ variant: tiptap
 <p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
 </div>
 <p>Ms Cindy Low</p>
 <p>Hon Secretary/Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -86,42 +72,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac4.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac4.jpg">
 </div>
+<p>Ms Alpana Keertikar</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac8.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac8.jpg">
 </div>
+<p>Ms Damini</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac5.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac5.jpg">
 </div>
+<p>Mr Raymond Wong</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mr_Richard_Tan.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mr_Richard_Tan.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Richard Tan</p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
@@ -149,31 +125,26 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Sally_Seow.png">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Sally_Seow.png">
 </div>
+<p>Ms Sally Seow</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mrs_Veronika_Linardi.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/Mrs_Veronika_Linardi.jpg">
 </div>
+<p>Mrs Veronika Linardi</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac7.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Partner/School Advisory Committee/sac7.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yvonne Aw</p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
