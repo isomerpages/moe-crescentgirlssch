@@ -9,45 +9,50 @@ variant: tiptap
 <blockquote>
 <p>"Our Best Act For You"</p>
 </blockquote>
-<p>English Drama is a Co-Curricular Activity (CCA) for Crescentian theatre
-practitioners. The goal of the society is to ensure that every member is
-equipped with the necessary skills to enable them to excel in drama. This
-also involves the skills for scriptwriting, stagecraft as well as the play
-production process. Members are taught the core basics of dramatic technique
-– the use of levels to create effect, vocal projection, awareness of body
-language, facial expressions, use of space and behind-the-scenes work on
-lighting and sound. As such, every member is given the opportunity to develop
-their talents and to discover their best talents to excel confidently.
-Additionally, in the upper secondary levels, the students are trained to
-take on responsibilities as facilitators and leaders.</p>
-<p>English Drama also takes part in the biennial Singapore Youth Festival
-Arts Presentation. For such performances, the students, in collaboration
-with their instructors, discuss and devise a twenty-minute perspective
-that provides reflection about a certain aspect of society. Students would
-also have the opportunity to craft the scripts, create the props and costumes
-as well as to arrange the lighting. Most importantly, it is the students
-who assume roles such as the Stage Manager, that give them autonomy over
-their production. This provides them with a good platform to hone their
-leadership and organizational skills.</p>
-<p>The English Drama members are close and organise social events to bond
-as a family. It is common to see former students of the CCA returning to
-share their experiences with the current members and to inspire their juniors
-to new heights. The time the students spend in English Drama in Crescent
-is only the beginning of their journey into the Arts – it is an initiation
-into a cultural lifestyle.</p>
+<p>English Drama is a vibrant Co-Curricular Activity (CCA) for Crescentian
+theatre practitioners, aimed at equipping members with essential skills
+to excel in drama. This includes training in scriptwriting, stagecraft,
+and the entire play production process. Members learn foundational dramatic
+techniques, such as using levels for effect, vocal projection, body language
+awareness, facial expressions, and the nuances of lighting and sound. Every
+participant is encouraged to explore and develop their unique talents,
+fostering confidence in their abilities. Additionally, upper secondary
+students receive training to take on roles as facilitators and leaders,
+further enhancing their skills and preparing them for future challenges
+in the arts.</p>
+<p>English Drama actively participates in the biennial Singapore Youth Festival
+Arts Presentation, where students collaborate with their instructors to
+create a twenty-minute performance reflecting a specific societal aspect.
+In this process, students have the chance to craft scripts, design props
+and costumes, and arrange lighting. It is crucial to note that they take
+on key roles like Stage Manager, allowing them to exercise autonomy over
+their production. This hands-on experience serves as an excellent platform
+for honing their leadership and organisational skills, fostering both personal
+and artistic growth.</p>
+<p>The English Drama members share a strong bond, organizing social events
+that foster a familial atmosphere. It’s common to see alumni returning
+to share their experiences, inspiring current members to reach new heights.
+For students in the English Drama CCA at Crescent, their time spent here
+is just the beginning of their journey into the Arts—it's an initiation
+into a vibrant cultural lifestyle. This supportive community nurtures creativity
+and passion, paving the way for lifelong connections and artistic exploration.</p>
+<p></p>
 <h4><strong>Teachers-In-charge:</strong></h4>
 <p><strong>OIC:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Julius Li</p>
+<p>Mdm Norazlin Mohd</p>
 </li>
 </ul>
 <p><strong>Other Teacher I/Cs:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Norazlin Mohd</p>
+<p>Mrs Mohan</p>
+</li>
+<li>
+<p>Ms Shahirah</p>
 </li>
 </ul>
 <hr>
