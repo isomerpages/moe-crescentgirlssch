@@ -12,7 +12,7 @@ The ICDL e-Learning solution provides a slew of interactive content and tools to
 
 The flexibility of Digital Explorer Learn programme allows schools to adopt this programme as a self-directed learning activity or complement it for classroom-based teaching. Schools may also choose to implement this programme as a post-exam activity.
 
-The registration fee for each participating student will be **S$5(before GST)**. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 15 November 2024.
+The registration fee for each participating student will be **S$10(before GST)**. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide. All participating schools should complete Digital Explorer Learn by 15 November 2024.
 
 
 ### PRIMARY LEVEL ###
@@ -125,7 +125,7 @@ November 2025 | Completion of Learn
 Through participation in NDE, students will be equipped with essential skills and knowledge to use office productivity tools effectively. The self-directed/self-initiated aspect of the programme empowers students to build on their knowledge progressively at their own pace. In addition to this, the programme develops future-ready learners and gives students the opportunity to apply what they have learnt and connect with students beyond their community when they participate in national and regional competitions.
 
 **2\. Is there any registration fee or other cost to participate in the program?**<br>
-There is a registration fee **$10** for Digital Explorer - Learn program. Students will need to have an internet-enabled device to access the e-Learning portal and resources.
+There is a registration fee **$10** (before GST) for Digital Explorer - Learn program. Students will need to have an internet-enabled device to access the e-Learning portal and resources.
 
 **3\. What if students do not complete the entire programme?** <br>
 For the Digital Explorer - Learn programme, students will need to complete all lessons in the programme in order to be awarded the e-Certification of completion.
