@@ -743,7 +743,7 @@ desired outcome of the eTeens programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<p><strong>At Crescent Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Crescent Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
