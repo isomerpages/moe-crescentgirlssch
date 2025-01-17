@@ -57,7 +57,7 @@ you and your loved ones.
 </ol>
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Cresent Girls' School's Sexuality Education Programme for 2024</strong></h4>
+<h4><strong>Overview of Cresent Girls' School's Sexuality Education Programme for 2025</strong></h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -104,7 +104,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3><strong>At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in&nbsp;2024:</strong></h3>
+<h3><strong>At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in&nbsp;2025:</strong></h3>
 <h5><strong>SECONDARY 1</strong></h5>
 <table style="minWidth: 125px">
 <colgroup>
@@ -743,7 +743,7 @@ desired outcome of the eTeens programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<p><strong>At Crescent Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Crescent Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -813,13 +813,13 @@ external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable <strong><a href="" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 6/2/2024.</p>
+The completed form is to be submitted by 6/2/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable <strong><a href="/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 6/2/2024</p>
+The completed form is to be submitted by 6/2/2025</p>
 </li>
 <li>
 <p>Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah_bte_ibrahim@crescent.edu.sg
