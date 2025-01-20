@@ -16,11 +16,12 @@ their pursuit of excellence, become ladies and leaders of tomorrow.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to stand attention, Singapore Citizens must sing the National
-Anthem and take the pledge.</p>
+<p>Students are to stand at attention.</p>
 </li>
 <li>
-<p>Students will take the pledge by placing their right fist over their heart.</p>
+<p>Students who are Singapore Citizens must sing the National Anthem and
+take the Pledge.&nbsp;Students will take the Pledge with the right fist
+over the heart.</p>
 </li>
 </ul>
 <p><strong>(B) Attire and Appearance</strong>
