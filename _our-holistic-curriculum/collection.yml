@@ -2,7 +2,6 @@ collections:
   our-holistic-curriculum:
     output: true
     order:
-      - Student Leadership/.keep
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language & Literature Department.md
       - Instructional Programmes/Mathematics Department.md
@@ -17,3 +16,4 @@ collections:
       - Character and Citizenship Edu/Citizenship Education @ Crescent.md
       - Character and Citizenship Edu/Sexuality Education.md
       - Signature Programmes/.keep
+      - Student Leadership/.keep
