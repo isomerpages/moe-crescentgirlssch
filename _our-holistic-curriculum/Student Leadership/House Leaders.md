@@ -1,6 +1,6 @@
 ---
 title: House Leaders
-permalink: /our-holistic-curriculum/cce/cca/student-leadership/house-leaders/
+permalink: /our-holistic-curriculum/student-leadership/house-leaders/
 description: ""
 third_nav_title: Student Leadership
 variant: tiptap
