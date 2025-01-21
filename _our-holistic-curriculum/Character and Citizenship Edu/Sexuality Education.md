@@ -58,7 +58,7 @@ you and your loved ones.
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Cresent Girls' School's Sexuality Education Programme for 2025</strong></h4>
-<ol start="4">
+<ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -78,7 +78,7 @@ in the school curriculum.
 </li>
 </ol>
 <h5><strong>Sexuality Education Lessons:</strong></h5>
-<ol start="6">
+<ol data-tight="true" class="tight">
 <li>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
@@ -726,7 +726,7 @@ and act in alignment with our beliefs.</p>
 </tbody>
 </table>
 <h4><strong>eTeens Programme:</strong></h4>
-<ol start="8">
+<ol data-tight="true" class="tight">
 <li>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, for Secondary 3 students to provide them
@@ -813,7 +813,7 @@ external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year in Parent Gateway <strong><a href="" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 6/2/2025.</p>
+<a href="/files/sex edu form1.pdf" rel="noopener nofollow" target="_blank">file</a>The completed form is to be submitted by 6/2/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
