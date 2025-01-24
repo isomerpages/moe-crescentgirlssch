@@ -765,7 +765,7 @@ to make wise, informed and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass lesson by HPB appointed vendor</p>
+<p>Mass lesson by HPB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Awareness of the different STIs and HIV/AIDS
@@ -812,13 +812,13 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year in Parent Gateway <strong><a href="" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-<a href="/files/sex edu form1.pdf" rel="noopener nofollow" target="_blank">file</a>The completed form is to be submitted by 6/2/2025.</p>
+the start of the year in Parent Gateway <strong><a href="/files/Sexuality Education/SEd_consent_form_for_Sec_1_and_2_and_4.pdf" rel="noopener nofollow" target="_blank">(here)</a></strong>.
+The completed form is to be submitted by 6/2/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year in Parents Gatewey <strong><a href="/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+the start of the year in Parents Gatewey <strong><a href="/files/Sexuality Education/SEd_consent_form_for_Sec_3.pdf" rel="noopener nofollow" target="_blank">(here)</a></strong>.
 The completed form is to be submitted by 6/2/2025</p>
 </li>
 <li>
@@ -831,9 +831,6 @@ programme
 </ol>
 <h3>Empowered Teens (eTeens)</h3>
 <h5>STI (Sexually Transmitted Infection) /HIV (Human Immunodeficiency Virus) Prevention Programme</h5>
-<p>
-<br>
-</p>
 <ol>
 <li>
 <p>Health Promotion Board (HPB), in collaboration with the Ministry of Health
@@ -870,7 +867,7 @@ are by the HPB and follow a presentation guide approved by MOE.
 skills of responsible decision-making, negotiation and assertiveness, based
 on the values which students have been brought up with, in the family and
 the community. The training for teachers who conduct the classroom-based
-lesson is provided for by MOE.
+lesson is provided by MOE.
 <br>
 <br>
 </p>
