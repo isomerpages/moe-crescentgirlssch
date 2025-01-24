@@ -225,7 +225,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
+<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
 </div>
 	<center>
 	<p>Miss Tai Wai Peng<br>SH/CCE<br></p>
@@ -241,7 +241,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Mr Kelwin Koh" src="/images/Our People/Organization Chart/organisation20.png">
+<img style="width: 87%;" height="auto" width="100%" alt="Mr Kelwin Koh" src="/images/Our People/Organization Chart/organisation20.png">
 </div>
 	<center>
 <p>Mr Kelwin Koh<br>SH/Geography<br></p>
@@ -273,17 +273,10 @@ variant: markdown
 <p>Miss Tay Puay Hoon<br>Administration Manager 1<br></p>
 </center>
 </td>
+
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Mrs Ng Wei San" src="/images/Our People/Organization Chart/organisation26.png">
-</div>
-	<center>
-<p>Mrs Ng Wei San<br>Administration Manager 2<br></p>
-</center>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
 </div>
 	<center>
 <p>Mr Mohammad Fahmie<br>Operations Manager<br></p>
