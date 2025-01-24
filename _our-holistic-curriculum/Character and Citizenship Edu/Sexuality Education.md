@@ -58,7 +58,7 @@ you and your loved ones.
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Cresent Girls' School's Sexuality Education Programme for 2025</strong></h4>
-<ol start="4">
+<ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -78,7 +78,7 @@ in the school curriculum.
 </li>
 </ol>
 <h5><strong>Sexuality Education Lessons:</strong></h5>
-<ol start="6">
+<ol data-tight="true" class="tight">
 <li>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
@@ -104,7 +104,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3><strong>At Crescent Girl’s School, the following Sexuatlity Education Lessons will be taught in&nbsp;2025:</strong></h3>
+<h3><strong>At Crescent Girl’s School, the following Sexuality Education Lessons will be taught in&nbsp;2025:</strong></h3>
 <h5><strong>SECONDARY 1</strong></h5>
 <table style="minWidth: 125px">
 <colgroup>
@@ -166,7 +166,7 @@ relationships, both online and offline
 in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ self-concept</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More then Meets the Eye
+<p>More than Meets the Eye
 <br>Lesson 3
 <br>(60 mins)</p>
 </td>
@@ -226,7 +226,7 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -288,9 +288,9 @@ etc.)</p>
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focus on how the family, culture and society can influence
-one’s perception of their gender roles. Students will learn what gender
-stereotypes are (e.g. males traditionally as breadwinners and females traditionally
+<p>This lesson focus on how family, culture and society can influence one’s
+perception of their gender roles. Students will learn what gender stereotypes
+are (e.g. males traditionally as breadwinners and females traditionally
 as doing household chores) and how gender stereotypes are formed. Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
@@ -311,7 +311,7 @@ as a male or female
 <br>- Understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -320,12 +320,12 @@ as a male or female
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Safety Challenge
-<br>Lesson 2A
+<br>Lesson 2
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
-It emphasises the need for help-seeking, peer support and positive peer
+It emphasizes the need for help-seeking, peer support and positive peer
 influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
@@ -339,7 +339,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -348,16 +348,16 @@ both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Do I or Don't I
-<br>Lesson 2B
+<br>Lesson 3
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on respect for personal boundaries; and how to be
 safe from risky sexual behaviour, teenage pregnancy and abortion. Students
 will learn the importance of respecting one another’s boundaries in relationships.
-This lesson emphasises the importance of responsible decision-making, the
-value of sexual abstinence, the need for help seeking. Students will be
-aware of Singapore laws protecting minors, such as the legal consequences
+This lesson emphasizes the importance of responsible decision-making, the
+value of sexual abstinence and the need for help seeking. Students will
+be aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,7 +369,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +427,7 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Love Yourself, Love Others
-<br>Lesson 1A
+<br>Lesson 1
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,14 +444,14 @@ entering into a dating relationship.</p>
 and how we interact with others and the choices we make, both online and
 offline.
 <br>
-<br>- Understand that expectation of oneself and others may differ and can
+<br>- Understand that expectations of oneself and others may differ and can
 affect one's emotions, thoughts and behaviours.
 <br>
 <br>- Recognise what healthy dating relationship involve and know that readiness
 is important when entering into dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -460,12 +460,12 @@ is important when entering into dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mending a Broken Heart
-<br>Lesson 1B
+<br>Lesson 2
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship building involves person's emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -487,7 +487,7 @@ normal and one can recover from the experience.
 family and friends are important pillars of support.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -496,23 +496,23 @@ family and friends are important pillars of support.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>When Respect Takes Centre Stage
-<br>Lesson 2
+<br>Lesson 3
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically and make informed decisions
-in the contexts of sexting and voyeurism, and encourages students to exert
+in the contexts of sexting and voyeurism and encourages students to exert
 a positive influence as a respectful online user. It will also deepen students’
 convictions about making moral decisions by taking into consideration the
 impact of their decisions and actions on their well-being and safety, their
 loved ones, and the community. Students learn that they have a right and
 responsibility to be safe and protect their personal space and body. They
 also learn that sexting, voyeurism and other related sexual offences are
-never justifiable and they can seek help in times of need.</p>
+never justifiable, and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Recognise the importance of being informed of social and moral issues
-of the day and the need to reflect on these issues, and weigh them against
+of the day and the need to reflect on these issues and weigh them against
 our own moral standpoints as we form our perspective about them.
 <br>
 <br>- Understand that we strengthen our character when we commit to sound
@@ -520,7 +520,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our belief</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -595,7 +595,7 @@ others’ values and principles, with regard to gender stereotypes.</p>
 not conforming to gender stereotypes does not negate one’s gender identity.
 <br>
 <br>- Understand what gender stereotypes comprise, e.g. notions of masculinity
-and femininity vary over time and space, and are shaped by societal expectations.
+and femininity vary over time and space and are shaped by societal expectations.
 <br>
 <br>- Know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
@@ -642,7 +642,7 @@ with verbal ones, when communicating personal and emotional boundaries
 in a relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -677,7 +677,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -691,7 +691,7 @@ the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will revisit the impact of pornography and deepen
-their understanding on its impact on relationships. Students will also
+their understanding of its impact on relationships. Students will also
 learn about revenge pornography, including its definition and legal provisions.
 They will also learn that they can turn to trusted adults for help in setting
 boundaries and overcoming difficulties in making sound decisions, to prevent
@@ -699,11 +699,11 @@ themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Understand that we strengthen our character when we commit to sound
-values-based viewpoints (e.g. respect for life) and decisions, and speak
+values-based viewpoints (e.g. respect for life) and decisions and speak
 and act in alignment with our beliefs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -726,12 +726,12 @@ and act in alignment with our beliefs.</p>
 </tbody>
 </table>
 <h4><strong>eTeens Programme:</strong></h4>
-<ol start="8">
+<ol data-tight="true" class="tight">
 <li>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, for Secondary 3 students to provide them
 with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
+eTeens is conducted in two segments – a mass lesson segment and a classroom-based
 programme.</p>
 </li>
 <li>
@@ -765,7 +765,7 @@ to make wise, informed and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass lesson by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Awareness of the different STIs and HIV/AIDS
@@ -774,7 +774,7 @@ to make wise, informed and sensible decisions.</p>
 <br>- Consequences and impact of STIs/HIV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -786,7 +786,7 @@ to make wise, informed and sensible decisions.</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -803,7 +803,7 @@ of assertiveness and responsible decision-making</p>
 </tbody>
 </table>
 <h4><strong>Information for Parents</strong></h4>
-<ol start="10">
+<ol data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of the Sexuality Education Lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
@@ -812,13 +812,13 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <strong><a href="" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 6/2/2025.</p>
+the start of the year in Parent Gateway <strong><a href="" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+<a href="/files/sex edu form1.pdf" rel="noopener nofollow" target="_blank">file</a>The completed form is to be submitted by 6/2/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <strong><a href="/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+the start of the year in Parents Gatewey <strong><a href="/files/Sec3_eTeens_OptOut_form_AnnexB_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
 The completed form is to be submitted by 6/2/2025</p>
 </li>
 <li>
@@ -839,7 +839,7 @@ programme
 <p>Health Promotion Board (HPB), in collaboration with the Ministry of Health
 (MOH) and the Ministry of Education (MOE), conduct a programme titled Empowered
 Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV.
-The programme provides information on transmission and prevention of STIs/HIV,
+The programme provides information on transmission and prevention of STIs/HIV
 and helps guide students to make good life choices to avoid risky sexual
 behaviors.
 <br>
@@ -860,11 +860,12 @@ to peer pressure to have pre-marital sex; and
 </p>
 </li>
 <li>
-<p>The programme includes a 1-hour talk and a 1-hour classroom-based lesson:
-<br>a) The talk includes a multi-media presentation using a video and presentation
+<p>The programme includes a 1-hour mass lesson and a 1-hour classroom-based
+lesson:
+<br>a) The lesson includes a multi-media presentation using a video and presentation
 to convey key learning points. The video depicts how teenagers weigh considerations
-in different scenarios and eventually make responsible decisions. Presenters
-are engaged by the HPB and follow a presentation guide approved by MOE.
+in different scenarios and eventually make responsible decisions. Resource
+are by the HPB and follow a presentation guide approved by MOE.
 <br>b) The classroom-based lesson by an MOE-SEd trained teacher reinforces
 skills of responsible decision-making, negotiation and assertiveness, based
 on the values which students have been brought up with, in the family and
