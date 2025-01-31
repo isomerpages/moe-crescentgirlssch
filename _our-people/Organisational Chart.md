@@ -212,7 +212,7 @@ variant: tiptap
 <img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
 </div>
 <p>Ms Ting Hui Yi
-<br>SH/Math
+<br>SH/Mathematics
 <br>
 </p>
 </td>
@@ -268,7 +268,7 @@ variant: tiptap
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
 </div>
 <p>Mr Kingsley Ng
-<br>SH/Student Management
+<br>Assistant Year Head (Sec 3)
 <br>
 </p>
 </td>
