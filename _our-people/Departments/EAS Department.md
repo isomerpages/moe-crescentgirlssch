@@ -88,46 +88,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zheng Yangzhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Law Yew Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fadilah Binte Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior ICT Trainer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Riduan Suhaimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Trainer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Amirul&nbsp;Adani&nbsp;Bin&nbsp;Shamsuri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Suseela</p>
 </td>
 <td rowspan="1" colspan="1">
