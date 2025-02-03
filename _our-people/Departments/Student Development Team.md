@@ -1,13 +1,10 @@
 ---
-title: EAS Department
-permalink: /our-people/departments/eas/
+title: Student Development Team
+permalink: /student-development-team/
+variant: tiptap
 description: ""
 third_nav_title: Departments
-variant: tiptap
 ---
-<h3><strong>EAS Department</strong></h3>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,106 +13,91 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Puay Hoon</p>
+<p>Ms Vivienne He Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Matilda Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager 2</p>
+<p>Head of Department / Character &amp; Citizenship Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Fahmie</p>
+<p>Mr Lau Kum Weng Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Soo Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Head of Department / Student Management &amp; Student Leadership</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Soo Lan</p>
+<p>Ms Jerene Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Adeline Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Positive Education Champion
+<br>School Staff Developer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Ong</p>
+<p>Ms Pamelia Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Support Staff</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Annie Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Support Staff</p>
+<p>Year Head / Sec 1&amp;4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mahani</p>
+<p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Office Attendant</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Suseela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Attendant</p>
+<p>Year Head / Sec 1&amp;4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kamariah</p>
+<p>Ms Estee Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Attendant</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sze Geok Kim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Attendant</p>
+<p>Year Head / Sec 2&amp;3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jamilah</p>
+<p>Mr Kingsley Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Librarian</p>
+<p>Assistant Year Head / Sec 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tai Wai Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lai Yi Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education &amp; Career Guidance Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pauline Aw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Helen Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
 </td>
 </tr>
 </tbody>
