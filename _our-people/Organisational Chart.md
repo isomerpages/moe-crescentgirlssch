@@ -254,14 +254,15 @@ variant: tiptap
 <br>Administration Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Ang Tze Liat Matilda
+<br>Administration Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
 </div>
 <p>Mr Mohammad Fahmie
 <br>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
