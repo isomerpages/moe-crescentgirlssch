@@ -34,7 +34,7 @@ variant: tiptap
 <p>Ms Rilaini Bte Sapari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Manager / Sec 1 (Internal)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
