@@ -247,12 +247,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 88%;" height="auto" width="100%" alt="Miss Tay Puay Hoon" src="/images/Our People/Organization Chart/organisation25.png">
 </div>
@@ -265,6 +259,12 @@ variant: tiptap
 </div>
 <p>Mr Mohammad Fahmie
 <br>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
