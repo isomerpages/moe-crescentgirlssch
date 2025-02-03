@@ -234,7 +234,7 @@ variant: tiptap
 <p>Ms Matilda Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager 1</p>
+<p>Administration Manager 2</p>
 </td>
 </tr>
 <tr>
