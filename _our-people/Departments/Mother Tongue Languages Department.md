@@ -27,14 +27,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tiah Bi Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Chinese Language (Acting)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Kalyani d/o Kuppusamy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,6 +39,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tiah Bi Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
