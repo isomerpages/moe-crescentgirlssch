@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Tze Liat Matilda</p>
+<p>Ms Matilda Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 2</p>
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Fahmie Bin Abdullah</p>
+<p>Mr Mohamad Fahmie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Neo Lay Ying</p>
+<p>Ms Adeline Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Siew Cheng Annie</p>
+<p>Ms Annie Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Support Staff</p>
@@ -80,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mahani Mohd</p>
+<p>Ms Mahani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Office Attendant</p>
@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suseela Maniyam</p>
+<p>Ms Suseela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Attendant</p>
@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kamariah Bte Wasnam</p>
+<p>Ms Kamariah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Attendant</p>
@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jamilah Binte Abdul Hamid</p>
+<p>Ms Jamilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Librarian</p>
