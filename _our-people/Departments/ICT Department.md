@@ -34,7 +34,7 @@ third_nav_title: Departments
 <p>Ms Caroline Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Director (Internal)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ third_nav_title: Departments
 <p>Ms Nat Yuen Mei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Director (Internal)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
