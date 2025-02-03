@@ -12,7 +12,7 @@ sections:
         - title: Announcement
           description: ""
           url: /announcement/
-        - title: Calender of Events
+        - title: Calendar of Events
           description: ""
           url: /about-cgs/calender/
         - title: Quicklinks
