@@ -29,6 +29,15 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Jerene Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Positive Education Champion
+<br>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Pamelia Goh</p>
 </td>
 <td rowspan="1" colspan="1">
