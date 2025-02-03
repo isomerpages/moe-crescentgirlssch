@@ -7,10 +7,6 @@ variant: tiptap
 ---
 <h3><strong>English Language and Literature Department</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Our People/School Departments/English_Language_and_Literature_24.jpg">
-</div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,7 +18,7 @@ variant: tiptap
 <p>Mrs Yeo Woei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/English Language</p>
+<p>Head of Department / English Language</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +26,7 @@ variant: tiptap
 <p>Ms Punitha d/o Ramanathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Literature</p>
+<p>Subject Head / Literature</p>
 </td>
 </tr>
 <tr>
