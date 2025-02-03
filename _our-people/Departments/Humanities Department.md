@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <h3><strong>Humanities Department</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Humanities Department 2024" src="/images/Our People/School Departments/Humanities_Department_24.jpg">
-</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -38,7 +35,7 @@ variant: tiptap
 <p>Ms Pamelia Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 1 &amp; 4</p>
+<p>Year Head / Sec 1&amp;4</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +43,7 @@ variant: tiptap
 <p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 1 &amp; 4</p>
+<p>Year Head / Sec 1&amp;4</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Christian Seah Jinbin</p>
+<p>Mr Christian Seah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -75,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jacqueline Chen Weiwen&nbsp;</p>
+<p>Ms Jacqueline Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -91,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Rais B Mohd Ismail</p>
+<p>Mr Mohammed Rais</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
