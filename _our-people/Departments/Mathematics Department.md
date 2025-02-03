@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <h3><strong>Mathematics Department</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Mathematics Department 2024" src="/images/Our People/School Departments/Mathematics_24.jpg">
-</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -19,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Yang Ser Yee</p>
+<p>Ms Lynn Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Mathematics</p>
@@ -67,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Liyana Bte Abdul Rahman</p>
+<p>Ms Nur Liyana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -107,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Rais B Mohd Ismail</p>
+<p>Mr Mohammed Rais</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
