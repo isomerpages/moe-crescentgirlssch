@@ -22,7 +22,7 @@ variant: tiptap
 <p>Ms Low Geok Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Creative Arts</p>
+<p>Head of Department / Creative Arts</p>
 </td>
 </tr>
 <tr>
@@ -76,6 +76,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Seah Wei Qin Esther</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Hwai Chiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
