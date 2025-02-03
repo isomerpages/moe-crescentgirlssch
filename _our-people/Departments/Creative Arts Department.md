@@ -27,22 +27,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norazimah Bte Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Phua Peijuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Constance Tan Sin Liang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +43,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Siew Geok</p>
+<p>Ms Norazimah Bte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Phua Peijuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -76,6 +68,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Seah Wei Qin Esther</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Siew Geok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
