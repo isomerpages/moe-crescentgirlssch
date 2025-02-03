@@ -67,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Denise Fung Xin Hui</p>
+<p>Ms Denise Fung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -75,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Millie Chiu Yee Qian&nbsp;</p>
+<p>Ms Millie Chiu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Donna Koh Chern Sing</p>
+<p>Ms Donna Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -107,7 +107,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Precia Lin Chu Chu</p>
+<p>Ms Precia Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
