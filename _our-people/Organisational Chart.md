@@ -2,7 +2,7 @@
 title: Organisational Chart
 permalink: /our-people/organisational-chart/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Organisational Chart</strong></h3>
 <h4><strong>Executive Committee 2024</strong></h4>
@@ -52,8 +52,9 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -69,34 +70,29 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Miss Low Geok Pin" src="/images/Our People/Organization Chart/organisation9.png">
-</div>
-<p>Miss Low Geok Pin
-<br>HOD/Creative Arts
-<br>
-</p>
+<p>Mrs Yeo Woei Ling</p>
+<p>HOD/English</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 56%;" height="auto" width="100%" alt="Mrs Shirlene Koh" src="/images/Our People/Organization Chart/organisation8.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Miss Ang Lay Pheng" src="/images/Our People/Organization Chart/organisation7.png">
 </div>
-<p>Mrs Shirlene Koh
-<br>HOD/Humanities
-<br>
-</p>
+<p>Miss Ang Lay Pheng
+<br>HOD/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Lee Boon Keng" src="/images/Our People/Organization Chart/organisation12.png">
-</div>
-<p>Mr Lee Boon Keng
-<br>HOD/ICT
-<br>
-</p>
+<p>Ms Lynn Yang Ser Yee
+<br>HOD/Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bryan Lim</p>
+<p>HOD/Science</p>
 </td>
 </tr>
 </tbody>
@@ -126,50 +122,43 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Mr Bernard Low" src="/images/Our People/Organization Chart/organisation5.png">
+<img style="width: 56%;" height="auto" width="100%" alt="Mrs Shirlene Koh" src="/images/Our People/Organization Chart/organisation8.png">
 </div>
-<p>Ms Lynn Yang Ser Yee
-<br>HOD/Math
-<br>
-</p>
+<p>Mrs Shirlene Koh
+<br>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Miss Ang Lay Pheng" src="/images/Our People/Organization Chart/organisation7.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Miss Low Geok Pin" src="/images/Our People/Organization Chart/organisation9.png">
 </div>
-<p>Miss Ang Lay Pheng
-<br>HOD/Mother Tongue Languages
-<br>
-</p>
+<p>Miss Low Geok Pin
+<br>HOD/Creative Arts</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Mdm Christina Low" src="/images/Our People/Organization Chart/organisation10.png">
 </div>
 <p>Mdm Christina Low
-<br>HOD/Physical Education &amp; CCA
-<br>
-</p>
+<br>HOD/Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Ms Ho Sze Gin" src="/images/Our People/Organization Chart/organisation6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Mr Lee Boon Keng" src="/images/Our People/Organization Chart/organisation12.png">
 </div>
-<p>Mr Bryan Lim
-<br>HOD/Science
-<br>
-</p>
+<p>Mr Lee Boon Keng
+<br>HOD/ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="Miss Li Xiaoping" src="/images/Our People/Organization Chart/organisation15.png">
-</div>
 <p>Ms Estee Teo
 <br>Year Head (Sec 2&amp;3)
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Jun Wei
+<br>Year Head (Sec 1&amp;4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -180,79 +169,56 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Ms Jerene Sim" src="/images/Our People/Organization Chart/organisation14.png">
-</div>
-<p>Ms Jerene Sim
-<br>School Staff Developer
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="Ms Vivienne He" src="/images/Our People/Organization Chart/MsVivienneHe.png">
 </div>
 <p>Ms Vivienne He
-<br>HOD/CCE
-<br>
-</p>
+<br>HOD/CCE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 77%;" height="auto" width="100%" alt="Mr Desmond Keong" src="/images/Our People/Organization Chart/organisation17.png">
+<img style="width: 90%;" height="auto" width="100%" alt="Ms Jerene Sim" src="/images/Our People/Organization Chart/organisation14.png">
 </div>
-<p>Mr Desmond Keong
-<br>LH/Mathematics
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
-</div>
-<p>Ms Ting Hui Yi
-<br>SH/Mathematics
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
-</div>
-<p>Mr Lim Wee Khiang
-<br>LH/Science
-<br>
-</p>
+<p>Ms Jerene Sim
+<br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/ms_punitha_ramanathan.png">
 </div>
 <p>Ms Punitha d/o Ramanathan
-<br>SH/English Literature
-<br>
-</p>
+<br>SH/English Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 77%;" height="auto" width="100%" alt="Mr Desmond Keong" src="/images/Our People/Organization Chart/organisation17.png">
+</div>
+<p>Mr Desmond Keong
+<br>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Ms_Ting_Hui_Yi.JPG">
+</div>
+<p>Ms Ting Hui Yi
+<br>SH/Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation18.png">
 </div>
-<p>Miss Tai Wai Peng
-<br>SH/CCE
-<br>
-</p>
+<p>Mr Lim Wee Khiang
+<br>LH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation24.png">
 </div>
 <p>Ms Soh Poh Ping
-<br>SH/Chemistry
-<br>
-</p>
+<br>SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -265,44 +231,54 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
+<img style="width: 82%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
 </div>
-<p>Mr Kingsley Ng
-<br>Assistant Year Head (Sec 3)
-<br>
-</p>
+<p>Mr Foo Wen Yeow
+<br>SH/ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="Mr Foo Wen Yeow" src="/images/Our People/Organization Chart/organisation23.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/Mr_Kingsley_Ng_Yao_Hong.png">
 </div>
-<p>Mr Foo Wen Yeow
-<br>SH/ICT
-<br>
-</p>
+<p>Mr Kingsley Ng
+<br>Assistant Year Head (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation22.png">
+</div>
+<p>Miss Tai Wai Peng
+<br>SH/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 88%;" height="auto" width="100%" alt="Miss Tay Puay Hoon" src="/images/Our People/Organization Chart/organisation25.png">
 </div>
 <p>Miss Tay Puay Hoon
-<br>Administration Manager 1
-<br>
-</p>
+<br>Administration Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Organization Chart/organisation27.png">
 </div>
 <p>Mr Mohammad Fahmie
-<br>Operations Manager
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>Operations Manager</p>
 </td>
 </tr>
 </tbody>
