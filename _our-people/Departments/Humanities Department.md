@@ -54,7 +54,7 @@ variant: tiptap
 <p>Ms Nur Rafiqqa Bte Mustapha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Sec 4 (acting)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
