@@ -4,7 +4,6 @@ collections:
     order:
       - Organisational Chart.md
       - Staff.md
-      - Departments/Student Development Team.md
       - Departments/.keep
       - Departments/Creative Arts Department.md
       - Departments/EAS Department.md
@@ -15,3 +14,4 @@ collections:
       - Departments/Mother Tongue Languages Department.md
       - Departments/PE and CCA Department.md
       - Departments/Science Department.md
+      - Departments/Student Development Team.md
