@@ -7,10 +7,6 @@ variant: tiptap
 ---
 <h3><strong>EAS Department</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="EAS 2024" src="/images/Our People/School Departments/EAS_24.jpg">
-</div>
-<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -23,7 +19,7 @@ variant: tiptap
 <p>Ms Tay Puay Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Administration Manager 1</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +27,7 @@ variant: tiptap
 <p>Ms Ang Tze Liat Matilda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Administration Manager 2</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +43,7 @@ variant: tiptap
 <p>Ms Tan Soo Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administration Executive</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +67,7 @@ variant: tiptap
 <p>Mdm Cindy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Admin Support Staff</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +75,7 @@ variant: tiptap
 <p>Ms Ng Siew Cheng Annie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Admin Support Staff</p>
 </td>
 </tr>
 <tr>
@@ -128,14 +124,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hameetha Md Appa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lab Attendant</p>
 </td>
 </tr>
 <tr>
