@@ -86,7 +86,7 @@ variant: tiptap
 <p>Mr Lee Hwai Chiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 </tbody>
