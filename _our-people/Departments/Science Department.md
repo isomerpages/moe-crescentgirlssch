@@ -7,10 +7,6 @@ variant: tiptap
 ---
 <h3><strong>Science Department</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Science Department 2024" src="/images/Our People/School Departments/Science_Department_24.jpg">
-</div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -51,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vivienne He Qi</p>
+<p>Ms Vivienne He</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / CCE</p>
@@ -67,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jerene Sim Hui Shan</p>
+<p>Ms Jerene Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -123,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Chor Wai Yean</p>
+<p>Ms Pauline Chor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -151,6 +147,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hameetha Md Appa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lab Attendant</p>
 </td>
 </tr>
 </tbody>
