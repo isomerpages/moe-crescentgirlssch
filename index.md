@@ -14,7 +14,7 @@ sections:
           url: /announcement/
         - title: Calendar of Events
           description: ""
-          url: /about-cgs/calender/
+          url: /about-cgs/calendar/
         - title: Quicklinks
           description: FOR STUDENTS AND PARENTS
           url: /quicklinks/for-students/
