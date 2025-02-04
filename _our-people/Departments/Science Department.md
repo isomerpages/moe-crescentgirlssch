@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Soh Poh Ping</p>
+<p>Ms Soh Poh Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Chemistry</p>
