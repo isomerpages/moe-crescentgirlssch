@@ -4,11 +4,10 @@ permalink: /about-cgs/principals-foreword/
 description: ""
 variant: markdown
 ---
-
 ### School Website Message 2025 
 
 <img src="/images/Principal_Cindy_Low.jpg" style="width:30%;margin-right:15px;" align="left">
-Crecent Girls’ School has come a long way since its beginnings in 1956. From the time of its founding, Crescent has been providing a nurturing and innovative environment for generations of students to be gracious, confident ladies and caring visionary leaders. Under the fine stewardship of Principal Mrs Helen Chong, the school has flourished as she led the staff and partnered our stakeholders in blazing new trails for our students to discover new learning opportunities that enable them to be Ladies and Leaders of Tomorrow who believe in themselves and what the future can offer them. We thank Mrs Chong for modelling the way in servant leadership and wish her all the best in her retirement!
+Crescent Girls’ School has come a long way since its beginnings in 1956. From the time of its founding, Crescent has been providing a nurturing and innovative environment for generations of students to be gracious, confident ladies and caring visionary leaders. Under the fine stewardship of Principal Mrs Helen Chong, the school has flourished as she led the staff and partnered our stakeholders in blazing new trails for our students to discover new learning opportunities that enable them to be Ladies and Leaders of Tomorrow who believe in themselves and what the future can offer them. We thank Mrs Chong for modelling the way in servant leadership and wish her all the best in her retirement!
 
 It is my privilege to work alongside the staff and stakeholders as we strive for continuous growth and innovation, and help our students to prepare themselves well for the future. In my interactions with the students, staff, parents, and the members of the School Advisory Committee and the Alumni Association, it is evident that there is a strong sense of community and culture of care among the members of the Crescentian family. I am deeply touched by the warmth and generosity extended to me. In both words and actions, the staff and students embody the values that Crescent espouses, and this attests to the strong heritage, school culture and values that others have come to know the school for. 
 
@@ -20,4 +19,4 @@ As the saying goes, it takes a village to raise a child. We are grateful to have
 
 
 Ms Cindy Low <br>
-Principal 
+Principal
