@@ -71,7 +71,7 @@ Parents who opt not to purchase the MOE iPad bundle must ensure that their new o
 
 Some Examples of Recommended Combo for Option 2 - Purchasing New iPad
 
-**11-inch iPad Pro (3rd Gen)**
+**11-inch iPad Pro **
 
 <img src="/images/pld4.png" style="width:30%" align="left">
 <img src="/images/pld5.jpg" style="width:10%" align="left">
@@ -79,7 +79,7 @@ Some Examples of Recommended Combo for Option 2 - Purchasing New iPad
 
 <br clear="left">
 
-**iPad Air 4 (4th Gen)**
+**iPad Air 11-inch**
 
 <img src="/images/pld7.jpg" style="width:30%" align="left">
 <img src="/images/pld8.jpg" style="width:10%" align="left">
@@ -101,10 +101,8 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 |:---:|---|---|---|---|
 | 1. | QCD Technology @ Westgate<br><br>(450m from Jurong East Mrt) | 65151 2010 | [support_westgate@qcd-tech.com](mailto:support_westgate@qcd-tech.com) | Mon – Fri:<br>1000 – 1800 |
 | 2. | Apple Retail Store @ Jewel Changi Airport<br><br>(220m from Changi Airport MRT) | 1800 407 4948 | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Thu:<br>1100 – 2100<br>Fri – Sun:<br>1100 – 2200 |
-| 3. |  QCD Technology @ Wheelock<br><br>(190m from Orchard MRT) |  6555 0500 | [support_wheelock@qcd-tech.com](mailto:support_wheelock@qcd-tech.com) | Mon – Fri:<br>1100 – 1800 |
-| 4. |  A.LAB @ Plaza Singapura<br><br>(260m from Dhoby Ghaut MRT) |  6784 1318 | [a.lab@alab.sg](mailto:a.lab@alab.sg) | Mon – Sat:<br>1100 – 1930<br>Sun:<br>1000 - 1800<br>(Collection time 1930) |
-| 5.  |  Apple Retail Store @ Orchard Road<br><br>(400m from Orchard MRT) | 1800 699 2824  | [https://getsupport.apple.com](https://getsupport.apple.com)  | Mon – Sun:<br>1000 – 2200  |
-|  6. |  Apple Retail Store @ Marina Bay Sands<br><br>(220m from Bayfront MRT) | 1800 407 4949  | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Sun:<br>1100 – 2200 |
+| 3.  |  Apple Retail Store @ Orchard Road<br><br>(400m from Orchard MRT) | 1800 699 2824  | [https://getsupport.apple.com](https://getsupport.apple.com)  | Mon – Sun:<br>1000 – 2200  |
+| 4. |  Apple Retail Store @ Marina Bay Sands<br><br>(220m from Bayfront MRT) | 1800 407 4949  | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Sun:<br>1100 – 2200 |
 |
 
 The table below shows other iPad models that are compatible with MOE DMA.
