@@ -6,11 +6,11 @@ third_nav_title: M Learning @ Crescent
 variant: tiptap
 ---
 <h3><strong>FAQs</strong></h3>
-<h5><strong>1. Does the insurance cover the accessories for e.g. the Apple Pencil and Logitech Ruggerdised Combo 3)?</strong></h5>
+<h5><strong>1. Does the insurance cover the accessories for e.g. the Apple Pencil and Logitech Ruggerdised Combo 4)?</strong></h5>
 <p>Insurance coverage is only for the iPad (device) and does not cover the
 accessories.
 <br>Warranty coverage includes the iPad (device) as well as the accessories
-in the bundle (Apple Pencil and Logitech Ruggerdised Combo 3).</p>
+in the bundle (Apple Pencil and Logitech Ruggerdised Combo 4).</p>
 <h5><strong>2. Can I make use of my child’s Edusave to pay for her device if I am choosing the purchase the iPad (Option 2) on my own?</strong></h5>
 <p>No, Edusave can only be used for the purchase of MOE iPad Bundle, Option
 1.</p>
