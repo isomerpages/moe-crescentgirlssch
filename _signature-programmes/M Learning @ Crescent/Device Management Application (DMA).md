@@ -54,16 +54,13 @@ change DMA option will be processed by the school twice a term.</p>
 <p>Please refer to the DMA Parent’s Guide below for more details on the onboarding
 process as well as the features that are available in the option that you
 have chosen.</p>
-<p><a href="https://www.hougangsec.moe.edu.sg/files/DMA/DMA%20Parent%20Guide%20v20%20-%20Default%20(iPadOS).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide v2.0 - Default (iPadOS)</u></a>
-<br><a href="https://www.hougangsec.moe.edu.sg/files/DMA/DMA%20Parent%20Guide%20v20%20-%20Option%20A%20(iPadOS).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide v20 - Option A (iPadOS)</u></a>
-<br><a href="https://www.hougangsec.moe.edu.sg/files/DMA/DMA%20Parent%20Guide%20v20%20-%20Option%20B%20(iPadOS).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide v2.0 - Option B (iPadOS)</u></a>
+<p><a href="/files/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">User Guide for Default Option</a>
 </p>
-<p>Video resources for commonly used features on DMA Parent's portal for
-After-School DMA Option A</p>
-<p>Setting rules to restrict usage: <a href="https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<p><a href="/files/IE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">User guide for Option A</a>
 </p>
-<p>Overriding school sleep hours: <a href="https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<p><a href="/files/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">User guide for Option B</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
