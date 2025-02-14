@@ -1,8 +1,9 @@
 ---
-title: SES 2022 Celebrations
-permalink: /cradle/Swift-Explorers-Singapore/SES-2022-Celebration/
+title: SES Celebrations
+permalink: /cradle/swift-explorers-singapore/ses-celebrations/
 description: ""
 third_nav_title: Swift Explorers Singapore
+variant: tiptap
 ---
 ##### **Congratulations to the first graduating class of Swift Explorers Singapore (SES)!** #####
 
