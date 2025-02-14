@@ -14,6 +14,5 @@ or online sessions. This will give them a better understanding of the programme
 and facilitate this initiative. Schools are to ensure that copyright for
 all resources is cleared before submission.</p>
 <p>Registrations are open until the <strong>14 March 2025</strong>.</p>
-<h4>Quick FAQ:</h4>
-<p><strong>Register now at: <a href="https://for.edu.sg/ses-registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration</a></strong>
-</p>
+<h4><strong>Register now at: <a href="https://for.edu.sg/ses-registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration</a></strong></h4>
+<p></p>
