@@ -149,7 +149,7 @@ Girls' School. At this event, you will:</p>
 </table>
 <p>Registration is open from <strong>17 February 2025</strong>
 </p>
-<p>Registration now at : <strong><em><a href="https://for.edu.sg/ses-registration2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration</a></em></strong>
+<p>Registration now at : <strong><a href="https://for.edu.sg/ses-registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration</a></strong>
 </p>
 <p></p>
 <hr>
