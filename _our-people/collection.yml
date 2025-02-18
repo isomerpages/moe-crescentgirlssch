@@ -4,7 +4,6 @@ collections:
     order:
       - Organisational Chart.md
       - Staff.md
-      - Departments/Form Teachers.md
       - Departments/.keep
       - Departments/Creative Arts Department.md
       - Departments/EAS Department.md
@@ -16,3 +15,4 @@ collections:
       - Departments/PE and CCA Department.md
       - Departments/Science Department.md
       - Departments/Student Development Team.md
+      - Departments/Form Teachers.md
