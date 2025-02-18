@@ -89,6 +89,7 @@ third_nav_title: Departments
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nat Yuen</p>
+<p>Mr Lee Boon Keng (Co-PC)</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +97,7 @@ third_nav_title: Departments
 <p>1S6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Azlin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wee Khiang (Co-FT)</p>
@@ -110,7 +111,7 @@ third_nav_title: Departments
 <p>Mdm Lim Hong Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Low Geok Pin (Co-PC)</p>
 </td>
 </tr>
 </tbody>
@@ -372,6 +373,19 @@ third_nav_title: Departments
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Rafiqqa</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,7 +423,7 @@ third_nav_title: Departments
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelwin Koh(Co-FT)</p>
-<p>Mdm Christina Low (Co-PC - Term 1)</p>
+<p>Mdm Christina Low (Co-PC)</p>
 </td>
 </tr>
 <tr>
