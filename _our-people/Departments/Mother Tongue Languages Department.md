@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Makaisvery&nbsp;</p>
+<p>Mdm Esther Makaisvery&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
