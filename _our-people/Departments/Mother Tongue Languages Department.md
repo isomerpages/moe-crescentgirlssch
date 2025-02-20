@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalyani d/o Kuppusamy</p>
+<p>Mdm Kalyani d/o Kuppusamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher / Tamil Language</p>
