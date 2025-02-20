@@ -422,7 +422,7 @@ third_nav_title: Departments
 <p>Ms Jacqueline Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelwin Koh(Co-FT)</p>
+<p>Mr Kelwin Koh (Co-FT)</p>
 <p>Mdm Christina Low (Co-PC)</p>
 </td>
 </tr>
