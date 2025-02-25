@@ -36,7 +36,7 @@ and after-school hours.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dma.png">
 </div>
-<p><em>*Opting for the Default DMA setting for after-school use is the recommended option for parents who prefer not to or not ready to manage their child's device on their own. </em>
+<p><em>*Opting for the Default DMA setting for after-school use is the recommended option for parents who prefer not to or not ready to manage their child's device on their own.</em>
 </p>
 <p><em>*School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by CGS is from 6am – 3pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.</em>
 </p>
