@@ -60,17 +60,17 @@ school choirs</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Teo Kim Yung</p>
+<p>Ms Jacqueline Chen Weiwen</p>
 </li>
 </ul>
 <p><strong>Other Teacher I/Cs:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms. Jacqueline Chen Weiwen</p>
+<p>Ms Sandy Teo Jiajia</p>
 </li>
 <li>
-<p>Mr. Thaddeus Chung Yu</p>
+<p>Ms Ou Yang Xiuling</p>
 </li>
 </ul>
 <h3><strong>Blurbs</strong></h3>
