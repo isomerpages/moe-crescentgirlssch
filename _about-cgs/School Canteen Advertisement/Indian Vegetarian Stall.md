@@ -28,7 +28,7 @@ third_nav_title: School Canteen Advertisement
 <p>Indian Vegetarian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 February 2025</p>
+<p>21 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice and/or noodle stall is acceptable</p>
