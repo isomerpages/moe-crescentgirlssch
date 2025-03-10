@@ -6,6 +6,10 @@ variant: markdown
 ---
 ### **What's Happening**
 
+#### **2025**
+
+Click **[here](https://www.crescent.edu.sg/whats-happening/2025/)** to find out more!
+
 
 #### **2024**
 
