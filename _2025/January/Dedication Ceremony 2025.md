@@ -32,7 +32,7 @@ as one large “CRESCENT!”-tian family.</p>
 <p><strong><em>Written by Alethea Kwek 2C2</em></strong>
 </p>
 <hr>
-<h3>Photos</h3>
+<h3><strong>Photos</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGfuDhHV2VSjfRZFGo2iRFKrsBXvH6xM2Uxkm0NPVCGup8IB1rDptQ-BCXSJ_4fQDpLNm5blGqQML_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
