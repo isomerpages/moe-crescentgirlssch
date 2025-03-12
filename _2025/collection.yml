@@ -1,0 +1,9 @@
+collections:
+  "2025":
+    output: true
+    order:
+      - January/.keep
+      - January/Sec 1 Orientation Campfire.md
+      - January/Dedication Ceremony 2025.md
+      - February/.keep
+      - February/CGS Chinese New Year Celebration 2025.md
