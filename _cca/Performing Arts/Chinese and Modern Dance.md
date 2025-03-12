@@ -56,7 +56,7 @@ Maycia Teh Ruyan.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Jessy Ang</p>
+<p>Ms Jescy Ang</p>
 </li>
 </ul>
 <h3><strong>Blurbs</strong></h3>
