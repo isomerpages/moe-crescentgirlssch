@@ -21,11 +21,11 @@ sections:
       title: Crescent Girls' School
       variant: image
   - infobar:
-      title: What's Happening
+      title: "#CresHapps"
       subtitle: crescent girls' school
       description: Keep up with what's happening at CGS!
       button: Learn more
-      url: /whats-happening/
+      url: /creshapps/
   - infopic:
       title: Parent Support Group
       subtitle: crescent girls' school
