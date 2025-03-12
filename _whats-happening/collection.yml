@@ -2,4 +2,4 @@ collections:
   whats-happening:
     output: true
     order:
-      - What's Happening.md
+      - CresHapps.md
