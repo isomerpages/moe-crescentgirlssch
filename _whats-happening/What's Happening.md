@@ -4,7 +4,7 @@ permalink: /whats-happening/
 description: ""
 variant: markdown
 ---
-### **What's Happening**
+### **#CresHapps**
 
 #### **2025**
 
@@ -27,11 +27,3 @@ Click **[here](https://www.crescent.edu.sg/whats-happening/2022/jan/dedication-c
 #### **2021**
 
 Click **[here](https://www.crescent.edu.sg/whats-happening/2021/cg65-commemorative-video/)** to find out more!
-
-#### **2020**
-
-Click **[here](https://www.crescent.edu.sg/whats-happening/2020/jan/dedication-ceremony/)** to find out more!
-
-#### **2019**
-
-Click **[here](https://www.crescent.edu.sg/whats-happening/2019/jan/thimun/)** to find out more!
