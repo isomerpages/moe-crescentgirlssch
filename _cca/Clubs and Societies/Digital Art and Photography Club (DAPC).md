@@ -35,7 +35,7 @@ Showcase and Catalogue this year.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tiah Bi Wei (Overall Teacher In Charge)</p>
+<p>Ms Tiah Bi Wei</p>
 </li>
 </ul>
 <p><strong>OTHER TEACHERS I/Cs:</strong>

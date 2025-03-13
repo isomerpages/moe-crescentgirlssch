@@ -442,7 +442,7 @@ third_nav_title: Departments
 <p>4G5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhong Hong</p>
+<p>Ms Zhang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chew Chee Wei</p>

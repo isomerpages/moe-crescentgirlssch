@@ -78,9 +78,6 @@ any field that they go into.
 <p>Mr Chan Jen Wuu</p>
 </li>
 <li>
-<p>Mr Eddie Tay</p>
-</li>
-<li>
 <p>Mdm Makaisvery Esther</p>
 </li>
 </ul>

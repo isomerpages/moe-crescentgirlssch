@@ -47,7 +47,7 @@ to thank for bringing us together as one.</p>
 </li>
 </ul>
 <h4><strong>TEACHERS-IN-CHARGE:</strong></h4>
-<p><strong>OIC</strong>*</p>
+<p><strong>OIC</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Farihah Bte Md Atar</p>
