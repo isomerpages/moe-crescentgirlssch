@@ -93,10 +93,10 @@ a sense of belonging towards what we call, the Crescent Hockey Family.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Kinglsey Ng</p>
+<p>Ms Shannon Loh</p>
 </li>
 <li>
-<p>Ms Shannon Loh</p>
+<p>Mr Kinglsey Ng</p>
 </li>
 <li>
 <p>Ms Pauline Chor</p>
