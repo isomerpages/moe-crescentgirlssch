@@ -41,13 +41,74 @@ experience.</p>
 <br>Sign up for membership here: <a href="http://www.tinyurl.com/JoinCrescentPSG2024" rel="noopener noreferrer nofollow" target="_blank">http://www.tinyurl.com/JoinCrescentPSG2024</a>
 </p>
 <hr>
-<h4><strong>2024</strong></h4>
+<h4><strong>2025 Crescent PSG Executive Committee</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Kah Wai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sapna Amarnani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Keng Zhao Yue Clara</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elizabeth Ng</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our Partner/Parent Support Group/psg exco 2024.jpg">
-</div>
-<p></p>
-<p><strong>PSG MEMBERS</strong>
+<p>Assistant Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cynthia Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Geena Chua</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internal Auditor</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2025 Crescent PSG Members</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
