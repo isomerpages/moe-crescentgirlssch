@@ -60,9 +60,6 @@ to thank for bringing us together as one.</p>
 <p>Ms Nur Liyana Bte Abdul Rahman</p>
 </li>
 <li>
-<p>Mdm Josephine Khaw</p>
-</li>
-<li>
 <p>Mrs Lim Poh Ping</p>
 </li>
 </ul>
