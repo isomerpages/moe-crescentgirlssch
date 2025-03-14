@@ -49,10 +49,10 @@ and passion, paving the way for lifelong connections and artistic exploration.</
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Mohan</p>
+<p>Ms Shahirah</p>
 </li>
 <li>
-<p>Ms Shahirah</p>
+<p>Ms Punitha</p>
 </li>
 </ul>
 <hr>
