@@ -57,6 +57,9 @@ and perseverance in striving for betterment of their performances.</p>
 <li>
 <p>Mdm Sim Siew Geok</p>
 </li>
+<li>
+<p>Mdm Kalyani</p>
+</li>
 </ul>
 <h3><strong>Blurbs</strong></h3>
 <p>“Being in band has risen me up to be a better player and a better person
