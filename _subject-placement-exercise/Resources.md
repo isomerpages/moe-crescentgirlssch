@@ -14,7 +14,11 @@ description: ""
 syllabus are currently unavailable)</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/Secondary-School-Experience-Post-Secondary-Pathways-under-Full-SBB.pdf" rel="noopener nofollow" target="_blank">Post-Sec Pathways Under Full SBB</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/interactive.html" rel="noopener nofollow" target="_blank">My Full SBB Path</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">Full Subject Based Banding Resources</a>
 </p>
 </li>
 <li>
