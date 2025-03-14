@@ -71,10 +71,10 @@ and excellence.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Lim Wee Khiang</p>
+<p>Ms Esther Seah</p>
 </li>
 <li>
-<p>Ms Denise Fung</p>
+<p>Mr Lim Wee Khiang</p>
 </li>
 </ul>
 <hr>
