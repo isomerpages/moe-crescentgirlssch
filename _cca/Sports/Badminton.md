@@ -29,11 +29,12 @@ We will continue to work hard and give our all for the team, and we hope to help
 
 #### **TEACHERS-IN-CHARGE:**
 **OIC:**
-* Ms Magdalena Furtado
+* Mr Huang Pengyuan
 
 **OTHER TEACHER I/Cs:**
+* Ms Vanitha
 * Mr Foo Wen Yeow
-* Mr Huang Pengyuan
+* Ms Toh Siau Yien
 
 
 ### **Blurbs**
