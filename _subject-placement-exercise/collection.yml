@@ -2,6 +2,6 @@ collections:
   subject-placement-exercise:
     output: true
     order:
-      - Resources.md
       - Overview of Subject Placement Exercise.md
       - Subject Briefings.md
+      - Resources.md
