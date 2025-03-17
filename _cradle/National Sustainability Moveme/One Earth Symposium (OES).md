@@ -9,9 +9,9 @@ third_nav_title: National Sustainability Moveme
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/One_Earth_Symposium_logo.png">
 </div>
 <p>One Earth Symposium (OES) is an annual one-day symposium slated to take
-place in Term 2 Week 9 or Week 10. OES is aimed at educators via keynote
-speaker(s), oral presentations, panel discussions, workshops, gamified
-experiences, and networking sessions.</p>
+place in Term 2 Week 10 or the first week of Term 2 Break. OES is aimed
+at educators via keynote speaker(s), oral presentations, panel discussions,
+workshops, gamified experiences, and networking sessions.</p>
 <p>OES provides a professional development platform for educators to share
 and discuss the latest green education practices and initiatives related
 to teaching and learning of sustainability. Through OES, teacher participants
