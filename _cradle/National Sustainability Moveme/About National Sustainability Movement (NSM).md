@@ -12,7 +12,11 @@ variant: tiptap
 <p>Launched in 2024, the inaugural <strong>National Sustainability Movement (NSM)</strong> is
 jointly<strong> </strong>organised by Crescent Girls’ School and Terra
 SG.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,7 +66,7 @@ stakeholders:</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSG_3_segment.png">
 </div>
 <p></p>
-<p>Resources shared during the briefing and launch for NSM 2024: <strong><a href="https://for.edu.sg/nsm-2024-launch-briefing" rel="noopener noreferrer nofollow" target="_blank">Resources for NSM 2024</a></strong>
+<p>Resources shared during the briefing and launch for NSM 2025: <strong><a href="https://for.edu.sg/nsm2025-briefing-launch-padlet" rel="noopener noreferrer nofollow" target="_blank">Resources for NSM 2025</a></strong>
 </p>
 <p></p>
 <p>For more information, please send your queries via email to <strong><a rel="noopener noreferrer nofollow" target="_blank">nsm@crescent.edu.sg</a></strong>.</p>
