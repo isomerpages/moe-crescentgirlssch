@@ -79,7 +79,7 @@ Awards.</p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/sac_advocacy_timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/national_sustainability_movement_advocacy_module_keydates_for_2025.png">
 </div>
 <p></p>
 <p>Schools interested in participating can register their interest here <strong>by 3 March 2025</strong>: <strong><a href="https://for.edu.sg/sac2025-advocacy-interest-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/sac2025-advocacy-interest-registration</a></strong>
@@ -102,9 +102,8 @@ schools upon verification of evidence submitted by 3 November 2025.</p>
 <p></p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC_Enrichment_Timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/National_Sustainability_Movement__Enrichment_Module____Key_Dates_for_2025.png">
 </div>
 <p></p>
 <p>Schools interested in participating can register their interest here <strong>by 3 March 2025</strong>: <strong><a href="https://for.edu.sg/sac2025-enrichment-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/sac2025-enrichment-registration</a></strong>
