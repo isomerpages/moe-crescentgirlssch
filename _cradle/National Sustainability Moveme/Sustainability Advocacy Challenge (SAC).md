@@ -19,11 +19,11 @@ Crescent Girls’ School and Terra SG.</p>
 SAC empowers each student team to achieve the following objectives:&nbsp;</p>
 <p>a) <strong>[Environmental Education] </strong>To educate youth regarding
 environmental sustainability and conservation issues.</p>
-<p>b)<strong>[Environmental Stewardship]</strong> To nurture youths to be
+<p>b) <strong>[Environmental Stewardship]</strong> To nurture youths to be
 eco-stewards who are inspired to take action in promoting a culture of
 sustainable living and actively practise green citizenry that contributes
 to a sustainable Singapore.&nbsp;</p>
-<p>For SAC 2024, there will be two available tracks for which schools can
+<p>For SAC 2025, there will be two available tracks for which schools can
 sign up:</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -50,7 +50,7 @@ reach out to as many members of the community as possible.</p>
 </p>
 <p>All members of participating teams are strongly encouraged to sign up
 for and to attend the <strong>SAC Symposium</strong> that will take place
-from <strong>1.30pm to 4.30pm</strong> on <strong>11 March 2024</strong> in
+from <strong>1.30pm to 4.30pm</strong> on <strong>10 March 2025</strong> in
 Crescent Girls’ School. The Symposium comprises a keynote address and a
 training bootcamp, allowing participants to be equipped with the necessary
 knowledge and skills to design their community outreach project.</p>
@@ -67,7 +67,7 @@ panel for feedback. Participation in this consultation session is option.</p>
 <p><strong><u>Phase 3: Advocate</u></strong>
 </p>
 <p>Teams will then execute their advocacy plans/sustainability initiatives
-anytime from 12 March to 8 September 2024. Teams will need to submit a <strong>Final Report </strong>that
+anytime from 15 March to 14 September 2025. Teams will need to submit a <strong>Final Report </strong>that
 documents their advocacy plans /sustainability initiatives (planning stage
 to implementation stage, reflections etc).</p>
 <p>&nbsp;Three categories of awards (Gold, Silver and Bronze) will be presented
@@ -82,8 +82,7 @@ Awards.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/sac_advocacy_timeline.png">
 </div>
 <p></p>
-<p>Schools interested in participating can register their interest here <strong>by 29 February</strong>:
-<a href="https://go.gov.sg/sac2024-advocacy-reg-interest" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sac2024-advocacy-reg-interest</a>
+<p>Schools interested in participating can register their interest here <strong>by 3 March 2025</strong>: <strong><a href="https://for.edu.sg/sac2025-advocacy-interest-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/sac2025-advocacy-interest-registration</a></strong>
 </p>
 <p></p>
 <p></p>
@@ -99,7 +98,7 @@ to choose the students to participate in the Enrichment Module. It could
 be a selected student group, a CCA, a class or class(es), a level or the
 entire school.</p>
 <p>All participants will receive an e-Certificate through their respective
-schools upon verification of evidence submitted by 1 November 2024.</p>
+schools upon verification of evidence submitted by 3 November 2025.</p>
 <p></p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
@@ -108,8 +107,7 @@ schools upon verification of evidence submitted by 1 November 2024.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC_Enrichment_Timeline.png">
 </div>
 <p></p>
-<p>Schools interested in participating can register their interest here <strong>by 29 February</strong>:
-<a href="https://go.gov.sg/sac2024-enrichment-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sac2024-enrichment-registration</a>
+<p>Schools interested in participating can register their interest here <strong>by 3 March 2025</strong>: <strong><a href="https://for.edu.sg/sac2025-enrichment-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/sac2025-enrichment-registration</a></strong>
 </p>
 <hr>
 <p></p>
