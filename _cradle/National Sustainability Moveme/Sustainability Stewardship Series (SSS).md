@@ -13,7 +13,11 @@ third_nav_title: National Sustainability Moveme
 SG and supported by Asia Pacific Brewery Foundation (ABPF), an Institution
 of Public Character (IPO).</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -99,7 +103,7 @@ Schools have to appoint a liaison Person of Contact (e.g. SSD / VP / KP
 <p></p>
 <h3><strong>Registration of Interest</strong></h3>
 <p>Through the year of 2024, schools can indicate their interest in participating
-in SSS at <a href="https://go.gov.sg/nsm2024sss-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nsm2024sss-registration</a>.
+in SSS at <strong><a href="https://go.gov.sg/nsm2025sss-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nsm2025sss-registration</a></strong>.
 Applicants will be contacted by the Organising Committee for a discussion
 on the confirmation of the programme.</p>
 <p></p>

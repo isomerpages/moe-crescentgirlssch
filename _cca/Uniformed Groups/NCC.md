@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>NCC</strong></h2>
+<h2><strong>NCC (Land)</strong></h2>
 <blockquote>
 <p><em>“Crescent NC, 永远第一”</em>
 </p>
@@ -67,13 +67,13 @@ NCC.</p>
 <li>
 <p>Mdm Phua Peijuan</p>
 </li>
-<li>
-<p>Mr Chew Chee Wei</p>
-</li>
 </ul>
 <p><strong>OTHER TEACHER I/Cs:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Mr Chew Chee Wei</p>
+</li>
 <li>
 <p>Ms Poh Zhaoxin</p>
 </li>

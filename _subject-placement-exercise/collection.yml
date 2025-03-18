@@ -1,0 +1,7 @@
+collections:
+  subject-placement-exercise:
+    output: true
+    order:
+      - Overview of Subject Placement Exercise.md
+      - Subject Briefings.md
+      - Resources.md

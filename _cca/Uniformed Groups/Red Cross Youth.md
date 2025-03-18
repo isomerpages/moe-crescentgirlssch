@@ -66,13 +66,10 @@ of urgency.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nat Yuen Mei Fang</p>
+<p>Mr Rais Ismail</p>
 </li>
 <li>
 <p>Ms Tai Wai Peng</p>
-</li>
-<li>
-<p>Mr Rais Ismail</p>
 </li>
 </ul>
 <h3><strong>Blurbs</strong></h3>

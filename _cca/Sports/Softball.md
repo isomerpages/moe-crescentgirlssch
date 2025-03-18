@@ -47,20 +47,17 @@ zones and emerge a stronger and more formidable team.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Ou Yang Xiuling</p>
+<p>Ms Nat Yuen Mei Fang</p>
 </li>
 </ul>
 <p><strong>OTHER TEACHER I/Cs:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nat Yuen Mei Fang</p>
+<p>Mr Desmond Keong</p>
 </li>
 <li>
-<p>Mr Keong Desmond</p>
-</li>
-<li>
-<p>Mrs Rupa Kwah Beng Choo</p>
+<p>Mrs Rupa Beng Choo</p>
 </li>
 </ul>
 <h3><strong>Blurbs</strong></h3>
