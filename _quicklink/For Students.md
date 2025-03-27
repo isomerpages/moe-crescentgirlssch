@@ -8,7 +8,7 @@ variant: markdown
 
 | Information | Links |
 |---|---|
-|Booking of Future Learning Spaces | https://for.edu.sg/cgs-futurelearningspaces |
+|Booking of Future Learning Spaces | [https://for.edu.sg/cgs-futurelearningspaces](https://for.edu.sg/cgs-futurelearningspaces) |
 | Case Logging for Support | [https://for.edu.sg/cgscaselogging](https://for.edu.sg/cgscaselogging)
 | Crescent Email | [http://mail.office365.com/](http://mail.office365.com/)  |
 | SLS | [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) |
