@@ -9,6 +9,7 @@ variant: markdown
 | Information | Links |
 |---|---|
 |All Ears Forms Builder | [Forms (moe.edu.sg)](https://forms.moe.edu.sg/) |
+|Booking of Future Learning Spaces | [https://for.edu.sg/cgs-futurelearningspaces](https://for.edu.sg/cgs-futurelearningspaces)|
 | Crescent Email | [http://mail.office365.com/](http://mail.office365.com/) |
 | Form SG | [https://form.gov.sg/](https://form.gov.sg/) |
 For.edu.sg short links  | [for.edu.sg](https://for.edu.sg)
