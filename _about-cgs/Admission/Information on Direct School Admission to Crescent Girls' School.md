@@ -133,13 +133,13 @@ the MOE website - <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="no
 a secondary school and a talent area offered by that secondary school.&nbsp;Of
 the three choices, an applicant may use a maximum of two choices to apply
 to the same school, for two different talent areas of that school.</p>
-<p>For applicants studying in MOE mainstream primary schools, only one parent’s
-SingPass is needed to log in. If parents/guardians are unable to apply
-online, they can approach the child’s primary school for assistance.</p>
-<p></p>
-<p>Applicants NOT studying in MOE mainstream primary schools will need to
-apply for a Registration Number (RGxxxxxxx) before they can apply through
-the DSA-Sec Portal at MOE website at: <strong><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></strong>
+<p><strong>Applicants from MOE mainstream primary schools: </strong>Parents
+may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required.
+Parents/legal guardians who are unable to apply online can approach their
+child’s/ward’s primary school for assistance.</p>
+<p><strong>Other applicants not studying in MOE mainstream primary schools</strong> will
+need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
+Portal. Application can be done at MOE's website at: <strong><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></strong>
 </p>
 <p></p>
 <p>Only shortlisted candidates will be notified by phone/email regarding
