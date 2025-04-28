@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admission
 variant: tiptap
 ---
-<h4><strong>Information on Direct School Admission to Crescent Girls' School</strong></h4>
+<h3><strong>Information on Direct School Admission to Crescent Girls' School</strong></h3>
 <p></p>
 <p>We welcome Primary 6 students with talent in the areas of music studies,
 performing arts, sports and leadership to apply to our school under the
@@ -14,8 +14,7 @@ to choose schools wisely based on the student’s aptitudes and strengths,
 bearing in mind the schools’ academic and non-academic requirements, and
 the programmes available to develop the area of talent.</p>
 <p></p>
-<p><strong><u>Criteria for DSA(Sec) Exercise 2025</u></strong>
-</p>
+<h4><strong><u>Criteria for DSA(Sec) Exercise 2025</u></strong></h4>
 <p>Selection is based on the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -24,30 +23,30 @@ the programmes available to develop the area of talent.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Music Elective Programme (MEP) – intermediate proficiency in playing at
-least one music instrument and possess functional theory knowledge in the
-Western music tradition.</p>
+<p><strong>Music Elective Programme (MEP)</strong> – intermediate proficiency
+in playing at least one music instrument and possess functional theory
+knowledge in the Western music tradition.</p>
 </li>
 <li>
-<p>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) –Strong
+<p><strong>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance)</strong> –Strong
 proficiency in the relevant areas of talent (e.g. Band Instrument Performance,
 Dance, or Voice)</p>
 </li>
 <li>
-<p>Sports (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)
-– past achievements would be an advantage (e.g. NSG national/zonal level
+<p><strong>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)</strong> –
+past achievements would be an advantage (e.g. NSG national/zonal level
 competitions (team); &nbsp;National-level competition (individual)).</p>
 </li>
 <li>
-<p>Sports (International Chess) - Strong proficiency in Chess tactics and
-strategies, past achievements would be an advantage (e.g. National School
-Individual Chess Championship (Zonal and National), National School Team
-Chess Championship (Zonal and Individual)).</p>
+<p><strong>Sports &amp; Games (International Chess)</strong> - Strong proficiency
+in Chess tactics and strategies, past achievements would be an advantage
+(e.g. National School Individual Chess Championship (Zonal and National),
+National School Team Chess Championship (Zonal and Individual)).</p>
 </li>
 <li>
-<p>Leadership – past achievements in leadership at school/CCA level and a
-keen interest in the Uniformed Groups (Girl Guides, National Cadet Corps
-and Red Cross Youth).</p>
+<p><strong>Leadership &amp; Uniformed Groups</strong> – past achievements
+in leadership at school/CCA level and a keen interest in the Uniformed
+Groups (Girl Guides, National Cadet Corps and Red Cross Youth).</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -60,20 +59,20 @@ selection tests:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>MEP (Music Elective Programme) – audition and written test</p>
+<p>Music Elective Programme (MEP) – audition and written test</p>
 </li>
 <li>
 <p>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition</p>
 </li>
 <li>
-<p>Sports (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)
-– sports trial</p>
+<p>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp;
+Field and Canoeing) – sports trial</p>
 </li>
 <li>
-<p>Sports (International Chess) - trials</p>
+<p>Sports &amp; Games (International Chess) - trials</p>
 </li>
 <li>
-<p>Leadership - interview</p>
+<p>Leadership &amp; Uniformed Groups - interview</p>
 </li>
 </ul>
 <p></p>
@@ -103,27 +102,6 @@ join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 </li>
 </ol>
 <p></p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -145,18 +123,17 @@ join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Instructions for Application</u></strong>
-</p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;
-There is no application fee.&nbsp; The application period is from 7 May
-2025, 11.00 am to 3 Jun 2025, 3.00 pm.&nbsp; For more details, please refer
-to the MOE website - <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission (Sec) webpage</a></strong>
+<h4><strong><u>Instructions for Application</u></strong></h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;There
+is no application fee.&nbsp;The application period is from 7 May 2025,
+11.00 am to 3 Jun 2025, 3.00 pm.&nbsp; For more details, please refer to
+the MOE website - <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission (Sec) webpage</a></strong>
 </p>
 <p>An applicant can indicate up to three choices. Each choice consists of
-a secondary school and a talent area offered by that secondary school.&nbsp;
-Of the three choices, an applicant may use a maximum of two choices to
-apply to the same school, for two different talent areas of that school.</p>
-<p>For applicants studying in MOE mainstream primary schools: Only one parent’s
+a secondary school and a talent area offered by that secondary school.&nbsp;Of
+the three choices, an applicant may use a maximum of two choices to apply
+to the same school, for two different talent areas of that school.</p>
+<p>For applicants studying in MOE mainstream primary schools, only one parent’s
 SingPass is needed to log in. If parents/guardians are unable to apply
 online, they can approach the child’s primary school for assistance.</p>
 <p></p>
