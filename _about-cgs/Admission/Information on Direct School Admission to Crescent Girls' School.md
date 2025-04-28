@@ -9,12 +9,12 @@ variant: tiptap
 <p></p>
 <p>We welcome Primary 6 students with talent in the areas of music studies,
 performing arts, sports and leadership to apply to our school under the
-Direct School Admission (DSA) Exercise.&nbsp; Parents and students are
-encouraged to choose schools wisely based on the student’s aptitudes and
-strengths, bearing in mind the schools’ academic and non-academic requirements
-and the programmes available to develop the area of talent.</p>
+Direct School Admission (DSA) Exercise.&nbsp;Parents and students are encouraged
+to choose schools wisely based on the student’s aptitudes and strengths,
+bearing in mind the schools’ academic and non-academic requirements, and
+the programmes available to develop the area of talent.</p>
 <p></p>
-<p><strong><u>Criteria for DSA(Sec) Exercise 2024</u></strong>
+<p><strong><u>Criteria for DSA(Sec) Exercise 2025</u></strong>
 </p>
 <p>Selection is based on the following criteria:</p>
 <ol data-tight="true" class="tight">
@@ -24,7 +24,7 @@ and the programmes available to develop the area of talent.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>MEP (Music Elective Programme) – intermediate proficiency in playing at
+<p>Music Elective Programme (MEP) – intermediate proficiency in playing at
 least one music instrument and possess functional theory knowledge in the
 Western music tradition.</p>
 </li>
@@ -35,14 +35,14 @@ Dance, or Voice)</p>
 </li>
 <li>
 <p>Sports (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)
-– past achievements would be an advantage e.g. NSG national/zonal level
-competitions (team); &nbsp;National-level competition (individual). &nbsp;</p>
+– past achievements would be an advantage (e.g. NSG national/zonal level
+competitions (team); &nbsp;National-level competition (individual)).</p>
 </li>
 <li>
 <p>Sports (International Chess) - Strong proficiency in Chess tactics and
-strategies, past achievements would be an advantage e.g. National School
+strategies, past achievements would be an advantage (e.g. National School
 Individual Chess Championship (Zonal and National), National School Team
-Chess Championship (Zonal and Individual).</p>
+Chess Championship (Zonal and Individual)).</p>
 </li>
 <li>
 <p>Leadership – past achievements in leadership at school/CCA level and a
@@ -91,14 +91,18 @@ the potential of the applicants.&nbsp;</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school and join the respective CCA allocated
-by the school <strong><u>throughout their 4 years in Crescent</u></strong>.
-Students admitted under DSA (Leadership) are expected to join the school
-allocated Uniformed Group throughout their 4 years. Students admitted under
-DSA (MEP) are expected to be in MEP and to join a Music CCA (either Concert
-Band or Choir) throughout their 4 years.</p>
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4. They are to
+join the CCA allocated by the school <strong><u>throughout their 4 years in Crescent</u></strong>.</p>
+<p></p>
+<p>Students admitted under DSA (Leadership) are expected to join the school-allocated
+Uniformed Group throughout their 4 years.</p>
+<p></p>
+<p>Students admitted under DSA (MEP) are expected to be in MEP <u>and</u> to
+join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 </li>
 </ol>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -145,7 +149,7 @@ Band or Choir) throughout their 4 years.</p>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;
 There is no application fee.&nbsp; The application period is from 7 May
-2024, 11.00 am to 3 Jun 2024, 3.00 pm.&nbsp; For more details, please refer
+2025, 11.00 am to 3 Jun 2025, 3.00 pm.&nbsp; For more details, please refer
 to the MOE website - <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission (Sec) webpage</a></strong>
 </p>
 <p>An applicant can indicate up to three choices. Each choice consists of
