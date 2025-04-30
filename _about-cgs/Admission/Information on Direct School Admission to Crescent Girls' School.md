@@ -28,25 +28,23 @@ in playing at least one music instrument and possess functional theory
 knowledge in the Western music tradition.</p>
 </li>
 <li>
-<p><strong>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance)</strong> –Strong
-proficiency in the relevant areas of talent (e.g. Band Instrument Performance,
-Dance, or Voice)</p>
+<p><strong>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance)</strong> –
+Strong proficiency in the relevant areas of talent (e.g. Band Instrument
+Performance, Dance, or Voice).</p>
 </li>
 <li>
-<p><strong>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)</strong> –
-past achievements would be an advantage (e.g. NSG national/zonal level
-competitions (team); &nbsp;National-level competition (individual)).</p>
+<p><strong>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)</strong> –Strong
+proficiency in relevant sport, past competition experience and achievements
+would be an advantage.</p>
 </li>
 <li>
 <p><strong>Sports &amp; Games (International Chess)</strong> - Strong proficiency
-in Chess tactics and strategies, past achievements would be an advantage
-(e.g. National School Individual Chess Championship (Zonal and National),
-National School Team Chess Championship (Zonal and Individual)).</p>
+in Chess tactics and strategies, past achievements would be an advantage.</p>
 </li>
 <li>
-<p><strong>Leadership &amp; Uniformed Groups</strong> – past achievements
-in leadership at school/CCA level and a keen interest in the Uniformed
-Groups (Girl Guides, National Cadet Corps and Red Cross Youth).</p>
+<p><strong>Leadership &amp; Uniformed Groups</strong> – past leadership appointment
+at school/CCA level and a keen interest in the Uniformed Groups (Girl Guides,
+National Cadet Corps and Red Cross Youth).</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -59,20 +57,21 @@ selection tests:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Music Elective Programme (MEP) – audition and written test</p>
+<p>Music Elective Programme (MEP) – audition, written test &amp; interview</p>
 </li>
 <li>
-<p>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition</p>
+<p>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition
+&amp; interview</p>
 </li>
 <li>
 <p>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp;
-Field and Canoeing) – sports trial</p>
+Field and Canoeing) – sports trial &amp; interview</p>
 </li>
 <li>
 <p>Sports &amp; Games (International Chess) - trials</p>
 </li>
 <li>
-<p>Leadership &amp; Uniformed Groups - interview</p>
+<p>Leadership &amp; Uniformed Groups - panel interview</p>
 </li>
 </ul>
 <p></p>
@@ -143,9 +142,9 @@ Portal. Application can be done at MOE's website at: <strong><a href="https://go
 </p>
 <p></p>
 <p>Only shortlisted candidates will be notified by phone/email regarding
-the date of the relevant selection test or interview.&nbsp; Selection tests
-will be held from 15 Jul to 8 Aug 2024.&nbsp; All applicants will be informed
-of the outcome of their application by 9 Sep 2024.</p>
+the date of the relevant selection test or interview. Selection tests will
+be held from 15 Jul to 8 Aug 2024.&nbsp;All applicants will be informed
+via email of the outcome of their application from 25 Aug to 4 Sep 2025.</p>
 <p></p>
 <p>For further enquiries, you may also contact the school at <strong>6475 8711</strong> or
 email <strong><a rel="noopener noreferrer nofollow" target="_blank">cgs_dsa@crescent.edu.sg</a></strong>.&nbsp;</p>
