@@ -142,8 +142,8 @@ Portal. Application can be done at MOE's website at: <strong><a href="https://go
 </p>
 <p></p>
 <p>Only shortlisted candidates will be notified by phone/email regarding
-the date of the relevant selection test or interview. Selection tests will
-be held from 21 Jul to 13 Aug 2025.&nbsp;All applicants will be informed
+the date of the relevant selection test/audition/interview. Selection tests
+will be held from 21 Jul to 13 Aug 2025.&nbsp;All applicants will be informed
 via email of the outcome of their application from 25 Aug to 4 Sep 2025.</p>
 <p></p>
 <p>For further enquiries, you may also contact the school at <strong>6475 8711</strong> or
