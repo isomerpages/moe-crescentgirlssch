@@ -334,14 +334,15 @@ enrolment.</p>
 </li>
 <li>
 <p><strong>Applicants from MOE mainstream primary schools: </strong>Parents
-may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required.
-Parents/legal guardians who are unable to apply online can approach their
-child’s/ward’s primary school for assistance.</p>
+may log in directly to <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
+Only one parent’s Singpass is required. Parents/legal guardians who are
+unable to apply online can approach their child’s/ward’s primary school
+for assistance.</p>
 </li>
 <li>
 <p><strong>Other applicants not studying in MOE mainstream primary schools</strong> will
-need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
-Portal. Application can be done at MOE's website at: <strong><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></strong>
+need to apply for a Registration Number (RGxxxxxxx) to access the <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
+Application can be done at MOE's website at: <strong><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></strong>
 </p>
 </li>
 </ul>
@@ -410,6 +411,16 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application via online DSA-Sec Portal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">for Mainstream students</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">for non-Mainstream students</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
