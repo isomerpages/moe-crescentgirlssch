@@ -62,17 +62,7 @@ the programmes available to develop the area of talent.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>audition</p>
-</li>
-<li>
-<p>written test</p>
-</li>
-<li>
-<p>interview</p>
-</li>
-</ul>
+<p>Audition, written test &amp; interview</p>
 </td>
 </tr>
 <tr>
@@ -93,11 +83,7 @@ the programmes available to develop the area of talent.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>audition &amp; interview</p>
-</li>
-</ul>
+<p>Audition &amp; interview</p>
 </td>
 </tr>
 <tr>
@@ -118,11 +104,7 @@ the programmes available to develop the area of talent.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>audition &amp; interview</p>
-</li>
-</ul>
+<p>Audition &amp; interview</p>
 </td>
 </tr>
 <tr>
@@ -143,14 +125,7 @@ the programmes available to develop the area of talent.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>audition</p>
-</li>
-<li>
-<p>interview</p>
-</li>
-</ul>
+<p>Audition &amp; interview</p>
 </td>
 </tr>
 <tr>
@@ -158,16 +133,23 @@ the programmes available to develop the area of talent.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performing Arts</p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Badminton</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="6" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Strong proficiency in relevant sport</p>
+</li>
+<li>
+<p>Past competition experience &amp; achievements would be an advantage</p>
+</li>
+</ul>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="6" colspan="1">
+<p>Sports trial &amp; interview</p>
 </td>
 </tr>
 <tr>
@@ -175,16 +157,10 @@ the programmes available to develop the area of talent.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performing Arts</p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Hockey</p>
 </td>
 </tr>
 <tr>
@@ -192,16 +168,10 @@ the programmes available to develop the area of talent.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Netball</p>
 </td>
 </tr>
 <tr>
@@ -209,16 +179,10 @@ the programmes available to develop the area of talent.</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Softball</p>
 </td>
 </tr>
 <tr>
@@ -226,16 +190,10 @@ the programmes available to develop the area of talent.</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Track &amp; Field</p>
 </td>
 </tr>
 <tr>
@@ -243,16 +201,10 @@ the programmes available to develop the area of talent.</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Canoeing</p>
 </td>
 </tr>
 <tr>
@@ -260,13 +212,20 @@ the programmes available to develop the area of talent.</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>International Chess</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strong proficiency in Chess tactics and strategies</p>
+</li>
+<li>
+<p>Past achievements would be an advantage</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -277,7 +236,7 @@ the programmes available to develop the area of talent.</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
