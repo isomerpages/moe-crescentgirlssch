@@ -14,6 +14,7 @@ to choose schools wisely based on the student’s aptitudes and strengths,
 bearing in mind the schools’ academic and non-academic requirements, and
 the programmes available to develop the area of talent.</p>
 <p></p>
+<h4><strong><u>Criteria for DSA(Sec) Exercise 2025</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -37,7 +38,7 @@ the programmes available to develop the area of talent.</p>
 <p>Criteria</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Selection</p>
+<p>Selection (in-person)</p>
 </th>
 </tr>
 <tr>
@@ -250,80 +251,27 @@ the Uniformed Groups (Girl Guides, National Cadet Corps and Red Cross Youth)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Criteria for DSA(Sec) Exercise 2025</u></strong></h4>
-<p>Selection is based on the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Talent in the respective areas:&nbsp;</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Music Elective Programme (MEP)</strong> – intermediate proficiency
-in playing at least one music instrument and possess functional theory
-knowledge in the Western music tradition.</p>
+<p>Shortlisted candidates should exhibit good performance in the relevant
+selection auditions/tests/trials/interviews.</p>
 </li>
-<li>
-<p><strong>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance)</strong> –
-Strong proficiency in the relevant areas of talent (e.g. Band Instrument
-Performance, Dance, or Voice).</p>
-</li>
-<li>
-<p><strong>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp; Field and Canoeing)</strong> –Strong
-proficiency in relevant sport, past competition experience and achievements
-would be an advantage.</p>
-</li>
-<li>
-<p><strong>Sports &amp; Games (International Chess)</strong> - Strong proficiency
-in Chess tactics and strategies, past achievements would be an advantage.</p>
-</li>
-<li>
-<p><strong>Leadership &amp; Uniformed Groups</strong> – past leadership appointment
-at school/CCA level and a keen interest in the Uniformed Groups (Girl Guides,
-National Cadet Corps and Red Cross Youth).</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>The school will conduct in-person selection for all DSA talent areas.&nbsp;
-Shortlisted candidates should exhibit good performance in the relevant
-selection tests:</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Music Elective Programme (MEP) – audition, written test &amp; interview</p>
-</li>
-<li>
-<p>Performing Arts (Concert Band, Choir, Chinese &amp; Modern Dance) – audition
-&amp; interview</p>
-</li>
-<li>
-<p>Sports &amp; Games (Badminton, Hockey, Netball, Softball, Track &amp;
-Field and Canoeing) – sports trial &amp; interview</p>
-</li>
-<li>
-<p>Sports &amp; Games (International Chess) - trials</p>
-</li>
-<li>
-<p>Leadership &amp; Uniformed Groups - panel interview</p>
-</li>
-</ul>
-<p></p>
-<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Selection of students will also be based on the character and values displayed
 by candidates, aligned with the Crescent values of Moral Courage, Resilience,
-Drive, Innovativeness, Empathy and Teamwork. <strong>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</strong> Applicants
-who do not have prior experience may also apply. The school will assess
-applicants based on the selection criteria, which may include assessing
-the potential of the applicants.&nbsp;</p>
+Drive, Innovativeness, Empathy and Teamwork.</p>
 </li>
-</ol>
-<p></p>
-<ol start="4" data-tight="true" class="tight">
 <li>
+<p><strong>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</strong> Applicants
+who do not have prior experience may also apply.</p>
+</li>
+<li>
+<p>The school will assess applicants based on the selection criteria, which
+may include assessing the potential of the applicants.&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4. They are to
@@ -332,6 +280,8 @@ join the CCA allocated by the school <strong><u>throughout their 4 years in Cres
 <p>Students admitted under DSA (Leadership) are expected to join the school-allocated
 Uniformed Group throughout their 4 years.</p>
 <p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p>Students admitted under DSA (MEP) are expected to be in MEP <u>and</u> to
 join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 </li>
