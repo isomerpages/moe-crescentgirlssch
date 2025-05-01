@@ -33,6 +33,7 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 | Netball   |       | Symphonic Band     | Innovation &amp; Enterprise
 | Softball     |       |       |
 
+Information about&nbsp;**CCA Venues and Schedule**&nbsp;can be found [here](/files/2025_CCA_Schedule_and_Venues.pdf).
 
 #### **SPECIAL PROGRAMMES**
 **Champion Seminar**<br>
@@ -43,4 +44,3 @@ To encourage and recognize desirable values such as commitment &amp; dedication 
 
 Please&nbsp;[click&nbsp;here](https://www.crescent.edu.sg/qql/slot/u360/CCA/LEAPS%202%200%20Framework.pdf)&nbsp;for information on Holistic Education for Secondary School Students (LEAPS 2.0).
 
-Information about&nbsp;**CCA Venues and Schedule**&nbsp;can be found&nbsp;[here](https://www.crescent.edu.sg/qql/slot/u360/CCA/CCA%20schedule%20and%20Venues%202021.pdf).
