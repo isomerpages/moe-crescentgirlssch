@@ -14,7 +14,6 @@ to choose schools wisely based on the student’s aptitudes and strengths,
 bearing in mind the schools’ academic and non-academic requirements, and
 the programmes available to develop the area of talent.</p>
 <p></p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -38,7 +37,7 @@ the programmes available to develop the area of talent.</p>
 <p>Criteria</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Selection through:</p>
+<p>Selection</p>
 </th>
 </tr>
 <tr>
@@ -54,10 +53,10 @@ the programmes available to develop the area of talent.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>intermediate proficiency in playing at least one music instrument</p>
+<p>Intermediate proficiency in playing at least one music instrument</p>
 </li>
 <li>
-<p>possess functional theory knowledge in the Western music tradition</p>
+<p>Possess functional theory knowledge in the Western music tradition</p>
 </li>
 </ul>
 </td>
@@ -99,7 +98,7 @@ the programmes available to develop the area of talent.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Strong proficiency in voice</p>
+<p>Strong proficiency in Voice</p>
 </li>
 </ul>
 </td>
@@ -120,7 +119,7 @@ the programmes available to develop the area of talent.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Strong proficiency in dance</p>
+<p>Strong proficiency in Dance</p>
 </li>
 </ul>
 </td>
@@ -228,7 +227,7 @@ the programmes available to develop the area of talent.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Trial &amp; interview</p>
 </td>
 </tr>
 <tr>
@@ -236,16 +235,17 @@ the programmes available to develop the area of talent.</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports &amp; Games</p>
+<p>Leadership &amp; Uniformed Groups</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Past leadership appointment at school/CCA level and a keen interest in
+the Uniformed Groups (Girl Guides, National Cadet Corps and Red Cross Youth)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Panel interview</p>
 </td>
 </tr>
 </tbody>
