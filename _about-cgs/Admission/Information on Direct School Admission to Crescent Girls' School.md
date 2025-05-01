@@ -281,7 +281,7 @@ by candidates, aligned with the Crescent values of Moral Courage, Resilience,
 Drive, Innovativeness, Empathy and Teamwork.</p>
 </li>
 <li>
-<p><strong>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</strong> 
+<p><strong>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</strong>
 </p>
 </li>
 <li>
@@ -354,7 +354,7 @@ transfer to another school after the release of the PSLE results.</p>
 <h4><u>Notification of Results</u></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Only shortlisted candidates </strong>will be notified <u>by phone and email </u>regarding
+<p><strong>Only shortlisted applicants </strong>will be notified <u>by phone and email </u>regarding
 the date of the relevant selection test/audition/interview.</p>
 </li>
 <li>
@@ -390,9 +390,8 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 </table>
 <hr>
 <h4>Important Dates</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -404,30 +403,29 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7 May 2025, 11.00 am to 3 Jun 2025, 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application via online DSA-Sec Portal</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>21 Jul 2025 to 13 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selection test/audition/interview for shortlisted applicants</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>25 Aug 2025 to 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Notification of outcome of application via email</p>
 </td>
 </tr>
 </tbody>
