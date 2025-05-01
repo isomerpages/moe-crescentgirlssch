@@ -21,7 +21,7 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 *   Participate in inter-school competitions/external events.
 
 
-#### **CO-CURRICULAR ACTIVITIES**
+#### **CCAs @ Crescent**
 
 
 | Sports &amp; Games | Uniformed Groups | Performing Arts | Clubs &amp; Societies |
