@@ -273,7 +273,7 @@ and the programmes available to develop the area of talent.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates should exhibit good performance in the relevant
-selection test/audition/interview</p>
+selection test/audition/interview.</p>
 </li>
 <li>
 <p>Selection of students will also be based on the character and values displayed
