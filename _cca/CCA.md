@@ -21,34 +21,22 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 *   Participate in inter-school competitions/external events.
 
 
-#### **CO-CURRICULAR ACTIVITIES**
-**Sports &amp; Games**<br>
-*   Badminton
-*   Canoeing
-*   Track &amp; Field
-*   Hockey
-*   Netball
-*   Softball
+#### **CCAs @ Crescent**
 
-**Uniformed Groups**<br>
-*   Girl Guides
-*   National Cadet Corps (Land)
-*   Red Cross Youth
 
-**Performing Arts**<br>
-*   Angklung &amp; Kulintang Ensemble&nbsp;
-*   Chinese &amp; Modern Dance&nbsp;
-*   Choir
-*   English Drama
-*   Symphonic Band
+| Sports &amp; Games | Uniformed Groups | Performing Arts | Clubs &amp; Societies |
+| -------- | -------- | -------- | -------- |
+| Badminton     | Girl Guides     | Angklung &amp; Kulintang Ensemble     | Audio Visual Aid |
+| Canoeing     | National Cadet Corps (Land)    | Chinese &amp; Modern Dance    | Chess |
+| Track &amp; Field    | Red Cross Youth    | Choir     | Infocomm |
+| Hockey   |      | English Drama   | Digital Art &amp; Photography |
+| Netball   |       | Symphonic Band     | Innovation &amp; Enterprise
+| Softball     |       |       |
 
-**Clubs &amp; Societies**<br>
-*   Audio Visual Aid
-*   Chess
-*   Infocomm&nbsp;
-*   Digital Art &amp; Photography&nbsp;
-*   Innovation &amp; Enterprise
-
+Additional information:<br>
+* [CCA Venues &amp; Schedule](/files/2025_CCA_Schedule_and_Venues.pdf)<br>
+* [CCA Achievements](/files/CCA_Achievements_2024.pdf)<br>
+* [Holistic Education for Secondary School Students (LEAPS 2.0)](/files/1__LEAPS_2_0.pdf).
 
 #### **SPECIAL PROGRAMMES**
 **Champion Seminar**<br>
@@ -56,7 +44,3 @@ To celebrate the school’s CCA achievements and recognize the commitment and pa
 
 **School Colours Award**<br>
 To encourage and recognize desirable values such as commitment &amp; dedication in the pursuit of CCA excellence.
-
-Please&nbsp;[click&nbsp;here](https://www.crescent.edu.sg/qql/slot/u360/CCA/LEAPS%202%200%20Framework.pdf)&nbsp;for information on Holistic Education for Secondary School Students (LEAPS 2.0).
-
-Information about&nbsp;**CCA Venues and Schedule**&nbsp;can be found&nbsp;[here](https://www.crescent.edu.sg/qql/slot/u360/CCA/CCA%20schedule%20and%20Venues%202021.pdf).
