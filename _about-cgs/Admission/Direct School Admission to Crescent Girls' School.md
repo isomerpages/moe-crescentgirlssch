@@ -277,7 +277,7 @@ selection test/audition/interview.</p>
 </li>
 <li>
 <p>Selection of students will also be based on the character and values displayed
-by candidates, aligned with the Crescent values of Moral Courage, Resilience,
+by candidates, aligned with the school values of Moral Courage, Resilience,
 Drive, Innovativeness, Empathy and Teamwork.</p>
 </li>
 <li>
@@ -294,7 +294,7 @@ assessing the potential of the applicants.&nbsp;</p>
 <p></p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from year 1 to 4. They are
+related to the talent they are selected for from Years 1 to 4. They are
 to join the CCA allocated by the school <strong><u>throughout their 4 years in Crescent</u></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -314,11 +314,11 @@ join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 is no application fee.&nbsp;</p>
 </li>
 <li>
-<p><strong>Opens: 7 May 2025, 11.00 am</strong>
+<p><strong>Opens: Wed 7 May 2025, 11.00 am</strong>
 </p>
 </li>
 <li>
-<p><strong>Closes: 3 Jun 2025, 3.00 pm</strong>
+<p><strong>Closes: Tue 3 Jun 2025, 3.00 pm</strong>
 </p>
 <p></p>
 </li>
@@ -329,7 +329,7 @@ the three choices, an applicant may use a maximum of two choices to apply
 to the same school, for two different talent areas of that school.</p>
 </li>
 <li>
-<p>Crescent Girls' School only offers <u>Posting Group 2 and 3</u> for student
+<p>Crescent Girls' School only offers <u>Posting Groups 2 and 3</u> for student
 enrolment.</p>
 </li>
 <li>
@@ -363,12 +363,12 @@ the date of the relevant selection test/audition/interview.</p>
 Crescent Girls' School.</p>
 </li>
 <li>
-<p>Selection tests will be held from <strong>21 Jul 2025 to 13 Aug 2025</strong>.&nbsp;</p>
+<p>Selection tests will be held from <strong>Mon 21 Jul 2025 to Wed 13 Aug 2025</strong>.&nbsp;</p>
 </li>
 </ul>
 <p></p>
 <p>All applicants will be informed via email of the outcome of their application
-from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
+from <strong>Mon 25 Aug 2025 to Thu 4 Sep 2025</strong>.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -389,6 +389,8 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 </tr>
 </tbody>
 </table>
+<p>The school reserves the right not to release the reason for non-selection
+of an applicant or the results of the selection tests/auditions/interviews.&nbsp;</p>
 <hr>
 <h4>Important Dates</h4>
 <table style="minWidth: 50px">
@@ -407,7 +409,7 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11.00 am to 3 Jun 2025, 3.00 pm</p>
+<p>Wed 7 May 2025, 11.00 am to Tue 3 Jun 2025, 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application via online DSA-Sec Portal</p>
@@ -425,7 +427,7 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Jul 2025 to 13 Aug 2025</p>
+<p>Mon 21 Jul 2025 to Wed 13 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection test/audition/interview for shortlisted applicants</p>
@@ -433,7 +435,7 @@ from <strong>25 Aug 2025 to 4 Sep 2025</strong>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 to 4 Sep 2025</p>
+<p>Mon 25 Aug 2025 to Thu 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of outcome of application via email</p>
