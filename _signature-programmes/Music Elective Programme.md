@@ -5,13 +5,13 @@ description: ""
 variant: markdown
 ---
 ### **Music Elective Programme**
-The Music Elective Programme (MEP) is a four-year talent programme that prepares students for the GCE' O' Level Higher Music Examination.
+The Music Elective Programme (MEP) is a four-year talent programme that prepares students for the G3 Higher Music examination.
 
 The objective of the MEP is to provide opportunities for musically-inclined students to pursue their passion and cultivate their abilities in music-writing, music-making and music listening.
 
 Students selected for the programme will take Music (MEP) instead of Design &amp; Technology and Food &amp; Consumer Education at the lower secondary level.
 
-Sec 1 Students (from 2024) will be preparing for the equivalent of the GCE 'O' Level Higher Music at the end of their Secondary School Education
+Sec 1 Students (from 2024) will be preparing for the equivalent of the GCE 'O' Level Higher Music at the end of their Secondary School Education.
 
 The current GCE 'O' Level Higher Music Syllabus (6086) is available for download at SEAB website [http://www.seab.gov.sg](http://www.seab.gov.sg)
 
