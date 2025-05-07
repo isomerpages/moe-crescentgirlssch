@@ -445,5 +445,5 @@ of an applicant or the results of the selection tests/auditions/interviews.&nbsp
 </table>
 <p></p>
 <p>For further enquiries, you may contact the school at <strong>6475 8711</strong> or
-email <strong><a rel="noopener noreferrer nofollow" target="_blank">cgs_dsa@crescent.edu.sg</a></strong>.&nbsp;</p>
+email <a href="mailto:cgs_dsa@crescent.edu.sg" rel="noopener nofollow" target="_blank">cgs_dsa@crescent.edu.sg</a>.&nbsp;</p>
 <p>&nbsp;</p>
