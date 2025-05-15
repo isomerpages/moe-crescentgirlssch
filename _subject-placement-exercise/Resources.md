@@ -8,6 +8,8 @@ description: ""
 <p>[upload pdf]</p>
 <p></p>
 <h4>Useful Links</h4>
+<p><strong>Full Subject-Based Banding &amp; Academic Matters</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.seab.gov.sg" rel="noopener nofollow" target="_blank">Subject Syllabuses and Examination Format</a><strong> </strong>(2027
@@ -33,8 +35,26 @@ of March 2025)</p>
 <p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Coursefinder </a>(Explore
 courses based on aggregate type, score, type of institute and area of interest)</p>
 </li>
-<li>
+</ul>
 <p></p>
+<p><strong>Resources for Parents</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">Refreshed Guidelines for School-Home Partnership</a>
+</p>
+</li>
+<li>
+<p><a href="http://go.gov.sg/transitionsupportel" rel="noopener nofollow" target="_blank">Tips on Coping with Transition through Upper Sec / Post-Secondary Education</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener nofollow" target="_blank">Overview of Education and Career Guidance</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">Social and emotional learning: Resources for parents</a>
+</p>
 </li>
 </ul>
 <p></p>

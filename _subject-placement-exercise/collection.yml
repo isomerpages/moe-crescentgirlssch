@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Overview of Subject Placement Exercise.md
+      - Information about Subject Placement.md
       - Subject Briefings.md
       - Resources.md
