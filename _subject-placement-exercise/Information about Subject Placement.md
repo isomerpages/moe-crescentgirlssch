@@ -18,7 +18,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal's Address</p>
+<p><a href="/files/2025_Sec_2_Parents__Sem_Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
 </td>
 </tr>
 <tr>
