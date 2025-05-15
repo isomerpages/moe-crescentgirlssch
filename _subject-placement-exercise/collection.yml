@@ -2,7 +2,7 @@ collections:
   subject-placement-exercise:
     output: true
     order:
-      - Subject Placement Info Booklet.md
       - Overview of Subject Placement Exercise.md
+      - Subject Placement Info Booklet.md
       - Subject Briefings.md
       - Resources.md
