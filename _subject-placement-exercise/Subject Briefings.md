@@ -30,7 +30,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Additional Mathematics</p>
+<p><a href="/files/2025_Subject_Briefing_Additional_Mathematics.pdf" rel="noopener nofollow" target="_blank">Additional Mathematics</a>
+</p>
 </td>
 </tr>
 <tr>
