@@ -52,7 +52,7 @@ JC Admissions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep (Fri) to8 Oct (Wed)</p>
+<p>26 Sep (Fri) to 8 Oct (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End-of-Year Examinations</p>
