@@ -38,7 +38,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Subject_Briefing_Art_and_NFS.pdf" rel="noopener noreferrer nofollow" target="_blank">Coursework (Art; Nutrition &amp; Food Science)</a>
+<p><a href="/files/2025_Subject_Briefing_Art_and_NFS.pdf" rel="noopener nofollow" target="_blank">Coursework (Art; Nutrition &amp; Food Science)</a>
 </p>
 </td>
 </tr>
@@ -46,6 +46,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3_Music_6085.pdf" rel="noopener nofollow" target="_blank">G3 Music 6085</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G3 Computing (details to be uploaded at a later date)</p>
 </td>
 </tr>
 </tbody>
