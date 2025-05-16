@@ -42,7 +42,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G3 Music 6085</p>
+<p><a href="/files/G3_Music_6085.pdf" rel="noopener nofollow" target="_blank">G3 Music 6085</a>
+</p>
 </td>
 </tr>
 </tbody>
