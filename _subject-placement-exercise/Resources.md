@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h4>Subject Placement Info Booklet</h4>
-<p>[upload pdf]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Subject_Placement_Info_Booklet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Placement Info Booklet</a>
+</p>
+</li>
+</ul>
 <p></p>
 <h4>Useful Links</h4>
 <p><strong>Full Subject-Based Banding &amp; Academic Matters</strong>
