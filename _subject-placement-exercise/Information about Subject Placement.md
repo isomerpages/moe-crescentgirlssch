@@ -18,17 +18,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal's Address</p>
+<p><a href="/files/2025_Sec_2_Parents__Sem_Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head's Address</p>
+<p><a href="/files/2025_Sec_2_Parents__Sem_Year_Headl_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Address</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Placement Info Booklet</p>
+<p><a href="/files/Subject_Placement_Info_Booklet_2025.pdf" rel="noopener nofollow" target="_blank">Subject Placement Info Booklet</a>
+</p>
 </td>
 </tr>
 </tbody>
