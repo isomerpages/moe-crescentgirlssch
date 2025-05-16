@@ -29,7 +29,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Placement Info Booklet</p>
+<p><a href="/files/Subject_Placement_Info_Booklet_2025.pdf" rel="noopener nofollow" target="_blank">Subject Placement Info Booklet</a>
+</p>
 </td>
 </tr>
 </tbody>
