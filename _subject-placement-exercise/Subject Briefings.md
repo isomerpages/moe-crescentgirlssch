@@ -20,12 +20,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p><a href="/files/2025_Subject_Briefing_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Subject_Briefing_Humanities.pdf" rel="noopener nofollow" target="_blank">Humanities (Geography, History, Literature in English)</a>
+<p><a href="/files/2025_Subject_Briefing_Humanities.pdf" rel="noopener nofollow" target="_blank">Humanities (Geography; History; Literature in English)</a>
 </p>
 </td>
 </tr>
@@ -37,7 +38,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coursework (Art, Nutrition &amp; Food Science)</p>
+<p><a href="/files/2025_Subject_Briefing_Art_and_NFS.pdf" rel="noopener noreferrer nofollow" target="_blank">Coursework (Art; Nutrition &amp; Food Science)</a>
+</p>
 </td>
 </tr>
 <tr>
