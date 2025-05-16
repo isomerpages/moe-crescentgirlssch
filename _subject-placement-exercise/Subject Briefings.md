@@ -40,6 +40,11 @@ description: ""
 <p>Coursework (Art, Nutrition &amp; Food Science)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G3 Music 6085</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
