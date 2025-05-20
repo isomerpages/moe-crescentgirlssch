@@ -49,10 +49,16 @@ Chi Humanistic Youth Centre.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Multiple_Logo.png">
 </div>
 <p></p>
-<p>For schools that are interested in participating, the sign-up link via
-FormSG will be sent out to all schools sometime in April. The Organising
+<p>FFor schools that are interested in participating, please refer to the
+sign-up link via FormSG here: <a href="https://for.edu.sg/oes-2025-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/oes-2025-registration</a>
+</p>
+<p></p>
+<p>Schools can register their interest <strong>by 23 May</strong>. The Organising
 Committee will be confirming the participation of the attendees within
 1 week of the form submission.</p>
+<p>&nbsp;</p>
+<p>More information: <a href="https://www.terra.sg/nsm/oes" rel="noopener noreferrer nofollow" target="_blank">OES microsite</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
