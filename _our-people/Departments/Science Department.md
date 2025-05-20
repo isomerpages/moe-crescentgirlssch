@@ -15,10 +15,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Lim Choon Huat</p>
+<p>Ms Soh Poh Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Science</p>
+<p>Subject Head / Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -27,14 +27,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head / Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Soh Poh Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Chemistry</p>
 </td>
 </tr>
 <tr>
