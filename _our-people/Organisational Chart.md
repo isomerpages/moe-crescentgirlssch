@@ -63,14 +63,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Shirlene Koh</p>
 </td>
 <td rowspan="1" colspan="1">
