@@ -10,7 +10,7 @@ variant: markdown
 | Contact Helpline |  |
 |---|---|
 | Edusave Balance | 6260 0777 (24-hr automated hotline) |
-| Financial Assistance | https://www.crescent.edu.sg/about-cgs/fas/|
+| Financial Assistance | https://www.crescent.edu.sg/about-cgs/fas|
 | CGS ICT Helpdesk  | Students: [Case Logging Form](https://go.gov.sg/cgscaselogging)<br>Email: [IT.SUPPORT.TEAM@live.crescent.edu.sg](mailto:IT.SUPPORT.Team@live.crescent.edu.sg) |
 |
 
