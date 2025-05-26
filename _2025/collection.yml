@@ -2,10 +2,10 @@ collections:
   "2025":
     output: true
     order:
-      - April/Hari Raya Celebrations@CGS.md
-      - April/.keep
       - January/.keep
       - January/Sec 1 Orientation Campfire.md
       - January/Dedication Ceremony 2025.md
       - February/.keep
       - February/CGS Chinese New Year Celebration 2025.md
+      - April/.keep
+      - April/Hari Raya Celebrations@CGS.md
