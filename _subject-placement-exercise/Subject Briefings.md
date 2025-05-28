@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><u>Click on the links to access the briefing slides</u>
+<p><u>Click on the links to access the briefing slides (updated on 28 May)</u>
 </p>
 </th>
 </tr>
@@ -50,7 +50,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G3 Computing (details to be uploaded at a later date)</p>
+<p><a href="/files/Additional_information_on_G3_Computing.pdf" rel="noopener nofollow" target="_blank">G3 Computing (further details on Parents' Gateway)</a>
+</p>
 </td>
 </tr>
 </tbody>
