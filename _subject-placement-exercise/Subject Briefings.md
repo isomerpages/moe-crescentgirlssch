@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><u>Click on the links to access the briefing slides</u>
+<p><u>Click on the links to access the briefing slides (updated on 28 May)</u>
 </p>
 </th>
 </tr>
