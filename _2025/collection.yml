@@ -2,8 +2,6 @@ collections:
   "2025":
     output: true
     order:
-      - May/Student Leaders' Investiture 2025.md
-      - May/.keep
       - January/.keep
       - January/Sec 1 Orientation Campfire.md
       - January/Dedication Ceremony 2025.md
@@ -14,3 +12,5 @@ collections:
       - April/CGS Sports Carnival 2025.md
       - April/International Friendship Day 2025.md
       - April/Limelight 2025.md
+      - May/.keep
+      - May/Student Leaders' Investiture 2025.md
