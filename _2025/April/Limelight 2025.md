@@ -29,15 +29,6 @@ that celebrated our journey and reaffirmed our love for music.</p>
 <p></p>
 <p><strong><em>Written by: Lee Qian En Clova (3G5), Ng Kaiwen Jaime (3C3), Nur Dania Aqilah(3C1), Thong Yu Ying Kaila Anne (3C3)</em></strong>
 </p>
-<p></p>
-<p></p>
-<p><u>Summarised version</u>
-</p>
-<p>&nbsp; On 29 April 2025, CGSSB performed its 13th Limelight concert at
-the Esplanade. After weeks of intense rehearsals, the band delivered a
-strong performance despite nerves. The experience was both rewarding and
-memorable, offering a valuable platform to showcase the band’s growth,
-talent, and dedication to musical excellence.</p>
 <hr>
 <h4><strong><em>Photo</em></strong></h4>
 <div class="iframe-wrapper">
