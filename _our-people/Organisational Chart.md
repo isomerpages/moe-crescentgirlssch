@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mr Lim Han Chee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal Admin</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
