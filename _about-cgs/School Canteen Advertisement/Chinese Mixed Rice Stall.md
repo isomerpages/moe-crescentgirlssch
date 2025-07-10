@@ -1,12 +1,11 @@
 ---
-title: Muslim Stall
-permalink: /school-canteen-advertisement/muslim-stall/
+title: Chinese Mixed Rice Stall
+permalink: /school-canteen-advertisement/chinese-mixed-rice-stall/
 variant: tiptap
 description: ""
 third_nav_title: School Canteen Advertisement
 ---
-<h4><strong>School Canteen Advertisement - Muslim Stall</strong></h4>
-<p>&nbsp;</p>
+<h4><strong>School Canteen Advertisement</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -27,13 +26,13 @@ third_nav_title: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muslim Food Stall</p>
+<p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 May 2025</p>
+<p>25 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rice and/or noodle stall is acceptable.</p>
+<p>Rice stall is acceptable.</p>
 </td>
 </tr>
 <tr>
