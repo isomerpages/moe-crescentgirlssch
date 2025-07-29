@@ -8,7 +8,7 @@ variant: markdown
 
 #### **2025**
 
-Click **[here](https://www.crescent.edu.sg/whats-happening/2025/may/learning-journey-cambodia-2025/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/whats-happening/2025/may/learning-journey-cambodia-2025/)** to find out mor
 
 
 #### **2024**
