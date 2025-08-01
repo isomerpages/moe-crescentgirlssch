@@ -70,7 +70,8 @@ school choirs</p>
 <p>Ms Sandy Teo Jiajia</p>
 </li>
 <li>
-<p>Ms Ou Yang Xiuling</p>
+<p>Ms Chiu Yee Qian Millie</p>
+<p></p>
 </li>
 </ul>
 <h3><strong>Blurbs</strong></h3>
