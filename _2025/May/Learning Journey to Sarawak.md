@@ -1,6 +1,6 @@
 ---
 title: Learning Journey to Sarawak
-permalink: /learning-journey-to-sarawak-2025/
+permalink: /whats-happening/2025/may/learning-journey-to-sarawak-2025/
 variant: tiptap
 description: ""
 third_nav_title: May
