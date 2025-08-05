@@ -33,6 +33,10 @@ syllabus are currently unavailable)</p>
 of March 2025)</p>
 </li>
 <li>
+<p><em>new</em>  <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/changes-from-2028" rel="noopener nofollow" target="_blank">Changes to JC and MI admission criteria from 2028 JAE</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.moe.gov.sg/post-secondary/" rel="noopener nofollow" target="_blank">Overview of Current Post-Sec Pathways</a>
 </p>
 </li>
