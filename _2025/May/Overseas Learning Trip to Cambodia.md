@@ -1,6 +1,6 @@
 ---
 title: Overseas Learning Trip to Cambodia
-permalink: /learning-journey-cambodia-2025/
+permalink: /whats-happening/2025/may/learning-journey-cambodia-2025/
 variant: tiptap
 description: ""
 third_nav_title: May
