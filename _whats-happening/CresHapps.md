@@ -8,18 +8,18 @@ variant: markdown
 
 #### **2025**
 
-Click **[here](https://www.crescent.edu.sg/whats-happening/2025/may/learning-journey-to-sarawak-2025/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/whats-happening/2025/august/sec-2-showcase-2025/)** to find out more!
 
 
 #### **2024**
 
-Click **[here](https://www.crescent.edu.sg/whats-happening/2024/october/secondary-2-showcase/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/sustainability-advocacy-challenge-sac-2024/)** to find out more!
 
 
 #### **2023**
 
-Click **[here](https://www.crescent.edu.sg/whats-happening/2023/jan/secondary-one-orientation-campfire/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/2023/september/champion-seminar-2023/)** to find out more!
 
 #### **2022**
 
-Click **[here](https://www.crescent.edu.sg/whats-happening/2022/jan/dedication-ceremony/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/2022/October/cg100-time-capsule/)** to find out more!
