@@ -2,12 +2,6 @@ collections:
   "2025":
     output: true
     order:
-      - August/.keep
-      - August/CGS Champion Seminar 2025.md
-      - August/Sec 2 Showcase.md
-      - July/National Digital Explorer 2025.md
-      - July/CGS 69th Speech Day.md
-      - July/.keep
       - January/.keep
       - January/Sec 1 Orientation Campfire.md
       - January/Dedication Ceremony 2025.md
@@ -23,3 +17,9 @@ collections:
       - May/Overseas Learning Trip to Cambodia.md
       - May/Learning Journey to Vietnam.md
       - May/Learning Journey to Sarawak.md
+      - July/.keep
+      - July/National Digital Explorer 2025.md
+      - July/CGS 69th Speech Day.md
+      - August/.keep
+      - August/CGS Champion Seminar 2025.md
+      - August/Sec 2 Showcase.md
