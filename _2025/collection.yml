@@ -2,9 +2,9 @@ collections:
   "2025":
     output: true
     order:
-      - August/Sec 2 Showcase.md
-      - August/CGS Champion Seminar 2025.md
       - August/.keep
+      - August/CGS Champion Seminar 2025.md
+      - August/Sec 2 Showcase.md
       - July/CGS 69th Speech Day.md
       - July/.keep
       - January/.keep
