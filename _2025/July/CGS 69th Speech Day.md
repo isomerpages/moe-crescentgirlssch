@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: July
 ---
-<h2><strong>Crescent Girls’ School 69th Speech Day: “Past Journeys, Future Dreams”</strong></h2>
+<h4><strong>Crescent Girls’ School 69th Speech Day: “Past Journeys, Future Dreams”</strong></h4>
 <p>Crescent Girls’ School celebrated its 69th Speech Day on 12 July 2025,
 with the inspiring theme <strong>“Past Journeys, Future Dreams.”</strong> Graced
 by our Guest-of-Honour, Ms Liew Geok Heok, the event was a heartfelt tribute
