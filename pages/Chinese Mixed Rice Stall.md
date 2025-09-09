@@ -1,9 +1,8 @@
 ---
 title: Chinese Mixed Rice Stall
-permalink: /school-canteen-advertisement/chinese-mixed-rice-stall/
+permalink: /nil/
 variant: tiptap
 description: ""
-third_nav_title: School Canteen Advertisement
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
 <table style="minWidth: 75px">
