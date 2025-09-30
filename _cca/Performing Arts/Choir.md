@@ -8,22 +8,34 @@ variant: tiptap
 <h2><strong>CHOIR</strong></h2>
 <blockquote>
 <p>“We Sing as One!”</p>
+<p></p>
 </blockquote>
-<p>The Crescent Girls’ School Choir has been actively contributing to the
-musical culture in school, as well as participating in public performances
-regularly. The choir received the Certificate of Distinction at the Singapore
-Youth Festival Arts Presentation in 2017, 2019, and 2023. The choir is
-also proud to attain the Gold Award at the Singapore International Choral
-Festival (SICF) in 2018, scoring the highest mark among the Singapore choirs
-in its category.&nbsp;</p>
+<p>The Crescent Girls’ School Choir or more affectionately known as CrezChorale
+has been actively contributing to the musical culture in school, and has
+been regularly participating in public performances as well. The choir
+received the Certificate of Distinction at the Singapore Youth Festival
+Arts Presentation in 2017, 2019, 2023, and 2025. The choir was also proud
+to attain the Gold Award at the Singapore International Choral Festival
+(SICF) in 2018, scoring the highest mark among the Singapore choirs in
+its category.</p>
+<p></p>
 <p>With their motto, ‘The Voice, The Spirit, The Soul’, the choir shows commitment
-and passion in both performing and mentoring younger singers. Significant
-events that the choir participated in include performing as a guest item
-with the VOCO Singapore Ladies’ Choir, and being part of the chorus in
-the Orchestra of the Music Makers (OMM)’s productions - Hansel and Gretel
-and OMM10: Bernstein’s Mass. The choir also participated in numerous inter-school
-choir exchanges with various primary and secondary school choirs and performed
-for the school during special occasions.</p>
+and passion in both performing and mentoring younger singers. Recent significant
+events that the choir participated in include their very own full concert,
+Prismatic which was thoroughly subscribed, and singing for President Tharman
+Shanmugaratnam and many dignitaries in an event hosted by NeuGen, an organisation
+that focuses on giving support and fresh starts to offenders, ex-offenders,
+and their families. The choir also participates in numerous inter-school
+choir exchanges with various secondary school and Junior College choirs
+and performs for the school during special occasions.</p>
+<p></p>
+<p>In an effort to promote lifelong, continuous learning and societal relevance,
+the choir takes a holistic approach towards musical education which encourages
+personal and others-centric growth. The choir is guided with peer-led activities,
+creative problem-solving, dialogue and discourse between students, teachers,
+and instructors, and opportunities to not just sing for themselves, but
+to also give back to the society.</p>
+<p></p>
 <h4><strong>EVENTS:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
