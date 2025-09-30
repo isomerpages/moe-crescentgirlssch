@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h3><strong>CHOIR</strong></h3>
+<h2><strong>CHOIR</strong></h2>
 <blockquote>
 <p>“We Sing as One!”</p>
 </blockquote>
