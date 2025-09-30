@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h3><strong>ENGLISH DRAMA</strong></h3>
+<h2><strong>ENGLISH DRAMA</strong></h2>
 <blockquote>
 <p>"Our Best Act For You"</p>
 </blockquote>

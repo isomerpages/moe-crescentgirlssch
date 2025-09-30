@@ -9,21 +9,32 @@ variant: tiptap
 <blockquote>
 <p>“We Sing as One!”</p>
 </blockquote>
-<p>The Crescent Girls’ School Choir has been actively contributing to the
-musical culture in school, as well as participating in public performances
-regularly. The choir received the Certificate of Distinction at the Singapore
-Youth Festival Arts Presentation in 2017, 2019, and 2023. The choir is
-also proud to attain the Gold Award at the Singapore International Choral
-Festival (SICF) in 2018, scoring the highest mark among the Singapore choirs
-in its category.&nbsp;</p>
+<p>The Crescent Girls’ School Choir or more affectionately known as CrezChorale
+has been actively contributing to the musical culture in school, and has
+been regularly participating in public performances as well. The choir
+received the Certificate of Distinction at the Singapore Youth Festival
+Arts Presentation in 2017, 2019, 2023, and 2025. The choir was also proud
+to attain the Gold Award at the Singapore International Choral Festival
+(SICF) in 2018, scoring the highest mark among the Singapore choirs in
+its category.</p>
+<p></p>
 <p>With their motto, ‘The Voice, The Spirit, The Soul’, the choir shows commitment
-and passion in both performing and mentoring younger singers. Significant
-events that the choir participated in include performing as a guest item
-with the VOCO Singapore Ladies’ Choir, and being part of the chorus in
-the Orchestra of the Music Makers (OMM)’s productions - Hansel and Gretel
-and OMM10: Bernstein’s Mass. The choir also participated in numerous inter-school
-choir exchanges with various primary and secondary school choirs and performed
-for the school during special occasions.</p>
+and passion in both performing and mentoring younger singers. Recent significant
+events that the choir participated in include their very own full concert,
+Prismatic which was thoroughly subscribed, and singing for President Tharman
+Shanmugaratnam and many dignitaries in an event hosted by NeuGen, an organisation
+that focuses on giving support and fresh starts to offenders, ex-offenders,
+and their families. The choir also participates in numerous inter-school
+choir exchanges with various secondary school and Junior College choirs
+and performs for the school during special occasions.</p>
+<p></p>
+<p>In an effort to promote lifelong, continuous learning and societal relevance,
+the choir takes a holistic approach towards musical education which encourages
+personal and others-centric growth. The choir is guided with peer-led activities,
+creative problem-solving, dialogue and discourse between students, teachers,
+and instructors, and opportunities to not just sing for themselves, but
+to also give back to the society.</p>
+<p></p>
 <h4><strong>EVENTS:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,35 +86,34 @@ school choirs</p>
 </li>
 </ul>
 <h3><strong>Blurbs</strong></h3>
-<p>“Being a part of choir allowed me to experience working with different
-people, as all of us come from different backgrounds and have different
-strengths. As a leader, I learned that it is important to earn the trust
-of each choir member in order to work well with them. Choir has a supportive
-and open environment where even the instructors are friendly and open to
-new ideas.” <strong><em>Lo Yi Xuan Claire (3C2) - President</em></strong>
+<p>I really enjoy choir as it is a supportive environment where I grew a
+lot, not only in my singing, but also in my confidence and passion for
+music. Being in the choir also taught me the importance of team spirit
+and discipline, especially during the SYF season. ~ <strong><em>Pang Ren Jun (1S6) - Soprano 1</em></strong>
 </p>
-<p>“I enjoy being with the people in choir as they are very fun, and we also
-sing many different genres of music.&nbsp; We also have choir bonding sessions
-where we get to know other choristers in our section and cohort better,
-especially during the karaoke segment. Performing on stage, going for concerts,
-and participating in choir exchanges with other schools make for a really
-enriching experience!” <strong><em>Charissa Liang Hui En (1S2) &amp; Andrea Ong Joh Sim (1S2) - Alto 1</em></strong>
+<p></p>
+<p>I love choir, it’s very enjoyable! My seniors and other choir members
+are so nice to me and are really helpful. I have really close friends who
+are in choir and my juniors are also pretty funny and easy to get along
+with. Choir bonding is also fun whenever it comes up we get to do karaoke
+and play games as a choir. The songs we sing are unique as well!&nbsp;&nbsp;~ <strong><em>Ankita Chinchwade (2C3) - Alto 1</em></strong>
 </p>
-<p>“Choir helped me grow as a person. Being in Choir enables us to develop
-a sense of teamwork and discipline that help us perform more efficiently
-as a group.” <strong><em>Ng Ye Shuen (3G2) - Soprano 1</em></strong>
+<p></p>
+<p>Not only has choir helped me to improve my vocal skills, it has also allowed
+me to learn how to work in groups. Whether it’s theory lessons or combines,
+choir is always fun! ~ <strong><em>Valerie Yeo Xin Yu (3C3) - Alto 2</em></strong>
 </p>
-<p>“My experience in Choir is fulfilling to say the least! We get to learn
-how to sing well, and also experience singing in various languages. I made
-many friends in Choir, and they make my school life more fun! 😀" <strong><em>Isabel Kang Ting Xuan (2S2) - Alto 2</em></strong>
+<p></p>
+<p>Being part of the choir has helped me grow into a responsible and adaptable
+individual. It’s a wonderful platform where people from all walks of life
+come together to share their love for music, singing in harmony as one.
+Through this, I’ve experienced a strong sense of camaraderie and teamwork,
+creating a warm, positive, and truly uplifting environment that I’m grateful
+to be part of! ~<strong><em>Sundara Raman Oviya&nbsp;&nbsp;(3G4) - 2025/2026 exco</em></strong>
 </p>
-<p>“CrezChorale is a hodgepodge of different talents who come together, with
-the common goal of making music through singing. More importantly, we are
-a CrAzY🤪 family who go through life together through thick and thin, rise
-to challenges, and grow past them! We sing as one!” <strong><em>Mr. Keane Ong (Instructor/Conductor)</em></strong>
-</p>
+<hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2MScFYSHBMzc9RrZo83iDoIQC8vmPfdcpw4NZcvcjtFZqt2gWYsZdO_-PSSr5XEw1biILVyLw4_c7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfMRd1Mxd1AKP0_y3KzriHjVv2J-druSDvpSCKFgJcTJcKkl7MmaMXlX4NsEX9NIUO6gxqtg8_9xiT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
