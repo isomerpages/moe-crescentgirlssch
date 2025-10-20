@@ -110,7 +110,7 @@ third_nav_title: Departments
 <p>Mdm Lim Hong Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Geok Pin (Co-PC)</p>
+<p>Ms Amanda Ng</p>
 </td>
 </tr>
 </tbody>
