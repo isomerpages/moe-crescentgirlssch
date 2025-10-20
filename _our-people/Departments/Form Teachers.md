@@ -89,7 +89,6 @@ third_nav_title: Departments
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nat Yuen</p>
-<p>Mr Lee Boon Keng (Co-PC)</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +264,7 @@ third_nav_title: Departments
 <p>Ms Caroline Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Rais</p>
+<p>Mr Lee Boon Keng (Co-PC)</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +286,7 @@ third_nav_title: Departments
 <p>Mdm Kartinie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Punitha</p>
+<p>Ms Chia Shu Hui</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +319,7 @@ third_nav_title: Departments
 <p>Ms Isabella Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kingsley Ng (Co-FT)</p>
+<p>Mr Foo Wen Yeow (Co-FT)</p>
 </td>
 </tr>
 <tr>
@@ -354,19 +353,6 @@ third_nav_title: Departments
 <th rowspan="1" colspan="1">
 <p>Mr Tay Jun Wei</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Pamelia Goh</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -434,7 +420,7 @@ third_nav_title: Departments
 <p>Mr Kumanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yin Xia</p>
+<p>Ms Punitha</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +450,7 @@ third_nav_title: Departments
 <p>4S7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ouyang Xiuling</p>
+<p>Mr Mohammed Rais</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kalyani</p>
