@@ -119,18 +119,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pamelia Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Sec 1&amp;4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 1&amp;4</p>
+<p>Year Head / Sec 1 &amp; 4</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +130,7 @@ variant: tiptap
 <p>Ms Estee Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 2&amp;3</p>
+<p>Year Head / Sec 2 &amp; 3</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +210,7 @@ variant: tiptap
 <p>Mr Kingsley Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 </tr>
 <tr>
