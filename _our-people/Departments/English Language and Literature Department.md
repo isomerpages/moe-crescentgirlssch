@@ -87,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Donna Koh</p>
+<p>Ms Amanda Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadrah Bte Sadali</p>
+<p>Ms Donna Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

@@ -32,14 +32,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pamelia Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Sec 1&amp;4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yin Xia&nbsp;</p>
+<p>Mr Mohammed Rais</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -88,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Rais</p>
+<p>Ms Pauline Chor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
