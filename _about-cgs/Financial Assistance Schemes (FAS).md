@@ -104,7 +104,7 @@ or
 <p></p>
 <p>Applications for the 2026 Financial Assistance Scheme will open in late
 October 2025.</p>
-<p>Please visit this page <a href="https://form.gov.sg/68369b40a990b6224d671c5d" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Form</a> during
-that period to apply.</p>
+<p>Please visit this page <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Form</a> during that period
+to apply.</p>
 <p>If you have any questions, please contact the General Office at 6475 8711.</p>
 <p>Thank you.</p>
