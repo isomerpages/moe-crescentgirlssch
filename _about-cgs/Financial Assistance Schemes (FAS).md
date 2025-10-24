@@ -31,9 +31,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>- Applicant must be Singapore citizen
 <br>- Families must meet one of the following criteria:
-<br>&gt; Gross Household Income (GHI) of <strong>$4,000</strong> per month;
-or
-<br>&gt; Gross monthly household per Capita Household Income (PCI)* of <strong>$1,000</strong> and
+<br>- Gross monthly household Income (GHI) of <strong>$4,000</strong> and below;
+or</p>
+<p>- Gross monthly household per Capita Household Income (PCI)* of <strong>$1,000</strong> and
 below</p>
 </td>
 <td rowspan="1" colspan="1">
