@@ -62,7 +62,8 @@ variant: tiptap
 <p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 <br>Note: For purchase of school uniform and PE attire, kindly click on "eShop"
 at the top of the website. Alternatively, you can access the eShop at&nbsp;
-<a href="https://for.edu.sg/cgs-uniform" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/cgs-uniform</a>
+<a href="https://www.pacificeshop.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificeshop.com</u>
+</a>
 </p>
 </td>
 </tr>
