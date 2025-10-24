@@ -66,6 +66,6 @@ below</p>
 <hr>
 <p>
 <br>To apply for the 2026 Financial Assistance Scheme, please submit an online
-application using this link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Form</a> </strong>
+application using this link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Form</a></strong>
 </p>
 <p>For enquiries, you may contact our General Office at 6475 8711.&nbsp;</p>
