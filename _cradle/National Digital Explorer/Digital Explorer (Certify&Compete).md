@@ -8,22 +8,22 @@ variant: markdown
 ### **Digital Explorer - Certify&amp;Compete** ###
 The Digital Explorer – Certify&amp;Compete is a nationwide student competition organised by Crescent Girls’ School and ICDL Asia which invites students in primary and secondary school / JC / MI in Singapore to compete and demonstrate how digital skills can be applied in the new digital economy.
 
-Participating students will take ICDL certification tests and go through 2 rounds of competition from Jan to July 2025. There will be two categories: Primary and Secondary / JC / MI Level.
+Participating students will take ICDL certification tests and go through 2 rounds of competition from Jan to August 2026. There will be two categories: Primary and Secondary / JC / MI Level.
 
-During the first Certification Round, all participating students will take the certification test for ICDL modules latest by 30 May 2025. Top students who emerge from this round will be notified via email to represent their schools to compete in the National Round hosted by Crescent Girls’ School in July 2025 (tentative).
+During the first Certification Round, all participating students will take the certification test for ICDL modules latest by 30 May 2026. Top students who emerge from this round will be notified via email to represent their schools to compete in the National Round hosted by Crescent Girls’ School in July 2026 (tentative).
 
 After the National Round, a prize presentation ceremony will be held to announce the Primary and Secondary / JC / MI winners of the Digital Explorer – Certify&amp;Compete.
 
-Top winners in the Secondary / JC / MI Level will fast track to the Grand Final of the regional ICDL Asia Digital Challenge 2025. They will represent Singapore to compete against students from other countries in the Asia Pacific region.
+Top winners in the Secondary / JC / MI Level will fast track to the Grand Final of the regional ICDL Asia Digital Challenge 2026. They will represent Singapore to compete against students from other countries in the Asia Pacific region.
 <br>
 
 #### Competition Outline ####
 
 | Competition Round | Primary Level Modules | Sec/JC/MI Modules |
 | -------- | -------- | -------- |
-| **Certification Round (in individual school**  *Latest by 30 May 2025*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights**  (Big Data, Insights Cloud Computing)
+| **Certification Round (in individual school**  *Latest by 29 May 2026*     | **Application Essentials**     | **Workforce** (Documents, Spreadsheets Presentation), **Insights**  (Big Data, Insights Cloud Computing)
 **National Round** | (TBC) | (TBC)
-**Grand Final Regional ICDL Asia Digital Challenge** * September 2025  (tentative) | | Top winner in this category will be invited to represent Singapore |
+**Grand Final Regional ICDL Asia Digital Challenge** * September 2026  (tentative) | | Top winner in this category will be invited to represent Singapore |
 
 
 
@@ -45,7 +45,7 @@ The top scorer from each school participating in Digital Explorer Certify will b
 * Gold / Silver / Bronze Medal
 * ICDL Profile Certificate and eBadge (subject to passing of the ICDL module)
 
-ICDL Asia will also be recognising the top-performing schools for their commitment and outstanding performance during the Digital Explorer Competition 2023.
+ICDL Asia will also be recognising the top-performing schools for their commitment and outstanding performance during the Digital Explorer Competition 2025.
 
 ##### Timeline and Summary of Key Dates
 
@@ -53,23 +53,23 @@ ICDL Asia will also be recognising the top-performing schools for their commitme
 
 | Dates | Activities |  |
 | -------- | -------- | -------- |
-| October 2024 - February 2025    | Briefing and Registration     | 
-|February 2025 | Issuance of accounts 
-May 2025 | Completion of certification 
-July 2025 | National Round for Certify&amp;Compete 
-September 2025 | Regional ICDL Digital Challenge for SG top winner from Sec/JC/MI Category
+| October 2025 - February 2026    | Briefing and Registration     | 
+|February 2026 | Issuance of accounts 
+May 2026 | Completion of certification 
+July 2026 | National Round for Certify&amp;Compete 
+September 2026 | Regional ICDL Digital Challenge for SG top winner from Sec/JC/MI Category
 
 
 
 
-#### **Register for NDE 2025** ####
+#### **Register for NDE 2026** ####
 
-Registration for NDE 2025 is open from now until ***February 2025***.
+Registration for NDE 2026 is open from now until ***February 2026***.
 
-A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
-Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
+A gentle reminder to attach the students details template in the NDE 2026 Registration Form.<br>
+##### Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-##### **Register for NDE 2025 [HERE](https://for.edu.sg/nde2025-registration )**
+### [Register for NDE 2026 HERE](https://for.edu.sg/nde2026-registration)
 
 
 
