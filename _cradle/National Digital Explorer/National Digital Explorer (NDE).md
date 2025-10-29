@@ -28,29 +28,29 @@ variant: markdown
 
 | **Dates** | **Activities** | |
 | -------- | -------- | - |
-| Nov 2024    |Briefing, registration and issuance of accounts 1st intake |  
-Jan 2025 | Briefing, registration and issuance of accounts 2nd intake
-Feb 2025 | Closing of registration
-May 2025  | Completion of certification for Certify&amp;Compete 
-July 2025 | National Round for Certify&amp;Compete 
-Sep 2025 | Regional ICDL Digital Challenge for SG Top Winners 
-Nov 2025 | Completion of Learn and Certify 	
+| Oct 2025    |Briefing, registration and issuance of accounts 1st intake |  
+Jan 2026 | Briefing, registration and issuance of accounts 2nd intake
+Feb 2026 | Closing of registration
+May 2026  | Completion of certification for Certify&amp;Compete 
+July 2026 | National Round for Certify&amp;Compete 
+Sep 2026 | Regional ICDL Digital Challenge for SG Top Winners 
+Nov 2026 | Completion of Learn and Certify 	
 
 There are three available categories for which schools can sign up:
 
-![](/images/nde_2025.png)
 
 
+![NDE 2026](/images/NDE2026.png)
 
 
-#### **Registration for NDE 2025** ####
+#### **Registration for NDE 2026** ####
 
-Registration for NDE 2025 is open from now until ***February 2025***. <br>
+Registration for NDE 2026 is open from now until ***February 2026***. <br>
 
-Resources shared during the briefing for NDE 2025: [Resources for NDE 2025](https://for.edu.sg/nde2025-resources)
+Resources shared during the briefing for NDE 2026: [NDE 2026 Resources](https://for.edu.sg/nde2026-resources)
 
-A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
+A gentle reminder to attach the students details template in the NDE 2026 Registration Form.<br>
 <br> 
 **Download the students details template [here](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h)** 
 
-#### **[Register for NDE 2025 HERE](https://for.edu.sg/nde2025-registration )**
+### **[Register for NDE 2026 HERE](http://for.edu.sg/nde2026-registration)**
