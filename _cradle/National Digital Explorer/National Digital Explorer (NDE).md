@@ -51,6 +51,6 @@ Resources shared during the briefing for NDE 2026: [NDE 2026 Resources](https://
 
 A gentle reminder to attach the students details template in the NDE 2026 Registration Form.<br>
 <br> 
-**Download the students details template [here](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h)** 
+#### **Download the students details template [here](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=eQSn8h)** 
 
 ### **[Register for NDE 2026 HERE](http://for.edu.sg/nde2026-registration)**
