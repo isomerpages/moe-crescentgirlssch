@@ -10,29 +10,29 @@ variant: markdown
 The Digital Explorer – Certify provides opportunities for students to be certified in the various productivity skills selected by schools. &nbsp;
 
 **Registration**<br>
-Registration is open from now until February 2025. The registration fee for each participating student will be **S$20(before GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
+Registration is open from now until February 2026. The registration fee for each participating student will be **S$20(before GST)** for *each module* selected by the school. Students who complete and pass the respective ICDL module will receive the ICDL Profile Certificate recognized worldwide.
 
 All participants must sit for the certification tests on Windows device only. Upon confirmation of registration from Crescent Girls’ School, schools would be informed of payment details to ICDL via e-invoice.
 
-Each participating school will host the certification test sessions. Schools with only a small number of participating students may opt to have the certification test in Crescent Girls’ School. The date and time of the centralised certification test will be announced nearer to that date. All participating students will take the ICDL certification test by 21 November 2025. Successful students who pass the certification test will receive the ICDL eBadge and Certificate of Participation for the selected module.
+Each participating school will host the certification test sessions. Schools with only a small number of participating students may opt to have the certification test in Crescent Girls’ School. The date and time of the centralised certification test will be announced nearer to that date. All participating students will take the ICDL certification test by 20 November 2026. Successful students who pass the certification test will receive the ICDL eBadge and Certificate of Participation for the selected module.
 
 #### Timeline and Summary of Key Dates ####
 
 | Dates | Activities |  |
 | -------- | -------- | -------- |
-| October 2024 - February 2025    | Briefing and Registration     | 
-|February 2025 | Issuance of accounts 
-November 2025 | Completion of certification 
+| Oct 2025 - Feb 2026    | Briefing and Registration     | 
+|Feb 2026 | Issuance of accounts 
+November 2026 | Completion of certification 
 
 
-##### Registration for NDE 2025 #####
+##### Registration for NDE 2026 #####
 
-Registration for NDE 2024 is open from now until ***February 2024***.
+Registration for NDE 2026 is open from now until ***February 2026***.
 
-A gentle reminder to attach the students details template in the NDE 2025 Registration Form.<br>
-Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
+A gentle reminder to attach the students details template in the NDE 2026 Registration Form.<br>
+##### Download students details template [here.](https://livecrescentedu-my.sharepoint.com/:x:/g/personal/foo_wen_yeow_crescent_edu_sg/EZ4RNnICjBhAoG3DM0gQkjoBM28Vx1oAGHOnmIbndOXjFw?e=umU5Ve) 
 
-##### Register for NDE 2024 [HERE](https://for.edu.sg/nde2025-registration )
+### [Register for NDE 2026 HERE](https://for.edu.sg/nde2026-registration)
 
 
 

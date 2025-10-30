@@ -44,20 +44,6 @@ below</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School-based Financial Assistance Scheme (SAC Needy Pupil Scheme)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The eligibility criteria are under review.&nbsp; &nbsp;</p>
-<p>
-<br>Updated details will be published once confirmed.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <hr>
