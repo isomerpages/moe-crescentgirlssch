@@ -2,7 +2,6 @@ collections:
   "2025":
     output: true
     order:
-      - October/.keep
       - January/.keep
       - January/Sec 1 Orientation Campfire.md
       - January/Dedication Ceremony 2025.md
@@ -26,4 +25,5 @@ collections:
       - August/.keep
       - August/CGS Champion Seminar 2025.md
       - August/Sec 2 Showcase 2025.md
+      - October/.keep
       - October.md
