@@ -1,6 +1,6 @@
 ---
-title: "Sec 1 Registration: Welcome Annoucements"
-permalink: /sec-1-registration-welcome-annoucements/
+title: "Registration: Welcome Annoucements"
+permalink: /so-rwa/
 variant: tiptap
 description: ""
 ---

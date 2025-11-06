@@ -1,33 +1,33 @@
 ---
-title: Clubs
-permalink: /cgs-p6openhouse2024/ccas/openhouse2024-clubs/
+title: Performing Arts
+permalink: /cgs-oh2024/ccas/oh2024-performingarts/
 variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<h3>Digital Art and Photography Club (DAPC)</h3>
+<h3>Angklung and Kulintang</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ll52KOi2cQ0?si=s9mOyetPXY1d8tHE"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TpKAbU0EvcE?si=7CaS4DpWwxaFU5g5"></iframe>
 </div>
-<h3>AVA Club</h3>
+<h3>Chinese &amp; Modern Dance</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WB3BYGn0nqw?si=nQLuLYWENLkFQS8r"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HLvtxlO10-o?si=E6MgjVFvZAWn5hSH"></iframe>
 </div>
-<h3>Chess Club</h3>
+<h3>Choir</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XgCyXt-9hac?si=GP1B_DavOBkS4DGM"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IIjsI6mhyek?si=zFburImgeml1XUzw"></iframe>
 </div>
-<h3>InfoComm Club</h3>
+<h3>Symphonic Band</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bcXVqvm5LC8?si=LmEYVPBhWKHVZMYm"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wbfwrmLg6lA?si=IWWexUDlwxa0yEsF"></iframe>
 </div>
-<h3>Innovation and Enterprise Club</h3>
+<h3>Drama</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fy8ZVGdR9-4?si=6q7pkoRVve3OEFRm"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HRsgTUQwjPQ?si=MqOV9vwkoMgWeR-F"></iframe>
 </div>
 <p></p>
 <hr>
-<p><strong>Click on the link below to access our Open House Video</strong>
+<p><strong>Click on the link below to access our Video</strong>
 </p>
 <p><strong><a href="/cgs-p6openhouse2024/programmes/openhouse2024-general/" rel="noopener nofollow" target="_blank">General</a></strong>
 </p>

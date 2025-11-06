@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Registration Package
-permalink: /sec-1-registration-package/
+title: Registration Package
+permalink: /s-r-p/
 variant: tiptap
 description: ""
 ---

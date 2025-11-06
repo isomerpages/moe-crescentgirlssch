@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /cgs-p6openhouse2024/programmes/openhouse2024-general/
+permalink: /cgs-pvi-oh2024/programmes/oh2024-general/
 description: ""
 variant: tiptap
 third_nav_title: Programmes
@@ -14,7 +14,7 @@ third_nav_title: Programmes
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6J3BL3dZeCI?si=fGuNXQekXvRFraZY"></iframe>
 </div>
 <hr>
-<p><strong>Click on the link below to access our Open House Video</strong>
+<p><strong>Click on the link below to access our Video</strong>
 </p>
 <p><strong><a href="/cgs-p6openhouse2024/programmes/openhouse2024-general/" rel="noopener nofollow" target="_blank">General</a></strong>
 </p>

@@ -1,6 +1,6 @@
 ---
-title: CGS Open house message
-permalink: /cgs-open-house-message/
+title: CGS Oh writeup
+permalink: /cgs-oh-message/
 variant: tiptap
 description: ""
 ---

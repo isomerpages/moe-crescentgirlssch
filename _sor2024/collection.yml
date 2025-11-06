@@ -1,9 +1,9 @@
 collections:
-  sec-1-registration-2024:
+  sor2024:
     output: true
     order:
-      - "Sec 1 Registration: Welcome Annoucements.md"
+      - "Registration: Welcome Annoucements.md"
       - Briefing Videos.md
       - Students Particulars Form.md
-      - Sec 1 Registration Package.md
+      - Registration Package.md
       - Higher MTL, 3rd Language, MEP and Option to Take Subjects at G3 Level.md

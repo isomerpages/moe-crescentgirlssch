@@ -8,7 +8,7 @@ variant: markdown
 
 #### **2025**
 
-Click **[here](https://www.crescent.edu.sg/whats-happening/2025/august/sec-2-showcase-2025/)** to find out more!
+Click **[here](https://www.crescent.edu.sg/whats-happening/2025/october/cau-giay-secondary-school-visit/)** to find out more!
 
 
 #### **2024**

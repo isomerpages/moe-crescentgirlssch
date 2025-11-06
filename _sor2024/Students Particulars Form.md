@@ -1,6 +1,6 @@
 ---
 title: Students Particulars Form
-permalink: /sec-1-registration-students-particulars-form/
+permalink: /s-r-s-p-f/
 variant: tiptap
 description: ""
 ---

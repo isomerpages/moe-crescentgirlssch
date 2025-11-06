@@ -1,6 +1,6 @@
 ---
 title: Briefing Videos
-permalink: /sec-1-registration-briefing-videos/
+permalink: /s-r-b-v/
 variant: tiptap
 description: ""
 ---
