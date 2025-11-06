@@ -39,4 +39,9 @@ sections:
       subtitle: Crescent Girls' School
       button: Learn more
       url: /about-cgs/fas/
+  - infopic:
+      title: CGS Open House
+      id: infopic
+      image: /images/CGS Open House/3.png
+      alt: Image alt text
 ---
