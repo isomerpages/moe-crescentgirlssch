@@ -1,5 +1,5 @@
 collections:
-  soner-2024:
+  sor2024:
     output: true
     order:
       - "Registration: Welcome Annoucements.md"
