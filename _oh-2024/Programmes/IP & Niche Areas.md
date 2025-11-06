@@ -54,7 +54,7 @@ third_nav_title: Programmes
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I-jqO7ctz5w?si=Z0Zy7q1UYOPBdNJ9"></iframe>
 </div>
 <hr>
-<p><strong>Click on the link below to access our Open House Video</strong>
+<p><strong>Click on the link below to access our Video</strong>
 </p>
 <p><strong><a href="/cgs-p6openhouse2024/programmes/openhouse2024-general/" rel="noopener nofollow" target="_blank">General</a></strong>
 </p>
