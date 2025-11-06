@@ -27,7 +27,7 @@ third_nav_title: CCAs
 </div>
 <p></p>
 <hr>
-<p><strong>Click on the link below to access our Open House Video</strong>
+<p><strong>Click on the link below to access our Video</strong>
 </p>
 <p><strong><a href="/cgs-p6openhouse2024/programmes/openhouse2024-general/" rel="noopener nofollow" target="_blank">General</a></strong>
 </p>
