@@ -2,7 +2,7 @@ collections:
   sec-1-registration-2024:
     output: true
     order:
-      - "Sec 1 Registration: Welcome Annoucements.md"
+      - "Registration: Welcome Annoucements.md"
       - Briefing Videos.md
       - Students Particulars Form.md
       - Registration Package.md
