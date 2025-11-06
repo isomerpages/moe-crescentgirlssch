@@ -44,4 +44,5 @@ sections:
       id: infopic
       image: /images/CGS Open House/3.png
       alt: Image alt text
+      description: 15 November 2025 (Saturday)       9am - 1pm
 ---
