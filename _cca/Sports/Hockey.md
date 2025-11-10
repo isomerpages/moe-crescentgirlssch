@@ -83,7 +83,8 @@ a sense of belonging towards what we call, the Crescent Hockey Family.</p>
 </li>
 </ul>
 <h4><strong>TEACHER-IN-CHARGE:</strong></h4>
-<p><strong>OIC</strong>*</p>
+<p><strong>OIC</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Christian Seah</p>
