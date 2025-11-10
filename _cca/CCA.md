@@ -36,7 +36,7 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 Additional information:<br>
 * [CCA Venues &amp; Schedule](/files/2025_CCA_Schedule_and_Venues.pdf)<br>
 * [CCA Achievements](/files/CCA_Achievements_2024.pdf)<br>
-* [Holistic Education for Secondary School Students (LEAPS 2.0)](/files/1__LEAPS_2_0.pdf).
+* [Holistic Education for Secondary School Students (LEAPS 2.0)](/files/1__LEAPS_2_0.pdf)
 
 #### **SPECIAL PROGRAMMES**
 **Champion Seminar**<br>
