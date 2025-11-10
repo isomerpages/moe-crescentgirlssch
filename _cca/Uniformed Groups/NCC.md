@@ -16,12 +16,12 @@ as we strongly believe that no matter how capable a person is they will
 never be a good leader without the proper values.</p>
 <p>As a Uniformed Group, we go through many training sessions where cadets
 will learn how to execute foot drills, arm drills with a dummy rifle and
-learn how to synchronize with their other platoonmates while doing so.
-These activities require a tireless amount of effort to achieve. It is
-through such training that NCC cadets bond as they go through thick and
-thin together. At the same time, it instills discipline in cadets as they
-learn to be more attentive, focused and respectful of the people teaching
-them these drills.</p>
+learn how to synchronize with their platoonmates while doing so. These
+activities require a tireless amount of effort to achieve. It is through
+such trainings that NCC cadets bond as they go through thick and thin together.
+At the same time, it instills discipline in cadets as they learn to be
+more attentive, focused and respectful towards the people teaching them
+these drills.</p>
 <p>Being NCC cadets, they experience the true joy of overcoming challenges.
 Cadets often put their abilities to the test by volunteering to go through
 exciting NCC courses to expand their knowledge of NCC. They are required
@@ -36,9 +36,9 @@ leadership training in order to lead their unit with pride and dedication.</p>
 A Crescent NCC cadet is always upright, committed, responsible, disciplined,
 gracious and most importantly, one who genuinely cares for their fellow
 cadets. At the end of one’s NCC journey, their hard work, sweat and tears
-eventually pay off. One can never forget the 4 meaningful years spent with
-their platoonmates, Juniors and Seniors. No one is ever forgotten in Crescent
-NCC.</p>
+eventually pay off. One can never forget the many meaningful years spent
+with their platoonmates, Juniors and Seniors. No one is ever forgotten
+in Crescent NCC.</p>
 <h4><strong>EVENT</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,13 +48,17 @@ NCC.</p>
 <p>Precision Drill Squad Competition</p>
 </li>
 <li>
-<p>Freestyle Exhibition Drill Competition</p>
-</li>
-<li>
-<p>Orienteering Competition</p>
+<p>Freestyle<s> </s>Drill Competition</p>
 </li>
 <li>
 <p>Air Rifle Shooting</p>
+</li>
+<li>
+<p>Technical Handling Test (THT) / Individual Marksmanship Trainer (IMT)
+/ Live-Firing (LF)</p>
+</li>
+<li>
+<p>NCC Sports Championships</p>
 </li>
 <li>
 <p>Annual NCC Camps</p>
