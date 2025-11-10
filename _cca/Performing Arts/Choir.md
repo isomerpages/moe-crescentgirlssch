@@ -17,7 +17,7 @@ Arts Presentation in 2017, 2019, 2023, and 2025. The choir was also proud
 to attain the Gold Award at the Singapore International Choral Festival
 (SICF) in 2018, scoring the highest mark among the Singapore choirs in
 its category.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>With their motto, ‘The Voice, The Spirit, The Soul’, the choir shows commitment
 and passion in both performing and mentoring younger singers. Recent significant
 events that the choir participated in include their very own full concert,
@@ -27,7 +27,7 @@ that focuses on giving support and fresh starts to offenders, ex-offenders,
 and their families. The choir also participates in numerous inter-school
 choir exchanges with various secondary school and Junior College choirs
 and performs for the school during special occasions.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>In an effort to promote lifelong, continuous learning and societal relevance,
 the choir takes a holistic approach towards musical education which encourages
 personal and others-centric growth. The choir is guided with peer-led activities,
@@ -54,7 +54,7 @@ school choirs</p>
 <p>Sec 1 Orientation Campfire</p>
 </li>
 <li>
-<p>P6 Open House</p>
+<p>School Open House</p>
 </li>
 <li>
 <p>Chinese New Year Celebrations</p>
