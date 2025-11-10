@@ -96,43 +96,12 @@ a sense of belonging towards what we call, the Crescent Hockey Family.</p>
 <p>Ms Shannon Loh</p>
 </li>
 <li>
-<p>Mr Kinglsey Ng</p>
+<p>Mr Kingsley Ng</p>
 </li>
 <li>
 <p>Ms Pauline Chor</p>
 </li>
 </ul>
-<hr>
-<h3><strong>BLURBS:</strong></h3>
-<p>During my time in Crescent Hockey, I have learnt to be a leader that displays
-sportsmanship. I have also been given the opportunity to forge new friendships
-and improve my skills. Trainings are always filled with laughter and joy
-and there was never once where I dreaded training, always taking away a
-valuable lesson from the sessions. Though training would occasionally be
-tough, the support from Coach Nordin and teachers is what keeps us going.
-Overall, I do not have any regret joining Crescent Hockey. I will be forever
-grateful to have a team that works hard and archive great things together
-as one. Crescent Hockey #1! - <strong><em>Beth Chow (2G2)</em></strong>
-</p>
-<p>I have made unforgettable memories and strong bonds throughout my four
-years in Crescent Hockey. It has taught me invaluable lessons— discipline,
-teamwork, resilience, and, of course, the CresDIET values that guide us
-every day.</p>
-<p>One of the most important lessons I have learned is the significance of
-teamwork. Crescent Hockey is unique because of how tightly-knit we are
-as a CCA. Over the four years, I have realized that teamwork is essential
-in hockey, especially since it is a team sport. Clear communication and
-cooperation are key to our success, and it is what helps Crescent Hockey
-consistently achieve top-three finishes every year.</p>
-<p>What I enjoy most is how inclusive the CCA feels. Everyone is committed
-to working together to improve both our skills and our team chemistry.
-Attending CCA has never felt like a chore because I have always been surrounded
-by positive, hardworking, and caring teammates, coaches, and teachers.
-Whether it is during trainings or competition, hockey has given me the
-most unforgettable memories, filled with both laughter and challenges,
-all shared with an amazing team. I am extremely grateful for the experiences
-and friendships that Crescent Hockey has brought into my life. <strong>- Anisah Musfirah (4G1)</strong>
-</p>
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
