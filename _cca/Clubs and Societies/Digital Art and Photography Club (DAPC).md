@@ -45,45 +45,6 @@ Showcase and Catalogue this year.</p>
 <p>Mrs Constance Chee</p>
 </li>
 </ul>
-<p></p>
-<hr>
-<h3><strong>Blurbs</strong></h3>
-<p>“Being the President of DAPC, I am exposed to numerous opportunities to
-develop my leadership skills. With these opportunities, I have learned
-the importance of confidence and maintaining a positive mindset. Sharing
-similar interests in both art and photography, I bond well with other members
-and look forward to every session. I’m grateful to be a part of the enriching
-CCA culture we have!” <strong><em>-Nur Qaiyisah Athirah Binte Zulkifli (3C2)</em></strong>
-</p>
-<p>“Joining the school’s digital art and photography club has made a huge
-impact on my life. Not only has it allowed me to explore my creative side,
-but it has also provided me with a sense of belonging and community. Through
-DAPC, I have been able to meet like-minded CCA mates who share my passion
-for artistic expression. This has not only expanded my social circle but
-has also given me the opportunity to learn from others and improve my skills.
-Additionally, being part of the CCA has boosted my confidence and self-esteem,
-as I have received recognition for my artworks. The projects we work on
-during CCA sessions allow me to bond with my CCA mates and sharpen my art
-skills. By working together with different people in the CCA, I am able
-to learn from others and teach others what they might not know. Joining
-DAPC has been a transformative journey that has enriched my life and exposed
-me to the world of art in countless ways.” <strong><em>- Jaimee Wong (2S1)</em></strong>
-</p>
-<p>“When I first joined DAPC, I expected to receive just basic exposure to
-art and photography. However, I got so much more than that. I have made
-many friends who share my passion for art and photography and honed my
-skills in using a digital camera. All in all, I enjoy being in DAPC and
-learning skills that can stick with me for a lifetime.” <strong><em>-Sim Gretchen (2G1)</em></strong>
-</p>
-<p>"The minute my Apple Pencil touched my iPad and I embarked on my first
-drawing, I knew that being in DAPC was the right choice. My CCA experience
-was further enhanced when I became equipped with basic photography skills
-and found my true passion - photography. Although I am not very good at
-drawing, my wonderful seniors have always been there for me, helping me
-when I was unsure how to go about my drawings. I am very grateful to be
-a part of DAPC and look forward to every moment spent drawing or taking
-photos.”<strong><em>-Miraya Jolly (1G2)</em></strong>
-</p>
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
