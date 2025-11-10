@@ -26,12 +26,12 @@ By the end of the 4 years of CCA, a Crescentian should be able to:
 
 | Sports &amp; Games | Uniformed Groups | Performing Arts | Clubs &amp; Societies |
 | -------- | -------- | -------- | -------- |
-| Badminton     | Girl Guides     | Angklung &amp; Kulintang Ensemble     | Audio Visual Aid |
-| Canoeing     | National Cadet Corps (Land)    | Chinese &amp; Modern Dance    | Chess |
-| Track &amp; Field    | Red Cross Youth    | Choir     | Infocomm |
-| Hockey   |      | English Drama   | Digital Art &amp; Photography |
-| Netball   |       | Symphonic Band     | Innovation &amp; Enterprise
-| Softball     |       |       |
+| Badminton     | Girl Guides     | Angklung &amp; Kulintang Ensemble     | Audio Visual Aid Club |
+| Canoeing     | National Cadet Corps (Land)    | Chinese &amp; Modern Dance    | Digital Art &amp; Photography Club |
+| Hockey    | Red Cross Youth    | Choir     | International Chess |
+| Netball   |      | English Drama   | Infocomm Technology Club |
+| Softball   |       | Symphonic Band     | Innovation &amp; Enterprise Club
+| Track &amp; Field     |       |       |
 
 Additional information:<br>
 * [CCA Venues &amp; Schedule](/files/2025_CCA_Schedule_and_Venues.pdf)<br>
