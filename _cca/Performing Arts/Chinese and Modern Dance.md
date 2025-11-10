@@ -26,8 +26,9 @@ always strive to do our best, be it in dance or in our schoolwork.</p>
 <p>In recent years, we were honoured to be invited to take part in various
 national events, including the ASEAN Youth Games Opening Ceremony (2009),
 National Day Parade (2009), Youth Olympic Games Opening Ceremony (2010),
-ASEAN School Games (2012) and the Singapore Youth Festival (2019, 2021,
-2023). These concerts received resounding applause from the audience.</p>
+ASEAN School Games (2012) and the Singapore Youth Festival Arts Presentation
+(2019, 2021, 2023, 2025). These concerts received resounding applause from
+the audience.</p>
 <p>Our various performances cover a wide range of dance genres such as Ballet,
 Hip Hop, Chinese Dance, as well as special genres of dance, including lion
 dance and dragon dance. Performances during school events, such as the
