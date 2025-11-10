@@ -69,48 +69,9 @@ or challenge by being observant and vigilant at all times.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Lim Yin Xia</p>
-</li>
-<li>
 <p>Ms Ting Hui Yi</p>
 </li>
 </ul>
-<hr>
-<h3><strong>Blurbs</strong></h3>
-<p>Outdoor cooking is a fun experience that I look forward to in Girl Guides.
-We learn important skills such as how to start a fire and how to cook basic
-meals. Unlike OBS outdoor cooking, we do not need to rely on solid fuel
-to start a fire and instead can start one just using twigs and a match!
-Other than the skills in fire-starting and basic cooking, outdoor cooking
-has also taught me resilience, patience, and teamwork. Outdoor cooking
-is overall a memorable and enriching experience that I enjoy - <strong>Olivia Fu Huizhen (3G4), Patrol Member of Bougainvillea, on the skills and values she has learnt from the various Girl Guides activities thus far.</strong>
-</p>
-<p>"Once in a Lifetime Experience" - that is how I would describe my entire
-process of acquiring the Baden Powell Award. It all began with planning
-programs in which we included activities that we would like to carry out,
-helping me develop my program planning skills. Once we passed that round,
-we had to conduct the activities we had planned for other guides from other
-schools via Zoom. During the session, despite facing several technical
-difficulties that tested my resolve, I persevered toward my end goal -
-conducting a meaningful session for the guides. The joy of guiding my fellow
-Guides through the session gave me a sense of fulfilment.</p>
-<p>The road to the Baden Powell Award demanded dedication and perseverance.
-The remarkable experience left me with unforgettable memories. The Baden
-Powell Award is more than an accolade; it is a testament to the incredible
-growth and empowerment that can be found within the heart of a devoted
-Guide." - <strong>A Musfira Najiya (4C1), Patrol leader of Orchid, achieving</strong>  <strong>The Baden Powell Award (BPA), the highest award given out by our Chief Commissioner to a Girl Guide</strong>
-</p>
-<p>Over the past 3 years in Girl Guides, I have taken part in many headquarters
-organised events. One of the most memorable events I had taken part in
-was the Free Being Me workshop where I learned more about image myth and
-its impacts on a person and society. I found this extremely meaningful
-since I realised that as a teenager I always cared about my looks and how
-I presented myself. Through this workshop, I changed my mind to thinking
-that I should be myself and that society should accept me for who I am
-and how I look. Hence, through these workshops, I have learned more about
-myself and issues in society, gaining more knowledge through Girl Guides
-– <strong>P Haritha Sree (4G3), Assistant Company Leader of Girl Guides Company 2 2023/2024, on her experience in girl guides after 3 years.</strong>
-</p>
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
