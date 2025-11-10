@@ -10,9 +10,8 @@ variant: tiptap
 <p>"EVERY PAWN IS A POTENTIAL QUEEN"</p>
 </blockquote>
 <p>Crescent Chess club is a Co-Curricular Activity where we come together
-to share our deep passion for chess. The Chess Club holds its sessions
-every Monday and Wednesday, from 3 to 5pm. Chess is akin to a form of art
-— a canvas of sixty-four squares where each move and strategy can be refined
+to share our deep passion for chess. Chess is akin to a form of art — a
+canvas of sixty-four squares where each move and strategy can be refined
 and perfected with endless possibilities. During these sessions, our professional
 chess coach, Woman Fide Master (WFM) Thandar Aye Win, teaches us the spotting
 of tactics and game strategies. We then engage in thrilling chess games
@@ -94,41 +93,7 @@ NST championship</p>
 <p>Ms Saifa Ashraf</p>
 </li>
 </ul>
-<h3><strong>Blurbs</strong></h3>
-<p>I have absolutely zero regrets joining chess. This chess club is not just
-a group of students who can play chess, but a family, who has walked with
-me on this incredible journey for about three years now. From a Secondary
-One student who had countless doubts about her ability, I have gained confidence
-over time with the unceasing reassurance from my peers and coach, and eventually
-joined Singapore’s National Junior Development Squad (NJDS). I have also
-seen this club grow with each passing year, and my absolute favourite quality
-about us is that we do not give up. After every defeat, we pick ourselves
-up, train harder, and fight even harder the next time round. I have never
-once felt forced to train because this club has truly helped me to inculcate
-a love for chess which makes me strive to put in more effort each time.
-Getting the opportunity to be the president of this CCA which I call home
-is certainly a great honour, and I have grown to learn to step out of my
-comfort zone to lead this CCA to greater heights. From the bottom of my
-heart, I cannot thank you enough, Crescent Chess! <strong><em>- Yip Ruo Yao (3S1), President of Chess Club 2023/2024</em></strong>
-</p>
-<p>Chess has empowered me to think better and smarter. Every chess game is
-different and unique which requires me to practise every variation possible.
-Chess is also a &nbsp;&nbsp;game which allows me to manage my time better,
-and I also always have a great time playing Chess and forging closer bonds
-with my Chess Club friends. <strong><em>- Chuan Wen Xin (3S2), Vice-President of Chess Club 2023/2024</em></strong>
-</p>
-<p>I was really weak in chess previously but when I joined Crescent Chess
-Club, I gained confidence in it because of the training as well as the
-strong bond we have as a chess club. Joining Crescent Chess Club is a decision
-I will never regret. <strong><em>-Annette Sophie Tay (2S1)</em></strong>
-</p>
-<p>Chess Club has not only improved my chess skills but also my confidence
-in general. Previously, I had no confidence in myself. When I joined chess
-club and improved my chess skills, winning games has been a way to boost
-my confidence. The teachers-in-charge, coach, and club mates are extremely
-helpful and supportive. I would definitely recommend the Chess Club to
-my juniors. <strong><em>- Viveka Mohan Amarnani (2G2)</em></strong>
-</p>
+<hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ52ccyDLzrzwhJTQ8VaTcGreF-i7vBdMHzzP_EJAUW3mMFyKTbNe3Nr8YMgLBnnRL5ZvXXZHJTCErI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

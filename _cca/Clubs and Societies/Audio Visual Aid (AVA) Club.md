@@ -63,13 +63,7 @@ to put to refine their skills and to put them to good use.</p>
 <p>Ms Zhang Hong</p>
 </li>
 </ul>
-<h3><strong>Blurbs</strong></h3>
-<p>Being a member of the AVA Club has been an incredible and fulfilling journey,
-full of unforgettable memories. During my time in the club, I gained many
-unique experiences and skills, from operating the PA system to filming
-and editing videos. I am honoured to have been a part of such a bonded
-family. <strong><em>-Nai’mah (4C2), AVA President</em></strong>
-</p>
+<hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhOTar2O04KFnUPC31WsDmRjAbXI4_zDez1HIX0GZzdos8P7nL8Ub8fTW1aqUGtO-YRbKhtYSgCWhQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

@@ -56,33 +56,6 @@ and passion, paving the way for lifelong connections and artistic exploration.</
 </li>
 </ul>
 <hr>
-<h3><strong>Blurbs</strong></h3>
-<p>Joining Crescent Drama has been a transformative journey of discovery.
-Apart from refining my acting skills, it has helped reveal my true capabilities.
-Every role I’ve embodied and every rehearsal I’ve participated in has significantly
-shaped my confidence, creativity, and resilience. I am amazed at how I
-am constantly pushed beyond my comfort zone, yet this heightens my sense
-of accomplishment when I achieve things I never fathomed! You never truly
-realize the depths of your potential until you step into the world of Crescent
-Drama! <strong><em>- Isha Manoj (3S6), President of English Drama 2024/2025</em></strong>
-</p>
-<p>Drama is more than a CCA to me; it is a class, a home, a family. The values
-I have learned during our sessions have shaped me and will stay with me,
-guiding me through other aspects of my journey as a performer, a student,
-and a person. I have learned the importance of clear communication and
-will carry these lessons into the future. <strong><em>- Yeo Jia Chi (3S7), Vice-President of English Drama 2024/2025</em></strong>
-</p>
-<p>When I first stepped into Drama, I thought I knew exactly what to expect.
-Having been a Drama student for four years in primary school, I felt a
-surge of pride, ready to shine among the “amateurs.” However, I quickly
-realized how wrong I was. My know-it-all attitude was promptly corrected
-by the seniors—there are no "know-it-alls," only "learn-it-alls." That
-moment humbled me, and I opened my mind to everything Drama had to teach.
-But if I say more, I might spoil the adventure waiting for you. So, what
-are you waiting for? Come join us and watch as we prepare our best act
-for you! <strong><em>- Kripa Anna Thariyan (3S6), Vice-President of English Drama 2024/2025</em></strong>
-</p>
-<hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJ7gEdHhhYD7c1iuJ4r8bylYKuzXjnswLFqdupcbs3cGIZrMS4KdEz455wTC8L6w87sJasYly9Hn97/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
