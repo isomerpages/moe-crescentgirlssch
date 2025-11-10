@@ -72,32 +72,7 @@ of urgency.</p>
 <p>Ms Tai Wai Peng</p>
 </li>
 </ul>
-<h3><strong>Blurbs</strong></h3>
-<p>Being in Red Cross Youth taught me the core skills of discipline and to
-look out for others. This is because I not only looked out for people who
-needed help, but I also looked out for my squadmates as we worked together
-through challenges to learn many life skills. <strong><em>- Shirin Angeline, 2G2</em></strong>
-</p>
-<p>I started my Red Cross Youth (RCY) journey in 2021, and it continues to
-be the most enriching experience of my life. RCY, being a uniformed group,
-also ingrained a sense of discipline in me, which I can put to good use
-in other aspects of my life. I was able to develop a growth mindset and
-learn how to take feedback positively. I also learned how to communicate
-more maturely and effectively. <strong><em>- Loh En Tong, 3C2</em></strong>
-</p>
-<p>Throughout the years from being a cadet to becoming an NCO, I learnt what
-it meant to be disciplined yet still have fun during CCA. Being disciplined
-enabled us to grow not only in the CCA but also to become better individuals
-who consistently worked hard by putting in effort in everything we do. <strong><em>- Shamitrra Aruchunan, 3G1</em></strong>
-</p>
-<p>During my time with Red Cross Youth (RCY), a humanitarian organization
-dedicated to making a positive difference in communities, I engaged in
-various initiatives and projects, including doing First Aid Duty during
-FITT run, contributing to the Grateful Hearts Campaign, as well as planning
-for the many fun and enriching activities in Crescent RCY.&nbsp;My journey
-with RCY has been a transformative one, fostering a deep sense of empathy,
-responsibility, and a commitment to serve humanity. <strong><em>- Lydia Sun Liya, 4C1</em></strong>
-</p>
+<hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAlhCUmEJitUWBIKUkTAh5Mfov-NJ3dZMsvOJBs2yTRIm-if2zZnSL52rrJOMTZisw49dlivsFxTXZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
