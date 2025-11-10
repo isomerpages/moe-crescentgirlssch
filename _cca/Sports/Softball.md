@@ -9,37 +9,30 @@ variant: tiptap
 <blockquote>
 <p>"INDIVIDUALS PLAY THE GAME, BUT A TEAM WILL BEAT THE ODDS"</p>
 </blockquote>
-<p>The Crescent Softball team comprises of a group of promising and talented
-athletes who are under the guidance of National Team player Coach Alvina
-Chow and the teachers-in-charge.</p>
-<p>Through our rigorous training sessions twice to thrice a week (depending
-on the season), players have not only been able to improve their hard skills
-(for example: basic throwing/catching and batting skills) but also able
-to sharpen their soft skills such as teamwork. Softball training teaches
-our players the importance of values like determination, passion and communication,
-which are key in playing the game.</p>
-<p>At the end of the year, our players are treated to an annual softball
-camp, which is an excellent opportunity for players to foster camaraderie
-and build team spirit and a sense of belonging. Through the activities
-and games, the members challenge and push themselves beyond their comfort
-zones and emerge a stronger and more formidable team.</p>
-<p>We believe that as we continue to train hard, we will bring glory to Crescent.</p>
+<p>The Crescent Softball team is made up of a group of promising and talented
+athletes, guided by Coach Alvina Chow and our dedicated teachers-in-charge.</p>
+<p>Through rigorous training sessions held two to three times a week—depending
+on the season —our players continually develop both hard skills such as
+throwing, catching, and batting, as well as soft skills like teamwork and
+communication. More than just a sport, softball instills key values such
+as determination, passion, and resilience, which are essential both on
+the field and in life.</p>
+<p>A highlight of the year is our annual softball camp, a special opportunity
+for players to bond, challenge themselves, and strengthen team spirit.
+Through a variety of engaging activities and games, players step out of
+their comfort zones and grow—not just as athletes, but as individuals.</p>
+<p>As we continue to train hard and grow together, we believe that we will
+bring pride and glory to Crescent.</p>
 <h4><strong>EVENTS:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>CGS Softball Carnival</p>
+<p>B &amp; C Division Softball National School Games</p>
 </li>
 <li>
-<p>School B and C Division National games</p>
+<p>Softball carnivals</p>
 </li>
 <li>
-<p>Softball Annual Camp</p>
-</li>
-<li>
-<p>Secondary 4 Farewell</p>
-</li>
-<li>
-<p>Student-Initiated Values in Action Programme</p>
+<p>Softball camp</p>
 </li>
 </ul>
 <h4><strong>TEACHERS-IN-CHARGE:</strong></h4>
