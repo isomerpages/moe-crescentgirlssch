@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2><strong>SOFTBALL</strong></h2>
 <blockquote>
-<p>"INDIVIDUALS PLAY THE GAME, BUT TEAMS BEAT THE ODDS"</p>
+<p>"INDIVIDUALS PLAY THE GAME, BUT A TEAM WILL BEAT THE ODDS"</p>
 </blockquote>
 <p>The Crescent Softball team comprises of a group of promising and talented
 athletes who are under the guidance of National Team player Coach Alvina
