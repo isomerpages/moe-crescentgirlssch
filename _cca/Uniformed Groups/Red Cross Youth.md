@@ -13,9 +13,9 @@ variant: tiptap
 School. As a Uniformed Group, we instill the values of self-discipline,
 order and teamwork in our cadets. Contrary to popular belief that Red Cross
 Youth only teach First Aid, we also expose our cadets to activities and
-lessons such as Disaster Management, Foot-Drill and Red Cross Knowledge
+lessons such as Disaster Management, Foot-Drill and Red Cross Knowledge.
 Our cadets are also exposed to various activities at Red Cross Headquarters
-such as National First Aid Championship and Gold Modular workshop</p>
+such as National First Aid Championship and Gold Modular workshop.</p>
 <p>The Red Cross Youth is a humanitarian-based Co-Curricular Activity (CCA)
 that nurtures values such as compassion, service, and resilience. In line
 with the spirit of the Red Cross, our unit is actively involved in a community
