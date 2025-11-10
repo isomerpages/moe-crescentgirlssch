@@ -9,19 +9,41 @@ variant: tiptap
 <blockquote>
 <p>ET BIENTOT LE MEILLEUR - THE BEST IS YET TO BE.</p>
 </blockquote>
-<p>Established in 1967 as a military school band, Crescent Girls’ School
-Symphonic Band has since then, expanded to become a symphonic band with
-a wide range of instruments, under the steadfast guidance of Mdm Tan Soh
-Hwa, Mr Chua Tiong Hong and Mr Patrick Neo. With the band motto, Et bientot
-le meilleur — the best is yet to be, in mind, members of Crescent Girls’
-School Symphonic Band have never failed to put in their best efforts to
-constantly improve their skills and techniques – never giving up nor holding
-back, but are always working together as one band to achieve their goals.</p>
-<p>Under the guidance of the conductors, the band put on numerous performances
-both internally and at venues such as Esplanade for Limelight. While it
-has certainly not been an easy journey, Band members have shown their determination
-and perseverance in striving for betterment of their performances.</p>
-<p></p>
+<p>Established in 1967 as a military school band, the Crescent Girls’ School
+Symphonic Band has grown into a full-fledged symphonic ensemble, showcasing
+a wide range of instruments. Under the dedicated guidance of Mdm Tan Soh
+Hwa, Mr Chua Tiong Hong, and Mr Patrick Neo, the band continues to uphold
+its motto <em>Et bientôt le meilleur</em> – <em>The best is yet to be</em> –
+as a constant reminder to strive for excellence.</p>
+<p>With passion, discipline, and teamwork at its core, the band never ceases
+to improve in both skill and artistry. Members train diligently and perform
+with pride, always supporting one another in their musical journey.</p>
+<p>The band has taken the stage at numerous prestigious events, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Limelight @ Esplanade</strong>
+</p>
+</li>
+<li>
+<p><strong>Singapore Youth Festival (SYF)</strong> – <em>Certificate of Distinction, 2025</em>
+</p>
+</li>
+<li>
+<p><strong>Singapore International Band Festival (SIBF)</strong>
+</p>
+</li>
+<li>
+<p><strong>Asia Pacific Band Festival</strong> – <em>Gold Award, 2024</em>
+</p>
+</li>
+<li>
+<p><strong>Band Exchange</strong>
+</p>
+</li>
+</ul>
+<p>Despite the challenges faced, the Crescent Symphonic Band remains united
+in their pursuit of musical excellence — a testament to their resilience,
+passion, and unwavering dedication.</p>
 <h4>Events</h4>
 <ul data-tight="true" class="tight">
 <li>
