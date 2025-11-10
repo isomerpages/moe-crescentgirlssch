@@ -82,35 +82,8 @@ school choirs</p>
 </li>
 <li>
 <p>Ms Chiu Yee Qian Millie</p>
-<p></p>
 </li>
 </ul>
-<h3><strong>Blurbs</strong></h3>
-<p>I really enjoy choir as it is a supportive environment where I grew a
-lot, not only in my singing, but also in my confidence and passion for
-music. Being in the choir also taught me the importance of team spirit
-and discipline, especially during the SYF season. ~ <strong><em>Pang Ren Jun (1S6) - Soprano 1</em></strong>
-</p>
-<p></p>
-<p>I love choir, it’s very enjoyable! My seniors and other choir members
-are so nice to me and are really helpful. I have really close friends who
-are in choir and my juniors are also pretty funny and easy to get along
-with. Choir bonding is also fun whenever it comes up we get to do karaoke
-and play games as a choir. The songs we sing are unique as well!&nbsp;&nbsp;~ <strong><em>Ankita Chinchwade (2C3) - Alto 1</em></strong>
-</p>
-<p></p>
-<p>Not only has choir helped me to improve my vocal skills, it has also allowed
-me to learn how to work in groups. Whether it’s theory lessons or combines,
-choir is always fun! ~ <strong><em>Valerie Yeo Xin Yu (3C3) - Alto 2</em></strong>
-</p>
-<p></p>
-<p>Being part of the choir has helped me grow into a responsible and adaptable
-individual. It’s a wonderful platform where people from all walks of life
-come together to share their love for music, singing in harmony as one.
-Through this, I’ve experienced a strong sense of camaraderie and teamwork,
-creating a warm, positive, and truly uplifting environment that I’m grateful
-to be part of! ~<strong><em>Sundara Raman Oviya&nbsp;&nbsp;(3G4) - 2025/2026 exco</em></strong>
-</p>
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
