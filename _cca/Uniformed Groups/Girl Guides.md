@@ -45,16 +45,24 @@ or challenge by being observant and vigilant at all times.</p>
 <p>Sec 1 Orientation Campfire</p>
 </li>
 <li>
-<p>Enrolment Ceremony cum Recognition Day</p>
+<p>World Thinking Day</p>
 </li>
 <li>
-<p>First Aid Competition</p>
+<p>South Division Fest</p>
 </li>
 <li>
-<p>Unit Leaders Program</p>
+<p>Enrolment Ceremony for Sec 1</p>
 </li>
 <li>
-<p>Red Cross Youth Challange</p>
+<p>Sec 4 Farewell cum Handover parade</p>
+</li>
+<li>
+<p>3D2N camp</p>
+</li>
+<li>
+<p>Various courses organised by Guides HQ such as Gardens by the Bay Ambassador
+program, Smoke-Free Ambassadors program, Patrol Leaders Training course,
+First Aid course, SANA course.</p>
 </li>
 </ul>
 <h4><strong>TEACHERS-IN-CHARGE:</strong></h4>
