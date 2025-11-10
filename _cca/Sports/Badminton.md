@@ -8,7 +8,7 @@ variant: markdown
 ## **Badminton** ##
 
 
-&gt;  “IGNITE THE FIRE WITHIN!”
+&gt; “IGNITE THE FIRE WITHIN!”
 
 Crescent Badminton’s vision is to instill&nbsp;character building through positive competition and to achieve excellence in competitions.
 
