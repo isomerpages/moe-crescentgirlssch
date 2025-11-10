@@ -12,22 +12,26 @@ variant: tiptap
 <p>Red Cross Youth is one of the three Uniformed Groups in Crescent Girls’
 School. As a Uniformed Group, we instill the values of self-discipline,
 order and teamwork in our cadets. Contrary to popular belief that Red Cross
-Youth only teaches First Aid, we also expose our cadets to activities and
+Youth only teach First Aid, we also expose our cadets to activities and
 lessons such as Disaster Management, Foot-Drill and Red Cross Knowledge
 Our cadets are also exposed to various activities at Red Cross Headquarters
-and competitions such as Annual Red Cross Flag Day &amp; National First
-Aid Competition.</p>
-<p>Red Cross is a humanitarian organization. Thus, as a Co-Curricular Activity,
-we are often involved in community involvement programs, such as&nbsp;
-Red Cross Flag Day and Home visits. During home visits, we interact with
-residents and as well as get hands-on doing area cleaning for the home.</p>
+such as National First Aid Championship and Gold Modular workshop</p>
+<p>The Red Cross Youth is a humanitarian-based Co-Curricular Activity (CCA)
+that nurtures values such as compassion, service, and resilience. In line
+with the spirit of the Red Cross, our unit is actively involved in a community
+involvement programme through visits to the Red Cross Home for the Disabled.
+During these visits, our cadets engage meaningfully with the residents
+through conversations and simple activities, while also contributing to
+the upkeep of the home through area cleaning tasks. In addition, our members
+take part in a CCA mentoring initiative with students from Blangah Rise
+Primary School, further developing their leadership and interpersonal skills.</p>
 <p>Our cadets are also exposed to real-life situations and are made to put
 their skills learned in Red Cross to use. They are deployed for First Aid
-duty during school events such as Sports Day and Cross Country. A more
-frequent duty would be during our weekly FITT runs. Our cadets will be
-stationed along the FITT run routes so as to ensure that the injured students
-will be tended to as soon as possible.</p>
-<p>The motto of Red Cross Youth is <strong><em>"The motto of Red Cross Youth is “Humanity in Our Hands”</em></strong>.
+duty during school events such as Sports Carnival and Cross Country. A
+more frequent duty would be during our weekly FITT runs. Our cadets will
+be stationed along the FITT run routes so as to ensure that the injured
+students will be tended to as soon as possible.</p>
+<p>The motto of Red Cross Youth is&nbsp;<strong><em>“Humanity in Our Hands”</em></strong>.
 Our main objective is to help one another as well as the community. As
 cadets, we work together as a team. Everyone plays a vital part in the
 work that we do. We cannot afford to be complacent, as we are taught to
@@ -39,16 +43,22 @@ of urgency.</p>
 <p>Sec 1 Orientation Campfire</p>
 </li>
 <li>
-<p>Enrolment Ceremony cum Recognition Day</p>
+<p>Enrolment cum Promotion Parade</p>
 </li>
 <li>
-<p>Red Cross Flag Day</p>
+<p>Visit to Red Cross Home for the Disabled</p>
 </li>
 <li>
-<p>First Aid Competition</p>
+<p>Blood bank learning journey</p>
 </li>
 <li>
-<p>Unit Leaders Program</p>
+<p>First Aid Championship</p>
+</li>
+<li>
+<p>Unit Leader Programme</p>
+</li>
+<li>
+<p>Unit Specialist Programme</p>
 </li>
 <li>
 <p>Red Cross Youth Challenge</p>
