@@ -20,6 +20,12 @@ sections:
           url: /quicklinks/for-students/
       title: Crescent Girls' School
       variant: image
+  - infopic:
+      title: CGS Open House
+      id: infopic
+      image: /images/CGS open house/cgs open house 2025 - invitation date.png
+      alt: Image alt text
+      description: 15 November 2025 (Saturday)       9am - 1pm
   - infobar:
       title: "#CresHapps"
       subtitle: crescent girls' school
@@ -39,10 +45,4 @@ sections:
       subtitle: Crescent Girls' School
       button: Learn more
       url: /about-cgs/fas/
-  - infopic:
-      title: CGS Open House
-      id: infopic
-      image: /images/CGS open house/cgs open house 2025 - invitation date.png
-      alt: Image alt text
-      description: 15 November 2025 (Saturday)       9am - 1pm
 ---
