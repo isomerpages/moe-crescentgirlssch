@@ -38,7 +38,8 @@ sections:
       description: Scan QR code to join Crescent PSG!
       button: Learn more about Crescent PSG
       url: /our-partners/psg/
-      image: /images/psgqrcode_2024_resize.png
+      image: /images/Our Partner/Parent Support
+        Group/2026_PSG_membership_registration_form__QR_Code_.jpg
       alt: Image alt text
   - infobar:
       title: Financial Assistance Schemes
