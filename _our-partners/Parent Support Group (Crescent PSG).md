@@ -38,7 +38,7 @@ experience.</p>
 </li>
 </ul>
 <p><strong>Join us!</strong> 
-<br>Sign up for membership here: <a href="http://www.tinyurl.com/JoinCrescentPSG2024" rel="noopener noreferrer nofollow" target="_blank">http://www.tinyurl.com/JoinCrescentPSG2024</a>
+<br>Sign up for membership here: <a href="http://tinyurl.com/JoinCrescentPSG2026" rel="noopener noreferrer nofollow" target="_blank">http://tinyurl.com/JoinCrescentPSG2026</a>
 </p>
 <hr>
 <h4><strong>2025 Crescent PSG Executive Committee</strong></h4>
