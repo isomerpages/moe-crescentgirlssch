@@ -1,5 +1,5 @@
 collections:
-  oh-2024:
+  open-house-2025:
     output: true
     order:
       - Welcome page.md
