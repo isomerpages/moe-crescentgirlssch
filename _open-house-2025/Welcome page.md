@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <hr>
 <p></p>
-<p><strong>Click on the link below to access our Video</strong>
+<p><strong>Click on the link below to access our Open House Video</strong>
 </p>
 <p><strong><a href="/cgs-p6openhouse2025/programmes/openhouse2025-general/" rel="noopener nofollow" target="_blank">General</a></strong>
 </p>
