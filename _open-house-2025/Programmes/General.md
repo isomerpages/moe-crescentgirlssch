@@ -14,17 +14,18 @@ third_nav_title: Programmes
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6J3BL3dZeCI?si=fGuNXQekXvRFraZY"></iframe>
 </div>
 <hr>
-<p><strong>Click on the link below to access our Video</strong>
+<p></p>
+<p><strong>Click on the link below to access our Open House Video</strong>
 </p>
-<p><strong><a href="/cgs-p6openhouse2024/programmes/openhouse2024-general/" rel="noopener nofollow" target="_blank">General</a></strong>
+<p><strong><a href="/cgs-p6openhouse2025/programmes/openhouse2025-general/" rel="noopener nofollow" target="_blank">General</a></strong>
 </p>
-<p><strong><a href="/cgs-p6openhouse2024/programmes/openhouse2024-ipandnicheareas/" rel="noopener nofollow" target="_blank">IP &amp; Niche Areas</a></strong>
+<p><strong><a href="/cgs-p6openhouse2025/programmes/openhouse2025-ipandnicheareas/" rel="noopener nofollow" target="_blank">IP &amp; Niche Areas</a></strong>
 </p>
-<p><strong><a href="/cgs-p6openhouse2024/ccas/openhouse2024-sports/" rel="noopener nofollow" target="_blank">CCA - Sport</a></strong>
+<p><strong><a href="/cgs-p6openhouse2025/ccas/openhouse2025-sports/" rel="noopener nofollow" target="_blank">CCA - Sport</a></strong>
 </p>
-<p><strong><a href="/cgs-p6openhouse2024/ccas/openhouse2024-uniformed-group/" rel="noopener nofollow" target="_blank">CCA - Uniformed Group</a></strong>
+<p><strong><a href="/cgs-p6openhouse2025/ccas/openhouse2025-uniformed-group/" rel="noopener nofollow" target="_blank">CCA - Uniformed Group</a></strong>
 </p>
-<p><strong><a href="/cgs-p6openhouse2024/ccas/openhouse2024-performingarts/" rel="noopener nofollow" target="_blank">CCA - Performing Arts</a></strong>
+<p><strong><a href="/cgs-p6openhouse2025/ccas/openhouse2025-performingarts/" rel="noopener nofollow" target="_blank">CCA - Performing Arts</a></strong>
 </p>
-<p><strong><a href="/cgs-p6openhouse2024/ccas/openhouse2024-clubs/" rel="noopener nofollow" target="_blank">CCA - Clubs</a></strong>
+<p><strong><a href="/cgs-p6openhouse2025/ccas/openhouse2025-clubs/" rel="noopener nofollow" target="_blank">CCA - Clubs</a></strong>
 </p>
