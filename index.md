@@ -26,6 +26,9 @@ sections:
       image: /images/CGS open house/cgs open house 2025 - invitation date.png
       alt: Image alt text
       description: 15 November 2025 (Saturday)       9am - 1pm
+      button: Click to explore more!
+      url: /cgs-openhouse2025/
+      subtitle: upcoming event
   - infobar:
       title: "#CresHapps"
       subtitle: crescent girls' school
