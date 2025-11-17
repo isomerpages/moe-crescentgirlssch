@@ -42,7 +42,7 @@ sections:
       button: Learn more about Crescent PSG
       url: /our-partners/psg/
       image: /images/Our Partner/Parent Support
-        Group/2026_PSG_membership_registration_form__QR_Code_.jpg
+        Group/2026_PSG_membership_registration_form__QR_Code__Re.jpg
       alt: Image alt text
   - infobar:
       title: Financial Assistance Schemes
