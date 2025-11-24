@@ -1,8 +1,9 @@
 ---
 title: Chinese Mixed Rice Stall
-permalink: /nil/
+permalink: /school-canteen-advertisement/chinese-mixed-rice-stall/
 variant: tiptap
 description: ""
+third_nav_title: School Canteen Advertisement
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
 <table style="minWidth: 75px">
@@ -28,7 +29,7 @@ description: ""
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 July 2025</p>
+<p>19 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice stall is acceptable.</p>
