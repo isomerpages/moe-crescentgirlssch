@@ -47,5 +47,5 @@ to the allocated DSA-Sec school for the entire duration of the programme.)</p>
 <p></p>
 <p><strong>Application period</strong>
 <br>The application period is from the day of release of Secondary 1 Posting
-results to 23 Dec 2024, 5pm. Late or incomplete application will not be
+results to 23 Dec 2025, 5pm. Late or incomplete application will not be
 considered. Only shortlisted applicants will be informed.</p>
