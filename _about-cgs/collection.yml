@@ -2,6 +2,7 @@ collections:
   about-cgs:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Principal's Foreword.md
       - Mission, Vision & Values.md
       - School Song & Crest.md
