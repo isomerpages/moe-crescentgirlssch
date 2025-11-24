@@ -29,7 +29,7 @@ third_nav_title: School Canteen Advertisement
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 July 2025</p>
+<p>19 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice stall is acceptable.</p>
