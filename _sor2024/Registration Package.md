@@ -33,7 +33,7 @@ description: ""
 <hr>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Secondary One Orientation Programme 2025</strong>
+<p><strong>Secondary One Orientation Programme 2026</strong>
 </p>
 </li>
 </ol>
@@ -53,7 +53,7 @@ Week 0 and Week 1</p>
 <hr>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p><strong>CCA Schedule and Venues 2025</strong>
+<p><strong>CCA Schedule and Venues 2026</strong>
 </p>
 </li>
 </ol>
