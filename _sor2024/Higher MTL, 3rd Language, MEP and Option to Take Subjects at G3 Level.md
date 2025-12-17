@@ -22,7 +22,7 @@ registration by Monday, 22 December 2025, 12pm.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For registration at MOELC, students are to confirm the acceptance of the
-offer and complete the online registration at <a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a> 
+offer and complete the online registration at <a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>
 </p>
 <p></p>
 </li>
@@ -48,8 +48,8 @@ can also be found in the same video.</p>
 <p></p>
 <hr>
 <h4>3. Exercising Option to Take Subjects at G3 Level (only for students in PG2)</h4>
-<p>Parents will be informed via Parents Gateway (PG) on 18 December 2024,
-4pm. Please respond by 23 December 2024, 12pm.</p>
+<p>Parents will be informed via Parents Gateway (PG) on 19 December 2025,
+1pm.</p>
 <p></p>
 <p></p>
 <p></p>
