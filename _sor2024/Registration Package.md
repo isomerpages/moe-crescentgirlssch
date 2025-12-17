@@ -48,7 +48,7 @@ Week 0 and Week 1</p>
 </p>
 </li>
 </ol>
-<p>Application Form - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM0As3IgRBGANvedrRUulnYOFyWF6RybRgR7_ViSMW8sSBgw/viewform" rel="noopener nofollow" target="_blank">Application Form</a>
+<p>Application Form - <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM0As3IgRBGANvedrRUulnYOFyWF6RybRgR7_ViSMW8sSBgw/viewform" rel="noopener nofollow" target="_blank">Application Form</a></strong>
 </p>
 <hr>
 <ol start="6" data-tight="true" class="tight">
