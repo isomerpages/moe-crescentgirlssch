@@ -37,7 +37,7 @@ description: ""
 </p>
 </li>
 </ol>
-<p>The Secondary 1 Orientation Programme 2025 will take place in Term 1,
+<p>The Secondary 1 Orientation Programme 2026 will take place in Term 1,
 Week 0 and Week 1</p>
 <p><strong><a href="/files/Sec 1 Registration/04__2026_Sec_1_Orientation_Programme.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Orientation Programme 2026</a></strong>
 </p>
