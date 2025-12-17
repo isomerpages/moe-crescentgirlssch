@@ -38,7 +38,7 @@ car park</p>
 <hr>
 <h4>2. Music Elective Programme (MEP) Application</h4>
 <p>For students who are interested in applying for the MEP programme, please
-submit your application by <strong><em><u>26 December 2024, 12pm</u></em></strong><em><u>.</u></em>
+submit your application by <strong><em><u>26 December 2025, 12pm</u></em></strong><em><u>.</u></em>
 </p>
 <p>Please watch the MEP Briefing Video for more details. More info on AEP
 can also be found in the same video.</p>
