@@ -4,29 +4,34 @@ permalink: /registration-for-higher-mtl-3rd-language-csp-msp-and-mep-application
 variant: tiptap
 description: ""
 ---
-<h4>1. Higher Mother Tongue Language (HMTL) and 3<sup>rd</sup> Language Confirmation (more information will be posted here on <strong><em><u>18 December 2024, 4pm onwards</u></em></strong>)</h4>
+<h4>1. Higher Mother Tongue Language (HMTL) and 3<sup>rd</sup> Language Confirmation (more information will be posted here on <strong><em><u>22 December 2025, 12pm</u></em></strong>)</h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>For Higher Mother Tongue Languages</u></strong>
 </p>
-<p>Students who are eligible to take up HMTL will receive the option form
-via Parents Gateway by <strong><em><u>18 December 2024, 4pm</u></em></strong><em>.</em> Parents
-can accept/reject the offer by giving consent via the platform.</p>
-<p>Please respond by <strong><em><u>23 December 2024, 12pm</u></em></strong><em><u>.</u></em>
-</p>
+<p>HMTL Option Form (Form A) Students who are eligible to take up HMTL will
+receive the option form (Form A) via Parents Gateway. Parents can accept
+the offer by giving consent via Parents Gateway. Please complete the online
+registration by Monday, 22 December 2025, 12pm.</p>
 <p></p>
 </li>
 <li>
 <p><strong><u>For Third Languages</u></strong>
 </p>
-<p>Students will be informed of the results of their Third Language application
-via Parents Gateway. You will be required to confirm your acceptance of
-the offer and complete the online registration at <a href="https://www.moelc.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg</a>.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>For registration at MOELC, students are to confirm the acceptance of the
+offer and complete the online registration at <a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a> 
+</p>
 <p></p>
-<p>When selecting your Third Language lessons, please note that our school's
-CCA days are Mondays and Wednesdays. Sports CCAs and the Symphonic Band
-may have additional training sessions on Fridays during competition seasons.</p>
+</li>
+<li>
+<p>Strictly drop off only at both campuses. Nearest carparks: Newton Campus
+– e.g., Newton Food Centre Bishan Campus – e.g., Bishan Sports Stadium
+car park</p>
+</li>
+</ol>
 </li>
 </ul>
 <p></p>
