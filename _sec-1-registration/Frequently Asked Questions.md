@@ -4,35 +4,30 @@ permalink: /frequently-asked-questions/
 variant: tiptap
 description: ""
 ---
-<h4>General </h4>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My child has been posted to Crescent Girls’ School. How can I receive the relevant information required to prepare for the first day of school? </strong>
-</p>
-<p>Detailed information about the orientation programme will be sent to all
-parents via Parents’ Gateway (PG) from 22<sup>nd</sup> December (Monday).
-Other key information, e.g., purchase of books and uniforms, can be accessed
+<h4>General</h4>
+<p><strong>1.&nbsp;My child has been posted to Crescent Girls’ School. How can I receive the relevant information required to prepare for the first day of school?</strong>Detailed
+information about the orientation programme will be sent to all parents
+via Parents’ Gateway (PG) from 22<sup>nd</sup> December (Monday). Other
+key information, e.g., purchase of books and uniforms, can be accessed
 via our school website under [insert name of section on website].</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the reporting arrangements for the first day of school?</strong>
-</p>
-<p>Students are to assemble at the Parade Square between 7.05 a.m. and 7.20
-a.m. on Friday, 2<sup> </sup>January 2026. Students will be led to the
-Auditorium by their Form Teachers and Student Leaders, where they will
-be welcomed by the rest of the Crescentian family.</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What should my child wear and bring for the first day of school?</strong>
-</p>
-<p>Students are to report in school blouse and skirt on Friday, 2 January
-2026. The attire for subsequent sessions is detailed in the 2026 Sec 1
-Orientation Programme. Students should also bring writing materials and
-come prepared with lots of enthusiasm.</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I purchase school resources and uniforms?</strong>
-</p>
-<p>For information related to the purchase of books, uniforms, and other
+<p><strong>2.&nbsp;What are the reporting arrangements for the first day of school?</strong>Students
+are to assemble at the Parade Square between 7.05 a.m. and 7.20 a.m. on
+Friday, 2<sup> </sup>January 2026. Students will be led to the Auditorium
+by their Form Teachers and Student Leaders, where they will be welcomed
+by the rest of the Crescentian family.</p>
+<p><strong>3. What should my child wear and bring for the first day of school?</strong>Students
+are to report in school blouse and skirt on Friday, 2 January 2026. The
+attire for subsequent sessions is detailed in the 2026 Sec 1 Orientation
+Programme. Students should also bring writing materials and come prepared
+with lots of enthusiasm.</p>
+<p><strong>4.&nbsp;How can I purchase school resources and uniforms?</strong>
+<br>For information related to the purchase of books, uniforms, and other
 materials, please access the relevant information via our school website
 under [insert name of section on website].</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under Full Subject Based Banding (FSBB), my child has been offered to take some subjects at a more demanding level (MDL). How will I be able to view and make the choices with my child?</strong>
-</p>
-<p>The MDL offers will be sent to the parents of relevant students from 22<sup>nd</sup> December.
-The deadline to respond is by Wednesday, 24 December 2025, 11.59pm. For
-more information on FSBB, please refer to the next section “FAQ: Full Subject-Based
+<p><strong>5.&nbsp;How do I know if I have been offered the chance to do the subject at a more demanding level (MDL)? How will I be able to view and make the choices with my child?</strong>
+<br>The MDL offers will be sent to the parents of relevant students from 22<sup>nd</sup> December.
+The deadline to respond is by Wednesday, 24 December 2025, 11.59pm.</p>
+<p>For more information on FSBB, please refer to the next section “Full Subject-Based
 Banding (Full SBB) for Secondary 1 Parents”.</p>
 <p><strong>&nbsp;*If urgent information is required, please contact the school’s General Office at 6475 8711.</strong>
 </p>
