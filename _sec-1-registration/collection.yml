@@ -1,5 +1,5 @@
 collections:
-  sor2024:
+  sec-1-registration:
     output: true
     order:
       - "Secondary 1 Registration: Welcome Annoucements.md"
