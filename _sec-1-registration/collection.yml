@@ -2,7 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - "Secondary 1 Registration: Welcome Annoucements.md"
+      - "Secondary 1 Registration: Welcome Annoucement.md"
       - Briefing Videos.md
       - Registration Package.md
       - Student Particulars Form.md
