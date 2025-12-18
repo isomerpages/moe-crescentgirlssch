@@ -15,7 +15,8 @@ description: ""
 <hr>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Information and FAQs on Higher MTL, MTL, Third Languages, CSP and MSP (More information will be posted on 22 December 2025)</strong>
+<p><strong>Information and FAQs on Higher MTL, MTL, Third Languages, CSP and MSP </strong>
+<br><strong>(</strong><a href="/sec1registration-2026/registration-for-higher-mtl-3rd-language-csp-msp-and-mep-application/" rel="noopener nofollow" target="_blank">More information will be posted here on 22 December 2025 12pm</a><strong>)</strong>
 </p>
 </li>
 </ol>
