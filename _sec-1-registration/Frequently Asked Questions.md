@@ -23,7 +23,8 @@ with lots of enthusiasm.</p>
 <p><strong>4.&nbsp;How can I purchase school resources and uniforms?</strong>
 <br>For information related to the purchase of books, uniforms, and other
 materials, please access the relevant information via our school website
-under [insert name of section on website].</p>
+under <a href="https://www.crescent.edu.sg/about-cgs/supplier/" rel="noopener nofollow" target="_blank">About CGS -&gt; Supplier</a>
+</p>
 <p><strong>5.&nbsp;How do I know if I have been offered the chance to do the subject at a more demanding level (MDL)? How will I be able to view and make the choices with my child?</strong>
 <br>The MDL offers will be sent to the parents of relevant students from 22<sup>nd</sup> December.
 The deadline to respond is by Wednesday, 24 December 2025, 11.59pm.</p>
@@ -36,8 +37,8 @@ Banding (Full SBB) for Secondary 1 Parents”.</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>If you have further questions or wish to find out more about Crescent,
-you can start a conversation with our chatbot <a href="Have a question or wish to find out more about Crescent? Our chatbot can help! Simply scan the code or use this link to start a conversation with our chatbot and get the information that you require!" rel="noopener nofollow" target="_blank">here</a> and
-get the information that you require.</p>
+you can start a conversation with our chatbot <a href="https://for.edu.sg/cgsfaqbot" rel="noopener nofollow" target="_blank">here</a> and get the information that
+you require.</p>
 </li>
 </ol>
 <h4><strong>Full Subject-Based Banding (Full SBB) for Secondary 1 Parents</strong></h4>
