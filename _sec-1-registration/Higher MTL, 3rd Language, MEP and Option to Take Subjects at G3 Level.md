@@ -42,14 +42,11 @@ submit your application by <strong><em><u>26 December 2025, 12pm</u></em></stron
 </p>
 <p>Please watch the MEP Briefing Video for more details. More info on AEP
 can also be found in the same video.</p>
-<p></p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM0As3IgRBGANvedrRUulnYOFyWF6RybRgR7_ViSMW8sSBgw/viewform" rel="noopener nofollow" target="_blank">MEP and AEP Application Form</a>
 </p>
-<p></p>
 <hr>
-<h4>3. Exercising Option to Take Subjects at G3 Level (only for students in PG2)</h4>
-<p>Parents will be informed via Parents Gateway (PG) on 19 December 2025,
-1pm.</p>
+<h4>3. Exercising Option to Take Subjects at More Demanding Level (only for students posted via PG2)</h4>
+<p>Parents will be informed via Parents Gateway (PG) on 22 December 2025.</p>
 <p></p>
 <p></p>
 <p></p>
