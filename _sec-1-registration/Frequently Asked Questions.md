@@ -31,9 +31,10 @@ The deadline to respond is by Wednesday, 24 December 2025, 11.59pm.</p>
 Banding (Full SBB) for Secondary 1 Parents”.</p>
 <p><strong>&nbsp;*If urgent information is required, please contact the school’s General Office at 6475 8711.</strong>
 </p>
+<p><strong>6. What if I have more questions?</strong>
+</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p>What if I have more questions?</p>
 <p>If you have further questions or wish to find out more about Crescent,
 you can start a conversation with our chatbot <a href="Have a question or wish to find out more about Crescent? Our chatbot can help! Simply scan the code or use this link to start a conversation with our chatbot and get the information that you require!" rel="noopener nofollow" target="_blank">here</a> and
 get the information that you require.</p>
