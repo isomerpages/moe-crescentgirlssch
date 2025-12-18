@@ -91,7 +91,13 @@ their pursuit of excellence, become ladies and leaders of tomorrow.</p>
 </p>
 </li>
 </ol>
-<p>Guide - <strong><a href="/files/Sec 1 Registration/08__School_Uniform_and_Books_Pacific_Bookstores_Online_Buying_Guide_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Purchasing Book and School Uniform Guide</a></strong>
+<p> <strong><a href="/files/Sec 1 Registration/08__School_Uniform_and_Books_Pacific_Bookstores_Online_Buying_Guide_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Purchasing Book and School Uniform Guide</a></strong>
+</p>
+<p>All purchases of textbooks and uniforms can be made online or in person
+at Crescent Girls' School (357 Tanglin Road, S247961) from 19 Dec 2025.</p>
+<p>You may opt for either Self-Collection or Home Delivery. You are encouraged
+to place your order online before self-collection.</p>
+<p>Website: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <hr>
 <ol start="10" data-tight="true" class="tight">
@@ -123,7 +129,7 @@ their pursuit of excellence, become ladies and leaders of tomorrow.</p>
 </li>
 </ol>
 <p>If you meet the criteria stated in the briefing document and would like
-to apply for FAS, please complete the following form -<strong> <a href="/files/Sec 1 Registration/11__MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">MOE FAS - Application Form</a></strong>.
+to apply for FAS, please complete the form -<strong> <a href="/files/Sec 1 Registration/11__MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">MOE FAS - Application Form</a></strong>.
 More info on the application process can be found in the FAS document.</p>
 <hr>
 <ol start="13" data-tight="true" class="tight">
@@ -132,6 +138,10 @@ More info on the application process can be found in the FAS document.</p>
 </p>
 </li>
 </ol>
+<p>Parents Gateway is a mobile app that is available on both Apple &amp;
+Android platforms, and can be downloaded from the respective app stores.
+Refer to <a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">this link</a> for
+more details.&nbsp;</p>
 <p><strong><a href="/files/Sec 1 Registration/12__Parents_Gateway_User_Guide_for_parents.pdf" rel="noopener nofollow" target="_blank">PG Guide</a></strong>
 </p>
 <p></p>
