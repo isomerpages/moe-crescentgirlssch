@@ -18,14 +18,14 @@ description: ""
 <p></p>
 <hr>
 <p></p>
-<h4>M-LEARNING 3.0</h4>
+<h4>m-Learning 3.0</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2PCDY1gPmKI?si=4Zo6-MX9u7wlwEIH"></iframe>
 </div>
 <p></p>
 <hr>
 <p></p>
-<h4>AEP MEP Briefing</h4>
+<h4>AEP &amp; MEP Briefing</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p-e_8dKAeZs?si=V-dPXoBgChkE5PBz"></iframe>
 </div>
