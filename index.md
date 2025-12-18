@@ -26,7 +26,7 @@ sections:
       image: /images/Sec 1 Registration/SEC1_registration_Thumbnail.jpg
       alt: Image alt text
       button: Click to explore more!
-      url: /cgs-openhouse2025/
+      url: /sec1registration-2026/welcome-annoucement-2026/
       subtitle: upcoming event
   - infobar:
       title: "#CresHapps"
