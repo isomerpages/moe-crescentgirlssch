@@ -1,9 +1,0 @@
-collections:
-  sor2024:
-    output: true
-    order:
-      - "Registration: Welcome Annoucements.md"
-      - Briefing Videos.md
-      - Students Particulars Form.md
-      - Registration Package.md
-      - Higher MTL, 3rd Language, MEP and Option to Take Subjects at G3 Level.md

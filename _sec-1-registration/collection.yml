@@ -1,0 +1,11 @@
+collections:
+  sec-1-registration:
+    output: true
+    order:
+      - "Secondary 1 Registration: Welcome Annoucement.md"
+      - Briefing Videos.md
+      - Registration Package.md
+      - Student Particulars Form.md
+      - Higher MTL, 3rd Language, MEP and Option to Take Subjects at More
+        Demanding Level.md
+      - Frequently Asked Questions.md

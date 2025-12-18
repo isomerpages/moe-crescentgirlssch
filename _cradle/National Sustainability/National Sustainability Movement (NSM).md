@@ -1,5 +1,5 @@
 ---
-title: About National Sustainability Movement (NSM)
+title: National Sustainability Movement (NSM)
 permalink: /cradle/nsm/
 description: ""
 third_nav_title: National Sustainability
