@@ -2,6 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Frequently Asked Questions.md
       - "Secondary 1 Registration: Welcome Annoucements.md"
       - Briefing Videos.md
       - Registration Package.md
