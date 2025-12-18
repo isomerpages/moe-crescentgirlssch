@@ -17,8 +17,9 @@ the school will be sending you important information via PG after 19 Dec
 your daughter in getting ready for the new school year.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Watch the <strong>Briefing Videos</strong> &amp; view the <strong>Registration Package </strong>documents
-for key information about the school &amp; registration process.</p>
+<p>Watch the <a href="https://crescent.edu.sg/s-r-b-v/" rel="noopener nofollow" target="_blank">Briefing Videos</a> &amp;
+view the <strong>Registration Package </strong>documents for key information
+about the school &amp; registration process.</p>
 </li>
 <li>
 <p>Complete the <strong>Student Particulars Form</strong> by 22 Dec, 2025,
