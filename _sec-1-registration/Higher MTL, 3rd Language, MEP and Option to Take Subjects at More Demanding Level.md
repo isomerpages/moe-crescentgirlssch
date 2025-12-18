@@ -14,7 +14,7 @@ description: ""
 <p>HMTL Option Form (Form A) Students who are eligible to take up HMTL will
 receive the option form (Form A) via Parents Gateway. Parents can accept
 the offer by giving consent via Parents Gateway. Please complete the online
-registration by Monday, 22 December 2025, 12pm.</p>
+registration by Wednesday, 24 December 2025, 12pm.</p>
 <p></p>
 </li>
 <li>
