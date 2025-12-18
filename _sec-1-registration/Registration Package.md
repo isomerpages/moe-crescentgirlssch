@@ -15,11 +15,11 @@ description: ""
 <hr>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Information and FAQs on Higher MTL, MTL, Third Languages, CSP and MSP</strong>
+<p><strong>Information and FAQs on Higher MTL, MTL, Third Languages, CSP and MSP (More information will be posted on 22 December 2025)</strong>
 </p>
 </li>
 </ol>
-<p>Click here to find out more - <strong><a href="/files/Sec 1 Registration/02__HMTL__3rd_Lang_and_CSP_MSP__2026_.pdf" rel="noopener nofollow" target="_blank">HTML and 3rd Language</a></strong>
+<p>Click here to find out more - <strong><a href="/files/Sec 1 Registration/02__HMTL__3rd_Lang_and_CSP_MSP_.pdf" rel="noopener nofollow" target="_blank">HMTL, 3rd Lang, CSP&amp;MSP</a></strong>
 </p>
 <hr>
 <ol start="3" data-tight="true" class="tight">
@@ -91,7 +91,7 @@ their pursuit of excellence, become ladies and leaders of tomorrow.</p>
 </p>
 </li>
 </ol>
-<p> <strong><a href="/files/Sec 1 Registration/08__School_Uniform_and_Books_Pacific_Bookstores_Online_Buying_Guide_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Purchasing Book and School Uniform Guide</a></strong>
+<p><strong><a href="/files/Sec 1 Registration/08__School_Uniform_and_Books_Pacific_Bookstores_Online_Buying_Guide_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Purchasing Book and School Uniform Guide</a></strong>
 </p>
 <p>All purchases of textbooks and uniforms can be made online or in person
 at Crescent Girls' School (357 Tanglin Road, S247961) from 19 Dec 2025.</p>
