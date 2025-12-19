@@ -27,7 +27,7 @@ under <a href="https://www.crescent.edu.sg/about-cgs/supplier/" rel="noopener no
 </p>
 <p><strong>5.&nbsp;How do I know if I have been offered the chance to do the subject at a more demanding level (MDL)? How will I be able to view and make the choices with my child?</strong>
 <br>The MDL offers will be sent to the parents of relevant students from 22<sup>nd</sup> December.
-The deadline to respond is by Wednesday, 24 December 2025, 11.59pm.</p>
+The deadline to respond is by Wednesday, 24 December 2025, 12.00pm.</p>
 <p>For more information on FSBB, please refer to the next section “Full Subject-Based
 Banding (Full SBB) for Secondary 1 Parents”.</p>
 <p><strong>&nbsp;*If urgent information is required, please contact the school’s General Office at 6475 8711.</strong>
