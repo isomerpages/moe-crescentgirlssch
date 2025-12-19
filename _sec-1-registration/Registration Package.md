@@ -29,7 +29,7 @@ description: ""
 </p>
 </li>
 </ol>
-<p>Click here to find out more - <strong><a href="/files/Sec 1 Registration/03__S1_Registration_AYH_Slides_2026.pdf" rel="noopener nofollow" target="_blank">Preparing for Secondary 1</a></strong>
+<p>Click here to find out more - <strong><a href="/files/Sec 1 Registration/Preparing_for_Secondary_1.pdf" rel="noopener nofollow" target="_blank">Preparing for Secondary 1</a></strong>
 </p>
 <hr>
 <ol start="4" data-tight="true" class="tight">
