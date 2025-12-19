@@ -5,22 +5,22 @@ variant: tiptap
 description: ""
 ---
 <h4>General</h4>
-<p><strong>1.&nbsp;My child has been posted to Crescent Girls’ School. How can I receive the relevant information required to prepare for the first day of school?</strong>Detailed
-information about the orientation programme will be sent to all parents
-via Parents’ Gateway (PG) from 22<sup>nd</sup> December (Monday). Other
-key information, e.g., purchase of books and uniforms, can be accessed
+<p><strong>1.&nbsp;My child has been posted to Crescent Girls’ School. How can I receive the relevant information required to prepare for the first day of school?</strong>
+<br>Detailed information about the orientation programme will be sent to all
+parents via Parents’ Gateway (PG) from 22<sup>nd</sup> December (Monday).
+Other key information, e.g., purchase of books and uniforms, can be accessed
 via our school website under <a href="https://www.crescent.edu.sg/sec1registration-2026/welcome-annoucement-2026/" rel="noopener nofollow" target="_blank">Sec 1 Registration 2026.</a>
 </p>
-<p><strong>2.&nbsp;What are the reporting arrangements for the first day of school?</strong>Students
-are to assemble at the Parade Square between 7.05 a.m. and 7.20 a.m. on
-Friday, 2<sup> </sup>January 2026. Students will be led to the Auditorium
-by their Form Teachers and Student Leaders, where they will be welcomed
-by the rest of the Crescentian family.</p>
-<p><strong>3. What should my child wear and bring for the first day of school?</strong>Students
-are to report in school blouse and skirt on Friday, 2 January 2026. The
-attire for subsequent sessions is detailed in the 2026 Sec 1 Orientation
-Programme. Students should also bring writing materials and come prepared
-with lots of enthusiasm.</p>
+<p><strong>2.&nbsp;What are the reporting arrangements for the first day of school?</strong>
+<br>Students are to assemble at the Parade Square between 7.05 a.m. and 7.20
+a.m. on Friday, 2<sup> </sup>January 2026. Students will be led to the
+Auditorium by their Form Teachers and Student Leaders, where they will
+be welcomed by the rest of the Crescentian family.</p>
+<p><strong>3. What should my child wear and bring for the first day of school?</strong>
+<br>Students are to report in school blouse and skirt on Friday, 2 January
+2026. The attire for subsequent sessions is detailed in the 2026 Sec 1
+Orientation Programme. Students should also bring writing materials and
+come prepared with lots of enthusiasm.</p>
 <p><strong>4.&nbsp;How can I purchase school resources and uniforms?</strong>
 <br>For information related to the purchase of books, uniforms, and other
 materials, please access the relevant information via our school website
