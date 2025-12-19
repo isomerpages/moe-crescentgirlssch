@@ -34,13 +34,9 @@ Banding (Full SBB) for Secondary 1 Parents”.</p>
 </p>
 <p><strong>6. What if I have more questions?</strong>
 </p>
-<ol start="6" data-tight="true" class="tight">
-<li>
 <p>If you have further questions or wish to find out more about Crescent,
 you can start a conversation with our chatbot <a href="https://for.edu.sg/cgsfaqbot" rel="noopener nofollow" target="_blank">here</a> and get the information that
 you require.</p>
-</li>
-</ol>
 <h4><strong>Full Subject-Based Banding (Full SBB) for Secondary 1 Parents</strong></h4>
 <p><strong>1. What is Full SBB?</strong>
 <br>Full SBB allows students to take each subject at a level that matches
