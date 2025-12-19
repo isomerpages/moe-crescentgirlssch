@@ -9,7 +9,8 @@ description: ""
 information about the orientation programme will be sent to all parents
 via Parents’ Gateway (PG) from 22<sup>nd</sup> December (Monday). Other
 key information, e.g., purchase of books and uniforms, can be accessed
-via our school website under [insert name of section on website].</p>
+via our school website under <a href="https://www.crescent.edu.sg/sec1registration-2026/welcome-annoucement-2026/" rel="noopener nofollow" target="_blank">Sec 1 Registration 2026.</a>
+</p>
 <p><strong>2.&nbsp;What are the reporting arrangements for the first day of school?</strong>Students
 are to assemble at the Parade Square between 7.05 a.m. and 7.20 a.m. on
 Friday, 2<sup> </sup>January 2026. Students will be led to the Auditorium
