@@ -40,6 +40,8 @@ description: ""
 </ol>
 <p>The Secondary 1 Orientation Programme 2026 will take place in Term 1,
 Week 0 and Week 1</p>
+<p><a href="/files/Sec 1 Registration/04__2026_Sec_1_Orientation_Programme.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Orientation Programme</a>
+</p>
 <hr>
 <ol start="5" data-tight="true" class="tight">
 <li>
