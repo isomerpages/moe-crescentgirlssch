@@ -7,6 +7,7 @@ variant: markdown
 ### School Website Message 2026 ###
 #### Commemorating CG70:&nbsp;Honouring&nbsp;our Past,&nbsp;Inspiring&nbsp;our Future
 #### 
+
 <img src="/images/Principal_Cindy_Low.jpg" style="width:30%;margin-right:15px;" align="left">
 This year marks a significant milestone in Crescent Girls’ School’s journey as we commemorate 70 years of nurturing gracious, confident ladies and visionary leaders. Since our founding in 1956, Crescent has grown from a modest secondary school into a vibrant, future-focused learning community&nbsp;recognised&nbsp;for its culture of care, spirit of innovation and&nbsp;steadfast&nbsp;commitment to holistic education.&nbsp;
 
