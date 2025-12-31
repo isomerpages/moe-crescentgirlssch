@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Commemorating CG70:&nbsp;Honouring&nbsp;our Past,&nbsp;Inspiring&nbsp;our Future</h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Principal_Cindy_Low.jpg">
 </div>
 <p>This year marks a significant milestone in Crescent Girls’ School’s journey
 as we commemorate 70 years of nurturing gracious, confident ladies and
