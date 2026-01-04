@@ -86,6 +86,7 @@ Hence, student's iPad <u>will not be</u> deactivated.</p>
 <p></p>
 <p></p>
 <p>After school hours</p>
+<p></p>
 </td>
 </tr>
 <tr>
