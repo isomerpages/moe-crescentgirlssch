@@ -85,7 +85,9 @@ Hence, student's iPad <u>will not be</u> deactivated.</p>
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
+<p></p>
 <p>After school hours</p>
+<p></p>
 <p></p>
 </td>
 </tr>
