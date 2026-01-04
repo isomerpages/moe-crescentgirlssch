@@ -38,12 +38,68 @@ and after-school hours.</p>
 </div>
 <p><em>*Opting for the Default DMA setting for after-school use is the recommended option for parents who prefer not to or not ready to manage their child's device on their own.</em>
 </p>
-<p><em>*School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by CGS is from 6am – 3pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.</em>
+<p><em>*School hours refer to the time within which students are involved in structured learning activities within the school. The hours defined by CGS is from 6am – 3pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.</em>
 </p>
+<p>DMA Schedule overview</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Signature Programme/M@Learning/DMA_options.jpg">
-</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Monday - Friday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Saturday - Sunday</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.30pm - 6.05am (Next Day)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sleep Hours</p>
+<p>iPad will be deactivated for DMA After School Default Option.</p>
+<p></p>
+<p>Parents / guardian opted for DMA After School Option A may change the
+Sleep Hours.</p>
+<p></p>
+<p>Student's iPad for DMA Option B will not be managed after school hours.
+Hence, student's iPad <u>will not be</u> deactivated.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.05am - 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hours</p>
+<p>School settings in effect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>After school hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm - 10.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After school hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After school hours</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>Parents may request to change their choice of DMA settings via the form:&nbsp;<strong><a href="http://www.go.gov.sg/cgsdmaoptions" rel="noopener noreferrer nofollow" target="_blank">http://www.go.gov.sg/cgsdmaoptions</a></strong>.
 Parents should consider their daughter’s current device usage habits (time
