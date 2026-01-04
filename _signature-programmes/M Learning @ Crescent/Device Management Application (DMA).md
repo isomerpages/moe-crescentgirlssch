@@ -82,18 +82,17 @@ Hence, student's iPad <u>will not be</u> deactivated.</p>
 <p>School Hours</p>
 <p>School settings in effect</p>
 </td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
+<td rowspan="1" colspan="1">
 <p></p>
 <p>After school hours</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3pm - 10.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After school hours</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>After school hours</p>
