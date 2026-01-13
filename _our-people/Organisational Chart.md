@@ -71,6 +71,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Alvin Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Shirlene Koh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +130,7 @@ variant: tiptap
 <p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 1 &amp; 4</p>
+<p>Year Head / Lower Sec</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +138,7 @@ variant: tiptap
 <p>Ms Estee Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 2 &amp; 3</p>
+<p>Year Head / Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -207,10 +215,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Rafiqqa Bte Mustapha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kingsley Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Sec 3</p>
+<p>Assistant Year Head / Sec 4</p>
 </td>
 </tr>
 <tr>
