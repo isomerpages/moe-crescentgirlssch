@@ -813,19 +813,18 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year in Parent Gateway (<strong>here</strong>). The completed
-form is to be submitted by 6/2/2026.</p>
+the start of the year in Parent Gateway (<strong><a href="/files/Sexuality Education/SEd_letter_to_parents_2026Sec_124.pdf" rel="noopener nofollow" target="_blank">here</a></strong>).
+The completed form is to be submitted by 6/2/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year in Parents Gatewey (<strong>here</strong>). The completed
-form is to be submitted by 6/2/2026.</p>
+the start of the year in Parents Gatewey (<strong><a href="/files/Sexuality Education/SEd_letter_to_parents_2026_Sec_3.pdf" rel="noopener nofollow" target="_blank">here</a></strong>).
+The completed form is to be submitted by 6/2/2026.</p>
 </li>
 <li>
-<p>Parents can contact the school at Ms Wan Azrina, at 6708 7920 / <a rel="noopener noreferrer nofollow" target="_blank">Wan_Azrina@crescent.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.
+<p>Parents can contact the school at Ms Wan Azrina, at 6708 7920 / <a rel="noopener noreferrer nofollow" target="_blank">Wan_Azrina@crescent.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.
 <br>
 </p>
 </li>
