@@ -51,7 +51,7 @@ variant: tiptap
 <p>Ms Estee Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 2&amp;3</p>
+<p>Year Head / Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Yap</p>
+<p>Ms Michelle Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -120,10 +120,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lam Si Xiao</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
