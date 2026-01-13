@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jesscy Ang Shu Yi&nbsp;</p>
+<p>Ms Teo Wen Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
