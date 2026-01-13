@@ -23,47 +23,47 @@ on sexuality issues.
 </p>
 </li>
 <li>
-<p>The <strong>Goals</strong> of Sexuality Education are to:
+<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:
 <br>(a) To help students make wise, responsible and informed decisions through
 the provision of accurate, current and age-appropriate knowledge on human
-sexuality and the consequences of sexual activity;
+sexuality andtheconsequencesofsexualactivity;
 <br>(b) To help students know themselves and build healthy and rewarding relationships
 through the acquisition of social and emotional skills of self-awareness,
 management of their thoughts, feelings and behaviours, development of empathy
 for others, possession of effective communication, problem-solving and
-decision-making skills; and
+decision-making skills:, and
 <br>(c) To help students develop a moral compass, respect for themselves and
 for others as sexual beings, premised on the family as the basic unit of
 society, through the inculcation of positive mainstream values and attitudes
-about sexuality..
+about sexuality.
 <br>
 <br>
 </p>
 </li>
 <li>
-<p>The <strong>key messages</strong> of Sexuality Education are:
-<br><strong>(a)</strong> Love and respect yourself as you love and respect
+<p>The&nbsp;<strong>key messages</strong>&nbsp;of Sexuality Education are:
+<br><strong>(a)</strong>&nbsp;Love and respect yourself as you love and respect
 others;
-<br><strong>(b)</strong> Build positive relationships based on love and respect
-(which are the foundation for strong families);
-<br><strong>(c)</strong> Make responsible decisions for yourself, your family
-and society; and
-<br><strong>(d)</strong> Abstinence before marriage is the best protection
+<br><strong>(b)</strong>&nbsp;Build positive relationships based on love and
+respect (which are the foundation for strong families);
+<br><strong>(c)</strong>&nbsp;Make responsible decisions for yourself, your
+family and society; and
+<br><strong>(d)</strong>&nbsp;Abstinence before marriage is the best protection
 against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.
 <br>
 </p>
 </li>
 </ol>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Cresent Girls' School's Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Cresent Girls' School's Sexuality Education Programme for 2026</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;&nbsp;
 <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.
 <br>
@@ -104,7 +104,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3><strong>At Crescent Girl’s School, the following Sexuality Education Lessons will be taught in&nbsp;2025:</strong></h3>
+<h3><strong>At Crescent Girl’s School, the following Sexuality Education Lessons will be taught in&nbsp;2026:</strong></h3>
 <h5><strong>SECONDARY 1</strong></h5>
 <table style="minWidth: 125px">
 <colgroup>
@@ -311,7 +311,7 @@ as a male or female
 <br>- Understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -339,7 +339,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ perception) on self-esteem, the impact of one’s self-esteem on our mental
 well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
-entering into a dating relationship.</p>
+entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Know that self-perception and identity have an impact on our self-esteem
@@ -487,7 +487,7 @@ normal and one can recover from the experience.
 family and friends are important pillars of support.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -520,7 +520,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our belief</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -602,7 +602,7 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -677,7 +677,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ values-based viewpoints (e.g. respect for life) and decisions and speak
 and act in alignment with our beliefs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -770,11 +770,12 @@ to make wise, informed and sensible decisions.</p>
 <td rowspan="1" colspan="1">
 <p>- Awareness of the different STIs and HIV/AIDS
 <br>- Modes of transmission
-<br>- Modes of protection, specifically on how the condom is used
+<br>- Modes of protection, specifically on how the &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp; condom is used
 <br>- Consequences and impact of STIs/HIV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -786,7 +787,7 @@ to make wise, informed and sensible decisions.</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -810,21 +811,20 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+<p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year in Parent Gateway <strong><a href="/files/Sexuality Education/SEd_consent_form_for_Sec_1_and_2_and_4.pdf" rel="noopener nofollow" target="_blank">(here)</a></strong>.
-The completed form is to be submitted by 6/2/2025.</p>
+the start of the year in Parent Gateway (<strong><a href="/files/Sexuality Education/SEd_letter_to_parents_2026Sec_124.pdf" rel="noopener nofollow" target="_blank">here</a></strong>).
+The completed form is to be submitted by 6/2/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year in Parents Gatewey <strong><a href="/files/Sexuality Education/SEd_consent_form_for_Sec_3.pdf" rel="noopener nofollow" target="_blank">(here)</a></strong>.
-The completed form is to be submitted by 6/2/2025</p>
+the start of the year in Parents Gatewey (<strong><a href="/files/Sexuality Education/SEd_letter_to_parents_2026_Sec_3.pdf" rel="noopener nofollow" target="_blank">here</a></strong>).
+The completed form is to be submitted by 6/2/2026.</p>
 </li>
 <li>
-<p>Parents can contact the school at Mdm Norazimah, at 6708 7973 / Norazimah_bte_ibrahim@crescent.edu.sg
-for discussion or to seek clarification about the school’s Sexuality Education
-programme
+<p>Parents can contact the school at Ms Wan Azrina, at 6708 7920 / <a rel="noopener noreferrer nofollow" target="_blank">Wan_Azrina@crescent.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.
 <br>
 </p>
 </li>
@@ -873,7 +873,7 @@ lesson is provided by MOE.
 </p>
 </li>
 <li>
-<p>Additional information is available on the MOE website. (https://go.gov.sg/moe-sexuality-education)</p>
+<p>Additional information is available on the MOE website. (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> )</p>
 </li>
 </ol>
 <p></p>
