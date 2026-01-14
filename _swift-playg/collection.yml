@@ -2,6 +2,7 @@ collections:
   swift-playg:
     output: true
     order:
+      - SES Celebrations.md
       - FAQs.md
       - Curriculum.md
       - Registration.md
