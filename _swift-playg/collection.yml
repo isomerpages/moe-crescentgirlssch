@@ -1,0 +1,9 @@
+collections:
+  swift-playg:
+    output: true
+    order:
+      - SES Celebrations.md
+      - FAQs.md
+      - Curriculum.md
+      - Registration.md
+      - About Swift Explorers Singapore (SES).md

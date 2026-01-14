@@ -2,7 +2,6 @@
 title: FAQs
 permalink: /cradle/Swift-Explorers-Singapore/FAQ/
 description: ""
-third_nav_title: Swift Explorers Singapore
 variant: tiptap
 ---
 <h4>1. How will SES benefit my school</h4>

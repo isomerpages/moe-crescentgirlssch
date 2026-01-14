@@ -20,14 +20,6 @@ sections:
           url: /quicklinks/for-students/
       title: Crescent Girls' School
       variant: image
-  - infopic:
-      title: Secondary 1 Registration
-      id: infopic
-      image: /images/Sec 1 Registration/SEC1_registration_Thumbnail.jpg
-      alt: Image alt text
-      button: Click to explore more!
-      url: /sec1registration-2026/welcome-annoucement-2026/
-      subtitle: upcoming event
   - infobar:
       title: "#CresHapps"
       subtitle: crescent girls' school

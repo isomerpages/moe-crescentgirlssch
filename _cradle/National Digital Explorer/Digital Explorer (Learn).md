@@ -34,14 +34,14 @@ Students will use ICDL eLearning platform to complete the Essentials module(s) s
 * Online information
 * Online communication
 * Safety<br> 
-More information: [https://icdlasia.org/workforce/computer-and-online-essentials/](https://icdlasia.org/workforce/computer-and-online-essentials/)
+More information: [https://icdl.org/digital-student/computer-online-essentials/](https://icdl.org/digital-student/computer-online-essentials/)
 
 ##### Application Essentials: #####
 * Office productivity applications
 * Word processing
 * Spreadsheets
 * Presentation <br>
-More information: [https://icdlasia.org/workforce/application-essentials/](https://icdlasia.org/workforce/application-essentials/)
+More information: [https://icdl.org/digital-student/application-essentials/](https://icdl.org/digital-student/application-essentials/)
 
 
 
@@ -63,7 +63,7 @@ Students will use ICDL eLearning platform to complete the Workforce and Insights
 * Formatting
 * Objects
 * Mail Merge <br>
-More information: [https://icdlasia.org/workforce/documents/](https://icdlasia.org/workforce/documents/)
+More information: [https://icdl.org/workforce/documents-icdl-core/](https://icdl.org/workforce/documents-icdl-core/)
 
 ##### Workforce Spreadsheets #####
 * Cells
@@ -71,21 +71,21 @@ More information: [https://icdlasia.org/workforce/documents/](https://icdlasia.o
 * Formulas and Functions&nbsp;
 * Formatting
 *  Charts&nbsp;<br>
-More information: [https://icdlasia.org/workforce/spreadsheets/](https://icdlasia.org/workforce/spreadsheets/)
+More information: [https://icdl.org/workforce/spreadsheets-icdl-core/](https://icdl.org/workforce/spreadsheets-icdl-core/)
 
 ##### Workforce Presentation #####
 * Developing presentation&nbsp;
 * Text
 * Charts
 * Graphical Objects <br>
-More information: [https://icdlasia.org/workforce/presentation/](https://icdlasia.org/workforce/presentation/)
+More information: [https://icdl.org/workforce/presentation-icdl-core/](https://icdl.org/workforce/presentation-icdl-core/)
 
 ##### Insights Big Data #####
 * What is big data
 * The big data environment
 * Big data in practice
 * Big data adoption <br>
-More information: [https://icdlasia.org/insights/big-data/](https://icdlasia.org/insights/big-data/)
+More information: [https://icdl.org/professional/big-data](https://icdl.org/professional/big-data)
 
 ##### Insights Cloud Computing #####
 * What is cloud computing
@@ -94,7 +94,7 @@ More information: [https://icdlasia.org/insights/big-data/](https://icdlasia.org
 * Software as a service
 * Serverless, functions as a service
 * Deployment and adoption <br>
-More information: [https://icdlasia.org/insights/cloud-computing/](https://icdlasia.org/insights/cloud-computing/)
+More information: [https://icdl.org/professional/cloud-computing/](https://icdl.org/professional/cloud-computing/)
 <br>
 * as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS) and Function as a Service (FaaS).
 

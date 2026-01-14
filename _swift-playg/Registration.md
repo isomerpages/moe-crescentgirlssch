@@ -2,7 +2,6 @@
 title: Registration
 permalink: /cradle/Swift-Explorers-Singapore/registration/
 description: ""
-third_nav_title: Swift Explorers Singapore
 variant: tiptap
 ---
 <p>Swift Explorers Singapore (SES) was conceptualised to support Student-Initiated
