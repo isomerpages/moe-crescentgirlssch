@@ -2,4 +2,5 @@ collections:
   swift-playg:
     output: true
     order:
+      - Registration.md
       - About Swift Explorers Singapore (SES).md
