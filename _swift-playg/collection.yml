@@ -1,4 +1,5 @@
 collections:
   swift-playg:
     output: true
-    order: []
+    order:
+      - About Swift Explorers Singapore (SES).md
