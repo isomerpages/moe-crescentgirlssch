@@ -23,15 +23,15 @@ on sexuality issues.
 </p>
 </li>
 <li>
-<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:
-<br>(a) To help students make wise, responsible and informed decisions through
+<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:</p>
+<p>(a) To help students make wise, responsible and informed decisions through
 the provision of accurate, current and age-appropriate knowledge on human
-sexuality andtheconsequencesofsexualactivity;
+sexuality and the consequences of sexualactivity;
 <br>(b) To help students know themselves and build healthy and rewarding relationships
 through the acquisition of social and emotional skills of self-awareness,
 management of their thoughts, feelings and behaviours, development of empathy
 for others, possession of effective communication, problem-solving and
-decision-making skills:, and
+decision-making skills, and
 <br>(c) To help students develop a moral compass, respect for themselves and
 for others as sexual beings, premised on the family as the basic unit of
 society, through the inculcation of positive mainstream values and attitudes
@@ -743,7 +743,7 @@ desired outcome of the eTeens programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<p><strong>At Crescent Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Crescent Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -765,7 +765,7 @@ to make wise, informed and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass lesson by HPB</p>
+<p>eTeens mass talk</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Awareness of the different STIs and HIV/AIDS
