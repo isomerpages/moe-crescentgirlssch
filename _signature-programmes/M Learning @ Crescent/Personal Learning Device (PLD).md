@@ -26,11 +26,11 @@ The school has made arrangements for you to purchase the PLD from AsiaPac Distri
 
 <br clear="left">
 
-10.9-inch iPad 10th Gen Wifi 256GB – Silver, with 3-year warranty and insurance
+10.9-inch iPad 10th Gen Wifi 256GB – Silver, with 4-year warranty and insurance (for puchase made in 2026)
 
-Apple Pencil (1st Gen) with 3-year warranty
+Apple Pencil (1st Gen) with 4-year warranty (for puchase made in 2026)
 
-Logitech Rugged Combo 4 – protective keyboard case with 3-year warranty
+Logitech Rugged Combo 4 – protective keyboard case with 4-year warranty (for puchase made in 2026)
 
 
 
@@ -53,7 +53,7 @@ Logitech Rugged Combo 4 – protective keyboard case with 3-year warranty
 |  |  |
 |---|---|
 | Duration of insurance Coverage | No. of Repair/ Replacement Allowed |
-| 3 years | 2 Repairs / 1 Replacement |
+| 4 years (for puchase made in 2026) | 2 Repairs / 1 Replacement | 
 |
 
 The company’s liability on the insured equipment under this policy will cease at the earliest of one of the following events:
@@ -99,10 +99,9 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 
 | No. | Service Centre Location | Service Centre Number | Service Centre Email | Service Centre Operating Hours |
 |:---:|---|---|---|---|
-| 1. | QCD Technology @ Westgate<br><br>(450m from Jurong East Mrt) | 65151 2010 | [support_westgate@qcd-tech.com](mailto:support_westgate@qcd-tech.com) | Mon – Fri:<br>1000 – 1800 |
-| 2. | Apple Retail Store @ Jewel Changi Airport<br><br>(220m from Changi Airport MRT) | 1800 407 4948 | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Thu:<br>1100 – 2100<br>Fri – Sun:<br>1100 – 2200 |
-| 3.  |  Apple Retail Store @ Orchard Road<br><br>(400m from Orchard MRT) | 1800 699 2824  | [https://getsupport.apple.com](https://getsupport.apple.com)  | Mon – Sun:<br>1000 – 2200  |
-| 4. |  Apple Retail Store @ Marina Bay Sands<br><br>(220m from Bayfront MRT) | 1800 407 4949  | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Sun:<br>1100 – 2200 |
+| 1. | Apple Retail Store @ Jewel Changi Airport<br><br>(220m from Changi Airport MRT) | 1800 407 4948 | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Thu:<br>1100 – 2100<br>Fri – Sun:<br>1100 – 2200 |
+| 2.  |  Apple Retail Store @ Orchard Road<br><br>(400m from Orchard MRT) | 1800 699 2824  | [https://getsupport.apple.com](https://getsupport.apple.com)  | Mon – Sun:<br>1000 – 2200  |
+|3. |  Apple Retail Store @ Marina Bay Sands<br><br>(220m from Bayfront MRT) | 1800 407 4949  | [https://getsupport.apple.com](https://getsupport.apple.com) | Mon – Sun:<br>1100 – 2200 |
 |
 
 The table below shows other iPad models that are compatible with MOE DMA.
