@@ -823,9 +823,8 @@ the start of the year in Parents Gatewey (<strong><a href="/files/Sexuality Educ
 The completed form is to be submitted by 6/2/2026.</p>
 </li>
 <li>
-<p>Parents can contact the school at Ms Wan Azrina, at 6708 7920 / <a rel="noopener noreferrer nofollow" target="_blank">Wan_Azrina@crescent.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.
+<p>Parents can contact the school at Ms Wan Azrina, at 6708 7920 / <a rel="noopener noreferrer nofollow" target="_blank">Wan_Azrina@crescent.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.
 <br>
 </p>
 </li>
