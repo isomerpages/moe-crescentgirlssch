@@ -602,7 +602,7 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -698,7 +698,7 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Understand that we strengthen our character when we commit to sound
+<p>-- Understand that we strengthen our character when we commit to sound
 values-based viewpoints (e.g. respect for life) and decisions and speak
 and act in alignment with our beliefs.</p>
 </td>
@@ -728,7 +728,7 @@ and act in alignment with our beliefs.</p>
 <h4><strong>eTeens Programme:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
+<p>eeTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, for Secondary 3 students to provide them
 with accurate information on STIs, HIV and protection from a health perspective.
 eTeens is conducted in two segments – a mass lesson segment and a classroom-based
@@ -811,9 +811,9 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the&nbsp;Sexuality Education
-lessons&nbsp;need to complete an opt-out form. This form will be distributed
-to parents at the start of the year in Parent Gateway (<strong><a href="/files/Sexuality Education/SEd_letter_to_parents_2026Sec_124.pdf" rel="noopener nofollow" target="_blank">here</a></strong>).
+<p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
+to complete an opt-out form. This form will be distributed to parents at
+the start of the year in Parent Gateway (<strong><a href="/files/Sexuality Education/SEd_letter_to_parents_2026Sec_124.pdf" rel="noopener nofollow" target="_blank">here</a></strong>).
 The completed form is to be submitted by 6/2/2026.</p>
 </li>
 <li>
@@ -852,9 +852,7 @@ the correct and consistent use of condoms to prevent disease;
 <br>d) Skills for decision-making, assertiveness, negotiation to say “no”
 to peer pressure to have pre-marital sex; and
 <br>e) Consequences and impact of STIs/HIV.</p>
-<p>
-<br>
-</p>
+<p></p>
 </li>
 <li>
 <p>The programme includes a 1-hour mass lesson and a 1-hour classroom-based
@@ -868,7 +866,6 @@ skills of responsible decision-making, negotiation and assertiveness, based
 on the values which students have been brought up with, in the family and
 the community. The training for teachers who conduct the classroom-based
 lesson is provided by MOE.
-<br>
 <br>
 </p>
 </li>
