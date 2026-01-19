@@ -23,34 +23,34 @@ on sexuality issues.
 </p>
 </li>
 <li>
-<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:</p>
-<p>(a) To help students make wise, responsible and informed decisions through
+<p>The&nbsp;Goals&nbsp;of Sexuality Education are to:
+<br>(a) To help students make wise, responsible and informed decisions through
 the provision of accurate, current and age-appropriate knowledge on human
-sexuality and the consequences of sexualactivity;
+sexuality and the consequences of sexual activity;
 <br>(b) To help students know themselves and build healthy and rewarding relationships
 through the acquisition of social and emotional skills of self-awareness,
 management of their thoughts, feelings and behaviours, development of empathy
 for others, possession of effective communication, problem-solving and
-decision-making skills, and
+decision-making skills; and
 <br>(c) To help students develop a moral compass, respect for themselves and
 for others as sexual beings, premised on the family as the basic unit of
 society, through the inculcation of positive mainstream values and attitudes
 about sexuality.
 <br>
 <br>
+<br>
 </p>
 </li>
 <li>
-<p>The&nbsp;<strong>key messages</strong>&nbsp;of Sexuality Education are:
-<br><strong>(a)</strong>&nbsp;Love and respect yourself as you love and respect
-others;
-<br><strong>(b)</strong>&nbsp;Build positive relationships based on love and
-respect (which are the foundation for strong families);
-<br><strong>(c)</strong>&nbsp;Make responsible decisions for yourself, your
-family and society; and
-<br><strong>(d)</strong>&nbsp;Abstinence before marriage is the best protection
-against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
-you and your loved ones.
+<p>The&nbsp;key messages&nbsp;of Sexuality Education are:
+<br>(a)&nbsp;Love and respect yourself as you love and respect others;
+<br>(b)&nbsp;Build positive relationships based on love and respect (which
+are the foundation for strong families);
+<br>(c)&nbsp;Make responsible decisions for yourself, your family and society;
+and
+<br>(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.
 <br>
 </p>
 </li>
@@ -63,7 +63,7 @@ more information on MOE Sexuality Education.</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;&nbsp;
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
 <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.
 <br>
@@ -437,7 +437,7 @@ perception) on self-esteem, the impact of one’s self-esteem on our mental
 well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
-entering into a dating relationship</p>
+entering into a dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Know that self-perception and identity have an impact on our self-esteem
@@ -602,7 +602,7 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -698,7 +698,7 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Understand that we strengthen our character when we commit to sound
+<p>-- Understand that we strengthen our character when we commit to sound
 values-based viewpoints (e.g. respect for life) and decisions and speak
 and act in alignment with our beliefs.</p>
 </td>
@@ -728,7 +728,7 @@ and act in alignment with our beliefs.</p>
 <h4><strong>eTeens Programme:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
+<p>eeTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, for Secondary 3 students to provide them
 with accurate information on STIs, HIV and protection from a health perspective.
 eTeens is conducted in two segments – a mass lesson segment and a classroom-based
@@ -770,8 +770,7 @@ to make wise, informed and sensible decisions.</p>
 <td rowspan="1" colspan="1">
 <p>- Awareness of the different STIs and HIV/AIDS
 <br>- Modes of transmission
-<br>- Modes of protection, specifically on how the &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp; condom is used
+<br>- Modes of protection, specifically on how the condom is used
 <br>- Consequences and impact of STIs/HIV</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -829,7 +828,7 @@ or to seek clarification about the school’s Sexuality Education programme.
 </p>
 </li>
 </ol>
-<h3>Empowered Teens (eTeens)</h3>
+<h4><strong>Empowered Teens (eTeens)</strong></h4>
 <h5>STI (Sexually Transmitted Infection) /HIV (Human Immunodeficiency Virus) Prevention Programme</h5>
 <ol>
 <li>
@@ -838,7 +837,7 @@ or to seek clarification about the school’s Sexuality Education programme.
 Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV.
 The programme provides information on transmission and prevention of STIs/HIV
 and helps guide students to make good life choices to avoid risky sexual
-behaviors.
+behaviors
 <br>
 <br>
 </p>
@@ -851,10 +850,8 @@ behaviors.
 the correct and consistent use of condoms to prevent disease;
 <br>d) Skills for decision-making, assertiveness, negotiation to say “no”
 to peer pressure to have pre-marital sex; and
-<br>e) Consequences and impact of STIs/HIV.
-<br>
-<br>
-</p>
+<br>e) Consequences and impact of STIs/HIV.</p>
+<p></p>
 </li>
 <li>
 <p>The programme includes a 1-hour mass lesson and a 1-hour classroom-based
@@ -868,7 +865,6 @@ skills of responsible decision-making, negotiation and assertiveness, based
 on the values which students have been brought up with, in the family and
 the community. The training for teachers who conduct the classroom-based
 lesson is provided by MOE.
-<br>
 <br>
 </p>
 </li>
