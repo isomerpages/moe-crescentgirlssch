@@ -770,8 +770,7 @@ to make wise, informed and sensible decisions.</p>
 <td rowspan="1" colspan="1">
 <p>- Awareness of the different STIs and HIV/AIDS
 <br>- Modes of transmission
-<br>- Modes of protection, specifically on how the &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp; condom is used
+<br>- Modes of protection, specifically on how the condom is used
 <br>- Consequences and impact of STIs/HIV</p>
 </td>
 <td rowspan="1" colspan="1">
