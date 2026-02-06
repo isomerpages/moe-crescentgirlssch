@@ -61,7 +61,7 @@ and after-school hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.30pm - 6.05am (Next Day)</p>
+<p>10.30pm - 6.30am (Next Day)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Sleep Hours</p>
@@ -76,7 +76,7 @@ Hence, student's iPad <u>will not be</u> deactivated.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.05am - 3pm</p>
+<p>6.30am - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hours</p>
