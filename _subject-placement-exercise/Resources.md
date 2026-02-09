@@ -50,7 +50,7 @@ courses based on aggregate type, score, type of institute and area of interest)<
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">Refreshed Guidelines for School-Home Partnership</a>
+<p><a href="https://www.moe.gov.sg/api/media/301e9db7-c0c1-465a-a930-98524a955a17/annex-a-refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">Refreshed Guidelines for School-Home Partnership</a>
 </p>
 </li>
 <li>
