@@ -15,5 +15,5 @@ all resources is cleared before submission.</p>
 <p>Registrations are open until the <strong>14 March 2025</strong>.</p>
 <p>More information: <a href="https://swiftexplorers.sg/" rel="noopener noreferrer nofollow" target="_blank">Swift Explorers Singapore</a>
 </p>
-<h4><strong>Register now at: <a href="https://for.edu.sg/ses-registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration</a></strong></h4>
+<h4><strong>Register now at:</strong></h4>
 <p></p>
