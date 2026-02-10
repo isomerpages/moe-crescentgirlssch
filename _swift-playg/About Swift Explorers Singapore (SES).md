@@ -148,8 +148,7 @@ Girls' School. At this event, you will:</p>
 </table>
 <p>Registration is open from <strong>17 February 2025</strong>
 </p>
-<p>Registration now at : <strong><a href="https://for.edu.sg/ses-registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ses-registration</a></strong>
-</p>
+<p>Registration now at :</p>
 <p></p>
 <hr>
 <h4><strong>About Tinkercademy</strong></h4>

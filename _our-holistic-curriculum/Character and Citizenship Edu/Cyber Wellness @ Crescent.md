@@ -35,6 +35,6 @@ Cyber Wellness with their peers, family and public.</p>
 <img style="width:85%" height="auto" width="100%" src="/images/cyberwellness4.png">
 </div>
 <p>A Three-tiered Approach to Cyber Wellness programme for students</p>
-<p>Parents may refer to&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellnesss" rel="noopener noreferrer nofollow" target="_blank">MOE Cyberwellness</a> for
+<p>Parents may refer to&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyberwellness</a> for
 a list of guides and tips, resources and useful links to reinforce Cyber
 Wellness education at home.</p>
