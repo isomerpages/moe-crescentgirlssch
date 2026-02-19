@@ -2,4 +2,5 @@ collections:
   "2026":
     output: true
     order:
+      - January/Sec 1 Orientation Campfire.md
       - January/.keep
