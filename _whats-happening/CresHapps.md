@@ -7,7 +7,9 @@ variant: markdown
 ### **#CresHapps**
 
  #### **2026**
+ 
  Click **[here](https://www.crescent.edu.sg/whats-happening/2026/january/sec-1-orientation-campfire-2026/)** to find out more
+ 
 
 #### **2025**
 
