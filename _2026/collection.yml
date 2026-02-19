@@ -2,5 +2,6 @@ collections:
   "2026":
     output: true
     order:
+      - January/Dedication Ceremony 2026.md
       - January/Sec 1 Orientation Campfire.md
       - January/.keep
