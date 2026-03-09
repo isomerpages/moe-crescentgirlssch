@@ -325,7 +325,7 @@ third_nav_title: Departments
 <p>3C2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Chee Wei</p>
+<p>Mr Chew Chee Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kalyani Kuppusamy</p>
