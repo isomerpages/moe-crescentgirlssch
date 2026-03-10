@@ -2,6 +2,7 @@ collections:
   "2026":
     output: true
     order:
+      - February/Chinese New Year Celebration 2026.md
       - February/Total Defence Day 2026.md
       - February/.keep
       - January/.keep
