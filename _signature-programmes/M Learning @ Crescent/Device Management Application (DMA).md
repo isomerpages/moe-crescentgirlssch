@@ -113,7 +113,7 @@ process as well as the features that are available in the option that you
 have chosen.</p>
 <p><a href="/files/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">User Guide for Default Option</a>
 </p>
-<p><a href="/files/IE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">User guide for Option A</a>
+<p><a href="/files/ M Learning/iPad_DMA_Parent_Guide_for_Option_A_v1_1.pdf" rel="noopener nofollow" target="_blank">User guidde for Option A</a>
 </p>
 <p><a href="/files/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">User guide for Option B</a>
 </p>
