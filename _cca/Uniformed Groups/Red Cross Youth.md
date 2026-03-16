@@ -76,15 +76,12 @@ of urgency.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Rais Ismail</p>
-</li>
-<li>
 <p>Ms Tai Wai Peng</p>
 </li>
 </ul>
 <hr>
 <h3><strong>PHOTOS</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAlhCUmEJitUWBIKUkTAh5Mfov-NJ3dZMsvOJBs2yTRIm-if2zZnSL52rrJOMTZisw49dlivsFxTXZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAlhCUmEJitUWBIKUkTAh5Mfov-NJ3dZMsvOJBs2yTRIm-if2zZnSL52rrJOMTZisw49dlivsFxTXZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

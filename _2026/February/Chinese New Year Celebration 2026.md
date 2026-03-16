@@ -28,7 +28,7 @@ the crowd with its powerful drumming and skilful movements, while a vibrant
 dragon dance added to the excitement. The atmosphere was electric, and
 the celebration was truly a memorable success for all.</p>
 <p></p>
-<p><em>Written by Genevieve Lai Jin Fei (1G4)</em>
+<p><em>Written by Genevieve Lai Jin Fei (1G3)</em>
 </p>
 <hr>
 <h3>Photo</h3>
