@@ -66,7 +66,7 @@ stakeholders:</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/NSG_3_segment.png">
 </div>
 <p></p>
-<p>Resources shared during the briefing and launch for NSM 2025: <strong><a href="https://for.edu.sg/nsm2025-briefing-launch-padlet" rel="noopener noreferrer nofollow" target="_blank">Resources for NSM 2025</a></strong>
+<p>Resources shared during the briefing and launch for NSM 2026: <strong><a href="https://padlet.com/crescentgirls/nsm-briefing-2026-qqlkt9yz25lwp2ao" rel="noopener nofollow" target="_blank">Resources for NSM 2026</a></strong>
 </p>
 <p></p>
 <p>For more information, please send your queries via email to <strong><a rel="noopener noreferrer nofollow" target="_blank">nsm@crescent.edu.sg</a></strong>.</p>
