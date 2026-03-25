@@ -86,7 +86,6 @@ Awards.&nbsp;</p>
 <p></p>
 <p></p>
 <hr>
-<p></p>
 <h3><strong>Experiential Module</strong></h3>
 <p>Participating schools can nominate up to 40 students to take part in a
 experiential learning journey where they will be experiencing the latest
