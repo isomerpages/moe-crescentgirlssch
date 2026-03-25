@@ -17,13 +17,13 @@ Crescent Girls’ School and Terra SG.</p>
 <p></p>
 <p>Through its ‘<strong>By Youths, For All</strong>’ student-centric approach,
 SAC empowers each student team to achieve the following objectives:&nbsp;</p>
-<p>a) <strong>[Environmental Education] </strong>To educate youth regarding
-environmental sustainability and conservation issues.</p>
-<p>b) <strong>[Environmental Stewardship]</strong> To nurture youths to be
-eco-stewards who are inspired to take action in promoting a culture of
-sustainable living and actively practise green citizenry that contributes
+<p>a)&nbsp;<strong>[Environmental Education]&nbsp;</strong>To educate youth
+regarding environmental sustainability and conservation issues.</p>
+<p>b)&nbsp;<strong>[Environmental Stewardship]</strong>&nbsp;To nurture youths
+to be eco-stewards who are inspired to take action in promoting a culture
+of sustainable living and actively practise green citizenry that contributes
 to a sustainable Singapore.&nbsp;</p>
-<p>For SAC 2025, there will be two available tracks for which schools can
+<p>For SAC 2026, there will be two available tracks for which schools can
 sign up:</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -35,11 +35,10 @@ sign up:</p>
 <p>Participating schools can nominate a team of 3 to 5 students from Primary
 4 upwards to collaborate and act as Green Champions to pilot sustainability
 efforts in schools and execute their planned outreach activities. Students
-in participating teams are strongly encouraged to be <strong>creators</strong>, <strong>connectors</strong> and <strong>contributors</strong> and
+in participating teams are strongly encouraged to be&nbsp;<strong>creators</strong>,&nbsp;<strong>connectors</strong>&nbsp;and&nbsp;<strong>contributors</strong>&nbsp;and
 spearhead their own sustainability initiative(s). The Green Champions can
 come up with their own authentic, interesting and engaging activities to
 reach out to as many members of the community as possible.</p>
-<p></p>
 <p>There are 3 phases of movement in the SAC Advocacy Module.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Learn__create_and_advocate.png">
@@ -75,38 +74,31 @@ at the end of SAC to recognise the achievements of every team. Participation
 in the SAC may also be considered as part of the school’s contribution
 to efforts in environmental conservation when applying for the School Green
 Awards.&nbsp;</p>
+<p></p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/national_sustainability_movement_advocacy_module_keydates_for_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC_Timeline_and_keydates_2026.jpg">
 </div>
-<p></p>
-<p>Schools interested in participating can register their interest here <strong>by 3 March 2025</strong>: <strong><a href="https://for.edu.sg/sac2025-advocacy-interest-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/sac2025-advocacy-interest-registration</a></strong>
+<p>Schools interested in participating can register their interest here&nbsp;<strong>by 8 April 2026</strong>:</p>
+<p>Advocacy Module sign up link: <strong><a href="https://for.edu.sg/i0x0ls" rel="noopener nofollow" target="_blank">https://for.edu.sg/i0x0ls</a></strong>
 </p>
 <p></p>
 <p></p>
 <hr>
 <p></p>
-<h3><strong>Enrichment Module</strong></h3>
-<p>The SAC Enrichment Module comprises a one-hour, multi-modal lesson package
-that will be uploaded on Student Learning Space (SLS) and made available
-to participating schools for schools’ use.</p>
-<p>Schools have the choice to decide when to carry out the lesson package
-with their students before the submission deadline. Schools have the autonomy
-to choose the students to participate in the Enrichment Module. It could
-be a selected student group, a CCA, a class or class(es), a level or the
-entire school.</p>
-<p>All participants will receive an e-Certificate through their respective
-schools upon verification of evidence submitted by 3 November 2025.</p>
-<p></p>
-<p><strong><u>Timeline and Summary of Key Dates</u></strong>
+<h3><strong>Experiential Module</strong></h3>
+<p>Participating schools can nominate up to 40 students to take part in a
+experiential learning journey where they will be experiencing the latest
+sustainability knowledge learning in the area of carbon literacy, eco stewardship,
+green futures and also sustainability outreach.</p>
+<p>Participants will be exposed to a specially designed experiential module
+to level up their understanding of sustainability and raises their awareness
+&amp; key content to facilitate their advocacy module development.</p>
+<p>Schools interested in participating can register their interest here.</p>
+<p>Experiential Module sign up link: <strong><a href="https://for.edu.sg/ty0j5q" rel="noopener nofollow" target="_blank">https://for.edu.sg/ty0j5q</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/National_Sustainability_Movement__Enrichment_Module____Key_Dates_for_2025.png">
-</div>
 <p></p>
-<p>Schools interested in participating can register their interest here <strong>by 3 March 2025</strong>: <strong><a href="https://for.edu.sg/sac2025-enrichment-registration" rel="noopener nofollow" target="_blank">https://for.edu.sg/sac2025-enrichment-registration</a></strong>
-</p>
 <hr>
 <p></p>
 <p></p>
