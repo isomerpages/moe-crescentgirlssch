@@ -27,9 +27,8 @@ to a sustainable Singapore.&nbsp;</p>
 sign up:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cradle/NSM/Advocacy_module_and_Enrichment_Module.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/SAC___Experiential_Module_New___Advocacy_module_.jpg">
 </div>
-<p></p>
 <hr>
 <p></p>
 <h3><strong>Advocacy Module</strong></h3>
@@ -49,33 +48,33 @@ reach out to as many members of the community as possible.</p>
 <p><strong><u>Phase 1: Learn</u></strong>
 </p>
 <p>All members of participating teams are strongly encouraged to sign up
-for and to attend the <strong>SAC Symposium</strong> that will take place
-from <strong>1.30pm to 4.30pm</strong> on <strong>10 March 2025</strong> in
-Crescent Girls’ School. The Symposium comprises a keynote address and a
-training bootcamp, allowing participants to be equipped with the necessary
-knowledge and skills to design their community outreach project.</p>
+for and to attend the <strong>SAC Symposium</strong> that will take place
+from <strong>2.30pm to 5.30pm</strong> on <strong>17 April 2026</strong> at
+one of the Learn@Experiential Hub, The Carbon Gallery, 3A Pasir Ris Drive
+6, #01-31, Vidacity Singapore 519422. The half-day symposium will equip
+participants with requisite knowledge and skills to design their community
+outreach project or sustainability initiative.</p>
 <p></p>
 <p><strong><u>Phase 2: Create</u></strong>
 </p>
-<p>Teams will then collaborate to design their own authentic, interesting
-and engaging activities/initiatives to promote sustainable living and in
-doing so, they are able to reach out to as many members of the community
-(school / neighbourhood etc.) Teams are strongly encouraged to attend an <strong>online Presentation-cum-Consultation session </strong>at
-a later date in late Term 2 to showcase their advocacy plans to an expert
-panel for feedback. Participation in this consultation session is option.</p>
+<p>Teams will then collaborate to design their own <strong>authentic</strong>, <strong>interesting</strong> and <strong>engaging</strong> activities/initiatives
+to <strong>promote sustainable living</strong> and in doing so, they are
+able to reach out to as <strong>many members of the community</strong> (school
+/ neighbourhood etc.) Teams are strongly encouraged to attend an <strong>online Presentation-cum-Consultation session (25 – 26 March and 2 – 3 June 2026)</strong> to
+showcase their advocacy plans to an expert panel for feedback. Participation
+in this consultation session is option.</p>
 <p></p>
 <p><strong><u>Phase 3: Advocate</u></strong>
 </p>
 <p>Teams will then execute their advocacy plans/sustainability initiatives
-anytime from 15 March to 14 September 2025. Teams will need to submit a <strong>Final Report </strong>that
+anytime from 26 March to 13 September 2026. Teams will need to submit a <strong>Final Report </strong>that
 documents their advocacy plans /sustainability initiatives (planning stage
-to implementation stage, reflections etc).</p>
-<p>&nbsp;Three categories of awards (Gold, Silver and Bronze) will be presented
+to implementation stage, reflections etc).&nbsp;</p>
+<p>Three categories of awards (Gold, Silver and Bronze) will be presented
 at the end of SAC to recognise the achievements of every team. Participation
 in the SAC may also be considered as part of the school’s contribution
 to efforts in environmental conservation when applying for the School Green
-Awards.</p>
-<p></p>
+Awards.&nbsp;</p>
 <p><strong><u>Timeline and Summary of Key Dates</u></strong>
 </p>
 <div class="isomer-image-wrapper">
