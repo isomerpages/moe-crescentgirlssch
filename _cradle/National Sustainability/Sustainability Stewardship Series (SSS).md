@@ -101,4 +101,11 @@ have the option to choose between People Development or Space Development.
 Schools have to appoint a liaison Person of Contact (e.g. SSD / VP / KP
 / OM etc) to coordinate the discussion and/or implement the project.</p>
 <p></p>
-<p></p>
+<h4><strong>Registration of Interest</strong></h4>
+<p>Through the year of 2026, schools can indicate their interest in participating
+in SSS at <strong><a href="https://for.edu.sg/ufnelg" rel="noopener nofollow" target="_blank">https://for.edu.sg/ufnelg</a></strong>.
+Applicants will be contacted by the Organising Committee for a discussion
+on the confirmation of the programme.</p>
+<p>
+<br>
+</p>
