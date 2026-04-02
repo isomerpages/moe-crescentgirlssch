@@ -1,4 +1,5 @@
 collections:
   cg70:
     output: true
-    order: []
+    order:
+      - CG70 Celebrations.md
