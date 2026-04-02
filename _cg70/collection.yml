@@ -2,4 +2,5 @@ collections:
   cg70:
     output: true
     order:
+      - CG70 Gala Dinner.md
       - CG70 Celebrations.md
