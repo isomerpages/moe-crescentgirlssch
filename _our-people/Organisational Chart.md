@@ -186,7 +186,7 @@ variant: tiptap
 <p>Mr Kelwin Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Geography</p>
+<p>SH / Humanities</p>
 </td>
 </tr>
 <tr>
