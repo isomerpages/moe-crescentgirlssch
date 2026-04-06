@@ -19,7 +19,7 @@ variant: tiptap
 <p>Ms Low Geok Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Creative Arts</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
