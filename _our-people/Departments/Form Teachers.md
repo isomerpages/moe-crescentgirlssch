@@ -137,7 +137,7 @@ third_nav_title: Departments
 <p>Mdm Norzaidah Bte Suparman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Quek Kooi Lian</p>
+<p>Ms Lynn Yang (Co-PC)</p>
 </td>
 </tr>
 </tbody>
@@ -249,7 +249,7 @@ third_nav_title: Departments
 <p>Ms Norazlin Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Geok Pin (Co-PC)</p>
+<p>Ms Low Geok Pin</p>
 </td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ third_nav_title: Departments
 <p>Ms Poh Zhaoxin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jerene Sim (Co-PC)</p>
 </td>
 </tr>
 <tr>

@@ -1,0 +1,6 @@
+collections:
+  cg70:
+    output: true
+    order:
+      - CG70 Logo.md
+      - CG70 Gala Dinner.md

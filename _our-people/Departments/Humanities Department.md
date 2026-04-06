@@ -35,7 +35,7 @@ variant: tiptap
 <p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 1&amp;4</p>
+<p>Year Head / Lower Sec</p>
 </td>
 </tr>
 <tr>
@@ -43,15 +43,7 @@ variant: tiptap
 <p>Ms Nur Rafiqqa Bte Mustapha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Caroline Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Assistant Year Head / Sec 1</p>
 </td>
 </tr>
 <tr>
