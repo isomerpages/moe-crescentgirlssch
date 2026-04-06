@@ -26,7 +26,7 @@ variant: tiptap
 <p>Mr Kingsley Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Sec 3</p>
+<p>Assistant Year Head / Sec 4</p>
 </td>
 </tr>
 <tr>
