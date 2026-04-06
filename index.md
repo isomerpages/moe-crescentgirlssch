@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Background/Hero_1st.gif
       key_highlights:
+        - title: CG70
+          description: ""
+          url: /cg70-celebrations/
         - title: Announcement
           description: ""
           url: /announcement/
