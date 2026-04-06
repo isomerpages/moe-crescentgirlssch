@@ -87,14 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Low Geok Pin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Creative Arts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Christina Low</p>
 </td>
 <td rowspan="1" colspan="1">
