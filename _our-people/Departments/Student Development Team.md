@@ -41,7 +41,7 @@ third_nav_title: Departments
 <p>Mr Tay Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 1&amp;4</p>
+<p>Year Head / Lower Sec</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ third_nav_title: Departments
 <p>Ms Estee Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec 2&amp;3</p>
+<p>Year Head / Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ third_nav_title: Departments
 <p>Mr Kingsley Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Sec 3</p>
+<p>Assistant Year Head / Sec 4</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ third_nav_title: Departments
 <p>Ms Nur Rafiqqa Bte Mustapha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Sec 4 (covering)</p>
+<p>Assistant Year Head / Sec 1</p>
 </td>
 </tr>
 <tr>
