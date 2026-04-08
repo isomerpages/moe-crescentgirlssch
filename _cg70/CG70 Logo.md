@@ -4,9 +4,8 @@ permalink: /cg70-celebrations/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CG70 Logo" src="/images/CG70_Logo_V7_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CG70_Logo__Black_text_resize_.png">
 </div>
 <p>Honouring our past, inspiring our future.
 <br>Crescent is 70! Countless stories. One community.</p>
@@ -18,6 +17,6 @@ celebrations throughout the year. Stay with us as we celebrate our #CG70
 journey together!</p>
 <p></p>
 <p><strong>Follow us on our socials:</strong>
-<br>Instagram: <a href="https://www.instagram.com/crescentgirlsschool" rel="noopener nofollow" target="_blank">@crescentgirlsschool</a>
-<br>Facebook: <a href="https://www.facebook.com/crescentgirlsschool" rel="noopener nofollow" target="_blank">Crescent Girls' School Official Facebook Page</a>
+<br>Instagram: <strong><a href="https://www.instagram.com/crescentgirlsschool" rel="noopener nofollow" target="_blank">@crescentgirlsschool</a></strong>
+<br>Facebook: <strong><a href="https://www.facebook.com/crescentgirlsschool" rel="noopener nofollow" target="_blank">Crescent Girls' School Official Facebook Page</a></strong>
 </p>
