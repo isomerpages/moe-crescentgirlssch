@@ -7,7 +7,7 @@ description: ""
 <h4>Subject Placement Info Booklet</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Subject_Placement_Info_Booklet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Placement Info Booklet</a>
+<p><a href="/files/2026_S2_Parents_Seminar___Subject_Placement_Info_Booklet.pdf" rel="noopener nofollow" target="_blank">Subject Placement Info Booklet</a>
 </p>
 </li>
 </ul>
@@ -17,15 +17,15 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg" rel="noopener nofollow" target="_blank">Subject Syllabuses and Examination Format</a><strong> </strong>(2027
-syllabus are currently unavailable)</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/interactive.html" rel="noopener nofollow" target="_blank">My Full SBB Path</a>
+<p><a href="https://www.seab.gov.sg/secondary-education-certificate-sec/syllabus-for-school-candidates/" rel="noopener nofollow" target="_blank">Subject Syllabuses and Examination Format</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">Full Subject Based Banding Resources</a>
+<p><a href="Full Subject-Based Banding FAQ" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq" rel="noopener nofollow" target="_blank">Full Subject-Based Banding FAQ</a>
 </p>
 </li>
 <li>
@@ -33,7 +33,7 @@ syllabus are currently unavailable)</p>
 of March 2025)</p>
 </li>
 <li>
-<p><em>new</em>  <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/changes-from-2028" rel="noopener nofollow" target="_blank">Changes to JC and MI admission criteria from 2028 JAE</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae/changes-from-2028" rel="noopener nofollow" target="_blank">Changes to JC and MI admission criteria from 2028 JAE</a>
 </p>
 </li>
 <li>
