@@ -21,10 +21,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="Full Subject-Based Banding FAQ" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq" rel="noopener nofollow" target="_blank">Full Subject-Based Banding FAQ</a>
 </p>
 </li>
