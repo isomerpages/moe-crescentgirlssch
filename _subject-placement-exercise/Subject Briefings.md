@@ -14,43 +14,25 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><u>Click on the links to access the briefing slides (updated on 28 May)</u>
+<p><u>Click on the links to access the briefing slides (updated on 10 April 2026)</u>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Subject_Briefing_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+<p><a href="/files/2026_Sec_2_Parents_Seminar___Science.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Subject_Briefing_Humanities.pdf" rel="noopener nofollow" target="_blank">Humanities (Geography; History; Literature in English)</a>
+<p><a href="/files/2026_Sec_2_Parents_Seminar___Humanities.pdf" rel="noopener nofollow" target="_blank">Humanities (Geography; History; Literature in English)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Subject_Briefing_Additional_Mathematics.pdf" rel="noopener nofollow" target="_blank">Additional Mathematics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Subject_Briefing_Art_and_NFS.pdf" rel="noopener nofollow" target="_blank">Coursework (Art; Nutrition &amp; Food Science)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/G3_Music_6085.pdf" rel="noopener nofollow" target="_blank">G3 Music 6085</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Additional_information_on_G3_Computing.pdf" rel="noopener nofollow" target="_blank">G3 Computing (further details on Parents' Gateway)</a>
+<p><a href="/files/2026_Sec_2_Parents_Seminar___G3_Coursework_Art_NFS_Music.pdf" rel="noopener nofollow" target="_blank">Coursework (Art; Nutrition &amp; Food Science; Music)</a>
 </p>
 </td>
 </tr>
