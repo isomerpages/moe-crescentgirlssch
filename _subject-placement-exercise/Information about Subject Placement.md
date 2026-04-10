@@ -18,19 +18,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Parents__Sem_Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+<p><a href="/files/2026_Sec_2_Parents_Seminar___Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Parents__Sem_Year_Headl_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Address</a>
+<p><a href="/files/2026_Sec_2_Parents_Seminar___Year_Head_Sharing.pdf" rel="noopener nofollow" target="_blank">Year Head's Sharing</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subject_Placement_Info_Booklet_2025.pdf" rel="noopener nofollow" target="_blank">Subject Placement Info Booklet</a>
+<p><a href="/files/2026_Sec_2_Parents_Seminar___ECGC_Sharing.pdf" rel="noopener nofollow" target="_blank">Education &amp; Career Guidance Counsellor Sharing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026_S2_Parents_Seminar___Subject_Placement_Info_Booklet.pdf" rel="noopener nofollow" target="_blank">Subject Placement Info Booklet</a>
 </p>
 </td>
 </tr>
