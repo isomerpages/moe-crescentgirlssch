@@ -10,7 +10,6 @@ is to bring out the best in each student, by giving them an opportunity
 to select a course that best fits their interests, strengths and potential.</p>
 <p></p>
 <h3><strong><u>Important Dates to note</u></strong></h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,16 +18,7 @@ to select a course that best fits their interests, strengths and potential.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Mar (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st</sup> Briefing to students on Post-Sec Pathways &amp; Updated
-JC Admissions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 May (Fri)</p>
+<p>10 April (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Placement Talk for parents &amp; students</p>
@@ -36,39 +26,41 @@ JC Admissions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jul (Mon)</p>
+<p>27 Jul (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2<sup>nd</sup> Briefing to students on Trial Option Exercise</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 Jul (Mon) to 1 Aug (Fri) 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trial Option Exercise on AllEars</p>
+<p>Briefing to students on Trial Option Exercise</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep (Fri) to 8 Oct (Wed)</p>
+<p>28 Jul (Mon) to
+<br>31 Jul (Fri) 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examinations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>*17 Oct (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Check results via AllEars</p>
+<p>Trial Option Exercise on AllEars portal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>*21 Oct (Tue)</p>
+<p>23 Sep (Wed) to
+<br>5 Oct (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End-of-Year Examinations &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>*14 Oct (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check results via AllEars portal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>*19 Oct (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Final Briefing to students on Option Exercise</p>
@@ -76,11 +68,12 @@ JC Admissions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>*21 Oct (Tue) to 24 Oct (Fri) 5pm</p>
+<p>*19 Oct (Mon) to
+<br>23 Oct (Fri) 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Option Exercise on AllEars (Based on Overall Results from Term 1 to Term
-4)</p>
+<p>Option Exercise on AllEars portal (Based on Overall Results from Term
+1 to Term 4)</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +86,8 @@ JC Admissions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>*10 Nov (Mon) 12pm to 12 Nov (Wed) 5pm</p>
+<p>*10 Nov (Mon) 12pm to
+<br>11 Nov (Tue) 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Appeal Form (if applicable)</p>
@@ -101,10 +95,10 @@ JC Admissions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>*17 Nov (Mon) 12pm</p>
+<p>*16 Nov (Mon) 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Release of outcome of appeal</p>
+<p>Release of outcome of appeal&nbsp;</p>
 </td>
 </tr>
 </tbody>
