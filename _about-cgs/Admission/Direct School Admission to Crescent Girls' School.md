@@ -14,7 +14,7 @@ are encouraged to choose schools wisely based on the student’s aptitudes
 and strengths, bearing in mind the schools’ academic and non-academic requirements,
 and the programmes available to develop the area of talent.</p>
 <hr>
-<h4><u>Criteria for DSA(Sec) Exercise 2025</u></h4>
+<h4><u>Criteria for DSA(Sec) Exercise 2026</u></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -273,7 +273,7 @@ and the programmes available to develop the area of talent.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates should exhibit good performance in the relevant
-selection test/audition/interview.</p>
+selection tests.</p>
 </li>
 <li>
 <p>Selection of students will also be based on the character and values displayed
@@ -290,7 +290,6 @@ will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
@@ -310,16 +309,7 @@ join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 <h4><u>Instructions for Application</u></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;There
-is no application fee.&nbsp;</p>
-</li>
-<li>
-<p><strong>Opens: Wed 7 May 2025, 11.00 am</strong>
-</p>
-</li>
-<li>
-<p><strong>Closes: Tue 3 Jun 2025, 3.00 pm</strong>
-</p>
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed 6 May 2026, 11am to Tue 2 Jun 2026, 4.30pm. For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
 <p></p>
 </li>
 <li>
@@ -334,14 +324,13 @@ enrolment.</p>
 </li>
 <li>
 <p><strong>Applicants from MOE mainstream primary schools: </strong>Parents
-may log in directly to <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
-Only one parent’s Singpass is required. Parents/legal guardians who are
-unable to apply online can approach their child’s/ward’s primary school
-for assistance.</p>
+may log in directly to DSA-Sec-Portal. Only one parent’s Singpass is required.
+Parents/legal guardians who are unable to apply online can approach their
+child’s/ward’s primary school for assistance.</p>
 </li>
 <li>
 <p><strong>Other applicants not studying in MOE mainstream primary schools</strong> will
-need to apply for a Registration Number (RGxxxxxxx) to access the <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
+need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec-Portal.
 Application can be done at MOE's website at: <strong><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></strong>
 </p>
 </li>
@@ -356,19 +345,14 @@ transfer to another school after the release of the PSLE results.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Only shortlisted applicants </strong>will be notified <u>by phone and email </u>regarding
-the date of the relevant selection test/audition/interview.</p>
+the date of the relevant selection tests.</p>
 </li>
 <li>
-<p>All selection tests/auditions/interviews will be conducted in-person at
-Crescent Girls' School.</p>
-</li>
-<li>
-<p>Selection tests will be held from <strong>Mon 21 Jul 2025 to Wed 13 Aug 2025</strong>.&nbsp;</p>
+<p>Selection tests will be held from <strong>Mon 20 Jul 2026 to Thu 6 Aug 2026.</strong>&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p>All applicants will be informed via email of the outcome of their application
-from <strong>Mon 25 Aug 2025 to Thu 4 Sep 2025</strong>.</p>
+<p>All applicants will be informed via email of the outcome of their application <strong>between Mon 17 Aug 2026 and Fri 28 Aug 2026</strong>.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -376,10 +360,14 @@ from <strong>Mon 25 Aug 2025 to Thu 4 Sep 2025</strong>.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The applicant will receive either one of the following:</p>
+<p>The applicant will receive one of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>An email letter of offer for successful applicants; or</p>
+<p>An email letter of offer for successful applicants;</p>
+</li>
+<li>
+<p>An email letter to inform that the applicant has been placed on the school's
+Wait List; or</p>
 </li>
 <li>
 <p>An email letter to inform that the application has been unsuccessful</p>
@@ -390,7 +378,7 @@ from <strong>Mon 25 Aug 2025 to Thu 4 Sep 2025</strong>.</p>
 </tbody>
 </table>
 <p>The school reserves the right not to release the reason for non-selection
-of an applicant or the results of the selection tests/auditions/interviews.&nbsp;</p>
+of an applicant or the results of the selection tests.</p>
 <hr>
 <h4>Important Dates</h4>
 <table style="minWidth: 50px">
@@ -409,33 +397,23 @@ of an applicant or the results of the selection tests/auditions/interviews.&nbsp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed 7 May 2025, 11.00 am to Tue 3 Jun 2025, 3.00 pm</p>
+<p>Wed 6 May 2026, 11am to Tue 2 Jun 2026, 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application via online DSA-Sec Portal</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">for Mainstream students</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">for non-Mainstream students</a>
-</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 21 Jul 2025 to Wed 13 Aug 2025</p>
+<p>Mon 20 Jul 2026 to Thu 6 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection test/audition/interview for shortlisted applicants</p>
+<p>Selection tests for shortlisted applicants</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 25 Aug 2025 to Thu 4 Sep 2025</p>
+<p>Mon 17 Aug 2026 to Fri 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of outcome of application via email</p>
@@ -445,5 +423,5 @@ of an applicant or the results of the selection tests/auditions/interviews.&nbsp
 </table>
 <p></p>
 <p>For further enquiries, you may contact the school at <strong>6475 8711</strong> or
-email <a href="mailto:cgs_dsa@crescent.edu.sg" rel="noopener nofollow" target="_blank">cgs_dsa@crescent.edu.sg</a>.&nbsp;</p>
+email crescentgirl@moe.edu.sg.</p>
 <p>&nbsp;</p>
