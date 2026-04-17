@@ -273,7 +273,7 @@ and the programmes available to develop the area of talent.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates should exhibit good performance in the relevant
-selection test.</p>
+selection tests.</p>
 </li>
 <li>
 <p>Selection of students will also be based on the character and values displayed
@@ -309,7 +309,7 @@ join a Music CCA (either Concert Band or Choir) throughout their 4 years.</p>
 <h4><u>Instructions for Application</u></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed 6 May 2026, 11am to Tue 2 Jun 2026, 4.30pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed 6 May 2026, 11am to Tue 2 Jun 2026, 4.30pm. For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
 <p></p>
 </li>
 <li>
@@ -324,14 +324,13 @@ enrolment.</p>
 </li>
 <li>
 <p><strong>Applicants from MOE mainstream primary schools: </strong>Parents
-may log in directly to <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
-Only one parent’s Singpass is required. Parents/legal guardians who are
-unable to apply online can approach their child’s/ward’s primary school
-for assistance.</p>
+may log in directly to DSA-Sec-Portal. Only one parent’s Singpass is required.
+Parents/legal guardians who are unable to apply online can approach their
+child’s/ward’s primary school for assistance.</p>
 </li>
 <li>
 <p><strong>Other applicants not studying in MOE mainstream primary schools</strong> will
-need to apply for a Registration Number (RGxxxxxxx) to access the <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
+need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec-Portal.
 Application can be done at MOE's website at: <strong><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></strong>
 </p>
 </li>
@@ -367,7 +366,7 @@ the date of the relevant selection tests.</p>
 <p>An email letter of offer for successful applicants;</p>
 </li>
 <li>
-<p>An email letter to inform that the applicant has been placesd on the school's
+<p>An email letter to inform that the applicant has been placed on the school's
 Wait List; or</p>
 </li>
 <li>
