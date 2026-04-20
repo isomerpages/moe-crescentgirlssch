@@ -2,4 +2,4 @@ collections:
   e-heritage-gallery:
     output: true
     order:
-      - Our Heritage Gallery.md
+      - Our Heritage.md
