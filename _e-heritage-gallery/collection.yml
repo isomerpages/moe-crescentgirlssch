@@ -1,4 +1,5 @@
 collections:
   e-heritage-gallery:
     output: true
-    order: []
+    order:
+      - Our Heritage Gallery.md
