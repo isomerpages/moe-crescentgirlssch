@@ -34,4 +34,7 @@ last a lifetime.</p>
 </p>
 <hr>
 <h4><strong>Photos</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMAG2_FSk_mEUy279I1GlcJZeM6kc984Ee27QjaHCSKUuOQNsbYRuDDZgKm8qGVgFqWdTogtRfmDm2/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
