@@ -4,10 +4,13 @@ permalink: /our-partners/alumni/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Alumni</strong></h3>
+<h3><strong>Crescent Girls’ School Alumnae Association (CGSAA)</strong></h3>
 <p></p>
 <h4><strong>2026</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Partner/Alumni/CGSAA.jpg">
+</div>
 <p></p>
 <p><strong>First row from left to right:</strong>
 </p>
