@@ -2,6 +2,6 @@ collections:
   cg70:
     output: true
     order:
-      - Haiku Wall.md
       - CG70 Logo.md
       - CG70 Gala Dinner.md
+      - Haiku Wall.md
