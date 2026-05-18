@@ -2,5 +2,5 @@ collections:
   e-heritage-gallery:
     output: true
     order:
-      - Our Identity.md
       - Our Heritage.md
+      - Our Identity.md
