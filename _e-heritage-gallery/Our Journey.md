@@ -189,6 +189,75 @@ Communications Technology (ICT) for teaching and learning. Innovations
 in curriculum were introduced, with Secondary 1, 2 and 3 Integrated Curriculum
 rolled out to students to help them see connections across different subjects,
 and with the real world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2010s</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nurturing Talents</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Holistic education continued to define the Crescentian experience, with
+strong emphasis on character development and community service. Crescent
+also gained regional and global recognition for leveraging technology to
+design learning experiences that nurture students’ 21st century competencies.</p>
+<p></p>
+<p>The launch of Music Elective Programme (MEP) in 2010 deepened Crescent’s
+commitment to arts literacy.</p>
+<p></p>
+<p>In 2011, Crescent celebrated its 55th anniversary with the launch of CrADLe
+– Crescent Academy for Digital-age Learning – by then Director-General
+of Education, Miss Ho Peng.</p>
+<p></p>
+<p>In 2015, Crescent initiated the National Cyber Wellness Advocacy Challenge
+(NCAC) with the support of the Inter‑Ministry Cyber Wellness Steering Committee.</p>
+<p></p>
+<p>In 2017, in partnership with Terra SG, Crescent launched the National
+Youth Upcycling Movement (NYUM), a pioneering youth‑led sustainability
+initiative that nurtured advocacy, entrepreneurship and eco‑stewardship.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020 and Beyond</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crescent continues to strengthen her commitment to preparing students
+for a rapidly evolving, technology-driven world with emphasis on 21st century
+competencies, values and well-being.</p>
+<p></p>
+<p>In 2022, National Digital Explorer (NDE) was launched in partnership with
+ICDL Asia to equip students with digital workplace skills.</p>
+<p></p>
+<p>In 2024, Crescent admitted its first batch of students taking mainly G2
+subjects as part of MOE’s Full Subject Based Banding journey.</p>
+<p></p>
+<p>'Roots for Change' was officially launched on 18 October 2024 by alumna
+Ms Tin Pei Ling. 'Roots for Change', a mini forest project in partnership
+with Target15SG, signified the school’s enduring commitment to environmental
+stewardship and sustainability. About 2,000 trees across 68 species were
+planted in the school.</p>
+<p></p>
+<p>On 4 August 2025, Crescent joined the Global AI Nexus of Schools (Gains),
+a new global network of schools supported by the Organisation for Economic
+Cooperation and Developments that study the use of AI in education.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
