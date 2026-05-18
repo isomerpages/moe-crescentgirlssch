@@ -2,6 +2,7 @@ collections:
   e-heritage-gallery:
     output: true
     order:
+      - Our Principals.md
       - Our Heritage.md
       - Our Identity.md
       - Our Journey.md
