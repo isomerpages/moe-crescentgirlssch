@@ -8,14 +8,15 @@ description: ""
 <p>Join us at our Gala Dinner, an evening of connection and celebration to
 honour our shared journey and the people who have shaped Crescent’s legacy.</p>
 <p>Ticketing details at <a href="https://cgsaa.org.sg/cg70/" rel="noopener noreferrer nofollow" target="_blank">https://cgsaa.org.sg/cg70/</a>
-<br><strong>Early bird pricing ends on 30 Apr, so get your tickets now!</strong>
+<br><strong>Early bird pricing ends on 4 July, so get your tickets now!</strong>
 </p>
 <p>Save the date! Dress up, show up, and let’s celebrate #CG70 in style!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gala_Dinner_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CG70/gala_dinner_july_date_updated.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gala_Dinner_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CG70/gala_dinner_july_date_v1_1_updated.jpg">
 </div>
 <p></p>
