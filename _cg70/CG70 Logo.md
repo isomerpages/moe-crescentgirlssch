@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CG70_Logo__Black_text_resize_.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CG70_Logo__Black_text_resize_.png">
 </div>
 <p>Honouring our past, inspiring our future.
 <br>Crescent is 70! Countless stories. One community.</p>
