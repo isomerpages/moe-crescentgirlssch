@@ -37,9 +37,11 @@ into instructional &amp; non- instructional programmes.</p>
 </ul>
 <p></p>
 <p>OES Programme Components:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/One_Earth_Symposium_Track_A___B.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cradle/NSM/nsm__OES_programme_outline_2026.png">
 </div>
+<p></p>
 <p></p>
 <p>OES is championed and managed by Terra SG and supported by social enterprises,
 Circular Asia and The Carbon Academy. The venue partner for OES is Tzu
