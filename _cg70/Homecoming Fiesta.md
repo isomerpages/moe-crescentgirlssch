@@ -14,7 +14,7 @@ description: ""
 food, or just your favorite teachers, this is your sign to gather the squad
 and come home!</p>
 <p>Food, games, and endless catch-ups await. Don’t miss out!</p>
-<p>Saturday, 4 July 2026 | 8.30am - 12.30pm</p>
-<p>357 Tanglin Road, Crescent Girls’ School</p>
+<p>Saturday, 4 July 2026 | 8.30am - 12.30pm
+<br>357 Tanglin Road, Crescent Girls’ School</p>
 <p>Open to all! No registration required.</p>
 <p>See you there!</p>
