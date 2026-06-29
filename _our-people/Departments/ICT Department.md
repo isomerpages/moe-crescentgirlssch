@@ -31,7 +31,7 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Caroline Chan</p>
+<p>Ms Nat Yuen Mei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -39,7 +39,7 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nat Yuen Mei Fang</p>
+<p>Ms Azilah Bte Abd Wahid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
