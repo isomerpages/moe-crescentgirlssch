@@ -2,6 +2,7 @@ collections:
   cg70:
     output: true
     order:
+      - Homecoming Fiesta.md
       - CG70 Logo.md
       - CG70 Gala Dinner.md
       - Haiku Wall.md
