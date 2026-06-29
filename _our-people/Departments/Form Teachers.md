@@ -55,11 +55,11 @@ third_nav_title: Departments
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT1</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT2</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 </tr>
@@ -72,6 +72,8 @@ third_nav_title: Departments
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rilaini Sapari</p>
+<p></p>
+<p>Ms Eunice Koh</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +139,7 @@ third_nav_title: Departments
 <p>Mdm Norzaidah Bte Suparman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Yang (Co-PC)</p>
+<p>Mr Om Perasath</p>
 </td>
 </tr>
 </tbody>
@@ -178,11 +180,11 @@ third_nav_title: Departments
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT1</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT2</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 </tr>
@@ -301,11 +303,11 @@ third_nav_title: Departments
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT1</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT2</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 </tr>
@@ -317,7 +319,7 @@ third_nav_title: Departments
 <p>Ms Azilah Binte Abd Wahid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vivienne He (Co-PC)</p>
+<p>Mr Ian Tai</p>
 </td>
 </tr>
 <tr>
@@ -351,6 +353,8 @@ third_nav_title: Departments
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Liyana bte Abdul Rahman</p>
+<p></p>
+<p>Ms Vivienne He (Co-PC)</p>
 </td>
 </tr>
 <tr>
@@ -439,11 +443,11 @@ third_nav_title: Departments
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT1</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FT2</strong>
+<p><strong>FT</strong>
 </p>
 </td>
 </tr>
@@ -489,6 +493,8 @@ third_nav_title: Departments
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Chui Pheng</p>
+<p></p>
+<p>Ms Hope Sng</p>
 </td>
 </tr>
 <tr>
